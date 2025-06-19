@@ -1,26 +1,29 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "yellow";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "cyclone"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "flood", "stormsurge", "drivingconditions"
 
 const messages = [
-    `✅ **Aucune alerte ou vigilance en cours**  
-    Les conditions météorologiques sont calmes pour le moment.  
+    `✅ **Aucune vigilance ou alerte en cours**  
+    Les conditions météorologiques sont calmes pour les 3 jours.  
     Restez informé en cas d’évolution de la situation.`,
 
     ` **Prévisions – Jour 1 (Aujourd’hui)**  
-    Quelques pluies légères le matin, éclaircies l’après-midi.  
-    Vents : Modérés de sud-est.  
-    Températures : 24–29°C.`,
+    Temps ensoleillé toute la journée.
+    Vents : Vents légers de secteur ESE
+    Températures minimales : entre 17 et 21 °C
+    Températures maximales : entre 30 et 32 °C.`,
 
     ` **Prévisions – Jour 2 (Demain)**  
-    Partiellement nuageux, averses isolées en soirée.  
-    Vents : Légers et variables.  
-    Températures : 25–30°C.`,
+    Temps ensoleillé toute la journée.
+    Vents : Vents légers de secteur ESE
+    Températures minimales : entre 17 et 22 °C
+    Températures maximales : entre 30 et 33 °C.`,
 
     ` **Prévisions – Jour 3 (Après-demain)**  
-    Ciel couvert avec risque d’orages en après-midi.  
-    Vents : Rafales possibles près des orages.  
-    Températures : 23–28°C.`
+    Temps ensoleillé le matin, peu nuageux dans quelques endroits l'après-midi.
+    Vents : Vents légers de secteur ESE
+    Températures minimales : entre 17 et 22 °C
+    Températures maximales : entre 30 et 33 °C.`
 ];
 
 const imageSets = [
@@ -96,7 +99,7 @@ async function displayMessages() {
         await scrollMessage(message);
         await new Promise(resolve => setTimeout(resolve, 1000));
         updateImages();
-        await new Promise(resolve => setTimeout(resolve, 4000));
+        await new Promise(resolve => setTimeout(resolve, 6000));
         currentMessageIndex = (currentMessageIndex + 1) % messages.length;
         await new Promise(resolve => setTimeout(resolve, 1000));
     }
