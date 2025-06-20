@@ -8,7 +8,7 @@ const messages = [
     Restez informé en cas d’évolution de la situation.`,
 
     ` **Prévisions – Jour 1 (Aujourd’hui)**  
-    Temps ensoleillé toute le matin et peu nuageux l'après-midi et le soir.
+    Temps ensoleillé toute la matinée et peu nuageux l'après-midi et le soir.
     Vents : Vents légers à modéré de secteur E
     Températures minimales : entre 17 et 19 °C
     Températures maximales : avoisinant les 32 °C.`,
