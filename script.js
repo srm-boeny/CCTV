@@ -3,27 +3,27 @@ const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow"
 const typeCatastrophe = "cyclone"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "flood", "stormsurge", "drivingconditions"
 
 const messages = [
-    `✅ **Aucune vigilance ou alerte en cours**  
+    `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
     Les conditions météorologiques sont calmes pour les 3 jours.  
     Restez informé en cas d’évolution de la situation.`,
 
     ` **Prévisions – Jour 1 (Aujourd’hui)**  
-    Temps ensoleillé toute la journée.
-    Vents : Vents légers de secteur ESE
-    Températures minimales : entre 17 et 21 °C
-    Températures maximales : entre 30 et 32 °C.`,
+    Temps ensoleillé toute le matin et peu nuageux l'après-midi et le soir.
+    Vents : Vents légers à modéré de secteur E
+    Températures minimales : entre 17 et 19 °C
+    Températures maximales : avoisinant les 32 °C.`,
 
     ` **Prévisions – Jour 2 (Demain)**  
-    Temps ensoleillé toute la journée.
-    Vents : Vents légers de secteur ESE
-    Températures minimales : entre 17 et 22 °C
-    Températures maximales : entre 30 et 33 °C.`,
+    Temps partiellement nuageux toute la journée.
+    Vents : Vents légers de secteur E
+    Températures minimales : entre 17 et 19 °C
+    Températures maximales : entre 31 et 33 °C.`,
 
     ` **Prévisions – Jour 3 (Après-demain)**  
     Temps ensoleillé le matin, peu nuageux dans quelques endroits l'après-midi.
     Vents : Vents légers de secteur ESE
-    Températures minimales : entre 17 et 22 °C
-    Températures maximales : entre 30 et 33 °C.`
+    Températures minimales : entre 18 et 20 °C
+    Températures maximales : entre 32 et 34 °C.`
 ];
 
 const imageSets = [
