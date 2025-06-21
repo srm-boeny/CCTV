@@ -27,7 +27,7 @@ const messages = [
 ];
 
 const imageSets = [
-    ['vigilance-vide.jpg', 'vigilance-vide.jpg'],
+    ['vigilance-vide.jpg'],
     ['day1.png'],
     ['day2.png'],
     ['day3.png']
