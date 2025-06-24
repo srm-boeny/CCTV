@@ -8,20 +8,20 @@ const messages = [
     Restez informé en cas d’évolution de la situation.`,
 
     ` **Prévisions – Jour 1 (Aujourd’hui)**  
-    Temps ensoleillé toute la matinée et peu nuageux l'après-midi et le soir.
+    Temps ensoleillé toute la matinée et peu nuageux l'après-midi et le soir à l'Ouest de la Région.
     Vents : Vents légers à modéré de secteur E
     Températures minimales : avoisinant les 19 °C
     Températures maximales : avoisinant les 33 °C.`,
 
     ` **Prévisions – Jour 2 (Demain)**  
-    Temps ensoleillé le matin, devenant partiellement nuageux l'après-midi et le soir à l'Ouest de la région.
-    Vents : Vents légers du secteur E
+    Temps ensoleillé le matin, devenant partiellement nuageux l'après-midi et le soir.
+    Vents : Vents modéré du secteur ESE
     Températures minimales : entre 18 et 20 °C
     Températures maximales : entre 30 et 33 °C.`,
 
     ` **Prévisions – Jour 3 (Après-demain)**  
     Temps ensoleillé le matin, nuageux l'après-midi et le soir.
-    Vents : Vents légers à modéré de secteur E
+    Vents : Vents modéré de secteur E
     Températures minimales : entre 19 et 20 °C
     Températures maximales : entre 32 et 33 °C.`
 ];
