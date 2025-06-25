@@ -2,30 +2,39 @@
 const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "cyclone"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "flood", "stormsurge", "drivingconditions"
 
-const messages = [
+const rawMessages = [
     `**Prévisions journalières pour la Région BOENY, établi le 25/06/2025 à 06:00 AM**
-	✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
+	
+	
+    ✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
     Les conditions météorologiques sont calmes pour les 3 jours.  
     Restez informé en cas d’évolution de la situation.`,
 
-    ` **Prévisions – Jour 1 (Aujourd’hui)**  
+    `**Prévisions – Jour 1 (Aujourd’hui)**  
     Temps ensoleillé toute la matinée et peu nuageux l'après-midi et le soir.
-    Vents : Vents modéré à fort de secteur ESE
-    Températures minimales : entre 20 et 21 °C
-    Températures maximales : entre 30 et 33 °C.`,
+    **Vents** : Vents modéré à fort de secteur ESE
+    **Températures minimales** : entre 20 et 21 °C
+    **Températures maximales** : entre 30 et 33 °C.`,
 
-    ` **Prévisions – Jour 2 (Demain)**  
+    `**Prévisions – Jour 2 (Demain)**  
     Temps ensoleillé le matin, devenant partiellement nuageux l'après-midi et le soir.
-    Vents : Vents modéré du secteur ESE
-    Températures minimales : entre 19 et 20 °C
-    Températures maximales : entre 30 et 33 °C.`,
+    **Vents** : Vents modéré du secteur ESE
+    **Températures minimales** : entre 19 et 20 °C
+    **Températures maximales** : entre 30 et 33 °C.`,
 
-    ` **Prévisions – Jour 3 (Après-demain)**  
+    `**Prévisions – Jour 3 (Après-demain)**  
     Temps ensoleillé le matin, partielement nuageux l'après-midi et le soir dans les parties Est de la Région.
-    Vents : Vents modéré de secteur ESE
-    Températures minimales : entre 20 et 22 °C
-    Températures maximales : entre 32 et 33 °C.`
+    **Vents** : Vents modéré de secteur ESE
+    **Températures minimales** : entre 20 et 22 °C
+    **Températures maximales** : entre 32 et 33 °C.`
 ];
+
+// Fonction pour mettre en gras HTML et majuscule le texte entre ** ** 
+function formatBoldAndUpper(text) {
+    return text.replace(/\*\*(.*?)\*\*/g, (_, match) => `<strong>${match.toUpperCase()}</strong>`);
+}
+
+const messages = rawMessages.map(formatBoldAndUpper);
 
 const imageSets = [
     ['vigilance-vide.jpg'],
@@ -82,7 +91,7 @@ function updateImages() {
 // --- TEXT SCROLLING ---
 function scrollMessage(message) {
     return new Promise(resolve => {
-        messageElement.textContent = message;
+        messageElement.innerHTML = message;
         messageElement.style.transition = 'none';
         messageElement.style.bottom = '-100%';
         messageElement.offsetHeight;
