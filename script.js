@@ -3,7 +3,7 @@ const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow"
 const typeCatastrophe = "cyclone"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "flood", "stormsurge", "drivingconditions"
 
 const rawMessages = [
-    `**Prévisions journalières pour la Région BOENY, établi le 28/06/2025 à 07:00 AM**
+    `**Prévisions journalières pour la Région BOENY, établi le 29/06/2025 à 07:00 AM**
 	
 	
     ✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
@@ -11,19 +11,19 @@ const rawMessages = [
     Restez informé en cas d’évolution de la situation.`,
 
     `**Prévisions – Jour 1 (Aujourd’hui)**  
-    Brouillard au petit-matin dans quelques endroits, Temps ensoleillé le matin, devenant nuageux l'après-midi et surtout le soir, risque de pluie fine le soir.
-    **Vents** : Vents modéré à fort de secteur ESE
-    **Températures minimales** : entre 19 et 21 °C
-    **Températures maximales** : avoisinant les 33 °C.`,
-
-    `**Prévisions – Jour 2 (Demain)**  
     Temps peu nuageux le matin, devenant ensoleillé l'après-midi et peu nuageux dans quelques endroits le soir.
     **Vents** : Vents modéré à fort du secteur SE
     **Températures minimales** : entre 20 et 22 °C
     **Températures maximales** : entre 33 et 34 °C.`,
 
-    `**Prévisions – Jour 3 (Après-demain)**  
+    `**Prévisions – Jour 2 (Demain)**  
     Temps ensoleillé toute la journée.
+    **Vents** : Vents modéré de secteur ESE
+    **Températures minimales** : entre 19 et 21 °C
+    **Températures maximales** : entre 32 et 33 °C.`
+
+    `**Prévisions – Jour 3 (Après-demain)**  
+    Temps nuageux le matin, peu nuageux l'après-midi et le soir.
     **Vents** : Vents modéré de secteur ESE
     **Températures minimales** : entre 19 et 21 °C
     **Températures maximales** : entre 32 et 33 °C.`
