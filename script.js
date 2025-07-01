@@ -3,7 +3,7 @@ const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow"
 const typeCatastrophe = "cyclone"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "flood", "stormsurge", "drivingconditions"
 
 const rawMessages = [
-    `**Prévisions journalières pour la Région BOENY, établi le 29/06/2025 à 07:00 AM**
+    `**Prévisions journalières pour la Région BOENY, établi le 01/07/2025 à 07:00 AM**
 	
 	
     ✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
@@ -11,22 +11,22 @@ const rawMessages = [
     Restez informé en cas d’évolution de la situation.`,
 
     `**Prévisions – Jour 1 (Aujourd’hui)**  
-    Temps peu nuageux le matin, devenant ensoleillé l'après-midi et peu nuageux dans quelques endroits le soir.
-    **Vents** : Vents modéré à fort du secteur SE
+    Temps peu nuageux le matin, devenant ensoleillé l'après-midi et peu nuageux à l'Est de la région le soir.
+    **Vents** : Vents modéré à fort du secteur ESE
     **Températures minimales** : entre 20 et 22 °C
-    **Températures maximales** : entre 33 et 34 °C.`,
+    **Températures maximales** : entre 31 et 33 °C.`,
 
     `**Prévisions – Jour 2 (Demain)**  
-    Temps ensoleillé toute la journée.
-    **Vents** : Vents modéré de secteur ESE
-    **Températures minimales** : entre 19 et 21 °C
-    **Températures maximales** : entre 32 et 33 °C.`
+    Temps ensoleillé toute la journée dans presque la région sauf à l'Est qui sera peu nuageux l'après-midi.
+    **Vents** : Vents modéré à fort de secteur ESE
+    **Températures minimales** : entre 18 et 20 °C
+    **Températures maximales** : entre 30 et 32 °C.`
 
     `**Prévisions – Jour 3 (Après-demain)**  
-    Temps nuageux le matin, peu nuageux l'après-midi et le soir.
-    **Vents** : Vents modéré de secteur ESE
-    **Températures minimales** : entre 19 et 21 °C
-    **Températures maximales** : entre 32 et 33 °C.`
+    Temps ensoleillé toute la journée.
+    **Vents** : Vents modéré à fort de secteur ESE
+    **Températures minimales** : entre 17 et 19 °C
+    **Températures maximales** : entre 30 et 31 °C.`
 ];
 
 // Fonction pour mettre en gras HTML et majuscule le texte entre ** ** 
