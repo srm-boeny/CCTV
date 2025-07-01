@@ -20,7 +20,7 @@ const rawMessages = [
     Temps ensoleillé toute la journée dans presque la région sauf à l'Est qui sera peu nuageux l'après-midi.
     **Vents** : Vents modéré à fort de secteur ESE
     **Températures minimales** : entre 18 et 20 °C
-    **Températures maximales** : entre 30 et 32 °C.`
+    **Températures maximales** : entre 30 et 32 °C.`,
 
     `**Prévisions – Jour 3 (Après-demain)**  
     Temps ensoleillé toute la journée.
