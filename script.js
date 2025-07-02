@@ -1,18 +1,36 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
-const typeCatastrophe = "cyclone"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
+const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
+const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
     {
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide.jpg'
+        image: 'vigilance-vide1.jpg'
     },
     {
-        message: `**Vigilance vent fort**  
-Rafales de vent pouvant atteindre 70 km/h dans le nord de la région.`,
-        image: 'vigilance_vent1.png'
+        message: `**fampitandremana momba ny hamafin'ny rivotra** 
+
+        **Novokarina ny : Alarobia 02 Jolay 2025 tamin’ny 16 ora 34 min** 
+
+       ** Tranga ahiana sy toerana hisehoany:**
+Tombanana hahatratra 55 Km/ora ny hamafin’ny rivotra eo anelanelan’i Vohémar sy ny tanjona Bobaomby 
+ary ny eo anelanelan’i Mahajanga sy Analalava noho ny hamafin’ny varatraza.
+
+**Fotoana hisehoany:**  
+Manomboka anio 02 Jolay 2025.
+
+**Ireo toerana voakasika:**
+Eo anelanelan’i Vohémar sy ny tanjona Bobaomby ary ny eo anelanelan’i Mahajanga sy Analalava.
+
+**Ny mety ho fiantraikany:**
+✓ Fahasarotan’ny fifamoivoizana sy faharendrehana an-dranomasina;
+✓ Fikorontanan’ny asa aman-draharaha andavan’andro.
+
+
+⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
+        image: 'vigilance_vent.png'
     },
     {
         message: `**Vigilance vent fort**  
@@ -230,7 +248,7 @@ async function displayMessages() {
         for (const entry of validEntries) {
             hideImages();
             await scrollMessage(entry.message);
-            await new Promise(resolve => setTimeout(resolve, 900));
+            await new Promise(resolve => setTimeout(resolve, 1100));
 
             imageContainer.innerHTML = '';
             const img = document.createElement('img');
@@ -241,7 +259,7 @@ async function displayMessages() {
                 imageContainer.style.opacity = 1;
             }, 500);
 
-            await new Promise(resolve => setTimeout(resolve, 5000));
+            await new Promise(resolve => setTimeout(resolve, 7000));
         }
     }
 }
