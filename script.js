@@ -1,55 +1,275 @@
 // --- CONFIGURABLE PARAMETERS ---
 const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
-const typeCatastrophe = "cyclone"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "flood", "stormsurge", "drivingconditions"
+const typeCatastrophe = "cyclone"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
-const rawMessages = [
-    `**Prévisions journalières pour la Région BOENY, établi le 01/07/2025 à 07:00 AM**
-	
-	
-    ✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
-    Les conditions météorologiques sont calmes pour les 3 jours.  
-    Restez informé en cas d’évolution de la situation.`,
-
-    `**Prévisions – Jour 1 (Aujourd’hui)**  
-    Temps peu nuageux le matin, devenant ensoleillé l'après-midi et peu nuageux à l'Est de la région le soir.
-    **Vents** : Vents modéré à fort du secteur ESE
-    **Températures minimales** : entre 20 et 22 °C
-    **Températures maximales** : entre 31 et 33 °C.`,
-
-    `**Prévisions – Jour 2 (Demain)**  
-    Temps ensoleillé toute la journée dans presque la région sauf à l'Est qui sera peu nuageux l'après-midi.
-    **Vents** : Vents modéré à fort de secteur ESE
-    **Températures minimales** : entre 18 et 20 °C
-    **Températures maximales** : entre 30 et 32 °C.`,
-
-    `**Prévisions – Jour 3 (Après-demain)**  
-    Temps ensoleillé toute la journée.
-    **Vents** : Vents modéré à fort de secteur ESE
-    **Températures minimales** : entre 17 et 19 °C
-    **Températures maximales** : entre 30 et 31 °C.`
+const vigilanceMessages = [
+    {
+        message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
+Les conditions météorologiques sont calmes pour les prochains jours.  
+Restez informé en cas d’évolution de la situation.`,
+        image: 'vigilance-vide.jpg'
+    },
+    {
+        message: `**Vigilance vent fort**  
+Rafales de vent pouvant atteindre 70 km/h dans le nord de la région.`,
+        image: 'vigilance_vent1.png'
+    },
+    {
+        message: `**Vigilance vent fort**  
+Rafales de vent pouvant atteindre 70 km/h dans le nord de la région.`,
+        image: 'vigilance_houle.png'
+    },
+    {
+        message: `**Vigilance vent fort**  
+Rafales de vent pouvant atteindre 70 km/h dans le nord de la région.`,
+        image: 'vigilance_rain.png'
+    },
 ];
 
-// Fonction pour mettre en gras HTML et majuscule le texte entre ** ** 
+const MarineMessages = [
+    {
+        message: `**Bulletin marine cotière**
+        BULLETIN DE PRÉVISION MARINE CÔTIÈRE JUSQU’À 50 MILLES NAUTIQUES AU LARGE 
+        ÉTABLI PAR MÉTÉO MADAGASCAR LE 02/07/2025 A 10 TU, VALABLE LE 02/07/2025 A 10 TU JUSQU’AU 03/07/2025 A 10 TU. 
+        LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN PRÉVU EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES.  
+
+CAP ST ANDRÉ A ANALALAVA
+VENT : Sud-Est 15/20 localement 25/30 entre Mahajanga et Analalava.
+ÉTAT DE LA MER : Peu agitée à agitée. Hauteur des vagues 0.5/1.5m atteignant 2m au Nord de Mahajanga.
+TEMPS : Généralement sec.`,
+        image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
+    },
+
+    {
+        message: `**BULLETIN MARINE HAUTE MER**
+
+        BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER 
+        (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) 
+        ÉTABLI PAR MÉTÉO MADAGASCAR LE 02/07/2025 A 10 TU, 
+        VALABLE LE 02/07/2025 A 10 TU JUSQU’AU 03/07/2025 A 10 TU. 
+        LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) N MÈTRES.
+
+10S/20S :
+VENT : SUD A SUD-EST 10/20, ATTEIGNANT 25/30 ENTRE MAHAJANGA ET ANALALAVA.
+ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
+TEMPS : FAIBLES AVERSES ISOLÉES AU NORD DE 16S, PARTIELLEMENT NUAGEUX AILLEURS.
+        `,
+        image: 'Image_marine_haute_mer_SITEWEB.png'
+    }
+
+];
+
+
+    const templates = [
+        `Temps ensoleillé le matin, devenant peu nuageux l'après-midi dans la région.  
+**Vents** : Vents modéré à fort du secteur ESE  
+**Températures minimales** : entre 20 et 21 °C  
+**Températures maximales** : entre 32 et 34 °C.`,
+
+        `Temps ensoleillé le matin, peu nuageux à l'Est de la région, Nuageux l'après-midi.  
+**Vents** : Vents modéré à fort de secteur ESE  
+**Températures minimales** : entre 20 et 21 °C  
+**Températures maximales** : entre 33 et 34 °C.`,
+
+        `Temps ensoleillé toute la journée sauf à l'Est de la région qui sera peu nuageux.  
+**Vents** : Vents modéré à fort de secteur ESE  
+**Températures minimales** : entre 20 et 21 °C  
+**Températures maximales** : entre 33 et 34 °C.`
+
+    ];
+
+
+
+// --- FORMATTER: Bold and Upper ---
 function formatBoldAndUpper(text) {
     return text.replace(/\*\*(.*?)\*\*/g, (_, match) => `<strong>${match.toUpperCase()}</strong>`);
 }
 
-const messages = rawMessages.map(formatBoldAndUpper);
+// --- DATE FORMATTER IN FRENCH (for message titles) ---
+function formatFrenchDate(date) {
+    return date.toLocaleDateString('fr-FR', {
+        weekday: 'long',
+        day: '2-digit',
+        month: 'long',
+        year: 'numeric',
+        timeZone: 'Indian/Antananarivo'
+    });
+}
 
-const imageSets = [
-    ['vigilance-vide.jpg'],
-    ['day1.png'],
-    ['day2.png'],
-    ['day3.png']
-];
+// --- CHECK IF IMAGE EXISTS ---
+function checkImageExists(src) {
+    return new Promise((resolve) => {
+        const img = new Image();
+        img.src = src;
+        img.onload = () => resolve(true);
+        img.onerror = () => resolve(false);
+    });
+}
 
-// --- UI SETUP ---
+// --- MAIN FUNCTION TO GENERATE VALID ENTRIES ---
+async function prepareValidEntries() {
+    const entries = [];
+
+
+    // 1. --- FORECAST BULLETIN HEADER ---
+    const bulletinImage = 'Fond_rq.png';
+    const bulletinExists = await checkImageExists(bulletinImage);
+    if (bulletinExists) {
+        const today = new Date();
+        const bulletinDate = formatFrenchDate(today);
+        const bulletinMsg = `**Prévisions journalières pour la Région BOENY**  
+        `;
+        entries.push({
+            message: formatBoldAndUpper(bulletinMsg),
+            image: bulletinImage
+        });
+    }
+
+    // 2. --- MULTIPLE VIGILANCE MESSAGES ---
+    for (const vig of vigilanceMessages) {
+        const exists = await checkImageExists(vig.image);
+        if (exists) {
+            entries.push({
+                message: formatBoldAndUpper(vig.message),
+                image: vig.image
+            });
+        }
+    }
+
+    //3 Ho an'ny marine
+    for (const mer of MarineMessages) {
+        const exists = await checkImageExists(mer.image);
+        if (exists) {
+            entries.push({
+                message: formatBoldAndUpper(mer.message),
+                image: mer.image
+            });
+        }
+    }
+
+    // 3. --- DAILY FORECASTS (based on available images) ---
+
+    const dates = [];
+    const filenames = [];
+    for (let i = 0; i < 3; i++) {
+        const date = new Date();
+        date.setDate(date.getDate() + i);
+        dates.push(new Date(date));
+        const yyyy = date.getFullYear();
+        const mm = String(date.getMonth() + 1).padStart(2, '0');
+        const dd = String(date.getDate()).padStart(2, '0');
+        filenames.push(`weather_map_${yyyy}-${mm}-${dd}.png`);
+    }
+
+    const existing = [];
+    for (let i = 0; i < 3; i++) {
+        const exists = await checkImageExists(filenames[i]);
+        if (exists) {
+            existing.push({ date: dates[i], image: filenames[i], index: i });
+        }
+    }
+
+    if (existing.length === 3 &&
+        existing[0].index === 0 &&
+        existing[1].index === 1 &&
+        existing[2].index === 2) {
+        for (let i = 0; i < 3; i++) {
+            entries.push({
+                message: formatBoldAndUpper(`**Prévisions pour le ${formatFrenchDate(existing[i].date)}**\n${templates[i]}`),
+                image: existing[i].image
+            });
+        }
+    } else if (existing.length === 2 &&
+               existing[0].index === 0 &&
+               existing[1].index === 1) {
+        for (let i = 0; i < 2; i++) {
+            entries.push({
+                message: formatBoldAndUpper(`**Prévisions pour le ${formatFrenchDate(existing[i].date)}**\n${templates[i + 1]}`),
+                image: existing[i].image
+            });
+        }
+    } else if (existing.length === 1 && existing[0].index === 0) {
+        entries.push({
+            message: formatBoldAndUpper(`**Prévisions pour le ${formatFrenchDate(existing[0].date)}**\n${templates[2]}`),
+            image: existing[0].image
+        });
+    }
+
+    return entries;
+}
+
+
+// --- UI ELEMENTS ---
 const messageElement = document.getElementById('message');
 const imageContainer = document.getElementById('image-container');
 const logoContainer = document.getElementById("logo-container");
-let currentMessageIndex = 0;
 
-// --- TIME UPDATE ---
+// --- HIDE IMAGES ---
+function hideImages() {
+    imageContainer.style.opacity = 0;
+}
+
+// --- SCROLL TEXT ---
+function scrollMessage(message) {
+    return new Promise(resolve => {
+        messageElement.innerHTML = message;
+        messageElement.style.transition = 'none';
+        messageElement.style.bottom = '-100%';
+        messageElement.offsetHeight;
+        messageElement.style.transition = 'bottom 20s linear';
+        messageElement.style.bottom = '100%';
+        messageElement.addEventListener('transitionend', () => resolve(), { once: true });
+    });
+}
+
+// --- MAIN DISPLAY LOOP ---
+async function displayMessages() {
+    const validEntries = await prepareValidEntries();
+
+    while (true) {
+        for (const entry of validEntries) {
+            hideImages();
+            await scrollMessage(entry.message);
+            await new Promise(resolve => setTimeout(resolve, 900));
+
+            imageContainer.innerHTML = '';
+            const img = document.createElement('img');
+            img.src = entry.image;
+            img.classList.add('alert-image');
+            imageContainer.appendChild(img);
+            setTimeout(() => {
+                imageContainer.style.opacity = 1;
+            }, 500);
+
+            await new Promise(resolve => setTimeout(resolve, 5000));
+        }
+    }
+}
+
+// --- ALERT ICON LOGIC ---
+const ancienneIcone = document.getElementById("alert-icon");
+if (ancienneIcone) ancienneIcone.remove();
+
+if (niveauAlerte !== "none") {
+    const icone = document.createElement("img");
+    icone.id = "alert-icon";
+    icone.classList.add("alert-icon");
+
+    const niveauCouleur = niveauAlerte.toLowerCase();
+    const type = typeCatastrophe.toLowerCase();
+
+    icone.src = `img/icon-warning-${type}-${niveauCouleur}.png`;
+
+    if (niveauCouleur === "red") {
+        icone.style.animation = "blink 1s infinite";
+    } else if (niveauCouleur === "yellow") {
+        icone.style.animation = "blink 1.5s infinite";
+    }
+
+    logoContainer.prepend(icone);
+}
+
+// --- DATE/TIME UPDATE ---
 function updateDateTime() {
     const dateTimeElement = document.getElementById('date-time');
     const now = new Date();
@@ -67,76 +287,6 @@ function updateDateTime() {
         timeZone: 'Indian/Antananarivo'
     });
     dateTimeElement.textContent = `${formattedDate} | ${formattedTime}`;
-}
-
-// --- IMAGES ---
-function hideImages() {
-    imageContainer.style.opacity = 0;
-}
-
-function updateImages() {
-    imageContainer.innerHTML = '';
-    const images = imageSets[currentMessageIndex];
-    images.forEach(src => {
-        const img = document.createElement('img');
-        img.src = src;
-        img.classList.add('alert-image');
-        imageContainer.appendChild(img);
-    });
-    setTimeout(() => {
-        imageContainer.style.opacity = 1;
-    }, 500);
-}
-
-// --- TEXT SCROLLING ---
-function scrollMessage(message) {
-    return new Promise(resolve => {
-        messageElement.innerHTML = message;
-        messageElement.style.transition = 'none';
-        messageElement.style.bottom = '-100%';
-        messageElement.offsetHeight;
-        messageElement.style.transition = 'bottom 15s linear';
-        messageElement.style.bottom = '100%';
-        messageElement.addEventListener('transitionend', () => resolve(), { once: true });
-    });
-}
-
-// --- DISPLAY LOOP ---
-async function displayMessages() {
-    while (true) {
-        hideImages();
-        const message = messages[currentMessageIndex];
-        await scrollMessage(message);
-        await new Promise(resolve => setTimeout(resolve, 1000));
-        updateImages();
-        await new Promise(resolve => setTimeout(resolve, 6000));
-        currentMessageIndex = (currentMessageIndex + 1) % messages.length;
-        await new Promise(resolve => setTimeout(resolve, 1000));
-    }
-}
-
-// --- ALERT ICON ---
-const ancienneIcone = document.getElementById("alert-icon");
-if (ancienneIcone) ancienneIcone.remove();
-
-if (niveauAlerte !== "none") {
-    const icone = document.createElement("img");
-    icone.id = "alert-icon";
-    icone.classList.add("alert-icon");
-
-    const niveauCouleur = niveauAlerte.toLowerCase();
-    const type = typeCatastrophe.toLowerCase();
-
-    icone.src = `img/icon-warning-${type}-${niveauCouleur}.png`;
-
-    // Animation only for alert levels "yellow" and "red"
-    if (niveauCouleur === "red") {
-        icone.style.animation = "blink 1s infinite";
-    } else if (niveauCouleur === "yellow") {
-        icone.style.animation = "blink 1.5s infinite";
-    }
-
-    logoContainer.prepend(icone);
 }
 
 // --- INIT ---
