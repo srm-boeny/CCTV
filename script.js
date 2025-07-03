@@ -12,17 +12,22 @@ Restez informé en cas d’évolution de la situation.`,
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny : Alarobia 02 Jolay 2025 tamin’ny 16 ora 34 min** 
+        **Novokarina ny Alakamisy 3 Jolay 2025 Tamin’ny 10 ora 11 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Tombanana hahatratra 55 Km/ora ny hamafin’ny rivotra eo anelanelan’i Vohémar sy ny tanjona Bobaomby 
-ary ny eo anelanelan’i Mahajanga sy Analalava noho ny hamafin’ny varatraza.
+Tombanana hahatratra 55 Km/ora hatrany ny hamafin’ny rivotra eo anelanelan’i
+Vohémar sy ny tanjona Bobaomby ary ny eo anelanelan’i Mahajanga sy Analalava noho
+ny hamafin’ny varatraza. 
 
 **Fotoana hisehoany:**  
-Manomboka anio 02 Jolay 2025.
+Anio 03 Jolay 2025. 
 
 **Ireo toerana voakasika:**
-Eo anelanelan’i Vohémar sy ny tanjona Bobaomby ary ny eo anelanelan’i Mahajanga sy Analalava.
+**Fanairana miloko MENA :** 
+Eo anelanelan’i Vohémar sy ny tanjona
+Bobaomby ary ny eo anelanelan’i
+Mahajanga sy Analalava.
+
 
 **Ny mety ho fiantraikany:**
 ✓ Fahasarotan’ny fifamoivoizana sy faharendrehana an-dranomasina;
