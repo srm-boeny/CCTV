@@ -235,7 +235,7 @@ function scrollMessage(message) {
         messageElement.style.transition = 'none';
         messageElement.style.bottom = '-100%';
         messageElement.offsetHeight;
-        messageElement.style.transition = 'bottom 20s linear';
+        messageElement.style.transition = 'bottom 25s linear';
         messageElement.style.bottom = '100%';
         messageElement.addEventListener('transitionend', () => resolve(), { once: true });
     });
@@ -249,7 +249,7 @@ async function displayMessages() {
         for (const entry of validEntries) {
             hideImages();
             await scrollMessage(entry.message);
-            await new Promise(resolve => setTimeout(resolve, 1500));
+            await new Promise(resolve => setTimeout(resolve, 1800));
 
             imageContainer.innerHTML = '';
             const img = document.createElement('img');
@@ -258,7 +258,7 @@ async function displayMessages() {
             imageContainer.appendChild(img);
             setTimeout(() => {
                 imageContainer.style.opacity = 1;
-            }, 700);
+            }, 900);
 
             await new Promise(resolve => setTimeout(resolve, 9000));
         }
