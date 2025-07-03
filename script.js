@@ -48,13 +48,14 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
         BULLETIN DE PRÉVISION MARINE CÔTIÈRE JUSQU’À 50 MILLES NAUTIQUES AU LARGE 
-        ÉTABLI PAR MÉTÉO MADAGASCAR LE 02/07/2025 A 10 TU, VALABLE LE 02/07/2025 A 10 TU JUSQU’AU 03/07/2025 A 10 TU. 
+        ÉTABLI PAR MÉTÉO MADAGASCAR LE 02/07/2025 A 10 TU, 
+        VALABLE LE 02/07/2025 A 10 TU JUSQU’AU 03/07/2025 A 10 TU. 
         LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN PRÉVU EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES.  
 
-CAP ST ANDRÉ A ANALALAVA
-VENT : Sud-Est 15/20 localement 25/30 entre Mahajanga et Analalava.
-ÉTAT DE LA MER : Peu agitée à agitée. Hauteur des vagues 0.5/1.5m atteignant 2m au Nord de Mahajanga.
-TEMPS : Généralement sec.`,
+**CAP ST ANDRÉ A ANALALAVA**
+**VENT** : Sud-Est 15/20 localement 25/30 entre Mahajanga et Analalava.
+**ÉTAT DE LA MER** : Peu agitée à agitée. Hauteur des vagues 0.5/1.5m atteignant 2m au Nord de Mahajanga.
+**TEMPS** : Généralement sec.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
 
@@ -67,10 +68,10 @@ TEMPS : Généralement sec.`,
         VALABLE LE 02/07/2025 A 10 TU JUSQU’AU 03/07/2025 A 10 TU. 
         LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) N MÈTRES.
 
-10S/20S :
-VENT : SUD A SUD-EST 10/20, ATTEIGNANT 25/30 ENTRE MAHAJANGA ET ANALALAVA.
-ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
-TEMPS : FAIBLES AVERSES ISOLÉES AU NORD DE 16S, PARTIELLEMENT NUAGEUX AILLEURS.
+**10S/20S **:
+**VENT **: SUD A SUD-EST 10/20, ATTEIGNANT 25/30 ENTRE MAHAJANGA ET ANALALAVA.
+**ÉTAT DE LA MER** : PEU AGITÉE A AGITÉE.
+**TEMPS **: FAIBLES AVERSES ISOLÉES AU NORD DE 16S, PARTIELLEMENT NUAGEUX AILLEURS.
         `,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
@@ -79,20 +80,20 @@ TEMPS : FAIBLES AVERSES ISOLÉES AU NORD DE 16S, PARTIELLEMENT NUAGEUX AILLEURS.
 
 
     const templates = [
-        `Temps ensoleillé le matin, devenant peu nuageux l'après-midi dans la région.  
+        `Temps ensoleillé toute la journée.  
 **Vents** : Vents modéré à fort du secteur ESE  
-**Températures minimales** : entre 20 et 21 °C  
-**Températures maximales** : entre 32 et 34 °C.`,
-
-        `Temps ensoleillé le matin, peu nuageux à l'Est de la région, Nuageux l'après-midi.  
-**Vents** : Vents modéré à fort de secteur ESE  
-**Températures minimales** : entre 20 et 21 °C  
+**Températures minimales** : entre 17 et 19 °C  
 **Températures maximales** : entre 33 et 34 °C.`,
 
-        `Temps ensoleillé toute la journée sauf à l'Est de la région qui sera peu nuageux.  
+        `Temps ensoleillé le matin, peu nuageux l'après-midi.  
 **Vents** : Vents modéré à fort de secteur ESE  
-**Températures minimales** : entre 20 et 21 °C  
-**Températures maximales** : entre 33 et 34 °C.`
+**Températures minimales** : entre 17 et 19 °C  
+**Températures maximales** : entre 32 et 33 °C.`,
+
+        `Temps ensoleillé toute la journée.  
+**Vents** : Vents modéré à fort de secteur ESE  
+**Températures minimales** : entre 17 et 19 °C  
+**Températures maximales** : entre 31 et 32 °C.`
 
     ];
 
@@ -248,7 +249,7 @@ async function displayMessages() {
         for (const entry of validEntries) {
             hideImages();
             await scrollMessage(entry.message);
-            await new Promise(resolve => setTimeout(resolve, 1100));
+            await new Promise(resolve => setTimeout(resolve, 1500));
 
             imageContainer.innerHTML = '';
             const img = document.createElement('img');
@@ -257,9 +258,9 @@ async function displayMessages() {
             imageContainer.appendChild(img);
             setTimeout(() => {
                 imageContainer.style.opacity = 1;
-            }, 500);
+            }, 700);
 
-            await new Promise(resolve => setTimeout(resolve, 7000));
+            await new Promise(resolve => setTimeout(resolve, 9000));
         }
     }
 }
