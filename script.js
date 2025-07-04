@@ -52,14 +52,20 @@ Rafales de vent pouvant atteindre 70 km/h dans le nord de la région.`,
 const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
-        BULLETIN DE PRÉVISION MARINE CÔTIÈRE JUSQU’À 50 MILLES NAUTIQUES AU LARGE 
-        ÉTABLI PAR MÉTÉO MADAGASCAR LE 02/07/2025 A 10 TU, 
-        VALABLE LE 02/07/2025 A 10 TU JUSQU’AU 03/07/2025 A 10 TU. 
-        LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN PRÉVU EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES.  
+
+BULLETIN DE PRÉVISION MARINE CÔTIÈRE JUSQU’À 50 MILLES NAUTIQUES AU LARGE ÉTABLI PAR MÉTÉO MADAGASCAR LE 04/07/2025 A 10 TU, 
+VALABLE LE 04/07/2025 A 10 TU JUSQU’AU 05/07/2025 A 10 TU. 
+LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN PRÉVU EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES. 
+
+**AVIS** :LOCALEMENT GRAND FRAIS ENTRE MAHAJANGA ET ANALALAVA AINSI QUE PRES DE CAP D’AMBRE.
+**situation generale**: 
+BASSES PRESSIONS AU NORD DE 10S ;
+ANTICYCLONE 1036 HPA CENTRE PAR 36S/51E.
+
 
 **CAP ST ANDRÉ A ANALALAVA**
-**VENT** : Sud-Est 15/20 localement 25/30 entre Mahajanga et Analalava.
-**ÉTAT DE LA MER** : Peu agitée à agitée. Hauteur des vagues 0.5/1.5m atteignant 2m au Nord de Mahajanga.
+**VENT **: Sud-Est 15/20, localement 25/30 entre Mahajanga et Analalava le matin.
+**ÉTAT DE LA MER** : Peu agitée à agitée. Hauteur des vagues 0.5/1m atteignant 1.5/2m entre Mahajanga et Analalava.
 **TEMPS** : Généralement sec.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
