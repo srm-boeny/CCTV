@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -35,7 +35,7 @@ Mahajanga sy Analalava.
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance_vent.png'
+        image: 'vigilance_vent1.png'
     },
     {
         message: `**Vigilance vent fort**  
@@ -67,16 +67,20 @@ const MarineMessages = [
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-        BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER 
-        (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) 
-        ÉTABLI PAR MÉTÉO MADAGASCAR LE 02/07/2025 A 10 TU, 
-        VALABLE LE 02/07/2025 A 10 TU JUSQU’AU 03/07/2025 A 10 TU. 
-        LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) N MÈTRES.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER 
+(DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) 
+ÉTABLI PAR MÉTÉO MADAGASCAR LE 03/07/2025 A 10 TU, 
+VALABLE LE 03/07/2025 A 10 TU JUSQU’AU 04/07/2025 A 10 TU. 
+LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) N MÈTRES.
+
+**situation generale**:
+BASSES PRESSIONS AU NORD DE 10S ;
+ANTICYCLONE 1036 HPA CENTRE PAR 36S/51E.
 
 **10S/20S **:
-**VENT **: SUD A SUD-EST 10/20, ATTEIGNANT 25/30 ENTRE MAHAJANGA ET ANALALAVA.
-**ÉTAT DE LA MER** : PEU AGITÉE A AGITÉE.
-**TEMPS **: FAIBLES AVERSES ISOLÉES AU NORD DE 16S, PARTIELLEMENT NUAGEUX AILLEURS.
+**VENT **: VARIABLE 05/10 AU SUD DE 15S, AILLEURS SUD-EST 15/20 LOCALEMENT 25/30 SUR LA PARTIE CENTRALES DES COTES NORD-OUEST DE MADAGASCAR LE MATIN.
+**ÉTAT DE LA MER **: PEU AGITÉE A AGITÉE.
+**TEMPS** : FAIBLES AVERSES ISOLÉES SUR LA PARTIE OUEST.
         `,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
@@ -85,20 +89,20 @@ const MarineMessages = [
 
 
     const templates = [
-        `Temps ensoleillé toute la journée.  
-**Vents** : Vents modéré à fort du secteur ESE  
-**Températures minimales** : entre 17 et 19 °C  
-**Températures maximales** : entre 33 et 34 °C.`,
-
         `Temps ensoleillé le matin, peu nuageux l'après-midi.  
-**Vents** : Vents modéré à fort de secteur ESE  
+**Vents** : Vents modéré à fort du secteur ESE  
 **Températures minimales** : entre 17 et 19 °C  
 **Températures maximales** : entre 32 et 33 °C.`,
 
-        `Temps ensoleillé toute la journée.  
+        `Temps ensoleillé le matin, peu nuageux et nuageux à l'Est de la région durant l'après-midi.  
 **Vents** : Vents modéré à fort de secteur ESE  
-**Températures minimales** : entre 17 et 19 °C  
-**Températures maximales** : entre 31 et 32 °C.`
+**Températures minimales** : entre 16 et 18 °C  
+**Températures maximales** : entre 31 et 32 °C.`,
+
+        `Temps peu nuageux le matin, et nuageux l'après-midi et le soir.  
+**Vents** : Vents modéré de secteur ESE  
+**Températures minimales** : entre 19 et 20 °C  
+**Températures maximales** : entre 32 et 33 °C.`
 
     ];
 
@@ -254,7 +258,7 @@ async function displayMessages() {
         for (const entry of validEntries) {
             hideImages();
             await scrollMessage(entry.message);
-            await new Promise(resolve => setTimeout(resolve, 1800));
+            await new Promise(resolve => setTimeout(resolve, 2000));
 
             imageContainer.innerHTML = '';
             const img = document.createElement('img');
@@ -263,7 +267,7 @@ async function displayMessages() {
             imageContainer.appendChild(img);
             setTimeout(() => {
                 imageContainer.style.opacity = 1;
-            }, 900);
+            }, 1000);
 
             await new Promise(resolve => setTimeout(resolve, 9000));
         }
