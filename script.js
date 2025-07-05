@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -12,15 +12,13 @@ Restez informé en cas d’évolution de la situation.`,
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Alakamisy 3 Jolay 2025 Tamin’ny 10 ora 11 min** 
+        **Novokarina ny Zoma 4 Jolay 2025 Tamin’ny 11 ora 10 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Tombanana hahatratra 55 Km/ora hatrany ny hamafin’ny rivotra eo anelanelan’i
-Vohémar sy ny tanjona Bobaomby ary ny eo anelanelan’i Mahajanga sy Analalava noho
-ny hamafin’ny varatraza. 
+Tombanana hahatratra 55 Km/ora hatrany ny hamafin’ny rivotra eo anelanelan’i Vohémar sy ny tanjona Bobaomby ary ny eo anelanelan’i Mahajanga sy Analalava noho ny hamafin’ny varatraza. 
 
 **Fotoana hisehoany:**  
-Anio 03 Jolay 2025. 
+Anio 04 Jolay 2025. 
 
 **Ireo toerana voakasika:**
 **Fanairana miloko MENA :** 
@@ -35,7 +33,7 @@ Mahajanga sy Analalava.
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance_vent1.png'
+        image: 'vigilance_vent.png'
     },
     {
         message: `**Vigilance vent fort**  
@@ -75,18 +73,17 @@ ANTICYCLONE 1036 HPA CENTRE PAR 36S/51E.
 
 BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER 
 (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) 
-ÉTABLI PAR MÉTÉO MADAGASCAR LE 03/07/2025 A 10 TU, 
-VALABLE LE 03/07/2025 A 10 TU JUSQU’AU 04/07/2025 A 10 TU. 
+ÉTABLI PAR MÉTÉO MADAGASCAR LE 04/07/2025 A 10 TU, 
+VALABLE LE 04/07/2025 A 10 TU JUSQU’AU 05/07/2025 A 10 TU. 
 LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) N MÈTRES.
 
-**situation generale**:
-BASSES PRESSIONS AU NORD DE 10S ;
-ANTICYCLONE 1036 HPA CENTRE PAR 36S/51E.
+**Avis**: 
+LOCALEMENT GRAND FRAIS PRES DE CAP D’AMBRE.
 
 **10S/20S **:
-**VENT **: VARIABLE 05/10 AU SUD DE 15S, AILLEURS SUD-EST 15/20 LOCALEMENT 25/30 SUR LA PARTIE CENTRALES DES COTES NORD-OUEST DE MADAGASCAR LE MATIN.
-**ÉTAT DE LA MER **: PEU AGITÉE A AGITÉE.
-**TEMPS** : FAIBLES AVERSES ISOLÉES SUR LA PARTIE OUEST.
+**VENT** : VARIABLE 05/10 AU SUD DE 15S, AILLEURS SUD-EST 15/20 LOCALEMENT 25/30 SUR LA PARTIE CENTRALES DES COTES NORD-OUEST DE MADAGASCAR.
+**ÉTAT DE LA MER** : PEU AGITÉE A AGITÉE.
+**TEMPS **: PARTIELLEMENT NUAGEUX.
         `,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
@@ -97,18 +94,18 @@ ANTICYCLONE 1036 HPA CENTRE PAR 36S/51E.
     const templates = [
         `Temps ensoleillé le matin, peu nuageux l'après-midi.  
 **Vents** : Vents modéré à fort du secteur ESE  
-**Températures minimales** : entre 17 et 19 °C  
-**Températures maximales** : entre 32 et 33 °C.`,
+**Températures minimales** : entre 16 et 18 °C  
+**Températures maximales** : entre 31 et 32 °C.`,
 
         `Temps ensoleillé le matin, peu nuageux et nuageux à l'Est de la région durant l'après-midi.  
 **Vents** : Vents modéré à fort de secteur ESE  
-**Températures minimales** : entre 16 et 18 °C  
-**Températures maximales** : entre 31 et 32 °C.`,
+**Températures minimales** : entre 19 et 20 °C  
+**Températures maximales** : entre 32 et 33 °C.`,
 
         `Temps peu nuageux le matin, et nuageux l'après-midi et le soir.  
 **Vents** : Vents modéré de secteur ESE  
 **Températures minimales** : entre 19 et 20 °C  
-**Températures maximales** : entre 32 et 33 °C.`
+**Températures maximales** : entre 33 et 34 °C.`
 
     ];
 
