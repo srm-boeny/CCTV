@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -7,7 +7,7 @@ const vigilanceMessages = [
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide1.jpg'
+        image: 'vigilance-vide.jpg'
     },
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
@@ -33,7 +33,7 @@ Mahajanga sy Analalava.
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance_vent.png'
+        image: 'vigilance_vent1.png'
     },
     {
         message: `**Vigilance vent fort**  
@@ -51,39 +51,37 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-BULLETIN DE PRÉVISION MARINE CÔTIÈRE JUSQU’À 50 MILLES NAUTIQUES AU LARGE ÉTABLI PAR MÉTÉO MADAGASCAR LE 04/07/2025 A 10 TU, 
-VALABLE LE 04/07/2025 A 10 TU JUSQU’AU 05/07/2025 A 10 TU. 
-LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN PRÉVU EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES. 
+BULLETIN DE PRÉVISION MARINE CÔTIÈRE JUSQU’À 50 MILLES NAUTIQUES AU LARGE ÉTABLI PAR MÉTÉO MADAGASCAR LE 05/07/2025 A 10 TU, 
+VALABLE LE 05/07/2025 A 10 TU JUSQU’AU 06/07/2025 A 10 TU. 
+LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN PRÉVU EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES.
 
-**AVIS** :LOCALEMENT GRAND FRAIS ENTRE MAHAJANGA ET ANALALAVA AINSI QUE PRES DE CAP D’AMBRE.
 **situation generale**: 
-BASSES PRESSIONS AU NORD DE 10S ;
-ANTICYCLONE 1036 HPA CENTRE PAR 36S/51E.
+BASSES PRESSIONS SUR L’EXTRÊME NORD-EST DE LA ZONE ;
+ANTICYCLONE 1035 HPA CENTRE PAR 34S/64E ;
+FRONT FROID AXE PAR 25S/37E, 27S/40E ET 31S/42E.
 
 
-**CAP ST ANDRÉ A ANALALAVA**
-**VENT **: Sud-Est 15/20, localement 25/30 entre Mahajanga et Analalava le matin.
-**ÉTAT DE LA MER** : Peu agitée à agitée. Hauteur des vagues 0.5/1m atteignant 1.5/2m entre Mahajanga et Analalava.
-**TEMPS** : Généralement sec.`,
+CAP ST ANDRÉ A ANALALAVA
+VENT : Sud-Est 10/15.
+ÉTAT DE LA MER : Peu agitée à agitée. Hauteur des vagues 1/1.5m.
+TEMPS : Peu nuageux.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
 
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER 
-(DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) 
-ÉTABLI PAR MÉTÉO MADAGASCAR LE 04/07/2025 A 10 TU, 
-VALABLE LE 04/07/2025 A 10 TU JUSQU’AU 05/07/2025 A 10 TU. 
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) 
+ÉTABLI PAR MÉTÉO MADAGASCAR LE 05/07/2025 A 10 TU, VALABLE LE 05/07/2025 A 10 TU JUSQU’AU 06/07/2025 A 10 TU. 
 LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) N MÈTRES.
 
 **Avis**: 
-LOCALEMENT GRAND FRAIS PRES DE CAP D’AMBRE.
+NEANT.
 
-**10S/20S **:
-**VENT** : VARIABLE 05/10 AU SUD DE 15S, AILLEURS SUD-EST 15/20 LOCALEMENT 25/30 SUR LA PARTIE CENTRALES DES COTES NORD-OUEST DE MADAGASCAR.
+10S/20S :
+**VENT **: EST A SUD-EST 05/10 LOCALEMENT 15 AU NORD DE 15S, DEVENANT VARIABLE 05/10 AU SUD DE 15S EN FIN DE PÉRIODE.
 **ÉTAT DE LA MER** : PEU AGITÉE A AGITÉE.
-**TEMPS **: PARTIELLEMENT NUAGEUX.
+**TEMPS** : PARTIELLEMENT NUAGEUX A ENSOLEILLÉ.
         `,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
