@@ -51,20 +51,20 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-BULLETIN DE PRÉVISION MARINE CÔTIÈRE JUSQU’À 50 MILLES NAUTIQUES AU LARGE ÉTABLI PAR MÉTÉO MADAGASCAR LE 05/07/2025 A 10 TU, 
-VALABLE LE 05/07/2025 A 10 TU JUSQU’AU 06/07/2025 A 10 TU. 
+BULLETIN DE PRÉVISION MARINE CÔTIÈRE JUSQU’À 50 MILLES NAUTIQUES AU LARGE 
+ÉTABLI PAR MÉTÉO MADAGASCAR LE 07/07/2025 A 10 TU, 
+VALABLE LE 07/07/2025 A 10 TU JUSQU’AU 08/07/2025 A 10 TU. 
 LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN PRÉVU EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES.
 
 **situation generale**: 
-BASSES PRESSIONS SUR L’EXTRÊME NORD-EST DE LA ZONE ;
-ANTICYCLONE 1035 HPA CENTRE PAR 34S/64E ;
-FRONT FROID AXE PAR 25S/37E, 27S/40E ET 31S/42E.
+BASSES PRESSIONS AU NORD DE 08S ;
+FRONT FROID AXE PAR 24S/36E, 27S/40E ET 31S/45E.
 
 
-CAP ST ANDRÉ A ANALALAVA
-VENT : Sud-Est 10/15.
-ÉTAT DE LA MER : Peu agitée à agitée. Hauteur des vagues 1/1.5m.
-TEMPS : Peu nuageux.`,
+**CAP ST ANDRÉ A ANALALAVA**
+**VENT **: Sud-Est 10/15, atteignant localement 20 le matin.
+**ÉTAT DE LA MER** : Peu agitée. Hauteur des vagues 0.5/1m.
+**TEMPS** : Peu nuageux.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
 
@@ -72,16 +72,16 @@ TEMPS : Peu nuageux.`,
         message: `**BULLETIN MARINE HAUTE MER**
 
 BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) 
-ÉTABLI PAR MÉTÉO MADAGASCAR LE 05/07/2025 A 10 TU, VALABLE LE 05/07/2025 A 10 TU JUSQU’AU 06/07/2025 A 10 TU. 
+ÉTABLI PAR MÉTÉO MADAGASCAR LE 07/07/2025 A 10 TU, VALABLE LE 07/07/2025 A 10 TU JUSQU’AU 08/07/2025 A 10 TU. 
 LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) N MÈTRES.
 
 **Avis**: 
 NEANT.
 
 10S/20S :
-**VENT **: EST A SUD-EST 05/10 LOCALEMENT 15 AU NORD DE 15S, DEVENANT VARIABLE 05/10 AU SUD DE 15S EN FIN DE PÉRIODE.
+**VENT **: SUD A SUD-EST 10/15 LOCALEMENT 20.
 **ÉTAT DE LA MER** : PEU AGITÉE A AGITÉE.
-**TEMPS** : PARTIELLEMENT NUAGEUX A ENSOLEILLÉ.
+**TEMPS** : PARTIELLEMENT NUAGEUX.
         `,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
@@ -90,20 +90,20 @@ NEANT.
 
 
     const templates = [
-        `Temps ensoleillé le matin, peu nuageux l'après-midi.  
-**Vents** : Vents modéré à fort du secteur ESE  
-**Températures minimales** : entre 16 et 18 °C  
-**Températures maximales** : entre 31 et 32 °C.`,
-
-        `Temps ensoleillé le matin, peu nuageux et nuageux à l'Est de la région durant l'après-midi.  
-**Vents** : Vents modéré à fort de secteur ESE  
-**Températures minimales** : entre 19 et 20 °C  
+        `Temps ensoleillé le matin, nuageux l'après-midi à l'Ouest de la région.  
+**Vents** : Vents modéré du secteur ESE  
+**Températures minimales** : entre 18 et 19 °C  
 **Températures maximales** : entre 32 et 33 °C.`,
 
-        `Temps peu nuageux le matin, et nuageux l'après-midi et le soir.  
+        `Temps peu nuageux toute la journée dans l"ensemble de la région.  
 **Vents** : Vents modéré de secteur ESE  
-**Températures minimales** : entre 19 et 20 °C  
-**Températures maximales** : entre 33 et 34 °C.`
+**Températures minimales** : entre 20 et 21 °C  
+**Températures maximales** : entre 32 et 33 °C.`,
+
+        `Temps ensoleillé le matin, et nuageux l'après-midi et le soir.  
+**Vents** : Vents modéré de secteur ESE  
+**Températures minimales** : entre 20 et 21 °C  
+**Températures maximales** : entre 32 et 34 °C.`
 
     ];
 
