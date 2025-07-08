@@ -1,0 +1,42 @@
+name: Update Marine forecast from DGM website automatically
+
+on:
+  schedule:
+    - cron: '35 9 * * *' # At 12:35 Atoandro local time Antananarivo each day
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: CheckOut repository content
+        uses: actions/checkout@v2 # checkout the repository content to github runner
+
+      - name: setup python version
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirement.txt
+          
+      - name: execute py script # run dataScrapping
+        run:
+          python datascrappingMeteoMada.py
+          
+      - name: commit files
+        run: |
+          git config --local user.email "andriamihajaranaivoson@yahoo.fr"
+          git config --local user.name "dihj"
+          git add --all
+          git commit -am "Update Previsions marine automatically on $(date)"
+          git push origin main
+        env:
+          REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+          username: github-actions
