@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "yellow";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -7,24 +7,25 @@ const vigilanceMessages = [
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide.jpg'
+        image: 'vigilance-vide1.jpg'
     },
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Zoma 4 Jolay 2025 Tamin’ny 11 ora 10 min** 
+        **Novokarina ny Alakamisy 10 Jolay 2025 Tamin’ny 12 ora 38 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Tombanana hahatratra 55 Km/ora hatrany ny hamafin’ny rivotra eo anelanelan’i Vohémar sy ny tanjona Bobaomby ary ny eo anelanelan’i Mahajanga sy Analalava noho ny hamafin’ny varatraza. 
+Ho mafy ny fitsokan’ny rivotra ka mety hahatratra 55 Km/ora izany eo anelanelan’i Mahajanga sy Analalava ary eo anelanelan’ny tanjona Bobaomby sy Vohemar.  
 
 **Fotoana hisehoany:**  
-Anio 04 Jolay 2025. 
+Manomboka ny Zoma 11 Jolay 2025 ka
+hatramin’ny Sabotsy 12 Jolay 2025
+ny eo anelanelan’i Mahajanga sy
+Analalava. 
 
 **Ireo toerana voakasika:**
-**Fanairana miloko MENA :** 
-Eo anelanelan’i Vohémar sy ny tanjona
-Bobaomby ary ny eo anelanelan’i
-Mahajanga sy Analalava.
+**Fanairana miloko MAVO :** 
+Mahajanga hatrany Analalava
 
 
 **Ny mety ho fiantraikany:**
@@ -33,7 +34,7 @@ Mahajanga sy Analalava.
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance_vent1.png'
+        image: 'vigilance_vent.png'
     },
     {
         message: `**Vigilance vent fort**  
