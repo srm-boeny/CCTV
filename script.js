@@ -93,6 +93,7 @@ BASSES PRESSIONS AU NORD DE 13S ;
 
 
 
+
     const templates = [
         `Temps ensoleillé le matin, nuageux l'après-midi à l'Ouest de la région.  
 **Vents** : Vents modéré du secteur ESE  
