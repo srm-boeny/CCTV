@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -7,22 +7,25 @@ const vigilanceMessages = [
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide1.jpg'
+        image: 'vigilance-vide.jpg'
     },
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Zoma 18 Jolay 2025 Tamin’ny 11 ora 00 min** 
+        **Novokarina ny Alakamisy 10 Jolay 2025 Tamin’ny 12 ora 38 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy ny fitsokan’ny rivotra eo anelanelan’ny tanjona Bobaomby sy Vohemar, manakaiky an ’Analalava sy ny morontsirak’i ATSIMO ANDREFANA ka tombanana hahatratra 55 Km/ora. 
+Ho mafy ny fitsokan’ny rivotra ka mety hahatratra 55 Km/ora izany eo anelanelan’i Mahajanga sy Analalava ary eo anelanelan’ny tanjona Bobaomby sy Vohemar.  
 
 **Fotoana hisehoany:**  
-– Anio 18 Jolay 2025 alina sy rahampitso alina ny morontsirak’i Analalava;
+Manomboka ny Zoma 11 Jolay 2025 ka
+hatramin’ny Sabotsy 12 Jolay 2025
+ny eo anelanelan’i Mahajanga sy
+Analalava. 
 
 **Ireo toerana voakasika:**
-**Fanairana miloko MENA :** 
-Miloko mena: Tanjona Bobaomby hatrany Vohemar sy ny morontsirak’i Analalava.
+**Fanairana miloko MAVO :** 
+Mahajanga hatrany Analalava
 
 
 **Ny mety ho fiantraikany:**
@@ -31,7 +34,7 @@ Miloko mena: Tanjona Bobaomby hatrany Vohemar sy ny morontsirak’i Analalava.
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance_vent.jpg'
+        image: 'vigilance_vent1.png'
     },
     {
         message: `**Vigilance vent fort**  
@@ -49,32 +52,31 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-BULLETIN DE PRÉVISION MARINE CÔTIÈRE JUSQU’À 50 MILLES NAUTIQUES AU LARGE ÉTABLI PAR MÉTÉO MADAGASCAR LE 18/07/2025 A 10 TU, VALABLE LE 18/07/2025 A 10 TU JUSQU’AU 19/07/2025 A 10 TU.
+BULLETIN DE PRÉVISION MARINE CÔTIÈRE JUSQU’À 50 MILLES NAUTIQUES AU LARGE ÉTABLI PAR MÉTÉO MADAGASCAR LE 17/07/2025 A 10 TU, VALABLE LE 17/07/2025 A 10 TU JUSQU’AU 18/07/2025 A 10 TU.
  LE VENT DONNÉ DANS CE BULLETIN CORRESPOND AU VENT MOYEN PRÉVU EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES.
 
 **CAP ST ANDRÉ A ANALALAVA**
-CAP ST ANDRÉ A ANALALAVA VENT : Ouest 05/10, devenant Sud-Est 10/15 la nuit et le matin, localement 20/25 entre Mahajanga et Analalava.
- ÉTAT DE LA MER : Peu agitée à agitée.
- Hauteur des vagues 0.5/1m, atteignant 1.5/2m en s’éloignant le littoral d’Analalava.
- TEMPS : Peu nuageux.`,
+CAP ST ANDRÉ A ANALALAVA VENT : Sud à Sud-Est 10/15, localement 20 la nuit et le matin.
+ ÉTAT DE LA MER : Peu agitée.
+ Hauteur des vagues 0.5/1m.
+ TEMPS : Partiellement à peu nuageux`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 18/07/2025 A 10 TU, VALABLE LE 18/07/2025 A 10 TU JUSQU’AU 19/07/2025 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 17/07/2025 A 10 TU, VALABLE LE 17/07/2025 A 10 TU JUSQU’AU 18/07/2025 A 10 TU.
  LE VENT DONNÉ DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) N MÈTRES.
 
 **Situation generale**:
-BASSES PRESSIONS AU NORD DE 10S ;
- FRONT FROID AXE PAR 30S/31E, 33S/34E, 36S/39E ET 39S/41E ;
- ANTICYCLONE 1035 HPA CENTRE PAR 42 S/62E ;
- PSEUDO FRONT FROID AXE PAR 22S/59E, 24S/66E, 26S/70E
+BASSES PRESSIONS SUR LA PARTIE NORD-EST DE LA ZONE ;
+ ANTICYCLONE 1029 HPA CENTRE PAR 32S/47E ;
+ FRONT FROID AXE PAR 21S/50E, 23S/54E, 25S/59E ET 29S/68E.
 
 10S/20S :
-10S/20S : VENT : SUD A SUD-EST 10/15, ATTEIGNANT 20 AU NORD DE 15S.
+10S/20S : VENT : SUD A SUD-EST 05/10, ATTEIGNANT 15/20 AU NORD DE 15S.
  ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
- TEMPS : PARTIELLEMENT NUAGEUX.`,
+ TEMPS : RARES AVERSES SUR L’EXTRÊME NORD-OUEST DE LA ZONE, PARTIELLEMENT NUAGEUX AILLEURS`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
@@ -92,28 +94,22 @@ BASSES PRESSIONS AU NORD DE 10S ;
 
 
 
+    const templates = [
+    `Journée principalement ensoleillée et peu nuageuse sur la région Boeny, avec un temps clair la nuit.
 
-
-
-
-
-
-const templates = [
-    `Journée partiellement nuageuse sur la région Boeny, avec un temps généralement agréable.
-
-**Vents** : Vents faibles à modérés de secteur ESE
+**Vents** : Vents faible à modérés de secteur ESE
 
 **Températures minimales** : entre 26 et 29 °C
 
-**Températures maximales** : entre 32 et 34 °C`,
-    `Journée ensoleillée et agréable sur l’ensemble de la région Boeny, avec un ciel dégagé le matin et légèrement voilé l'après-midi.
+**Températures maximales** : entre 28 et 32 °C`,
+    `Temps ensoleillé et agréable sur l'ensemble de la région Boeny, avec un ciel légèrement voilé l'après-midi dans certaines zones.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
 **Températures minimales** : entre 18 et 21 °C
 
 **Températures maximales** : entre 32 et 33 °C`,
-    `Journée ensoleillée et claire sur l'ensemble de la région Boeny, avec un ciel dégagé toute la journée.
+    `Temps ensoleillé et chaud sur l'ensemble de la région Boeny, notamment à Mahajanga II, Soalala, Mitsinjo, Marovoay et AmbatoBoeny.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
@@ -206,7 +202,7 @@ async function prepareValidEntries() {
         const yyyy = date.getFullYear();
         const mm = String(date.getMonth() + 1).padStart(2, '0');
         const dd = String(date.getDate()).padStart(2, '0');
-        filenames.push(`assets/maps/weather_map_${yyyy}-${mm}-${dd}.png`);
+        filenames.push(`weather_map_${yyyy}-${mm}-${dd}.png`);
     }
 
     const existing = [];
