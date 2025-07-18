@@ -97,21 +97,21 @@ BASSES PRESSIONS AU NORD DE 10S ;
 
 
     const templates = [
-    `Journée principalement ensoleillée et peu nuageuse sur la région Boeny, avec un temps clair la nuit.
+    `Journée principalement ensoleillée sur la région Boeny, avec quelques passages nuageux possibles en soirée sur la côte Ouest.
 
-**Vents** : Vents faible à modérés de secteur ESE
+**Vents** : Vents faibles à modérés de secteur ESE
 
 **Températures minimales** : entre 26 et 29 °C
 
 **Températures maximales** : entre 28 et 32 °C`,
-    `Temps ensoleillé et agréable sur l'ensemble de la région Boeny, avec un ciel légèrement voilé l'après-midi dans certaines zones.
+    `Temps ensoleillé et agréable sur l'ensemble de la région Boeny, avec un ciel dégagé le matin.
 
-**Vents** : Vents faibles à modérés de secteur ESE
+**Vents** : Vents faible à modérés de secteur ESE
 
 **Températures minimales** : entre 18 et 21 °C
 
 **Températures maximales** : entre 32 et 33 °C`,
-    `Temps ensoleillé et chaud sur l'ensemble de la région Boeny, notamment à Mahajanga II, Soalala, Mitsinjo, Marovoay et AmbatoBoeny.
+    `Journée ensoleillée et claire sur l'ensemble de la région Boeny, notamment à Mahajanga II, Soalala, Mitsinjo, Marovoay et AmbatoBoeny.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
