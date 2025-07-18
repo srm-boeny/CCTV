@@ -95,6 +95,7 @@ BASSES PRESSIONS AU NORD DE 10S ;
 
 
 
+
     const templates = [
     `Temps chaud et sec avec un ciel généralement dégagé sur la région Boeny,  devenant légèrement nuageux en soirée sur la partie Ouest.
 
