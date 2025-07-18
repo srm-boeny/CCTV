@@ -96,6 +96,7 @@ BASSES PRESSIONS AU NORD DE 10S ;
 
 
 
+
     const templates = [
     `Journée partiellement nuageuse sur la région Boeny, avec un temps généralement agréable.
 
