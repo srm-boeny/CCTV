@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -12,20 +12,17 @@ Restez informé en cas d’évolution de la situation.`,
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Alakamisy 10 Jolay 2025 Tamin’ny 12 ora 38 min** 
+        **Novokarina ny Zoma 18 Jolay 2025
+Tamin’ny 11 ora 00 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy ny fitsokan’ny rivotra ka mety hahatratra 55 Km/ora izany eo anelanelan’i Mahajanga sy Analalava ary eo anelanelan’ny tanjona Bobaomby sy Vohemar.  
-
+Ho mafy ny fitsokan’ny rivotra eo anelanelan’ny tanjona Bobaomby sy Vohemar, manakaiky an ’Analalava sy ny morontsirak’i ATSIMO ANDREFANA ka tombanana hahatratra 55 Km/ora.
 **Fotoana hisehoany:**  
-Manomboka ny Zoma 11 Jolay 2025 ka
-hatramin’ny Sabotsy 12 Jolay 2025
-ny eo anelanelan’i Mahajanga sy
-Analalava. 
+– Anio 18 Jolay 2025 alina sy rahampitso alina ny morontsirak’i Analalava;
 
 **Ireo toerana voakasika:**
-**Fanairana miloko MAVO :** 
-Mahajanga hatrany Analalava
+**Fanairana miloko MENA :** 
+Tanjona Bobaomby hatrany Vohemar sy ny morontsirak’i Analalava.
 
 
 **Ny mety ho fiantraikany:**
@@ -205,7 +202,7 @@ async function prepareValidEntries() {
         const yyyy = date.getFullYear();
         const mm = String(date.getMonth() + 1).padStart(2, '0');
         const dd = String(date.getDate()).padStart(2, '0');
-        filenames.push(`weather_map_${yyyy}-${mm}-${dd}.png`);
+        filenames.push(`assets/maps/weather_map_${yyyy}-${mm}-${dd}.png`);
     }
 
     const existing = [];
