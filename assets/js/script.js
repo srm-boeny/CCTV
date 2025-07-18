@@ -94,6 +94,7 @@ BASSES PRESSIONS AU NORD DE 10S ;
 
 
 
+
     const templates = [
     `Journée principalement ensoleillée sur la région Boeny, avec quelques passages nuageux possibles en soirée sur la côte Ouest.
 
