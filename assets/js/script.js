@@ -205,7 +205,7 @@ async function prepareValidEntries() {
         const yyyy = date.getFullYear();
         const mm = String(date.getMonth() + 1).padStart(2, '0');
         const dd = String(date.getDate()).padStart(2, '0');
-        filenames.push(`weather_map_${yyyy}-${mm}-${dd}.png`);
+        filenames.push(`assets/maps/weather_map_${yyyy}-${mm}-${dd}.png`);
     }
 
     const existing = [];
