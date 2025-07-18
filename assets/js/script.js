@@ -84,22 +84,32 @@ BASSES PRESSIONS SUR LA PARTIE NORD-EST DE LA ZONE ;
 
 
 
-const templates = [
-    `Journée partiellement nuageuse sur l'ensemble de la région Boeny, avec un temps généralement agréable.
+
+
+
+
+
+
+
+
+
+
+    const templates = [
+    `Journée partiellement nuageuse sur la région Boeny, avec un temps généralement agréable.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
 **Températures minimales** : entre 26 et 29 °C
 
 **Températures maximales** : entre 32 et 34 °C`,
-    `Journée ensoleillée et agréable sur l'ensemble de la région Boeny, avec un ciel dégagé le matin.
+    `Journée ensoleillée et agréable sur l’ensemble de la région Boeny, avec un ciel dégagé le matin et légèrement voilé l'après-midi.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
 **Températures minimales** : entre 18 et 21 °C
 
 **Températures maximales** : entre 32 et 33 °C`,
-    `Temps ensoleillé et sec toute la journée sur la région Boeny, avec un ciel dégagé.
+    `Journée ensoleillée et claire sur l'ensemble de la région Boeny, avec un ciel dégagé toute la journée.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
@@ -107,6 +117,10 @@ const templates = [
 
 **Températures maximales** : entre 32 et 33 °C`
 ];
+
+
+
+
 
 
 
@@ -188,7 +202,7 @@ async function prepareValidEntries() {
         const yyyy = date.getFullYear();
         const mm = String(date.getMonth() + 1).padStart(2, '0');
         const dd = String(date.getDate()).padStart(2, '0');
-        filenames.push(`assets/maps/weather_map_${yyyy}-${mm}-${dd}.png`);
+        filenames.push(`weather_map_${yyyy}-${mm}-${dd}.png`);
     }
 
     const existing = [];
