@@ -98,21 +98,21 @@ BASSES PRESSIONS AU NORD DE 10S ;
 
 
     const templates = [
-    `Temps chaud et sec avec un ciel généralement dégagé sur la région Boeny,  devenant légèrement nuageux en soirée sur la partie Ouest.
+    `Temps ensoleillé le matin, devenant partiellement nuageux l’après-midi sur la région Boeny, notamment à l'intérieur des terres.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
-**Températures minimales** : entre 26 et 29 °C
+**Températures minimales** : entre 17 et 21 °C
 
-**Températures maximales** : entre 28 et 32 °C`,
-    `Temps ensoleillé et agréable sur l'ensemble de la région Boeny, avec un ciel légèrement voilé possible l'après-midi.
+**Températures maximales** : entre 31 et 32 °C`,
+    `Temps ensoleillé à partiellement nuageux sur la région de Boeny, avec un ciel généralement dégagé le matin.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
-**Températures minimales** : entre 18 et 21 °C
+**Températures minimales** : entre 17 et 20 °C
 
-**Températures maximales** : entre 32 et 33 °C`,
-    `Journée ensoleillée et claire sur l'ensemble de la région Boeny, de Mahajanga II à Soalala.
+**Températures maximales** : entre 31 et 33 °C`,
+    `Temps ensoleillé et agréable sur l'ensemble de la région Boeny, avec un ciel dégagé le matin et peu de nuages l'après-midi.  
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
