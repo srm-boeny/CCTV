@@ -102,6 +102,7 @@ BASSES PRESSIONS AU NORD DE 15S ;
 
 
 
+
     const templates = [
     `Temps ensoleillé et chaud sur l'ensemble de la région Boeny, avec un ciel dégagé le matin et légèrement voilé l'après-midi.  
 
