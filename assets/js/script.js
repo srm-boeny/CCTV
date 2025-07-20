@@ -100,23 +100,23 @@ BASSES PRESSIONS AU NORD DE 10S ;
 
 
     const templates = [
-    `Temps ensoleillé le matin, devenant partiellement nuageux l’après-midi sur la région Boeny, notamment à l'intérieur des terres.
-
-**Vents** : Vents faibles à modérés de secteur ESE
-
-**Températures minimales** : entre 17 et 21 °C
-
-**Températures maximales** : entre 31 et 32 °C`,
-    `Temps ensoleillé à partiellement nuageux sur la région de Boeny, avec un ciel généralement dégagé le matin.
+    `Temps ensoleillé et chaud sur l'ensemble de la région Boeny, avec un ciel dégagé le matin et légèrement voilé l'après-midi.  
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
 **Températures minimales** : entre 17 et 20 °C
 
 **Températures maximales** : entre 31 et 33 °C`,
-    `Temps ensoleillé et agréable sur l'ensemble de la région Boeny, avec un ciel dégagé le matin et peu de nuages l'après-midi.  
+    `Journée ensoleillée et agréable sur l'ensemble de la région Boeny, avec un ciel dégagé toute la journée.
 
 **Vents** : Vents faibles à modérés de secteur ESE
+
+**Températures minimales** : entre 16 et 19 °C
+
+**Températures maximales** : entre 31 et 33 °C`,
+    `Temps ensoleillé le matin, devenant partiellement nuageux l’après-midi sur la région Boeny, avec un temps plus ensoleillé sur les zones Ouest (Soalala, Mitsinjo).
+
+**Vents** : Vents faible à modérés de secteur ESE
 
 **Températures minimales** : entre 16 et 19 °C
 
