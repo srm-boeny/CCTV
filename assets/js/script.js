@@ -12,17 +12,17 @@ Restez informé en cas d’évolution de la situation.`,
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Zoma 18 Jolay 2025
-Tamin’ny 11 ora 00 min** 
+        **Novokarina ny Asabotsy 19 Jolay 2025Tamin’ny 11 ora 11 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy ny fitsokan’ny rivotra eo anelanelan’ny tanjona Bobaomby sy Vohemar, manakaiky an ’Analalava sy ny morontsirak’i ATSIMO ANDREFANA ka tombanana hahatratra 55 Km/ora.
+Ho mafy ny fitsokan’ny rivotra eo anelanelan’ny tanjona Bobaomby sy Vohemar, ny morontsirak’i Analalava sy ATSIMO ANDREFANA ka tombanana hahatratra 55
+Km/ora.
 **Fotoana hisehoany:**  
-– Anio 18 Jolay 2025 alina sy rahampitso alina ny morontsirak’i Analalava;
+– Anio alina hatramin’ny rahampitso 20 Jolay 2025 vao maraina kosa ny morontsirak’i Analalava.
 
 **Ireo toerana voakasika:**
 **Fanairana miloko MENA :** 
-Tanjona Bobaomby hatrany Vohemar sy ny morontsirak’i Analalava.
+Tanjona Bobaomby hatrany Vohemar ary ny morontsirak’i Analalava sy ATSIMO ANDREFANA..
 
 
 **Ny mety ho fiantraikany:**
