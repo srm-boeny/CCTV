@@ -98,6 +98,7 @@ BASSES PRESSIONS AU NORD DE 10S ;
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin, devenant partiellement nuageux l’après-midi sur la région Boeny, notamment à l'intérieur des terres.
 
