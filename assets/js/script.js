@@ -103,6 +103,7 @@ BASSES PRESSIONS AU NORD DE 15S ;
 
 
 
+
     const templates = [
     `Temps ensoleillé avec un ciel dégagé le matin, devenant partiellement nuageux l'après-midi sur la région Boeny.
 
