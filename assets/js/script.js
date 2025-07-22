@@ -106,27 +106,27 @@ BASSES PRESSIONS AU NORD DE 14S ;
 
 
     const templates = [
-    `Temps ensoleillé avec un ciel dégagé le matin, devenant partiellement nuageux l'après-midi sur la région Boeny.
+    `Journée ensoleillée avec un ciel devenant partiellement nuageux l'après-midi sur la région Boeny, notamment à Mahajanga II.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
-**Températures minimales** : entre 17 et 20 °C
+**Températures minimales** : entre 16 et 20 °C
 
-**Températures maximales** : entre 30 et 33 °C`,
-    `Journée ensoleillée avec un ciel partiellement nuageux l'après-midi sur la région Boeny, notamment à Mahajanga II.
+**Températures maximales** : entre 31 et 33 °C`,
+    `Journée ensoleillée le matin, devenant partiellement nuageuse l’après-midi sur la région Boeny.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
-**Températures minimales** : entre 16 et 19 °C
+**Températures minimales** : entre 16 et 20 °C
 
 **Températures maximales** : entre 32 et 33 °C`,
-    `Temps ensoleillé le matin, devenant partiellement nuageux l'après-midi sur la région Boeny, avec un ciel plus couvert sur Mahajanga II.
+    `Journée ensoleillée et claire sur l'ensemble de la région Boeny, notamment à Mahajanga II, Soalala, Mitsinjo, Marovoay et AmbatoBoeny.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
-**Températures minimales** : entre 16 et 19 °C
+**Températures minimales** : entre 15 et 20 °C
 
-**Températures maximales** : entre 32 et 33 °C`
+**Températures maximales** : entre 31 et 33 °C`
 ];
 
 
