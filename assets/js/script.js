@@ -106,6 +106,7 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
 
+
     const templates = [
     `Temps ensoleillé et sec toute la journée sur la région Boeny, avec un ciel dégagé le matin et légèrement voilé l’après-midi.
 
