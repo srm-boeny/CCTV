@@ -107,6 +107,7 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin, devenant partiellement nuageux l’après-midi sur la région Boeny.
 
