@@ -115,6 +115,7 @@ BASSES PRESSIONS SUR LA PARTIE NORD-EST DE LA ZONE ;
 
 
 
+
     const templates = [
     `Temps partiellement nuageux avec un ensoleillement variable sur l'ensemble de la région Boeny, notamment à Mahajanga II, Soalala, Mitsinjo, Marovoay et Ambato Boeny.
 
