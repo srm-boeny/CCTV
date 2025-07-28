@@ -116,6 +116,7 @@ BASSES PRESSIONS AU NORD DE 10S ;
 
 
 
+
     const templates = [
     `Temps généralement ensoleillé à partiellement nuageux sur la région Boeny, avec davantage de nuages l'après-midi.
 
