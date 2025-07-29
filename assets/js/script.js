@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "yellow";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -7,22 +7,23 @@ const vigilanceMessages = [
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide.jpg'
+        image: 'vigilance-vide1.jpg'
     },
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Asabotsy 19 Jolay 2025Tamin’ny 11 ora 11 min** 
+        **Novokarina ny Talata 29 Jolay 2025 Tamin’ny 1 ora 03 min hariva** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy ny fitsokan’ny rivotra eo anelanelan’ny tanjona Bobaomby sy Vohemar, ny morontsirak’i Analalava sy ATSIMO ANDREFANA ka tombanana hahatratra 55
-Km/ora.
+Ho mafy amin’ny ankapobeny ny fitsokan’ny rivotra any amin’ny morontsirak’i SOFIA,  DIANA sy SAVA ary ny tapany Atsimon’ny morontsirak’i ATSIMO ANDREFANA.
+Tombanana hahatratra 55 Km/ora ny hamafin’ny rivotra.
 **Fotoana hisehoany:**  
-– Anio alina hatramin’ny rahampitso 20 Jolay 2025 vao maraina kosa ny morontsirak’i Analalava.
+- Rahampitso Alarobia 30 Jolay 2025 kosa
+ho an’ny morontsirak’i SOFIA sy SAVA.
 
 **Ireo toerana voakasika:**
-**Fanairana miloko MENA :** 
-Tanjona Bobaomby hatrany Vohemar ary ny morontsirak’i Analalava sy ATSIMO ANDREFANA..
+**Fanairana miloko MAVO :** 
+Ny morontsirak’i SOFIA sy SAVA
 
 
 **Ny mety ho fiantraikany:**
@@ -31,7 +32,7 @@ Tanjona Bobaomby hatrany Vohemar ary ny morontsirak’i Analalava sy ATSIMO ANDR
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance_vent1.jpg'
+        image: 'vigilance_vent.png'
     },
     {
         message: `**Vigilance vent fort**  
