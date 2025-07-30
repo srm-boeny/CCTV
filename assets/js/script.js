@@ -127,27 +127,27 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 
 
     const templates = [
-    `Journée ensoleillée avec un ciel devenant partiellement nuageux l'après-midi sur la région Boeny, notamment à Mahajanga II, Soalala, Mitsinjo, Marovoay et Ambato Boeny.
+    `Journée ensoleillée à partiellement nuageuse sur la région Boeny, avec un ciel généralement clair le matin.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
-**Températures minimales** : entre 19 et 21 °C
+**Températures minimales** : entre 20 et 23 °C
 
-**Températures maximales** : entre 32 et 35 °C`,
-    `Temps ensoleillé le matin, devenant partiellement nuageux l’après-midi sur la région Boeny.  
-
-**Vents** : Vents faibles à modérés de secteur ESE
-
-**Températures minimales** : entre 19 et 22 °C
-
-**Températures maximales** : entre 33 et 34 °C`,
-    `Temps ensoleillé à partiellement nuageux sur la région Boeny, avec un ciel généralement clair le matin.
+**Températures maximales** : entre 32 et 34 °C`,
+    `Temps ensoleillé et sec toute la journée sur l'ensemble de la région Boeny, avec un ciel légèrement voilé possible l'après-midi dans les terres.
 
 **Vents** : Vents faibles à modérés de secteur ESE
 
-**Températures minimales** : entre 18 et 21 °C
+**Températures minimales** : entre 17 et 21 °C
 
-**Températures maximales** : entre 32 et 34 °C`
+**Températures maximales** : entre 32 et 34 °C`,
+    `Journée ensoleillée et agréable sur l'ensemble de la région Boeny, avec un ciel dégagé le matin et peu nuageux l'après-midi.
+
+**Vents** : Vents faibles à modérés de secteur ESE
+
+**Températures minimales** : entre 17 et 21 °C
+
+**Températures maximales** : entre 32 et 33 °C`
 ];
 
 
