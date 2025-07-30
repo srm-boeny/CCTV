@@ -12,18 +12,17 @@ Restez informé en cas d’évolution de la situation.`,
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Talata 29 Jolay 2025 Tamin’ny 1 ora 03 min hariva** 
+        **Novokarina ny Alarobia 30 Jolay 2025 Tamin’ny 11 ora 21 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy amin’ny ankapobeny ny fitsokan’ny rivotra any amin’ny morontsirak’i SOFIA,  DIANA sy SAVA ary ny tapany Atsimon’ny morontsirak’i ATSIMO ANDREFANA.
+Ho mafy amin’ny ankapobeny ny fitsokan’ny rivotra any amin’ny morontsirak’i SOFIA, manomboka eo amin’ny tanjona Angotsy hatrany amin’ny tanjona Bobaomby.
 Tombanana hahatratra 55 Km/ora ny hamafin’ny rivotra.
 **Fotoana hisehoany:**  
-- Rahampitso Alarobia 30 Jolay 2025 kosa
-ho an’ny morontsirak’i SOFIA sy SAVA.
+Anio 30 Jolay hatramin’ny rahampitso 31 Jolay 2025
 
 **Ireo toerana voakasika:**
-**Fanairana miloko MAVO :** 
-Ny morontsirak’i SOFIA sy SAVA
+**Fanairana miloko MENA :** 
+Ny morontsirak’i SOFIA, manomboka eo amin’ny tanjona Angotsy hatrany amin’ny tanjona Bobaomby.
 
 
 **Ny mety ho fiantraikany:**
