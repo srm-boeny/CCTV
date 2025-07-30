@@ -126,6 +126,7 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 
 
 
+
     const templates = [
     `Journée ensoleillée à partiellement nuageuse sur la région Boeny, avec un ciel généralement clair le matin.
 
