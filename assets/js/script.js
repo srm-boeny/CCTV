@@ -129,24 +129,18 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 
 
     const templates = [
-    `Voici le résumé des prévisions météo pour le site web :
-
-Temps largement ensoleillé sur la région, notamment à Soalala et dans les terres (Marovoay, AmbatoBoeny), avec quelques passages nuageux attendus sur Mahajanga et Mitsinjo.
-**Vents** : Vents faibles à modérés, de secteur Sud à Sud-Ouest sur le littoral ouest et de secteur Est-Sud-Est dans les terres.
-**Températures minimales** : 23 °C
-**Températures maximales** : entre 33 et 35 °C`,
-    `Voici un résumé météo simple pour votre site web, basé sur les prévisions fournies :
-
-Temps bien ensoleillé sur la région, devenant légèrement nuageux l'après-midi sur la partie Ouest (Soalala et Mitsinjo).
-**Vents** : Vents faibles à modérés de secteur Sud-Est (10 à 17 km/h), avec des rafales pouvant atteindre 25 km/h.
-**Températures minimales** : entre 16 et 21 °C
-**Températures maximales** : entre 33 et 35 °C`,
-    `Voici le résumé des prévisions météo pour une publication web, basé sur les données fournies :
-
-Temps globalement ensoleillé le matin, avec l'apparition de quelques nuages dans l'après-midi, notamment sur la côte Ouest (Soalala).
-**Vents** : Vents faibles à modérés de secteur Sud-Est, sauf à Soalala où ils seront de secteur Ouest.
-**Températures minimales** : entre 16 et 22 °C
-**Températures maximales** : entre 32 et 35 °C`
+    `Temps majoritairement peu nuageux l'après-midi, le ciel sera toutefois bien dégagé sur Soalala.
+**Vents** : Vents faibles à modérés (14 à 19 km/h), de secteur Sud à Sud-Ouest sur la côte et Est-Sud-Est dans les terres, avec des rafales jusqu'à 24 km/h à Soalala.
+**Températures minimales** : 23 °C.
+**Températures maximales** : entre 33 et 35 °C.`,
+    `Temps ensoleillé sur l'ensemble de la région, devenant peu nuageux l'après-midi sur la partie Ouest (Soalala et Mitsinjo).
+**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales pouvant atteindre 25 km/h.
+**Températures minimales** : entre 16 et 21 °C.
+**Températures maximales** : entre 33 et 35 °C.`,
+    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi notamment à Soalala, Marovoay et Mahajanga II.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales pouvant atteindre 29 km/h à Mahajanga I.
+**Températures minimales** : entre 16 et 22 °C.
+**Températures maximales** : entre 32 et 35 °C.`
 ];
 
 
