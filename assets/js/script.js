@@ -77,6 +77,7 @@ BASSES PRESSIONS AU NORD DE 10S, AVEC UN MINIMUM 1009 HPA CENTRE PAR 06S/70E;
 
 
 
+
     const templates = [
     `Temps majoritairement ensoleillé l'après-midi sur la région, avec un ciel particulièrement dégagé sur Soalala.
 **Vents** : Vents faibles à modérés, de secteur Est-Sud-Est sur l'Est et l'intérieur des terres et de secteur Sud à l'Ouest (14 à 19 km/h), avec des rafales possibles jusqu'à 24 km/h à Soalala.
