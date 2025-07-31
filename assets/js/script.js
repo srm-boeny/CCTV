@@ -128,6 +128,7 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 
 
 
+
     const templates = [
     `Temps majoritairement peu nuageux l'après-midi, le ciel sera toutefois bien dégagé sur Soalala.
 **Vents** : Vents faibles à modérés (14 à 19 km/h), de secteur Sud à Sud-Ouest sur la côte et Est-Sud-Est dans les terres, avec des rafales jusqu'à 24 km/h à Soalala.
