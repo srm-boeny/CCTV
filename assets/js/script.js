@@ -12,17 +12,16 @@ Restez informé en cas d’évolution de la situation.`,
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Alarobia 30 Jolay 2025 Tamin’ny 11 ora 21 min** 
+        **Novokarina ny Alakamisy 31 Jolay 2025 Tamin’ny 11 ora 44 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy amin’ny ankapobeny ny fitsokan’ny rivotra any amin’ny morontsirak’i SOFIA, manomboka eo amin’ny tanjona Angotsy hatrany amin’ny tanjona Bobaomby.
-Tombanana hahatratra 55 Km/ora ny hamafin’ny rivotra.
+Ho mafy hatrany amin’ny ankapobeny ny fitsokan’ny rivotra any amin’ny morontsirak’i SOFIA, DIANA ary SAVA. Tombanana hahatratra 55 Km/ora ny hamafin’ny rivotra.
 **Fotoana hisehoany:**  
-Anio 30 Jolay hatramin’ny rahampitso 31 Jolay 2025
+Anio 31 Jolay 2025 ho an’ny morontsirak’i SOFIA sy SAVA. Tombanana hiitatra hatramin’ny rahampitso kosa ho an’ny morontsirak’i DIANA.
 
 **Ireo toerana voakasika:**
 **Fanairana miloko MENA :** 
-Ny morontsirak’i SOFIA, manomboka eo amin’ny tanjona Angotsy hatrany amin’ny tanjona Bobaomby.
+Ny morontsirak’i SOFIA, DIANA ary SAVA.
 
 
 **Ny mety ho fiantraikany:**
@@ -77,57 +76,6 @@ BASSES PRESSIONS AU NORD DE 10S, AVEC UN MINIMUM 1009 HPA CENTREPAR 06S/70E;
 ];
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     const templates = [
     `Temps majoritairement ensoleillé l'après-midi sur la région, avec un ciel particulièrement dégagé sur Soalala.
 **Vents** : Vents faibles à modérés, de secteur Est-Sud-Est sur l'Est et l'intérieur des terres et de secteur Sud à l'Ouest (14 à 19 km/h), avec des rafales possibles jusqu'à 24 km/h à Soalala.
@@ -142,11 +90,6 @@ BASSES PRESSIONS AU NORD DE 10S, AVEC UN MINIMUM 1009 HPA CENTREPAR 06S/70E;
 **Températures minimales** : entre 16 et 22 °C.
 **Températures maximales** : entre 32 et 35 °C.`
 ];
-
-
-
-
-
 
 
 // --- FORMATTER: Bold and Upper ---
