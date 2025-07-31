@@ -128,27 +128,24 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 
 
     const templates = [
-    `Journée ensoleillée à partiellement nuageuse sur la région Boeny, avec un ciel généralement clair le matin.
+    `Voici le résumé des prévisions météo pour le site web :
 
-**Vents** : Vents faibles à modérés de secteur ESE
+Temps largement ensoleillé sur la région, notamment à Soalala et dans les terres (Marovoay, AmbatoBoeny), avec quelques passages nuageux attendus sur Mahajanga et Mitsinjo.
+**Vents** : Vents faibles à modérés, de secteur Sud à Sud-Ouest sur le littoral ouest et de secteur Est-Sud-Est dans les terres.
+**Températures minimales** : 23 °C
+**Températures maximales** : entre 33 et 35 °C`,
+    `Voici un résumé météo simple pour votre site web, basé sur les prévisions fournies :
 
-**Températures minimales** : entre 20 et 23 °C
+Temps bien ensoleillé sur la région, devenant légèrement nuageux l'après-midi sur la partie Ouest (Soalala et Mitsinjo).
+**Vents** : Vents faibles à modérés de secteur Sud-Est (10 à 17 km/h), avec des rafales pouvant atteindre 25 km/h.
+**Températures minimales** : entre 16 et 21 °C
+**Températures maximales** : entre 33 et 35 °C`,
+    `Voici le résumé des prévisions météo pour une publication web, basé sur les données fournies :
 
-**Températures maximales** : entre 32 et 34 °C`,
-    `Temps ensoleillé et sec toute la journée sur l'ensemble de la région Boeny, avec un ciel légèrement voilé possible l'après-midi dans les terres.
-
-**Vents** : Vents faibles à modérés de secteur ESE
-
-**Températures minimales** : entre 17 et 21 °C
-
-**Températures maximales** : entre 32 et 34 °C`,
-    `Journée ensoleillée et agréable sur l'ensemble de la région Boeny, avec un ciel dégagé le matin et peu nuageux l'après-midi.
-
-**Vents** : Vents faibles à modérés de secteur ESE
-
-**Températures minimales** : entre 17 et 21 °C
-
-**Températures maximales** : entre 32 et 33 °C`
+Temps globalement ensoleillé le matin, avec l'apparition de quelques nuages dans l'après-midi, notamment sur la côte Ouest (Soalala).
+**Vents** : Vents faibles à modérés de secteur Sud-Est, sauf à Soalala où ils seront de secteur Ouest.
+**Températures minimales** : entre 16 et 22 °C
+**Températures maximales** : entre 32 et 35 °C`
 ];
 
 
