@@ -127,6 +127,7 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 
 
 
+
     const templates = [
     `Voici le résumé des prévisions météo pour le site web :
 
