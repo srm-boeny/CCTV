@@ -133,7 +133,7 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
     const templates = [
     `Temps majoritairement ensoleillé l'après-midi sur la région, avec un ciel particulièrement dégagé sur Soalala.
 **Vents** : Vents faibles à modérés, de secteur Est-Sud-Est sur l'Est et l'intérieur des terres et de secteur Sud à l'Ouest (14 à 19 km/h), avec des rafales possibles jusqu'à 24 km/h à Soalala.
-**Températures minimales** : 23 °C
+**Températures minimales** : entre 18 et 19 °C
 **Températures maximales** : entre 33 et 35 °C`,
     `Temps ensoleillé sur l'ensemble de la région le matin, devenant légèrement nuageux l'après-midi sur l'Ouest (Soalala et Mitsinjo).
 **Vents** : Vents faibles à modérés de secteur Sud-Est (10 à 17 km/h), avec des rafales jusqu'à 25 km/h à Soalala.
