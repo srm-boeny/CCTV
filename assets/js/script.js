@@ -130,16 +130,16 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 
 
     const templates = [
-    `Temps majoritairement peu nuageux l'après-midi, le ciel sera toutefois bien dégagé sur Soalala.
-**Vents** : Vents faibles à modérés (14 à 19 km/h), de secteur Sud à Sud-Ouest sur la côte et Est-Sud-Est dans les terres, avec des rafales jusqu'à 24 km/h à Soalala.
-**Températures minimales** : 23 °C.
-**Températures maximales** : entre 33 et 35 °C.`,
-    `Temps ensoleillé sur l'ensemble de la région, devenant peu nuageux l'après-midi sur la partie Ouest (Soalala et Mitsinjo).
-**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales pouvant atteindre 25 km/h.
+    `Temps majoritairement ensoleillé l'après-midi sur la région, avec un ciel particulièrement dégagé sur Soalala.
+**Vents** : Vents faibles à modérés, de secteur Est-Sud-Est sur l'Est et l'intérieur des terres et de secteur Sud à l'Ouest (14 à 19 km/h), avec des rafales possibles jusqu'à 24 km/h à Soalala.
+**Températures minimales** : 23 °C
+**Températures maximales** : entre 33 et 35 °C`,
+    `Temps ensoleillé sur l'ensemble de la région le matin, devenant légèrement nuageux l'après-midi sur l'Ouest (Soalala et Mitsinjo).
+**Vents** : Vents faibles à modérés de secteur Sud-Est (10 à 17 km/h), avec des rafales jusqu'à 25 km/h à Soalala.
 **Températures minimales** : entre 16 et 21 °C.
 **Températures maximales** : entre 33 et 35 °C.`,
-    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi notamment à Soalala, Marovoay et Mahajanga II.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales pouvant atteindre 29 km/h à Mahajanga I.
+    `Temps ensoleillé le matin sur la région, devenant partiellement nuageux dans l'après-midi.
+**Vents** : Vents faibles à modérés de 10 à 18 km/h, de secteur Sud à Sud-Est dominant.
 **Températures minimales** : entre 16 et 22 °C.
 **Températures maximales** : entre 32 et 35 °C.`
 ];
