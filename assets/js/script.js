@@ -94,6 +94,7 @@ BASSES PRESSIONS AU NORD DE 10S;
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin, devenant peu à partiellement nuageux l'après-midi sur l'ensemble de la région.
 **Vents** : Vents faibles à modérés de secteur Sud, avec des rafales jusqu'à 25 km/h à Mahajanga I.
