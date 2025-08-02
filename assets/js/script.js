@@ -83,18 +83,18 @@ BASSES PRESSIONS AU NORD DE 10S;
 
 
     const templates = [
-    `Temps ensoleillé sur l'ensemble de la région le matin, devenant partiellement nuageux l'après-midi, notamment sur les parties intérieures et Est.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est (9 à 18 km/h).
-**Températures minimales** : entre 17 et 21 °C.
-**Températures maximales** : entre 33 et 34 °C.`,
-    `Temps ensoleillé sur toute la région le matin, devenant un peu nuageux l'après-midi, surtout sur la partie Est.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est (9 à 19 km/h), avec des rafales pouvant atteindre 28 km/h à Mahajanga I.
-**Températures minimales** : entre 17 et 22 °C
-**Températures maximales** : entre 32 et 35 °C`,
-    `Temps largement ensoleillé sur la région, avec quelques passages nuageux l'après-midi à AmbatoBoeny.
-**Vents** : Vents faibles de secteur Sud à Sud-Est (8 à 19 km/h).
-**Températures minimales** : entre 16 et 19 °C
-**Températures maximales** : entre 33 et 35 °C`
+    `Temps ensoleillé le matin, devenant peu à partiellement nuageux l'après-midi sur l'ensemble de la région.
+**Vents** : Vents faibles à modérés de secteur Sud, avec des rafales jusqu'à 25 km/h à Mahajanga I.
+**Températures minimales** : entre 17 et 22 °C.
+**Températures maximales** : entre 31 et 35 °C.`,
+    `Temps majoritairement ensoleillé sur l'ensemble de la région, avec quelques nuages attendus l'après-midi sur Mahajanga I et dans l'Est.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest (10 à 23 km/h), avec des rafales pouvant atteindre 32 km/h à Mahajanga I.
+**Températures minimales** : entre 17 et 20 °C
+**Températures maximales** : entre 33 et 35 °C`,
+    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi, notamment dans les terres et sur la partie Est.
+**Vents** : Vents faibles à modérés de secteur Sud-Est (12 à 21 km/h).
+**Températures minimales** : entre 19 et 21 °C.
+**Températures maximales** : entre 34 et 35 °C.`
 ];
 
 
