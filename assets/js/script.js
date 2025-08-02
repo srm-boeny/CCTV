@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "green";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -7,7 +7,7 @@ const vigilanceMessages = [
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide.jpg'
+        image: 'vigilance-vide1.jpg'
     },
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
@@ -15,13 +15,24 @@ Restez informé en cas d’évolution de la situation.`,
         **Novokarina ny Alakamisy 31 Jolay 2025 Tamin’ny 11 ora 44 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy hatrany amin’ny ankapobeny ny fitsokan’ny rivotra any amin’ny morontsirak’i SOFIA, DIANA ary SAVA. Tombanana hahatratra 55 Km/ora ny hamafin’ny rivotra.
+Ho mafy ny fitsokan’ny rivotra any amin’ny morontsirak’i SOFIA, manomboka eo
+amin’ny tanjona Bobaomby hatrany amin’ny tanjona Angotsy ary ny morontsiraka
+Afovoany sy Atsimo Andrefan’ny Nosy. Tombanana hahatratra 55 Km/ora ny
+hamafin’ny rivotra.
+
 **Fotoana hisehoany:**  
-Anio 31 Jolay 2025 ho an’ny morontsirak’i SOFIA sy SAVA. Tombanana hiitatra hatramin’ny rahampitso kosa ho an’ny morontsirak’i DIANA.
+ Manomboka ny Alatsinainy 04
+Aogositra 2025 kosa ho an’ny
+morontsirak’i SOFIA ary eo
+anelanelan’ny tanjona Bobaomby sy
+ny tanjona Angotsy.
+
 
 **Ireo toerana voakasika:**
-**Fanairana miloko MENA :** 
-Ny morontsirak’i SOFIA, DIANA ary SAVA.
+**Fanairana miloko MAINTSO :** 
+Ny morontsirak’i SOFIA, eo
+anelanelan’ny tanjona Bobaomby sy ny
+tanjona Angotsy.
 
 
 **Ny mety ho fiantraikany:**
@@ -30,7 +41,7 @@ Ny morontsirak’i SOFIA, DIANA ary SAVA.
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance_vent1.png'
+        image: 'vigilance_vent.png'
     },
     {
         message: `**Vigilance vent fort**  
