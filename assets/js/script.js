@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "green";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "yellow";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -12,27 +12,19 @@ Restez informé en cas d’évolution de la situation.`,
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Alakamisy 31 Jolay 2025 Tamin’ny 11 ora 44 min** 
+        **Novokarina nyAlahady 3 Aogositra 2025 Tamin’ny 08 ora 17 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy ny fitsokan’ny rivotra any amin’ny morontsirak’i SOFIA, manomboka eo
-amin’ny tanjona Bobaomby hatrany amin’ny tanjona Angotsy ary ny morontsiraka
-Afovoany sy Atsimo Andrefan’ny Nosy. Tombanana hahatratra 55 Km/ora ny
-hamafin’ny rivotra.
+Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Mahajanga sy Analalava ary eo anelanelan’ny tanjona Bobaomby sy ny tanjona Angotsy. Tombanana hahatratra 55 Km/ora ny hamafin’ny rivotra
 
 **Fotoana hisehoany:**  
- Manomboka ny Alatsinainy 04
-Aogositra 2025 kosa ho an’ny
-morontsirak’i SOFIA ary eo
-anelanelan’ny tanjona Bobaomby sy
-ny tanjona Angotsy.
+– Manomboka rahampitso 04 Aogositra 2025 tolak’andro ny eo anelanelan’i Mahajanga sy Analalava ary eo anelanelan’ny tanjona Bobaomby sy ny tanjona Angotsy.
 
 
 **Ireo toerana voakasika:**
-**Fanairana miloko MAINTSO :** 
-Ny morontsirak’i SOFIA, eo
-anelanelan’ny tanjona Bobaomby sy ny
-tanjona Angotsy.
+**Fanairana miloko MAVO :** 
+-Tanjona Bobaomby hatrany amin’ny tanjona Angotsy;
+– Mahajanga hatrany Analalava.
 
 
 **Ny mety ho fiantraikany:**
