@@ -51,30 +51,30 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-BULLETIN DE PRÉVISION MARINE CÔTIÈRE JUSQU’À 50 MILLES NAUTIQUES AU LARGE ÉTABLI PAR MÉTÉO MADAGASCAR LE 01/08/2025 A 10 TU, VALABLE LE 01/08/2025 A 10 TU JUSQU’AU 02/08/2025 A 10 TU.
+BULLETIN DE PRÉVISION MARINE CÔTIÈRE JUSQU’À 50 MILLES NAUTIQUES AU LARGE ÉTABLI PAR MÉTÉO MADAGASCAR LE 02/08/2025 A 10 TU, VALABLE LE 02/08/2025 A 10 TU JUSQU’AU 03/08/2025 A 10 TU.
  LE VENT DONNÉ DANS CE BULLETIN CORRESPOND AU VENT MOYEN PRÉVU EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES.
 
 **CAP ST ANDRÉ A ANALALAVA**
-CAP ST ANDRÉ A ANALALAVA VENT : Ouest 10/20, devenant Sud-Est 15/20 le matin.
- ÉTAT DE LA MER : Peu agitée.
- Hauteur des vagues 0.5/1m.
+CAP ST ANDRÉ A ANALALAVA VENT : Sud à Sud-Est 10/15 atteignant 20/25 au voisinage de Besalampy.
+ ÉTAT DE LA MER : Peu agitée à agitée.
+ Hauteur des vagues 0.8/1.5m, localement 2m la nuit.
  TEMPS : Ciel dégagé.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 01/08/2025 A 10 TU, VALABLE LE 01/08/2025 A 10 TU JUSQU’AU 02/08/2025 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 02/08/2025 A 10 TU, VALABLE LE 02/08/2025 A 10 TU JUSQU’AU 03/08/2025 A 10 TU.
  LE VENT DONNÉ DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) N MÈTRES.
 
 **Situation generale**:
-BASSES PRESSIONS AU NORD DE 10S;
- FRONT FROID AXE PAR 28S/33E, 33S/37E ET 38S/40E;
- ANTICYCLONE 1041 HPA CENTRE PAR 36S/64E.
+BASSES PRESSIONS AU NORD DE 15S;
+ FRONT FROID AXE PAR 20S/38E, 25S/46E, 30S/50E ET 33S/51E;
+ ANTICYCLONE 1031 HPA CENTRE PAR 35S/32E.
 
 10S/20S :
-10S/20S : VENT : SECTEUR SUD 15/20. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
- TEMPS : PLUIES FAIBLES PAR ENDROITS.`,
+10S/20S : VENT : SECTEUR SUD 15/20 LOCALEMENT 25/30. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE, FORTE A L’OUEST DE 43E PAR HOULE DE SECTEUR SUD.
+ TEMPS : PLUIES FAIBLES ÉPARSES.`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
@@ -86,19 +86,22 @@ BASSES PRESSIONS AU NORD DE 10S;
 
 
 
+
+
+
     const templates = [
-    `Temps ensoleillé le matin, devenant peu à partiellement nuageux l'après-midi sur l'ensemble de la région.
-**Vents** : Vents faibles à modérés de secteur Sud, avec des rafales jusqu'à 25 km/h à Mahajanga I.
-**Températures minimales** : entre 17 et 22 °C.
-**Températures maximales** : entre 31 et 35 °C.`,
-    `Temps majoritairement ensoleillé sur l'ensemble de la région, avec quelques nuages attendus l'après-midi sur Mahajanga I et dans l'Est.
-**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest (10 à 23 km/h), avec des rafales pouvant atteindre 32 km/h à Mahajanga I.
-**Températures minimales** : entre 17 et 20 °C
-**Températures maximales** : entre 33 et 35 °C`,
-    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi, notamment dans les terres et sur la partie Est.
-**Vents** : Vents faibles à modérés de secteur Sud-Est (12 à 21 km/h).
-**Températures minimales** : entre 19 et 21 °C.
-**Températures maximales** : entre 34 et 35 °C.`
+    `Temps ensoleillé sur l'ensemble de la région le matin, devenant partiellement nuageux l'après-midi dans les terres (Marovoay, AmbatoBoeny) et à l'Est (Mahajanga II).
+**Vents** : Faibles à modérés, de secteur Sud-Ouest sur la côte ouest et de secteur Est-Sud-Est dans les terres, avec des rafales jusqu'à 30 km/h à Mahajanga I.
+**Températures minimales** : entre 17 et 20 °C.
+**Températures maximales** : entre 33 et 35 °C.`,
+    `Temps ensoleillé le matin, l'après-midi restera dégagé sur l'Ouest tandis que des nuages apparaîtront sur l'Est et l'intérieur, notamment à Mahajanga II et AmbatoBoeny.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, soufflant en moyenne à 15 km/h.
+**Températures minimales** : entre 18 et 21 °C
+**Températures maximales** : entre 34 et 35 °C`,
+    `Temps ensoleillé sur l'ensemble de la région, devenant nuageux l'après-midi uniquement sur le district de Mahajanga I.
+**Vents** : Vents modérés de secteur Sud-Est (16 à 25 km/h), avec des rafales jusqu'à 32 km/h à Mahajanga I.
+**Températures minimales** : entre 14 et 19 °C
+**Températures maximales** : entre 32 et 34 °C`
 ];
 
 
