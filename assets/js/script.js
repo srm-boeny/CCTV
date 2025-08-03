@@ -97,18 +97,18 @@ BASSES PRESSIONS AU NORD DE 15S;
 
 
     const templates = [
-    `Temps ensoleillé le matin, devenant peu à partiellement nuageux l'après-midi sur l'ensemble de la région.
-**Vents** : Vents faibles à modérés de secteur Sud, avec des rafales jusqu'à 25 km/h à Mahajanga I.
-**Températures minimales** : entre 17 et 22 °C.
-**Températures maximales** : entre 31 et 35 °C.`,
-    `Temps majoritairement ensoleillé sur l'ensemble de la région, avec quelques nuages attendus l'après-midi sur Mahajanga I et dans l'Est.
-**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest (10 à 23 km/h), avec des rafales pouvant atteindre 32 km/h à Mahajanga I.
-**Températures minimales** : entre 17 et 20 °C
-**Températures maximales** : entre 33 et 35 °C`,
-    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi, notamment dans les terres et sur la partie Est.
-**Vents** : Vents faibles à modérés de secteur Sud-Est (12 à 21 km/h).
-**Températures minimales** : entre 19 et 21 °C.
-**Températures maximales** : entre 34 et 35 °C.`
+    `Temps ensoleillé sur l'ensemble de la région le matin, devenant partiellement nuageux l'après-midi dans les terres (Marovoay, AmbatoBoeny) et à l'Est (Mahajanga II).
+**Vents** : Faibles à modérés, de secteur Sud-Ouest sur la côte ouest et de secteur Est-Sud-Est dans les terres, avec des rafales jusqu'à 30 km/h à Mahajanga I.
+**Températures minimales** : entre 17 et 20 °C.
+**Températures maximales** : entre 33 et 35 °C.`,
+    `Temps ensoleillé le matin, l'après-midi restera dégagé sur l'Ouest tandis que des nuages apparaîtront sur l'Est et l'intérieur, notamment à Mahajanga II et AmbatoBoeny.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, soufflant en moyenne à 15 km/h.
+**Températures minimales** : entre 18 et 21 °C
+**Températures maximales** : entre 34 et 35 °C`,
+    `Temps ensoleillé sur l'ensemble de la région, devenant nuageux l'après-midi uniquement sur le district de Mahajanga I.
+**Vents** : Vents modérés de secteur Sud-Est (16 à 25 km/h), avec des rafales jusqu'à 32 km/h à Mahajanga I.
+**Températures minimales** : entre 14 et 19 °C
+**Températures maximales** : entre 32 et 34 °C`
 ];
 
 
