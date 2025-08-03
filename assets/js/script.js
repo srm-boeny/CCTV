@@ -96,6 +96,7 @@ BASSES PRESSIONS AU NORD DE 15S;
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région le matin, devenant partiellement nuageux l'après-midi dans les terres (Marovoay, AmbatoBoeny) et à l'Est (Mahajanga II).
 **Vents** : Faibles à modérés, de secteur Sud-Ouest sur la côte ouest et de secteur Est-Sud-Est dans les terres, avec des rafales jusqu'à 30 km/h à Mahajanga I.
