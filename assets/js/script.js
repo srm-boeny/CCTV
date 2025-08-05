@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "yellow";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -12,18 +12,21 @@ Restez informé en cas d’évolution de la situation.`,
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina nyAlahady 3 Aogositra 2025 Tamin’ny 08 ora 17 min** 
+        **Novokarina ny Alatsinainy 4 Aogositra 2025 Tamin’ny 09 ora 26 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Mahajanga sy Analalava ary eo anelanelan’ny tanjona Bobaomby sy ny tanjona Angotsy. Tombanana hahatratra 55 Km/ora ny hamafin’ny rivotra
-
+Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Mahajanga sy Analalava ary eo
+anelanelan’ny tanjona Bobaomby sy ny tanjona Angotsy. Tombanana ho 55 Km/ora
+ny hamafin’ny rivotra, hahatratra 65 Km/ora indraindray any Avaratr’i Vohémar.
 **Fotoana hisehoany:**  
-– Manomboka rahampitso 04 Aogositra 2025 tolak’andro ny eo anelanelan’i Mahajanga sy Analalava ary eo anelanelan’ny tanjona Bobaomby sy ny tanjona Angotsy.
-
+Manomboka anio 04 Aogositra 2025
+tolak’andro ny eo anelanelan’i
+Mahajanga sy Analalava ary eo
+anelanelan’ny tanjona Bobaomby sy ny
+tanjona Angotsy.
 
 **Ireo toerana voakasika:**
-**Fanairana miloko MAVO :** 
--Tanjona Bobaomby hatrany amin’ny tanjona Angotsy;
+**Fanairana miloko MENA :** 
 – Mahajanga hatrany Analalava.
 
 
