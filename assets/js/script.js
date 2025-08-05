@@ -12,17 +12,16 @@ Restez informé en cas d’évolution de la situation.`,
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Alatsinainy 4 Aogositra 2025 Tamin’ny 09 ora 26 min** 
+        **Novokarina ny Talata 5 Aogositra 2025 Tamin’ny 09 ora 07 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
 Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Mahajanga sy Analalava ary eo
 anelanelan’ny tanjona Bobaomby sy ny tanjona Angotsy. Tombanana ho 55 Km/ora
 ny hamafin’ny rivotra, hahatratra 65 Km/ora indraindray any Avaratr’i Vohémar.
 **Fotoana hisehoany:**  
-Manomboka anio 04 Aogositra 2025
-tolak’andro ny eo anelanelan’i
+Anio 05 Aogositra 2025 eo anelanelan’i
 Mahajanga sy Analalava ary eo
-anelanelan’ny tanjona Bobaomby sy ny
+anelanelan’ny Vohemar sy ny
 tanjona Angotsy.
 
 **Ireo toerana voakasika:**
