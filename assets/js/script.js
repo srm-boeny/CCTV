@@ -100,6 +100,7 @@ BASSES PRESSIONS AU NORD DE 10S;
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région, avec de rares passages nuageux l'après-midi à Marovoay.
 **Vents** : Vents faibles à modérés de secteur Est-Sud-Est, plus soutenus à Mahajanga I avec des rafales jusqu'à 36 km/h.
