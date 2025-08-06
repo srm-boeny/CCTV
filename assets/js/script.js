@@ -103,6 +103,7 @@ BASSES PRESSIONS AU NORD DE 10S;
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin, avec l'apparition de quelques nuages l'après-midi sur l'Est et l'intérieur des terres.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est (15 à 21 km/h), avec des rafales jusqu'à 26 km/h à Mahajanga.
