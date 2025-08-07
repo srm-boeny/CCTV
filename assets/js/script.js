@@ -102,6 +102,7 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
 
+
     const templates = [
     `Temps largement ensoleillé sur l'ensemble de la région, quelques passages nuageux sont attendus l'après-midi à Mitsinjo et Mahajanga II.
 **Vents** : Vents faibles à modérés de secteur Sud (7 à 17 km/h).
