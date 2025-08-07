@@ -103,18 +103,18 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
     const templates = [
-    `Temps ensoleillé le matin, avec l'apparition de quelques nuages l'après-midi sur l'Est et l'intérieur des terres.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est (15 à 21 km/h), avec des rafales jusqu'à 26 km/h à Mahajanga.
-**Températures minimales** : entre 14 et 20 °C.
-**Températures maximales** : entre 32 et 34 °C.`,
-    `Le temps sera globalement ensoleillé sur la région, avec quelques passages nuageux l'après-midi sur Mahajanga II.
-**Vents** : Vents faibles à modérés de secteur Sud-Est.
-**Températures minimales** : entre 14 et 20 °C.
+    `Temps largement ensoleillé sur l'ensemble de la région, quelques passages nuageux sont attendus l'après-midi à Mitsinjo et Mahajanga II.
+**Vents** : Vents faibles à modérés de secteur Sud (7 à 17 km/h).
+**Températures minimales** : entre 16 et 20 °C.
 **Températures maximales** : entre 32 et 35 °C.`,
-    `Temps ensoleillé sur la majeure partie de la région, devenant peu nuageux dans l'après-midi à Mitsinjo.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des rafales pouvant atteindre 22 km/h à Mahajanga I.
-**Températures minimales** : entre 17 et 19 °C
-**Températures maximales** : entre 32 et 35 °C`
+    `Journée ensoleillée sur l'ensemble de la région, avec l'apparition de quelques nuages l'après-midi, notamment à Mitsinjo, Marovoay et Mahajanga II.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales pouvant atteindre 24 km/h à Mahajanga I.
+**Températures minimales** : entre 17 et 19 °C.
+**Températures maximales** : entre 32 et 35 °C.`,
+    `Journée ensoleillée sur l'ensemble de la région, avec l'apparition de quelques nuages l'après-midi à Marovoay.
+**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des rafales atteignant 32 km/h sur Mahajanga I.
+**Températures minimales** : entre 18 et 19 °C.
+**Températures maximales** : entre 32 et 35 °C.`
 ];
 
 
