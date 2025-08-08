@@ -105,6 +105,7 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin, puis quelques passages nuageux l'après-midi notamment sur Mitsinjo, Marovoay et Mahajanga II.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est.
