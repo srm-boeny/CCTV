@@ -105,18 +105,18 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
     const templates = [
-    `Temps largement ensoleillé sur l'ensemble de la région, quelques passages nuageux sont attendus l'après-midi à Mitsinjo et Mahajanga II.
-**Vents** : Vents faibles à modérés de secteur Sud (7 à 17 km/h).
-**Températures minimales** : entre 16 et 20 °C.
+    `Temps ensoleillé le matin, puis quelques passages nuageux l'après-midi notamment sur Mitsinjo, Marovoay et Mahajanga II.
+**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est.
+**Températures minimales** : entre 17 et 20 °C.
+**Températures maximales** : entre 31 et 35 °C.`,
+    `Temps ensoleillé sur l'ensemble de la région le matin, devenant partiellement nuageux l'après-midi notamment sur Mitsinjo, Marovoay et AmbatoBoeny.
+**Vents** : Vents faibles à modérés, de secteur Sud à Sud-Ouest sur la côte ouest et de secteur Est sur la partie Est et intérieure des terres (9 à 19 km/h).
+**Températures minimales** : entre 18 et 20 °C.
 **Températures maximales** : entre 32 et 35 °C.`,
-    `Journée ensoleillée sur l'ensemble de la région, avec l'apparition de quelques nuages l'après-midi, notamment à Mitsinjo, Marovoay et Mahajanga II.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales pouvant atteindre 24 km/h à Mahajanga I.
-**Températures minimales** : entre 17 et 19 °C.
-**Températures maximales** : entre 32 et 35 °C.`,
-    `Journée ensoleillée sur l'ensemble de la région, avec l'apparition de quelques nuages l'après-midi à Marovoay.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des rafales atteignant 32 km/h sur Mahajanga I.
-**Températures minimales** : entre 18 et 19 °C.
-**Températures maximales** : entre 32 et 35 °C.`
+    `Temps ensoleillé le matin, devenant passagèrement nuageux dans l'après-midi notamment sur l'Ouest et dans les terres.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, soufflant entre 9 et 19 km/h.
+**Températures minimales** : entre 17 et 20 °C.
+**Températures maximales** : entre 33 et 36 °C.`
 ];
 
 
