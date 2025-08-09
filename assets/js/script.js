@@ -106,6 +106,7 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin, devenant partiellement nuageux dans l'après-midi sur l'ensemble de la région.
 **Vents** : Vents faibles à modérés de 7 à 18 km/h, de secteur majoritairement Sud à Sud-Est.
