@@ -109,18 +109,18 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
     const templates = [
-    `Temps ensoleillé le matin, devenant partiellement nuageux dans l'après-midi sur l'ensemble de la région.
-**Vents** : Vents faibles à modérés de 7 à 18 km/h, de secteur majoritairement Sud à Sud-Est.
-**Températures minimales** : entre 18 et 20 °C
-**Températures maximales** : entre 32 et 35 °C`,
-    `Temps partiellement nuageux sur la majeure partie de la région, avec de belles éclaircies l'après-midi sur Mahajanga I.
-**Vents** : Vents faibles de secteur Sud à Sud-Est, sauf sur Mahajanga II où ils seront de secteur Est.
-**Températures minimales** : entre 18 et 20 °C
-**Températures maximales** : entre 32 et 36 °C`,
-    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi notamment sur Soalala, Mitsinjo et AmbatoBoeny.
-**Vents** : Vents faibles à modérés de secteur Est à Sud-Est, avec des vitesses moyennes entre 10 et 15 km/h.
-**Températures minimales** : entre 17 et 20 °C
-**Températures maximales** : entre 33 et 36 °C`
+    `Temps majoritairement ensoleillé le matin, devenant partiellement nuageux dans l'après-midi sur l'ensemble de la région.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des vitesses moyennes de 10 à 18 km/h.
+**Températures minimales** : entre 18 et 21 °C.
+**Températures maximales** : entre 33 et 35 °C.`,
+    `Temps ensoleillé le matin sur toute la région, devenant partiellement nuageux l'après-midi, notamment dans les terres à Marovoay et AmbatoBoeny.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, soufflant en moyenne entre 10 et 16 km/h.
+**Températures minimales** : entre 17 et 20 °C.
+**Températures maximales** : entre 33 et 35 °C.`,
+    `Temps ensoleillé le matin, devenant nuageux dans l'après-midi sur l'ensemble de la région.
+**Vents** : Vents faibles à modérés, de secteur Sud sur la partie Ouest et de secteur Est à Sud-Est sur l'Est et l'intérieur des terres.
+**Températures minimales** : 18 °C.
+**Températures maximales** : entre 34 et 36 °C.`
 ];
 
 
