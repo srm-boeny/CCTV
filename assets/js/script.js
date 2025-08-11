@@ -61,7 +61,7 @@ CAP ST ANDRÉ A ANALALAVA VENT : Sud-Est 15/20, atteignant 20/25 entre Mahajanga
  ÉTAT DE LA MER : Peu agitée.
  Hauteur des vagues 0.5/1m.
  TEMPS : Partiellement nuageux.`,
-        image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
+        image: 'Image_marine_cotiere_SITEWEB-MHJ-1.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
@@ -77,9 +77,10 @@ BASSES PRESSIONS AU NORD DE 12S ;
 10S/20S :
 10S/20S : VENT : SUD A SUD-EST 10/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
  TEMPS : PARTIELLEMENT NUAGEUX A ENSOLEILLE.`,
-        image: 'Image_marine_haute_mer_SITEWEB.png'
+        image: 'Image_marine_haute_mer_SITEWEB-1.png'
     }
 ];
+
 
 
 
