@@ -114,6 +114,7 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin sur l'ensemble de la région, se dégradant dans l'après-midi avec des pluies, notamment de fortes pluies attendues sur AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Sud à Est, avec des rafales pouvant atteindre 22 km/h sur Marovoay.
