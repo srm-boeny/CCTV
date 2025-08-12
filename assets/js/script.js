@@ -114,17 +114,17 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
     const templates = [
-    `Temps majoritairement ensoleillé le matin, devenant partiellement nuageux dans l'après-midi sur l'ensemble de la région.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des vitesses moyennes de 10 à 18 km/h.
-**Températures minimales** : entre 18 et 21 °C.
-**Températures maximales** : entre 33 et 35 °C.`,
-    `Temps ensoleillé le matin sur toute la région, devenant partiellement nuageux l'après-midi, notamment dans les terres à Marovoay et AmbatoBoeny.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, soufflant en moyenne entre 10 et 16 km/h.
-**Températures minimales** : entre 17 et 20 °C.
-**Températures maximales** : entre 33 et 35 °C.`,
-    `Temps ensoleillé le matin, devenant nuageux dans l'après-midi sur l'ensemble de la région.
-**Vents** : Vents faibles à modérés, de secteur Sud sur la partie Ouest et de secteur Est à Sud-Est sur l'Est et l'intérieur des terres.
-**Températures minimales** : 18 °C.
+    `Temps ensoleillé le matin sur l'ensemble de la région, se dégradant dans l'après-midi avec des pluies, notamment de fortes pluies attendues sur AmbatoBoeny.
+**Vents** : Vents faibles à modérés de secteur Sud à Est, avec des rafales pouvant atteindre 22 km/h sur Marovoay.
+**Températures minimales** : entre 19 et 22 °C
+**Températures maximales** : entre 34 et 36 °C`,
+    `Temps ensoleillé à partiellement nuageux sur la région, avec un risque de faibles averses sur Marovoay dans l'après-midi.
+**Vents** : Vents faibles à modérés de secteur Sud-Est (9 à 17 km/h).
+**Températures minimales** : entre 20 et 22 °C.
+**Températures maximales** : entre 34 et 36 °C.`,
+    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi notamment sur Mahajanga I, Marovoay et Mahajanga II.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales pouvant atteindre 24 km/h à Mahajanga II.
+**Températures minimales** : entre 19 et 22 °C.
 **Températures maximales** : entre 34 et 36 °C.`
 ];
 
