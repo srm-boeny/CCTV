@@ -116,18 +116,18 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
     const templates = [
-    `Temps ensoleillé le matin sur l'ensemble de la région, se dégradant dans l'après-midi avec des pluies, notamment de fortes pluies attendues sur AmbatoBoeny.
-**Vents** : Vents faibles à modérés de secteur Sud à Est, avec des rafales pouvant atteindre 22 km/h sur Marovoay.
-**Températures minimales** : entre 19 et 22 °C
-**Températures maximales** : entre 34 et 36 °C`,
-    `Temps ensoleillé à partiellement nuageux sur la région, avec un risque de faibles averses sur Marovoay dans l'après-midi.
-**Vents** : Vents faibles à modérés de secteur Sud-Est (9 à 17 km/h).
-**Températures minimales** : entre 20 et 22 °C.
+    `Temps majoritairement ensoleillé sur la région, hormis sur l'Ouest où quelques faibles averses sont possibles l'après-midi.
+**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est.
+**Températures minimales** : entre 20 et 23 °C.
+**Températures maximales** : entre 33 et 36 °C.`,
+    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi notamment à Mahajanga et AmbatoBoeny.
+**Vents** : Vents faibles à modérés de secteur Est à Sud-Est, avec des rafales atteignant 23 km/h à Mahajanga I.
+**Températures minimales** : entre 19 et 21 °C.
 **Températures maximales** : entre 34 et 36 °C.`,
-    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi notamment sur Mahajanga I, Marovoay et Mahajanga II.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales pouvant atteindre 24 km/h à Mahajanga II.
+    `Temps ensoleillé sur l'ensemble de la région, avec l'apparition de quelques nuages l'après-midi sur la partie Ouest.
+**Vents** : Vents faibles à modérés de secteur Sud-Est (10 à 18 km/h), avec des rafales pouvant atteindre 25 km/h à Mahajanga I.
 **Températures minimales** : entre 19 et 22 °C.
-**Températures maximales** : entre 34 et 36 °C.`
+**Températures maximales** : entre 33 et 36 °C.`
 ];
 
 
