@@ -116,6 +116,7 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
 
+
     const templates = [
     `Temps majoritairement ensoleillé sur la région, hormis sur l'Ouest où quelques faibles averses sont possibles l'après-midi.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est.
