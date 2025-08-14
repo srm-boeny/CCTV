@@ -118,6 +118,7 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'Ouest (Soalala, Mitsinjo), avec des passages nuageux sur les parties intérieures et Est de la région.
 **Vents** : Vents faibles à modérés de 10 à 16 km/h, de secteur Sud à Sud-Ouest, sauf sur Mahajanga II où ils seront de secteur Est.
