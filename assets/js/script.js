@@ -118,18 +118,18 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
     const templates = [
-    `Temps majoritairement ensoleillé sur la région, hormis sur l'Ouest où quelques faibles averses sont possibles l'après-midi.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est.
-**Températures minimales** : entre 20 et 23 °C.
-**Températures maximales** : entre 33 et 36 °C.`,
-    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi notamment à Mahajanga et AmbatoBoeny.
-**Vents** : Vents faibles à modérés de secteur Est à Sud-Est, avec des rafales atteignant 23 km/h à Mahajanga I.
-**Températures minimales** : entre 19 et 21 °C.
-**Températures maximales** : entre 34 et 36 °C.`,
-    `Temps ensoleillé sur l'ensemble de la région, avec l'apparition de quelques nuages l'après-midi sur la partie Ouest.
-**Vents** : Vents faibles à modérés de secteur Sud-Est (10 à 18 km/h), avec des rafales pouvant atteindre 25 km/h à Mahajanga I.
+    `Temps ensoleillé sur l'Ouest (Soalala, Mitsinjo), avec des passages nuageux sur les parties intérieures et Est de la région.
+**Vents** : Vents faibles à modérés de 10 à 16 km/h, de secteur Sud à Sud-Ouest, sauf sur Mahajanga II où ils seront de secteur Est.
+**Températures minimales** : entre 22 et 25 °C
+**Températures maximales** : entre 34 et 36 °C`,
+    `Temps ensoleillé le matin, puis l'après-midi des passages nuageux se développent principalement dans les terres (Marovoay, AmbatoBoeny) et à l'Est (Mahajanga II).
+**Vents** : Vents faibles à modérés de secteur Sud à Sud-Ouest, avec des vitesses moyennes de 9 à 16 km/h.
 **Températures minimales** : entre 19 et 22 °C.
-**Températures maximales** : entre 33 et 36 °C.`
+**Températures maximales** : entre 32 et 35 °C.`,
+    `Temps ensoleillé sur la majeure partie de la région, toutefois des averses légères sont attendues l'après-midi sur l'Ouest, notamment à Soalala.
+**Vents** : Vents faibles à modérés de secteur Sud (7 à 18 km/h).
+**Températures minimales** : entre 20 et 22 °C.
+**Températures maximales** : entre 32 et 35 °C.`
 ];
 
 
