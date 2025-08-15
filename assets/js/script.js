@@ -120,6 +120,7 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin, devenant passagèrement nuageux l'après-midi notamment sur Marovoay et Mahajanga II.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est.
