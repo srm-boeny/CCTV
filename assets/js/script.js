@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "green";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -7,26 +7,22 @@ const vigilanceMessages = [
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide.jpg'
+        image: 'vigilance-vide1.jpg'
     },
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Talata 5 Aogositra 2025 Tamin’ny 09 ora 07 min** 
+        **Novokarina ny Sabotsy 16 Aogositra 2025Tamin’ny 10 ora 26 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Mahajanga sy Analalava ary eo
-anelanelan’ny tanjona Bobaomby sy ny tanjona Angotsy. Tombanana ho 55 Km/ora
-ny hamafin’ny rivotra, hahatratra 65 Km/ora indraindray any Avaratr’i Vohémar.
+Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Toliara sy Taolagnaro ary eo
+anelanelan’i Mahajanga sy Analalava. Tombanana hahatratra hatrami’nny 55 Km/ora ny hamafin’ny rivotra.
 **Fotoana hisehoany:**  
-Anio 05 Aogositra 2025 eo anelanelan’i
-Mahajanga sy Analalava ary eo
-anelanelan’ny Vohemar sy ny
-tanjona Angotsy.
+– Manomboka ny Alatsinainy 18 Aogositra 2025 alina hatramin’ny Talata 19 Aogositra 2025 maraina ny eo anelanelan’i Mahajanga sy Analalava.
 
 **Ireo toerana voakasika:**
-**Fanairana miloko MENA :** 
-– Mahajanga hatrany Analalava.
+**Fanairana miloko MAINTSO :** 
+Eo anelanelan’i Mahajanga sy Analalava.
 
 
 **Ny mety ho fiantraikany:**
@@ -35,7 +31,7 @@ tanjona Angotsy.
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance_vent1.png'
+        image: 'vigilance_vent.png'
     },
     {
         message: `**Vigilance vent fort**  

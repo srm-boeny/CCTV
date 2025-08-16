@@ -6,8 +6,8 @@ import re
 URL = "https://www.meteomadagascar.mg/prevision/previsions-marines-3/"
 JS_FILE_PATH = "./assets/js/script.js"
 #JS_FILE_PATH = "./assets/js/script.js"
-IMAGE_COTIERE = "Image_marine_cotiere_SITEWEB-MHJ-1.png"
-IMAGE_HAUTE_MER = "Image_marine_haute_mer_SITEWEB-1.png"
+IMAGE_COTIERE = "Image_marine_cotiere_SITEWEB-MHJ.png"
+IMAGE_HAUTE_MER = "Image_marine_haute_mer_SITEWEB.png"
 
 def get_clean_text(p):
     text = p.get_text(separator=' ').strip()
