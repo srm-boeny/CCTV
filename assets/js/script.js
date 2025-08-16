@@ -121,6 +121,7 @@ BASSES PRESSIONS AU NORD DE 12S ;
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin, devenant nuageux l'après-midi avec de légères averses attendues sur la partie Ouest, notamment à Soalala.
 **Vents** : Vents faibles à modérés de secteur Sud-Est.
