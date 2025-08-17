@@ -119,18 +119,18 @@ NEANT.
 
 
     const templates = [
-    `Temps ensoleillé le matin, devenant nuageux l'après-midi avec de légères averses attendues sur la partie Ouest, notamment à Soalala.
-**Vents** : Vents faibles à modérés de secteur Sud-Est.
-**Températures minimales** : entre 19 et 22 °C.
-**Températures maximales** : entre 32 et 35 °C.`,
-    `Temps ensoleillé sur la majeure partie de la région le matin, devenant plus nuageux l'après-midi, notamment à l'intérieur des terres à Marovoay.
-**Vents** : Faibles à modérés de secteur Sud à Sud-Est, avec des vitesses moyennes comprises entre 9 et 17 km/h.
-**Températures minimales** : entre 19 et 24 °C.
-**Températures maximales** : entre 32 et 35 °C.`,
-    `Matinée alternant entre nuages et éclaircies sur l'ensemble de la région, des averses sont attendues l'après-midi notamment sur l'Ouest (Soalala), l'intérieur (Marovoay) et l'Est (Mahajanga II).
-**Vents** : Vents faibles à modérés de secteur Est, plus soutenus à AmbatoBoeny (20 km/h).
-**Températures minimales** : entre 19 et 22 °C.
-**Températures maximales** : entre 34 et 36 °C.`
+    `Temps ensoleillé le matin sur l'ensemble de la région, devenant nuageux l'après-midi avec des averses attendues sur Marovoay.
+**Vents** : Faibles à modérés de secteur Sud-Est.
+**Températures minimales** : entre 20 et 23 °C.
+**Températures maximales** : entre 32 et 36 °C.`,
+    `Temps ensoleillé le matin, puis devenant nuageux avec des averses parfois fortes l'après-midi, notamment sur l'Ouest à Soalala et Mitsinjo.
+**Vents** : Vents faibles à modérés de secteur Est à Sud-Est, soufflant entre 13 et 20 km/h avec des rafales jusqu'à 26 km/h.
+**Températures minimales** : entre 20 et 22 °C
+**Températures maximales** : entre 33 et 35 °C`,
+    `Temps généralement ensoleillé le matin, devenant plus nuageux l'après-midi notamment à l'Ouest (Soalala et Mitsinjo), avec de légères averses possibles sur Marovoay.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, atteignant 22 km/h à Mahajanga I.
+**Températures minimales** : entre 18 et 21 °C.
+**Températures maximales** : entre 31 et 36 °C.`
 ];
 
 
