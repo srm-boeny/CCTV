@@ -118,6 +118,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin sur l'ensemble de la région, devenant nuageux l'après-midi avec des averses attendues sur Marovoay.
 **Vents** : Faibles à modérés de secteur Sud-Est.
