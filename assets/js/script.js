@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "yellow";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -12,16 +12,16 @@ Restez informé en cas d’évolution de la situation.`,
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Alahady 17 Aogositra 2025 Tamin’ny 10 ora 12 min** 
+        **Novokarina ny Alatsinainy 18 Aogositra 2025 tamin’ny 14 ora 45 min.** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Toliara sy Taolagnaro; Mahajanga sy Analalava ary Vohemar sy  ny tanjona Bobaomby . Tombanana hahatratra 55 Km/ora ny hamafin’ny rivotra.
+Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Ampanihy sy Taolagnaro, Mahajanga sy Analalava ary Antalaha sy ny tanjona Bobaomby. Tombanana hahatratra 55 Km/ora ny hamafin’ny rivotra.
 **Fotoana hisehoany:**  
-– Manomboka rahampitso 18 Aogositra 2025 alina hatramin’ny Talata 19 Aogositra 2025 ny eo anelanelan’i Mahajanga sy Analalava;
+– Anio 18 Aogositra 2025 alina hatramin’ny rahampitso Talata 19 Aogositra 2025 ny eo anelanelan’i Mahajanga sy Analalava;
 
 **Ireo toerana voakasika:**
-**Fanairana miloko MAVO :** 
-Mahajanga hatrany Analalava
+**Fanairana miloko MENA :** 
+Ampanihy hatrany Taolagnaro sy Mahajanga hatrany Analalava.
 
 
 **Ny mety ho fiantraikany:**
