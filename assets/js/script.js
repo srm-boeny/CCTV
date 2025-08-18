@@ -119,18 +119,18 @@ NEANT.
 
 
     const templates = [
-    `Temps ensoleillé le matin sur l'ensemble de la région, devenant nuageux l'après-midi avec des averses attendues sur Marovoay.
-**Vents** : Faibles à modérés de secteur Sud-Est.
-**Températures minimales** : entre 20 et 23 °C.
-**Températures maximales** : entre 32 et 36 °C.`,
-    `Temps ensoleillé le matin, puis devenant nuageux avec des averses parfois fortes l'après-midi, notamment sur l'Ouest à Soalala et Mitsinjo.
-**Vents** : Vents faibles à modérés de secteur Est à Sud-Est, soufflant entre 13 et 20 km/h avec des rafales jusqu'à 26 km/h.
-**Températures minimales** : entre 20 et 22 °C
-**Températures maximales** : entre 33 et 35 °C`,
-    `Temps généralement ensoleillé le matin, devenant plus nuageux l'après-midi notamment à l'Ouest (Soalala et Mitsinjo), avec de légères averses possibles sur Marovoay.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, atteignant 22 km/h à Mahajanga I.
-**Températures minimales** : entre 18 et 21 °C.
-**Températures maximales** : entre 31 et 36 °C.`
+    `Matinée partiellement nuageuse sur toute la région, suivie d'un après-midi avec quelques averses sur Mahajanga I et Mitsinjo.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales pouvant atteindre 27 km/h à AmbatoBoeny.
+**Températures minimales** : entre 21 et 24 °C.
+**Températures maximales** : entre 34 et 35 °C.`,
+    `Temps globalement ensoleillé le matin, devenant partiellement nuageux l'après-midi avec un risque de légères averses sur l'Ouest, notamment à Mitsinjo.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des pointes à 23 km/h sur MahajangaI.
+**Températures minimales** : entre 19 et 22 °C
+**Températures maximales** : entre 34 et 35 °C`,
+    `Temps ensoleillé sur l'ensemble de la région, avec quelques passages nuageux l'après-midi à Soalala et Mahajanga II.
+**Vents** : Vents faibles à modérés de secteur Sud-Est (9 à 17 km/h)
+**Températures minimales** : entre 17 et 21 °C
+**Températures maximales** : entre 33 et 35 °C`
 ];
 
 
