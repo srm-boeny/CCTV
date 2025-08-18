@@ -265,47 +265,99 @@ const messageElement = document.getElementById('message');
 const imageContainer = document.getElementById('image-container');
 const logoContainer = document.getElementById("logo-container");
 
+//const delayVigilance = 5000; 
+const scrollDuration = 15000;
+const afterScrollPause = 2000;
+const scrollSpeed = 50;
+const delayVigilance = 5000;
+
 // --- HIDE IMAGES ---
 function hideImages() {
     imageContainer.style.opacity = 0;
 }
 
-// --- SCROLL TEXT ---
-function scrollMessage(message) {
+function scrollMessage(message, { delay = 0, speed = scrollSpeed } = {}) {
     return new Promise(resolve => {
-        messageElement.innerHTML = message;
-        messageElement.style.transition = 'none';
-        messageElement.style.bottom = '-100%';
-        messageElement.offsetHeight;
-        messageElement.style.transition = 'bottom 25s linear';
-        messageElement.style.bottom = '100%';
-        messageElement.addEventListener('transitionend', () => resolve(), { once: true });
+        const el = messageElement;
+
+        el.innerHTML = message;
+        el.style.position = 'absolute';
+        el.style.left = '0';
+        el.style.right = '0';
+
+        el.style.transition = 'none';
+        el.style.transform = 'translateY(100%)';
+        el.style.visibility = 'hidden';
+
+        void el.offsetHeight;
+
+        const containerHeight = el.parentElement.offsetHeight;
+        const textHeight = el.scrollHeight;
+        const distance = textHeight + containerHeight; // px à parcourir
+        const duration = (distance / speed) * 1000; // ms
+
+        setTimeout(() => {
+            el.style.visibility = 'visible';
+            el.style.transition = `transform ${duration}ms linear`;
+            el.style.transform = `translateY(-${textHeight}px)`;
+
+            const done = () => {
+                el.removeEventListener('transitionend', done);
+                resolve();
+            };
+            el.addEventListener('transitionend', done, { once: true });
+            setTimeout(done, duration + 200); // fallback
+        }, delay);
     });
 }
 
-// --- MAIN DISPLAY LOOP ---
 async function displayMessages() {
     const validEntries = await prepareValidEntries();
 
     while (true) {
         for (const entry of validEntries) {
-            hideImages();
-            await scrollMessage(entry.message);
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            const isVigilance =
+                /vigilance/i.test(entry.image || '') ||
+                /vigilance|fampitandremana|hamafin/i.test(entry.message || '');
 
-            imageContainer.innerHTML = '';
-            const img = document.createElement('img');
-            img.src = entry.image;
-            img.classList.add('alert-image');
-            imageContainer.appendChild(img);
-            setTimeout(() => {
-                imageContainer.style.opacity = 1;
-            }, 1000);
+            if (isVigilance) {
 
-            await new Promise(resolve => setTimeout(resolve, 9000));
+                hideImages();
+                await scrollMessage(entry.message, { delay: delayVigilance });
+
+                imageContainer.innerHTML = '';
+                const img = document.createElement('img');
+                img.src = entry.image;
+                img.classList.add('alert-image');
+                imageContainer.appendChild(img);
+
+                setTimeout(() => {
+                    imageContainer.style.opacity = 1;
+                }, 1000);
+
+                await new Promise(r => setTimeout(r, 9000));
+            } else {
+
+                hideImages();
+                await scrollMessage(entry.message);
+
+                imageContainer.innerHTML = '';
+                const img = document.createElement('img');
+                img.src = entry.image;
+                img.classList.add('alert-image');
+                imageContainer.appendChild(img);
+
+                setTimeout(() => {
+                    imageContainer.style.opacity = 1;
+                }, 1000);
+
+                await new Promise(r => setTimeout(r, 9000));
+            }
         }
     }
 }
+
+
 
 // --- ALERT ICON LOGIC ---
 const ancienneIcone = document.getElementById("alert-icon");
