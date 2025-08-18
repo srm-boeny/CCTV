@@ -118,6 +118,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Matinée partiellement nuageuse sur toute la région, suivie d'un après-midi avec quelques averses sur Mahajanga I et Mitsinjo.
 **Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales pouvant atteindre 27 km/h à AmbatoBoeny.
