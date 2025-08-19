@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -7,7 +7,7 @@ const vigilanceMessages = [
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide1.jpg'
+        image: 'vigilance-vide.jpg'
     },
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
@@ -30,7 +30,7 @@ Ampanihy hatrany Taolagnaro sy Mahajanga hatrany Analalava.
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance_vent.png'
+        image: 'vigilance_vent1.png'
     },
     {
         message: `**Vigilance vent fort**  
@@ -131,7 +131,7 @@ NEANT.
     const templates = [
     `Temps largement ensoleillé sur l'ensemble de la région, malgré quelques passages nuageux possibles sur la partie Ouest (Soalala, Mitsinjo).
 **Vents** : Vents faibles à modérés, de secteur Sud-Est à l'intérieur des terres et de secteur Sud à Sud-Ouest sur la côte.
-**Températures minimales** : 23 °C.
+**Températures minimales** : entre 19 et 21 °C.
 **Températures maximales** : entre 33 et 35 °C.`,
     `Journée ensoleillée sur l'ensemble de la région Boeny.
 **Vents** : Vents faibles de secteur Sud-Est, soufflant de 8 à 17 km/h, avec des rafales jusqu'à 25 km/h sur MahajangaI.
@@ -269,9 +269,9 @@ const imageContainer = document.getElementById('image-container');
 const logoContainer = document.getElementById("logo-container");
 
 //const delayVigilance = 5000; 
-const scrollDuration = 15000;
-const afterScrollPause = 2000;
-const scrollSpeed = 50;
+const scrollDuration = 10000;
+const afterScrollPause = 1000;
+const scrollSpeed = 40;
 const delayVigilance = 5000;
 
 // --- HIDE IMAGES ---
