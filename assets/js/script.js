@@ -267,8 +267,8 @@ const imageContainer = document.getElementById('image-container');
 const logoContainer = document.getElementById("logo-container");
 
 //const delayVigilance = 5000; 
-const scrollDuration = 10000;
-const afterScrollPause = 1000;
+const scrollDuration = 13000;
+const afterScrollPause = 3000;
 const scrollSpeed = 80;
 const delayVigilance = 5000;
 
