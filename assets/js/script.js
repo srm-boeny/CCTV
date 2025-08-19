@@ -266,8 +266,8 @@ const logoContainer = document.getElementById("logo-container");
 
 //const delayVigilance = 5000; 
 const scrollDuration = 10000;
-const afterScrollPause = 1000;
-const scrollSpeed = 40;
+const afterScrollPause = 800;
+const scrollSpeed = 80;
 const delayVigilance = 5000;
 
 // --- HIDE IMAGES ---
