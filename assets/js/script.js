@@ -127,18 +127,18 @@ NEANT.
 
 
     const templates = [
-    `Matinée partiellement nuageuse sur toute la région, suivie d'un après-midi avec quelques averses sur Mahajanga I et Mitsinjo.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales pouvant atteindre 27 km/h à AmbatoBoeny.
-**Températures minimales** : entre 21 et 24 °C.
-**Températures maximales** : entre 34 et 35 °C.`,
-    `Temps globalement ensoleillé le matin, devenant partiellement nuageux l'après-midi avec un risque de légères averses sur l'Ouest, notamment à Mitsinjo.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des pointes à 23 km/h sur MahajangaI.
-**Températures minimales** : entre 19 et 22 °C
-**Températures maximales** : entre 34 et 35 °C`,
-    `Temps ensoleillé sur l'ensemble de la région, avec quelques passages nuageux l'après-midi à Soalala et Mahajanga II.
-**Vents** : Vents faibles à modérés de secteur Sud-Est (9 à 17 km/h)
-**Températures minimales** : entre 17 et 21 °C
-**Températures maximales** : entre 33 et 35 °C`
+    `Temps largement ensoleillé sur l'ensemble de la région, malgré quelques passages nuageux possibles sur la partie Ouest (Soalala, Mitsinjo).
+**Vents** : Vents faibles à modérés, de secteur Sud-Est à l'intérieur des terres et de secteur Sud à Sud-Ouest sur la côte.
+**Températures minimales** : 23 °C.
+**Températures maximales** : entre 33 et 35 °C.`,
+    `Journée ensoleillée sur l'ensemble de la région Boeny.
+**Vents** : Vents faibles de secteur Sud-Est, soufflant de 8 à 17 km/h, avec des rafales jusqu'à 25 km/h sur MahajangaI.
+**Températures minimales** : entre 17 et 20 °C
+**Températures maximales** : entre 33 et 35 °C`,
+    `Temps largement ensoleillé, avec l'apparition de quelques nuages dans l'après-midi sur Soalala, Marovoay et Mahajanga II.
+**Vents** : Vents faibles à modérés de secteur Sud-Est dominant, avec des rafales pouvant atteindre 23 km/h sur Mahajanga I.
+**Températures minimales** : entre 19 et 21 °C
+**Températures maximales** : entre 33 et 36 °C`
 ];
 
 
