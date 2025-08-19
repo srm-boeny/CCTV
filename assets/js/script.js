@@ -130,6 +130,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps largement ensoleillé sur l'ensemble de la région, malgré quelques passages nuageux possibles sur la partie Ouest (Soalala, Mitsinjo).
 **Vents** : Vents faibles à modérés, de secteur Sud-Est à l'intérieur des terres et de secteur Sud à Sud-Ouest sur la côte.
