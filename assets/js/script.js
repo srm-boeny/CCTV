@@ -270,9 +270,9 @@ const imageContainer = document.getElementById('image-container');
 const logoContainer = document.getElementById("logo-container");
 
 //const delayVigilance = 5000; 
-const scrollDuration = 17000;
-const afterScrollPause = 5000;
-const scrollSpeed = 80;
+const scrollDuration = 15000;
+const afterScrollPause = 2000;
+const scrollSpeed = 30;
 const delayVigilance = 5000;
 
 // --- HIDE IMAGES ---
@@ -280,40 +280,82 @@ function hideImages() {
     imageContainer.style.opacity = 0;
 }
 
+//function scrollMessage(message, { delay = 0, speed = scrollSpeed } = {}) {
+//    return new Promise(resolve => {
+//        const el = messageElement;
+//
+//        el.innerHTML = message;
+//        el.style.position = 'absolute';
+//        el.style.left = '0';
+//        el.style.right = '0';
+
+//        el.style.transition = 'none';
+//        el.style.transform = 'translateY(100%)';
+//        el.style.visibility = 'hidden';
+
+//        void el.offsetHeight;
+
+//        const containerHeight = el.parentElement.offsetHeight;
+//        const textHeight = el.scrollHeight;
+//        const distance = textHeight + containerHeight; // px à parcourir
+//        const duration = (distance / speed) * 1000; // ms
+
+//        setTimeout(() => {
+//            el.style.visibility = 'visible';
+//            el.style.transition = `transform ${duration}ms linear`;
+//            el.style.transform = `translateY(-${textHeight}px)`;
+
+//            const done = () => {
+//                el.removeEventListener('transitionend', done);
+//                resolve();
+//            };
+//            el.addEventListener('transitionend', done, { once: true });
+//            setTimeout(done, duration + 200); // fallback
+//        }, delay);
+//    });
+//}
+
 function scrollMessage(message, { delay = 0, speed = scrollSpeed } = {}) {
     return new Promise(resolve => {
         const el = messageElement;
 
+        // Put the message inside the container
         el.innerHTML = message;
         el.style.position = 'absolute';
         el.style.left = '0';
         el.style.right = '0';
 
+        // Reset transform before measuring
         el.style.transition = 'none';
         el.style.transform = 'translateY(100%)';
         el.style.visibility = 'hidden';
 
-        void el.offsetHeight;
+        void el.offsetHeight; // force reflow
 
         const containerHeight = el.parentElement.offsetHeight;
         const textHeight = el.scrollHeight;
-        const distance = textHeight + containerHeight; // px à parcourir
-        const duration = (distance / speed) * 1000; // ms
+        const distance = textHeight + containerHeight; // total distance to scroll
+        const duration = (distance / speed) * 1000;    // ms based on speed
 
         setTimeout(() => {
             el.style.visibility = 'visible';
             el.style.transition = `transform ${duration}ms linear`;
-            el.style.transform = `translateY(-${textHeight}px)`;
+            // Move text fully outside the top of container
+            el.style.transform = `translateY(-${distance}px)`;
 
             const done = () => {
                 el.removeEventListener('transitionend', done);
                 resolve();
             };
             el.addEventListener('transitionend', done, { once: true });
-            setTimeout(done, duration + 200); // fallback
+
+            // Safety fallback
+            setTimeout(done, duration + 200);
         }, delay);
     });
 }
+
+
 
 async function displayMessages() {
     const validEntries = await prepareValidEntries();
