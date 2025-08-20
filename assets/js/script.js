@@ -131,6 +131,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région le matin, devenant partiellement nuageux l'après-midi sur l'intérieur des terres (Marovoay, AmbatoBoeny) et la partie Est (Mahajanga II).
 **Vents** : Vents faibles à modérés de secteur Sud (10 à 16 km/h), avec des rafales pouvant atteindre 22 km/h.
