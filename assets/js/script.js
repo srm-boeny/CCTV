@@ -138,18 +138,18 @@ NEANT.
 
 
     const templates = [
-    `Temps ensoleillé sur l'ensemble de la région le matin, devenant partiellement nuageux l'après-midi sur l'intérieur des terres (Marovoay, AmbatoBoeny) et la partie Est (Mahajanga II).
-**Vents** : Vents faibles à modérés de secteur Sud (10 à 16 km/h), avec des rafales pouvant atteindre 22 km/h.
-**Températures minimales** : entre 18 et 21 °C.
-**Températures maximales** : entre 33 et 35 °C.`,
-    `Ciel dégagé le matin sur l'ensemble de la région, devenant passagèrement nuageux l'après-midi, sauf sur AmbatoBoeny où le temps restera ensoleillé.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, soufflant entre 8 et 15 km/h.
+    `Temps ensoleillé le matin sur toute la région, devenant passagèrement nuageux l'après-midi sur l'Ouest (Soalala, Mitsinjo) et à l'intérieur des terres.
+**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, soufflant entre 7 et 16 km/h.
+**Températures minimales** : entre 20 et 23 °C.
+**Températures maximales** : entre 33 et 36 °C.`,
+    `Temps ensoleillé sur l'ensemble de la région, avec quelques passages nuageux l'après-midi sur Soalala.
+**Vents** : Vents faibles à modérés de secteur Sud, plus soutenus sur Mahajanga I
+**Températures minimales** : entre 19 et 21 °C
+**Températures maximales** : entre 34 et 36 °C.`,
+    `Temps partiellement nuageux sur la majeure partie de la région, devenant plus couvert l'après-midi sur la partie Est (Mahajanga II).
+**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, soufflant entre 10 et 17 km/h.
 **Températures minimales** : entre 19 et 22 °C
-**Températures maximales** : entre 33 et 36 °C`,
-    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi à Soalala, Mitsinjo et Mahajanga II.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, soufflant entre 8 et 15 km/h.
-**Températures minimales** : entre 19 et 21 °C.
-**Températures maximales** : entre 33 et 36 °C.`
+**Températures maximales** : entre 34 et 37 °C`
 ];
 
 
