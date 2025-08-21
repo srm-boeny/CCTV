@@ -137,6 +137,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin sur toute la région, devenant passagèrement nuageux l'après-midi sur l'Ouest (Soalala, Mitsinjo) et à l'intérieur des terres.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, soufflant entre 7 et 16 km/h.
