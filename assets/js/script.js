@@ -139,6 +139,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région le matin, quelques passages nuageux l'après-midi sur l'Ouest (Soalala, Mitsinjo) et les terres (AmbatoBoeny).
 **Vents** : Vents faibles à modérés de secteur Sud-Est, soufflant entre 9 et 19 km/h.
