@@ -138,18 +138,18 @@ NEANT.
 
 
     const templates = [
-    `Temps ensoleillé sur l'ensemble de la région le matin, quelques passages nuageux l'après-midi sur l'Ouest (Soalala, Mitsinjo) et les terres (AmbatoBoeny).
-**Vents** : Vents faibles à modérés de secteur Sud-Est, soufflant entre 9 et 19 km/h.
-**Températures minimales** : entre 19 et 23 °C.
-**Températures maximales** : entre 33 et 37 °C.`,
-    `Temps ensoleillé sur la majeure partie de la région, devenant partiellement nuageux l'après-midi à AmbatoBoeny et Mahajanga II.
-**Vents** : Vents faibles à modérés de secteur Sud-Sud-Est, mais de secteur Est sur Mahajanga II et Sud-Ouest sur AmbatoBoeny.
-**Températures minimales** : entre 20 et 22 °C
+    `Le temps sera globalement ensoleillé, particulièrement sur l'Ouest (Soalala, Mitsinjo), tandis que l'Est (Mahajanga II) restera plus nuageux.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales atteignant 22 km/h sur Mahajanga I.
+**Températures minimales** : entre 19 et 22 °C.
+**Températures maximales** : entre 34 et 37 °C.`,
+    `Temps ensoleillé sur l'ensemble de la région tout au long de la journée.
+**Vents** : Vents faibles à modérés de secteur Sud-Est.
+**Températures minimales** : entre 18 et 20 °C
 **Températures maximales** : entre 34 et 37 °C`,
-    `Alternance de nuages et d'éclaircies sur l'ensemble de la région.
-**Vents** : Vents faibles à modérés de secteur Est à Sud-Est, soufflant jusqu'à 18 km/h à MahajangaI.
-**Températures minimales** : entre 19 et 22 °C
-**Températures maximales** : entre 35 et 37 °C`
+    `Temps largement ensoleillé sur l'ensemble de la région.
+**Vents** : Vents faibles à modérés de secteur Est à Sud-Est.
+**Températures minimales** : entre 17 et 19 °C
+**Températures maximales** : entre 34 et 37 °C`
 ];
 
 
