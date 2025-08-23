@@ -137,6 +137,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera globalement ensoleillé, particulièrement sur l'Ouest (Soalala, Mitsinjo), tandis que l'Est (Mahajanga II) restera plus nuageux.
 **Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales atteignant 22 km/h sur Mahajanga I.
