@@ -140,17 +140,17 @@ NEANT.
 
 
     const templates = [
-    `Le temps sera globalement ensoleillé, particulièrement sur l'Ouest (Soalala, Mitsinjo), tandis que l'Est (Mahajanga II) restera plus nuageux.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales atteignant 22 km/h sur Mahajanga I.
-**Températures minimales** : entre 19 et 22 °C.
+    `Temps ensoleillé sur l'ensemble de la région Boeny.
+**Vents** : Vents faibles à modérés de secteur Sud à Est (11 à 17 km/h), avec des rafales atteignant 21 km/h sur Mahajanga I.
+**Températures minimales** : entre 18 et 22 °C.
 **Températures maximales** : entre 34 et 37 °C.`,
-    `Temps ensoleillé sur l'ensemble de la région tout au long de la journée.
+    `Temps ensoleillé sur l'ensemble de la région, excepté quelques passages nuageux à AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est.
-**Températures minimales** : entre 18 et 20 °C
-**Températures maximales** : entre 34 et 37 °C`,
-    `Temps largement ensoleillé sur l'ensemble de la région.
-**Vents** : Vents faibles à modérés de secteur Est à Sud-Est.
-**Températures minimales** : entre 17 et 19 °C
+**Températures minimales** : entre 18 et 21 °C.
+**Températures maximales** : entre 34 et 37 °C.`,
+    `Le temps sera ensoleillé sur l'ensemble de la région tout au long de la journée.
+**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des rafales jusqu'à 24 km/h à Mahajanga I.
+**Températures minimales** : entre 17 et 21 °C
 **Températures maximales** : entre 34 et 37 °C`
 ];
 
