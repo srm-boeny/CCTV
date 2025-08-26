@@ -143,6 +143,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région Boeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est, avec des pointes à 19 km/h sur Mahajanga I.
