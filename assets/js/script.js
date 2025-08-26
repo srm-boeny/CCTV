@@ -145,17 +145,17 @@ NEANT.
 
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région Boeny.
-**Vents** : Vents faibles à modérés de secteur Sud à Est (10 à 17 km/h).
-**Températures minimales** : entre 19 et 22 °C.
-**Températures maximales** : entre 34 et 36 °C.`,
-    `Temps ensoleillé sur l'ensemble de la région.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales jusqu'à 25 km/h à Mahajanga I.
-**Températures minimales** : entre 17 et 21 °C.
-**Températures maximales** : entre 35 et 37 °C.`,
-    `Le temps sera ensoleillé sur l'ensemble de la région tout au long de la journée.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des rafales jusqu'à 26 km/h à Mahajanga I.
-**Températures minimales** : entre 17 et 20 °C
-**Températures maximales** : entre 34 et 36 °C`
+**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des pointes à 19 km/h sur Mahajanga I.
+**Températures minimales** : entre 18 et 22 °C.
+**Températures maximales** : entre 35 et 36 °C.`,
+    `Temps ensoleillé sur l'ensemble de la région, malgré l'apparition de quelques nuages l'après-midi dans la partie Est (Mahajanga II).
+**Vents** : Vents faibles à modérés de secteur Sud-Est (10 à 15 km/h).
+**Températures minimales** : entre 18 et 21 °C.
+**Températures maximales** : entre 33 et 36 °C.`,
+    `Journée bien ensoleillée sur l'ensemble de la région.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales pouvant atteindre 22 km/h.
+**Températures minimales** : entre 16 et 20 °C
+**Températures maximales** : entre 33 et 36 °C`
 ];
 
 
