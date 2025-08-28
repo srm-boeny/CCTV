@@ -153,18 +153,18 @@ NEANT.
 
 
     const templates = [
-    `Temps ensoleillé sur l'ensemble de la région Boeny, particulièrement à Soalala et Mitsinjo à l'ouest, ainsi qu'à Marovoay et AmbatoBoeny dans les parties intérieures.
-**Vents** : Vents faibles à modérés (10 à 14km), des rafales pouvant atteindre les 22km à Mahajanga, de secteur Est à Nord-Est sur l'Est et les parties intérieures de la région, et de Sud à Sud-Ouest sur l'Ouest et Mahajanga I.
-**Températures minimales** : entre 18 et 21 °C
+    `Le temps sera largement ensoleillé et dégagé sur l'ensemble de la région Boeny, notamment sur MahajangaI, Mitsinjo, Marovoay, AmbatoBoeny et MahajangaII, avec un temps clair sur Soalala.
+**Vents** : Vents faibles à modérés de secteur Est à Sud, avec des vitesses moyennes entre 8 et 18 km/h et des rafales pouvant atteindre 22 km/h.
+**Températures minimales** : entre 16 et 22 °C
 **Températures maximales** : entre 33 et 36 °C`,
-    `Temps ensoleillé sur l'ensemble de la région Boeny tout au long de la journée.
-**Vents** : Vents faibles à modérés de secteur Est à Sud-Est (10 à 17 km/h, rafales jusqu'à 22 km/h).
-**Températures minimales** : entre 16 et 20 °C
-**Températures maximales** : entre 33 et 36 °C`,
-    `Le ciel sera globalement peu nuageux à partiellement nuageux sur l'ensemble de la région Boeny, avec des éclaircies plus franches vers l'Ouest (Soalala, Mitsinjo) et les parties intérieures (AmbatoBoeny).
-**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes de 10 à 17 km/h et des rafales atteignant 24 km/h.
-**Températures minimales** : entre 15 et 19 °C
-**Températures maximales** : entre 33 et 36 °C.`
+    `Le matin sera ensoleillé sur l'Ouest de la région (Soalala, Mitsinjo) et les parties intérieures (Marovoay), tandis que l'après-midi verra un ciel partiellement nuageux sur la majeure partie du Boeny, à l'exception de Soalala où le temps restera dégagé.
+**Vents** : Vents faibles à modérés de secteur Sud-Sud-Est à Est, soufflant entre 9 et 19 km/h, avec des rafales atteignant 28 km/h.
+**Températures minimales** : entre 15 et 20 °C
+**Températures maximales** : entre 33 et 36 °C.`,
+    `Le temps sera généralement dégagé le matin, avec quelques passages nuageux sur l'Ouest de la région (Soalala), devenant partiellement nuageux sur l'ensemble du territoire dans l'après-midi.
+**Vents** : Vents faibles à modérés de secteur Sud-Est (10 à 17 km/h), avec des rafales pouvant atteindre 22 km/h.
+**Températures minimales** : entre 15 et 21 °C
+**Températures maximales** : entre 33 et 36 °C`
 ];
 
 
