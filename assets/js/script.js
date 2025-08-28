@@ -152,6 +152,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera largement ensoleillé et dégagé sur l'ensemble de la région Boeny, notamment sur MahajangaI, Mitsinjo, Marovoay, AmbatoBoeny et MahajangaII, avec un temps clair sur Soalala.
 **Vents** : Vents faibles à modérés de secteur Est à Sud, avec des vitesses moyennes entre 8 et 18 km/h et des rafales pouvant atteindre 22 km/h.
