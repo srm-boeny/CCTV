@@ -151,6 +151,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera généralement ensoleillé ou clair sur la région de Boeny, avec des passages nuageux plus fréquents en après-midi, notamment à MahajangaI, Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés, soufflant majoritairement de secteur Est à Sud-Est, avec des vitesses moyennes comprises entre 10 et 20 km/h et des rafales pouvant atteindre 29 km/h.
