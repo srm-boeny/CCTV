@@ -154,6 +154,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps ensoleillé à peu nuageux le matin sur l'ensemble de la région BOENY, notamment à Soalala et AmbatoBoeny, devenant partiellement nuageux l'après-midi.
 **Vents** : Vents faibles à modérés de secteur ESE à SSE, avec des vitesses moyennes entre 11 et 19 km/h et des rafales atteignant 21 km/h.
