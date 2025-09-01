@@ -165,6 +165,7 @@ BASSES PRESSIONS AU NORD DE 10S ;
 
 
 
+
     const templates = [
     `Temps majoritairement ensoleillé sur l'ensemble de la région Boeny, avec quelques passages nuageux l'après-midi sur les localités intérieures comme Marovoay et AmbatoBoeny, ainsi qu'à MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud-Est dominant (9 à 17 km/h), avec des rafales localement jusqu'à 21 km/h.
