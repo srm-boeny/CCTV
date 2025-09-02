@@ -160,6 +160,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps majoritairement ensoleillé sur l'ensemble de la région Boeny, notamment sur les zones Ouest (Soalala, Mitsinjo), intérieures (Marovoay, AmbatoBoeny) et Est (MahajangaII).
 **Vents** : Vents modérés de secteur Est à Sud-Est, soufflant entre 12 et 18 km/h, avec des rafales allant jusqu'à 22 km/h.
