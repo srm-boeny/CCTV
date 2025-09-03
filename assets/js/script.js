@@ -172,6 +172,7 @@ BASSES PRESSIONS SUR LA PARTIE NORD-EST DE LA ZONE ;
 
 
 
+
     const templates = [
     `Le ciel sera largement ensoleillé sur l'ensemble de la région Boeny, notamment à Soalala, Mitsinjo et Marovoay, avec de légers passages nuageux l'après-midi sur Mahajanga I, AmbatoBoeny et Mahajanga II.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest, avec des vitesses moyennes de 12 à 22 km/h et des rafales atteignant 26 km/h.
