@@ -164,6 +164,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La journée débutera sous un ciel dégagé sur toute la région Boeny, avec un temps ensoleillé l'après-midi dans l'intérieur (Marovoay, AmbatoBoeny) et des passages nuageux attendus sur les zones Ouest (Soalala, Mitsinjo) et Est (MahajangaII).
 **Vents** : Vents modérés de secteur Sud-Est, soufflant entre 9 et 18 km/h, avec des rafales pouvant atteindre 22 km/h.
