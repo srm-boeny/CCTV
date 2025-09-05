@@ -170,6 +170,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La journée sera ensoleillée sur l'ensemble de la région Boeny, notamment à Soalala et Mitsinjo à l'ouest, ainsi qu'à Marovoay et AmbatoBoeny dans les parties intérieures.
 **Vents** : Vents faibles à modérés (8 à 22 km/h), avec une prédominance de secteur Sud-Est et des rafales jusqu'à 24 km/h.
