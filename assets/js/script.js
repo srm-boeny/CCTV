@@ -177,6 +177,7 @@ BASSES PRESSIONS AU NORD DE 08S ;
 
 
 
+
     const templates = [
     `Le temps sera principalement partiellement nuageux sur l'ensemble de la région, avec des éclaircies l'après-midi devenant ensoleillées sur les localités de l'Ouest comme Soalala et MahajangaI.
 **Vents** : Vents faibles à modérés (14 à 20 km/h) de secteur Est à Sud-Sud-Ouest.
