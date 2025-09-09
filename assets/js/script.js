@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "yellow";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
