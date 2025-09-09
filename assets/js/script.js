@@ -7,21 +7,20 @@ const vigilanceMessages = [
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide.jpg'
+        image: 'vigilance-vide1.jpg'
     },
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Alatsinainy 18 Aogositra 2025 tamin’ny 14 ora 45 min.** 
+        **Novokarina ny Talata 9 Septambra 2025 Tamin’ny 09 ora 46 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Ampanihy sy Taolagnaro, Mahajanga sy Analalava ary Antalaha sy ny tanjona Bobaomby. Tombanana hahatratra 55 Km/ora ny hamafin’ny rivotra.
-**Fotoana hisehoany:**  
-– Anio 18 Aogositra 2025 alina hatramin’ny rahampitso Talata 19 Aogositra 2025 ny eo anelanelan’i Mahajanga sy Analalava;
+Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Itampolo sy Taolagnaro, Mahajanga sy Analalava ary Vohemar sy ny Tanjona Bobaomby. Tombanana hahatratra 55Km/ora ny hamafin’ny rivotra.**Fotoana hisehoany:**  
+Rahampitso 10 Septambra 2025
 
 **Ireo toerana voakasika:**
-**Fanairana miloko MENA :** 
-Ampanihy hatrany Taolagnaro sy Mahajanga hatrany Analalava.
+**Fanairana miloko MAVO :** 
+Mahajanga hatrany Analalava;
 
 
 **Ny mety ho fiantraikany:**
@@ -30,7 +29,7 @@ Ampanihy hatrany Taolagnaro sy Mahajanga hatrany Analalava.
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance_vent1.png'
+        image: 'vigilance_vent.png'
     },
     {
         message: `**Vigilance vent fort**  
