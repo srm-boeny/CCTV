@@ -178,6 +178,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le ciel sera majoritairement partiellement nuageux sur l'ensemble de la région Boeny, à l'exception de Soalala à l'Ouest où le temps sera clair.
 **Vents** : Vents modérés de secteur ESE à SE, avec des vitesses moyennes entre 13 et 20 km/h et des rafales jusqu'à 26 km/h.
