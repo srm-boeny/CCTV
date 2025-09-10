@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "yellow";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -12,15 +12,16 @@ Restez informé en cas d’évolution de la situation.`,
     {
         message: `**fampitandremana momba ny hamafin'ny rivotra** 
 
-        **Novokarina ny Talata 9 Septambra 2025 Tamin’ny 09 ora 46 min** 
+        **Novokarina ny Alarobia 10 Septambra 2025 Tamin’ny 11 ora 21 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Itampolo sy Taolagnaro, Mahajanga sy Analalava ary Vohemar sy ny Tanjona Bobaomby. Tombanana hahatratra 55Km/ora ny hamafin’ny rivotra.**Fotoana hisehoany:**  
-Rahampitso 10 Septambra 2025
+Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Itampolo sy Taolagnaro, Mahajanga sy Analalava ary Vohemar sy ny Tanjona Bobaomby. Tombanana hahatratra 55Km/ora ny hamafin’ny rivotraRahampitso 10 Septambra 2025
 
+** Fotoana hisehoany**
+Anio 10 Septambra hatramin’ny rahampitso 11 Septambra 2025
 **Ireo toerana voakasika:**
-**Fanairana miloko MAVO :** 
-Mahajanga hatrany Analalava;
+**Fanairana miloko MENA :** 
+– Mahajanga hatrany Analalava;
 
 
 **Ny mety ho fiantraikany:**
