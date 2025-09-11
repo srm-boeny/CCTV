@@ -187,6 +187,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé sur la majeure partie de la région Boeny, avec un ciel dégagé prédominant du matin jusqu'à l'après-midi à Mitsinjo. Des passages nuageux sont possibles l'après-midi sur MahajangaI.
 **Vents** : Vents modérés de secteur Sud-Est à Sud, soufflant entre 16 et 20 km/h avec des rafales jusqu'à 25 km/h.
