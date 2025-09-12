@@ -189,18 +189,18 @@ NEANT.
 
 
     const templates = [
-    `Le temps sera ensoleillé sur la majeure partie de la région Boeny, avec un ciel dégagé prédominant du matin jusqu'à l'après-midi à Mitsinjo. Des passages nuageux sont possibles l'après-midi sur MahajangaI.
-**Vents** : Vents modérés de secteur Sud-Est à Sud, soufflant entre 16 et 20 km/h avec des rafales jusqu'à 25 km/h.
-**Températures minimales** : entre 21 et 24 °C
-**Températures maximales** : entre 34 et 38 °C`,
-    `Le temps sera globalement ensoleillé à clair sur l'ensemble de la région, plus particulièrement à l'Ouest (Soalala, Mitsinjo) et dans les terres (Marovoay, AmbatoBoeny), avec des passages partiellement nuageux à l'Est (MahajangaII) et sur MahajangaI.
-**Vents** : Vents faibles à modérés (9 à 16 km/h) de secteur Est-Sud-Est à Sud, avec des rafales pouvant atteindre 23 km/h.
-**Températures minimales** : entre 20 et 22 °C
+    `Le temps sera majoritairement partiellement nuageux sur la région BOENY, avec des éclaircies notables le matin sur Soalala et un ciel plus couvert l'après-midi à MahajangaII.
+**Vents** : Vents faibles à modérés (9 à 19 km/h), avec des rafales maximales de 23 km/h, de secteur Sud-Est à Sud.
+**Températures minimales** : entre 19 et 23 °C
 **Températures maximales** : entre 34 et 37 °C`,
-    `Le matin sera dégagé sur l'ensemble de la région BOENY, évoluant vers un ciel peu nuageux l'après-midi, avec quelques passages nuageux sur Marovoay et MahajangaII.
-**Vents** : Vents modérés, majoritairement de secteur Sud-Sud-Est, soufflant entre 10 et 17 km/h avec des rafales jusqu'à 27 km/h.
+    `Temps globalement ensoleillé sur la région Boeny, devenant peu nuageux l'après-midi sur Soalala et MahajangaII.
+**Vents** : Vents modérés à forts de secteur Est à Sud-Est, avec des vitesses moyennes de 36 à 58 km/h et des rafales jusqu'à 83 km/h.
 **Températures minimales** : entre 20 et 22 °C
-**Températures maximales** : entre 34 et 37 °C`
+**Températures maximales** : entre 33 et 37 °C`,
+    `Temps très ensoleillé sur l'ensemble de la région, avec de légers passages nuageux l'après-midi sur Marovoay.
+**Vents** : Vents faibles à modérés (9 à 19 km/h) avec des rafales pouvant atteindre 27 km/h, majoritairement de secteur Sud-Est à Est.
+**Températures minimales** : entre 17 et 22 °C
+**Températures maximales** : entre 33 et 37 °C`
 ];
 
 
