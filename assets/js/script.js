@@ -188,6 +188,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera majoritairement partiellement nuageux sur la région BOENY, avec des éclaircies notables le matin sur Soalala et un ciel plus couvert l'après-midi à MahajangaII.
 **Vents** : Vents faibles à modérés (9 à 19 km/h), avec des rafales maximales de 23 km/h, de secteur Sud-Est à Sud.
