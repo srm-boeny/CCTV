@@ -188,6 +188,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera largement ensoleillé sur l'ensemble de la région, avec l'apparition de quelques nuages l'après-midi sur les localités intérieures comme Marovoay et AmbatoBoeny, ainsi que sur Mitsinjo.
 **Vents** : Vents faibles à modérés de secteur Sud-Est (9 à 21 km/h), avec des rafales pouvant atteindre 20 km/h.
