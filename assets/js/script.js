@@ -193,6 +193,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps généralement ensoleillé sur l'ensemble de la région, avec quelques passages nuageux l'après-midi sur Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, atteignant localement 19 nœuds en rafales.
