@@ -200,18 +200,18 @@ BASSES PRESSIONS AU NORD DE 13S ;
 
 
     const templates = [
-    `Temps généralement ensoleillé sur l'ensemble de la région, avec quelques passages nuageux l'après-midi sur Marovoay et MahajangaII.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, atteignant localement 19 nœuds en rafales.
-**Températures minimales** : entre 20 et 24 °C
-**Températures maximales** : entre 34 et 37 °C`,
-    `Temps généralement ensoleillé sur l'ensemble de la région Boeny, avec quelques passages nuageux l'après-midi sur les zones intérieures et Est comme Marovoay, AmbatoBoeny et MahajangaII.
-**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest (9 à 20 km/h), avec des rafales pouvant atteindre 21 km/h.
-**Températures minimales** : entre 22 et 23 °C
+    `La journée sera généralement ensoleillée sur la région Boeny, avec un ciel dégagé le matin, et des passages nuageux l'après-midi notamment sur Marovoay, AmbatoBoeny et MahajangaII.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, soufflant entre 7 et 20 km/h avec des rafales maximales de 21 km/h.
+**Températures minimales** : entre 23 et 25 °C
 **Températures maximales** : entre 34 et 38 °C`,
-    `La région Boeny connaîtra une journée majoritairement ensoleillée, avec un ciel dégagé sur l'Ouest (Soalala, Mitsinjo) et l'intérieur (Marovoay, AmbatoBoeny), et quelques nuages l'après-midi à l'Est (MahajangaII).
-**Vents** : Vents faibles à modérés, majoritairement de secteur Sud à Ouest, avec des vitesses moyennes entre 7 et 15 km/h et des rafales pouvant atteindre 23 km/h.
+    `Temps majoritairement ensoleillé sur l'ensemble de la région Boeny, avec un ciel légèrement voilé l'après-midi sur Mitsinjo et MahajangaII.
+**Vents** : Vents faibles à modérés, de secteur variable, avec des vitesses moyennes de 7 à 16 km/h et des rafales pouvant atteindre 26 km/h.
 **Températures minimales** : entre 21 et 23 °C
-**Températures maximales** : entre 34 et 39 °C`
+**Températures maximales** : entre 34 et 38 °C`,
+    `Temps globalement ensoleillé le matin, avec un ciel devenant parfois peu nuageux l'après-midi sur Mitsinjo, Marovoay et MahajangaII.
+**Vents** : Vents modérés à forts de secteur Sud-Est à Ouest.
+**Températures minimales** : entre 22 et 25 °C
+**Températures maximales** : entre 33 et 39 °C`
 ];
 
 
