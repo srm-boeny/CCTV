@@ -199,6 +199,7 @@ BASSES PRESSIONS AU NORD DE 13S ;
 
 
 
+
     const templates = [
     `La journée sera généralement ensoleillée sur la région Boeny, avec un ciel dégagé le matin, et des passages nuageux l'après-midi notamment sur Marovoay, AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud-Est, soufflant entre 7 et 20 km/h avec des rafales maximales de 21 km/h.
