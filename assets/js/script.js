@@ -196,6 +196,7 @@ BASSES PRESSIONS SUR LA PARTIE NORD-EST DE LA ZONE
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé sur l'ensemble de la région Boeny, avec quelques passages nuageux sur Mitsinjo, Marovoay et MahajangaII l'après-midi.
 **Vents** : Faibles à modérés de secteur Sud-Ouest à Sud-Est (vitesses moyennes entre 6 et 18 km/h, avec des rafales pouvant atteindre 23 km/h).
