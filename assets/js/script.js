@@ -200,6 +200,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé sur l'ensemble de la région Boeny, avec quelques passages nuageux en matinée du côté d'AmbatoBoeny.
 **Vents** : Vents faibles à modérés de directions variables, soufflant entre 9 et 21 km/h et avec des rafales atteignant 22 km/h.
