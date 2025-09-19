@@ -199,6 +199,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé sur l'ensemble de la région Boeny, notamment à Soalala, Marovoay et AmbatoBoeny.
 **Vents** : Vents modérés de secteur Sud-Est
