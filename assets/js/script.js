@@ -202,18 +202,18 @@ NEANT.
 
 
     const templates = [
-    `Le temps sera ensoleillé sur l'ensemble de la région Boeny, notamment à Soalala, Marovoay et AmbatoBoeny.
-**Vents** : Vents modérés de secteur Sud-Est
-**Températures minimales** : entre 22 et 25 °C
-**Températures maximales** : entre 35 et 38 °C`,
-    `Temps clair et ensoleillé sur l'ensemble de la région Boeny.
-**Vents** : Vents faibles à modérés de secteur Est à Sud-Est, avec des vitesses moyennes entre 10 et 15 km/h et des rafales jusqu'à 23 km/h.
-**Températures minimales** : entre 22 et 24 °C
+    `Ciel dégagé et ensoleillé sur l'ensemble de la région Boeny, de Soalala et Mitsinjo à l'Ouest, à Marovoay et AmbatoBoeny dans les parties intérieures, jusqu'à MahajangaI et MahajangaII à l'Est.
+**Vents** : Vents faibles à modérés de secteur Est à Sud-Est (11 à 15 km/h) avec des rafales pouvant atteindre 23 km/h.
+**Températures minimales** : entre 23 et 25 °C
 **Températures maximales** : entre 34 et 39 °C`,
-    `Temps ensoleillé sur l'ensemble de la région en matinée, devenant partiellement nuageux l'après-midi sur la plupart des localités comme Mahajanga, Marovoay et AmbatoBoeny, excepté à Soalala où le ciel restera dégagé et à Mitsinjo où il sera peu nuageux.
-**Vents** : Vents modérés de secteur Est à Sud-Est, soufflant entre 13 et 19 km/h avec des rafales pouvant atteindre 27 km/h.
+    `Matinée ensoleillée sur l'ensemble de la région Boeny, devenant peu nuageuse l'après-midi sur Soalala et Mitsinjo, et partiellement nuageuse ailleurs.
+**Vents** : Vents faibles à modérés de secteur ESE à SE, avec des rafales pouvant atteindre 30 km/h.
 **Températures minimales** : entre 22 et 24 °C
-**Températures maximales** : entre 35 et 39 °C`
+**Températures maximales** : entre 35 et 39 °C`,
+    `Le matin sera ensoleillé à peu nuageux sur la majeure partie de la région Boeny (Soalala, Mitsinjo, AmbatoBoeny), avec quelques passages nuageux sur Marovoay et MahajangaII, le ciel devenant partiellement nuageux l'après-midi sur l'ensemble du territoire.
+**Vents** : Vents modérés à forts de secteur Est à Sud-Est, avec des vitesses moyennes entre 13 et 19 km/h et des rafales atteignant 26 km/h.
+**Températures minimales** : entre 22 et 25 °C
+**Températures maximales** : entre 35 et 37 °C`
 ];
 
 
