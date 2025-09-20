@@ -201,6 +201,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Ciel dégagé et ensoleillé sur l'ensemble de la région Boeny, de Soalala et Mitsinjo à l'Ouest, à Marovoay et AmbatoBoeny dans les parties intérieures, jusqu'à MahajangaI et MahajangaII à l'Est.
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est (11 à 15 km/h) avec des rafales pouvant atteindre 23 km/h.
