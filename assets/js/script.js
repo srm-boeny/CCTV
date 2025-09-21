@@ -205,6 +205,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps largement ensoleillé le matin sur l'ensemble de la région Boeny, devenant partiellement nuageux l'après-midi sur la plupart des localités comme Marovoay, AmbatoBoeny et MahajangaII, à l'exception de Soalala où le ciel restera dégagé.
 **Vents** : Vents faibles à modérés de secteur ESE à SSE, avec des vitesses moyennes autour de 15 km/h et des rafales pouvant atteindre 27 km/h.
