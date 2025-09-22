@@ -208,6 +208,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le matin sera ensoleillé sur l'ouest de la région (Soalala, Mitsinjo) et à MahajangaI, tandis que l'après-midi verra un ciel partiellement nuageux prédominer sur l'ensemble de la région, devenant nuageux à Marovoay.
 **Vents** : Vents modérés (15 à 20 km/h) de secteur Sud-Est à Sud, avec des rafales pouvant atteindre 24 km/h.
