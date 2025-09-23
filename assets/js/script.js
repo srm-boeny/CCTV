@@ -207,18 +207,18 @@ NEANT.
 
 
     const templates = [
-    `Le matin sera ensoleillé sur l'ouest de la région (Soalala, Mitsinjo) et à MahajangaI, tandis que l'après-midi verra un ciel partiellement nuageux prédominer sur l'ensemble de la région, devenant nuageux à Marovoay.
-**Vents** : Vents modérés (15 à 20 km/h) de secteur Sud-Est à Sud, avec des rafales pouvant atteindre 24 km/h.
-**Températures minimales** : entre 23 et 25 °C
-**Températures maximales** : entre 35 et 38 °C`,
-    `Temps ensoleillé et ciel dégagé sur l'ensemble de la région Boeny.
-**Vents** : Vents faibles à modérés de secteur Est à Sud-Est, vitesses moyennes entre 13 et 19 km/h et rafales jusqu'à 24 km/h.
-**Températures minimales** : entre 21 et 24 °C
+    `Le temps sera ensoleillé et dégagé sur l'ensemble de la région Boeny, de Soalala à MahajangaII, en passant par Marovoay et AmbatoBoeny.
+**Vents** : Vents modérés de secteur Est à Sud, avec des vitesses moyennes de 13 à 19 km/h et des rafales jusqu'à 24 km/h.
+**Températures minimales** : entre 22 et 24 °C
 **Températures maximales** : entre 34 et 38 °C`,
-    `Le temps sera ensoleillé et dégagé toute la journée sur l'ensemble de la région Boeny, notamment sur Soalala, Marovoay et Mahajanga.
-**Vents** : Vents modérés de secteur Sud-Est à Est (vitesses moyennes entre 11 et 22 km/h, rafales jusqu'à 30 km/h).
-**Températures minimales** : entre 18 et 22 °C
-**Températures maximales** : entre 34 et 37 °C`
+    `Le temps sera ensoleillé sur l'ensemble de la région Boeny, incluant Soalala, Mitsinjo, Marovoay, AmbatoBoeny et MahajangaII.
+**Vents** : Vents faibles à modérés de secteur Est-Sud-Est à Sud-Est, avec des vitesses moyennes entre 12 et 22 km/h, et des rafales pouvant atteindre 29 km/h.
+**Températures minimales** : entre 18 et 21 °C
+**Températures maximales** : entre 34 et 37 °C`,
+    `Le temps sera largement ensoleillé sur l'ensemble de la région Boeny, notamment à Soalala, Mitsinjo, Marovoay, AmbatoBoeny, MahajangaI et MahajangaII.
+**Vents** : Vents faibles à modérés de secteur Sud-Sud-Ouest, avec des vitesses moyennes de 8 à 18 km/h et des rafales jusqu'à 28 km/h.
+**Températures minimales** : entre 21 et 22 °C
+**Températures maximales** : entre 34 et 38 °C`
 ];
 
 
