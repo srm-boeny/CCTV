@@ -212,6 +212,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera très ensoleillé sur l'ensemble de la région Boeny, de Soalala à Mahajanga II, en passant par Marovoay et AmbatoBoeny.
 **Vents** : Vents modérés de secteur Est à Sud, avec des vitesses moyennes comprises entre 10 et 21 km/h et des rafales allant jusqu'à 27 km/h.
