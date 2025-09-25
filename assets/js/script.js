@@ -214,6 +214,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Journée très ensoleillée sur l'ensemble de la région Boeny, avec un ciel peu nuageux le matin à Soalala.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Ouest, avec des vitesses moyennes entre 9 et 23 km/h et des rafales maximales de 28 km/h.
