@@ -212,6 +212,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps majoritairement partiellement nuageux sur l'ensemble de la région Boeny, avec des éclaircies notamment à AmbatoBoeny tout au long de la journée, ainsi que le matin sur Soalala et l'après-midi sur MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Ouest à Nord-Ouest, avec des vitesses moyennes de 11 à 18 km/h et des rafales jusqu'à 25 km/h.
