@@ -218,6 +218,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La journée alternera entre périodes ensoleillées et passages nuageux avec quelques averses localisées, notamment sur l'Ouest (Soalala, Mitsinjo) et les environs de MahajangaI et AmbatoBoeny.
 **Vents** : Vents modérés de secteur Sud-Est à Sud, soufflant entre 11 et 25 km/h, avec des rafales pouvant atteindre 26 km/h à Soalala.
