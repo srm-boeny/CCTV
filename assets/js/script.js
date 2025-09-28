@@ -221,6 +221,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le ciel sera dégagé le matin sur l'ensemble de la région Boeny, devenant partiellement nuageux l'après-midi à Soalala et avec un temps plus variable à AmbatoBoeny.
 **Vents** : Vents modérés de secteur Sud-Est, oscillant entre 14 et 28 km/h, avec des rafales maximales de 28 km/h à Soalala.
