@@ -224,6 +224,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé ou beau sur la majeure partie de la région Boeny, avec des passages partiellement nuageux l'après-midi, notamment sur Soalala, Mitsinjo et AmbatoBoeny.
 **Vents** : Vents faibles à modérés (7 à 21 km/h) de secteur Sud-Est à Sud-Ouest, avec des rafales pouvant atteindre 32 km/h à MahajangaI.
