@@ -223,6 +223,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera généralement ensoleillé ou peu nuageux sur l'ensemble de la région Boeny, notamment à Soalala et Mitsinjo, avec toutefois de légères averses prévues l'après-midi à MahajangaII (Est).
 **Vents** : Vents modérés de secteur Ouest à Sud-Ouest, avec des vitesses entre 12 et 19 km/h. Des rafales atteignant 24 km/h sont possibles à Soalala.
