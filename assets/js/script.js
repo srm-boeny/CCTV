@@ -224,6 +224,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps très ensoleillé sur la région Boeny, avec un ciel dégagé l'après-midi sur toutes les localités, et un temps beau le matin à Marovoay, AmbatoBoeny et MahajangaII.
 **Vents** : Vents modérés de secteur Ouest à Sud-Ouest, soufflant entre 13 et 23 km/h, avec des rafales pouvant atteindre 31 km/h à MahajangaI.
