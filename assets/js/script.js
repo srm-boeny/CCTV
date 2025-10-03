@@ -228,6 +228,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps majoritairement ensoleillé sur la région Boeny, avec quelques passages nuageux l'après-midi à Soalala.
 **Vents** : Vents faibles à modérés de secteur Nord-Ouest dominant, rafales atteignant 27 km/h à MahajangaI et Soalala.
