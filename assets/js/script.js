@@ -230,6 +230,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le matin sera généralement ensoleillé à peu nuageux sur l'ouest de la région (Soalala, Mitsinjo) et le centre (Marovoay), tandis que l'après-midi verra l'apparition d'averses, localement fortes, sur l'intérieur (AmbatoBoeny) et l'est (MahajangaII).
 **Vents** : Vents faibles à modérés (11 à 20 km/h) de secteur Sud-Est dominant, avec des rafales pouvant atteindre 24 km/h à MahajangaI.
