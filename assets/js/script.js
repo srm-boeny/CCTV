@@ -233,6 +233,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Après une matinée globalement partiellement nuageuse à ensoleillée sur la région Boeny, avec de légères averses à MahajangaI, l'après-midi verra l'arrivée d'averses plus généralisées, particulièrement à MahajangaI et Soalala.
 **Vents** : Vents modérés de secteur dominant Est à Sud-Est, avec des vitesses moyennes entre 11 et 16 km/h et des rafales atteignant 24 km/h à AmbatoBoeny.
