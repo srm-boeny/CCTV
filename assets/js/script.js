@@ -234,6 +234,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin sur l'ensemble de la région, évoluant vers un ciel peu nuageux à partiellement nuageux l'après-midi, plus particulièrement sur Mitsinjo, Marovoay et MahajangaII.
 **Vents** : Vents modérés de secteur Sud à Est-Sud-Est, de 14 à 19 km/h, avec une rafale atteignant 24 km/h à MahajangaI.
