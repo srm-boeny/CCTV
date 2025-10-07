@@ -236,6 +236,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps largement ensoleillé et ciel clair sur l'ensemble de la région Boeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Est (10 à 18 km/h), rafale atteignant 26 km/h à MahajangaI.
