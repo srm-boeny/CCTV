@@ -237,17 +237,17 @@ NEANT.
 
 
     const templates = [
-    `Temps ensoleillé le matin sur l'ensemble de la région, évoluant vers un ciel peu nuageux à partiellement nuageux l'après-midi, plus particulièrement sur Mitsinjo, Marovoay et MahajangaII.
-**Vents** : Vents modérés de secteur Sud à Est-Sud-Est, de 14 à 19 km/h, avec une rafale atteignant 24 km/h à MahajangaI.
-**Températures minimales** : entre 23 et 25 °C
-**Températures maximales** : entre 35 et 38 °C`,
-    `Matin ensoleillé sur l'ensemble de la région Boeny, le temps devenant peu nuageux l'après-midi, excepté à AmbatoBoeny où le ciel restera dégagé.
-**Vents** : Vents modérés de secteur ESE à E, avec des vitesses moyennes de 12 à 18 km/h et des rafales pouvant atteindre 25 km/h à MahajangaI.
+    `Temps largement ensoleillé et ciel clair sur l'ensemble de la région Boeny.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Est (10 à 18 km/h), rafale atteignant 26 km/h à MahajangaI.
 **Températures minimales** : entre 21 et 24 °C
-**Températures maximales** : entre 35 et 38 °C`,
-    `Temps majoritairement ensoleillé sur la région Boeny, avec un ciel légèrement voilé l'après-midi à Mitsinjo.
-**Vents** : Vents modérés de secteur Sud-Est (11 à 20 km/h), avec des rafales atteignant 27 km/h à MahajangaI.
-**Températures minimales** : entre 22 et 24 °C
+**Températures maximales** : entre 34 et 38 °C`,
+    `Le temps sera généralement dégagé le matin sur l'ensemble de la région Boeny, devenant peu nuageux l'après-midi sur les parties intérieures comme Marovoay et AmbatoBoeny, ainsi qu'à Mitsinjo à l'ouest.
+**Vents** : Vents faibles à modérés, généralement de secteur Sud-Est à Sud-Ouest, avec des vitesses moyennes entre 11 et 19 km/h et des rafales atteignant 24 km/h à MahajangaI.
+**Températures minimales** : entre 21 et 24 °C
+**Températures maximales** : entre 33 et 38 °C`,
+    `Le ciel sera dégagé sur l'ensemble de la région de Boeny, devenant peu nuageux l'après-midi à Marovoay.
+**Vents** : Vents faibles à modérés (11 à 20 km/h) de secteur Est à Sud-Est, localement Sud-Ouest, avec des rafales atteignant 24 km/h à Marovoay.
+**Températures minimales** : entre 21 et 24 °C
 **Températures maximales** : entre 34 et 38 °C`
 ];
 
