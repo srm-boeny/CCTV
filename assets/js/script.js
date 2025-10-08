@@ -237,6 +237,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé sur la majorité de la région Boeny, avec des passages nuageux l'après-midi sur Marovoay et des averses possibles sur AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest, avec une vitesse maximale de 25 km/h à MahajangaI et des rafales atteignant 22 km/h notamment à Marovoay.
