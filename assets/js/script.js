@@ -239,6 +239,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le soleil dominera le ciel toute la journée sur l'ensemble de la région Boeny, notamment à Soalala, Mitsinjo, Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés (8 à 22 km/h) de secteur variable, avec des rafales pouvant atteindre 24 km/h à Marovoay.
