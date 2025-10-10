@@ -241,6 +241,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps généralement ensoleillé le matin sur la majorité de la région, avec des pluies légères sur Soalala. L'après-midi verra un ciel variable, avec des averses sur MahajangaI et MahajangaII.
 **Vents** : Vents modérés de secteur Sud-Est à Ouest-Sud-Ouest, avec des vitesses moyennes entre 12 et 24 km/h. Des rafales pouvant atteindre 28 km/h sont attendues à MahajangaI.
