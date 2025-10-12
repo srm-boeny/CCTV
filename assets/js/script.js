@@ -246,6 +246,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps ensoleillé dominant sur la région, notamment à Soalala, Mitsinjo, Marovoay et AmbatoBoeny. L'après-midi sera partiellement nuageuse à MahajangaII et des averses légères sont prévues à MahajangaI.
 **Vents** : Vents modérés de secteur Sud-Est à Est-Sud-Est, avec des vitesses moyennes entre 10 et 24 km/h. Des rafales atteignant 27 km/h sont attendues à Soalala.
