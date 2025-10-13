@@ -248,6 +248,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Un temps très ensoleillé est attendu sur l'ensemble de la région Boeny, de Soalala à Mahajanga.
 **Vents** : Vents modérés de secteur Est à Sud-Ouest, avec des vitesses allant de 12 à 21 km/h. Les rafales pourront atteindre 31 km/h, notamment à MahajangaI.
