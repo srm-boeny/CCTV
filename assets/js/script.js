@@ -249,6 +249,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps majoritairement ensoleillé sur l'ensemble de la région Boeny, avec quelques passages nuageux l'après-midi, notamment à Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés (12 à 22 km/h) de secteur Sud-Est à Sud-Sud-Ouest, avec des rafales atteignant 29 km/h à MahajangaI.
