@@ -252,6 +252,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La journée sera très ensoleillée sur l'ensemble de la région Boeny, malgré quelques nuages passagers le matin à Soalala.
 **Vents** : Vents faibles à modérés, soufflant principalement des secteurs Sud à Est-Sud-Est, avec des rafales atteignant 26 km/h à MahajangaI.
