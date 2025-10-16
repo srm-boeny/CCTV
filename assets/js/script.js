@@ -254,6 +254,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera largement ensoleillé sur l'ensemble de la région Boeny, incluant Soalala et Mitsinjo à l'Ouest, ainsi que Marovoay et AmbatoBoeny dans les parties intérieures.
 **Vents** : Vents faibles à modérés (8 à 21 km/h) de secteur Est-Sud-Est à Sud, avec des rafales atteignant 26 km/h à MahajangaI.
