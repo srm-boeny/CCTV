@@ -255,6 +255,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps majoritairement ensoleillé sur la région Boeny, avec des averses de pluie possibles l'après-midi notamment à Soalala (Ouest) et AmbatoBoeny (Intérieur).
 **Vents** : Vents faibles à modérés de secteur Ouest-Sud-Ouest à Nord-Ouest (11 à 21 km/h), avec des rafales atteignant 34 km/h à MahajangaI.
