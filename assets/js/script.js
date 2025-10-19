@@ -260,6 +260,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps généralement ensoleillé ou peu nuageux sur l'ensemble de la région, avec des averses légères l'après-midi à Mitsinjo.
 **Vents** : Vents modérés de secteur ESE à SSE, avec des vitesses moyennes comprises entre 12 et 21 km/h. Des rafales atteignant 25 km/h sont prévues à Soalala.
