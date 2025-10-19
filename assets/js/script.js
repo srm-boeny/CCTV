@@ -261,18 +261,18 @@ NEANT.
 
 
     const templates = [
-    `Ciel dégagé et ensoleillé sur l'ensemble de la région Boeny, avec un léger voile nuageux en matinée à Soalala.
-**Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Est à Est. Les vitesses moyennes varient entre 11 et 26 km/h, avec une rafale atteignant 27 km/h à Soalala.
-**Températures minimales** : entre 25 et 26 °C
-**Températures maximales** : entre 34 et 39 °C`,
-    `Le temps sera largement ensoleillé sur la région Boeny, devenant beau sur MahajangaII et partiellement nuageux sur AmbatoBoeny durant l'après-midi.
-**Vents** : Vents modérés de 12 à 21 km/h, principalement de secteur Est à Sud-Est, avec des rafales maximales de 27 km/h à MahajangaI.
-**Températures minimales** : entre 22 et 24 °C
-**Températures maximales** : entre 35 et 39 °C`,
-    `Temps ensoleillé sur la majeure partie de la région Boeny, devenant peu nuageux l'après-midi sur MahajangaII et avec un risque d'averses isolées sur AmbatoBoeny.
-**Vents** : Vents modérés, principalement de secteur Sud à Sud-Ouest (12 à 21 km/h), avec des rafales atteignant 27 km/h à MahajangaI.
+    `Temps généralement ensoleillé ou peu nuageux sur l'ensemble de la région, avec des averses légères l'après-midi à Mitsinjo.
+**Vents** : Vents modérés de secteur ESE à SSE, avec des vitesses moyennes comprises entre 12 et 21 km/h. Des rafales atteignant 25 km/h sont prévues à Soalala.
+**Températures minimales** : entre 24 et 26 °C
+**Températures maximales** : entre 36 et 40 °C`,
+    `Le temps sera majoritairement ensoleillé sur la région Boeny, notamment à Soalala, Mitsinjo et Marovoay, avec l'apparition de nuages l'après-midi à MahajangaII et de légères averses possibles à AmbatoBoeny.
+**Vents** : Vents faibles à modérés de diverses directions, soufflant entre 13 et 20 km/h, avec des rafales atteignant 31 km/h à MahajangaI.
 **Températures minimales** : entre 22 et 25 °C
-**Températures maximales** : entre 34 et 39 °C`
+**Températures maximales** : entre 33 et 39 °C`,
+    `Le temps sera ensoleillé à peu nuageux sur MahajangaI, Soalala, Marovoay et AmbatoBoeny, tandis que des averses de pluie légères sont prévues à Mitsinjo et l'après-midi sur MahajangaII.
+**Vents** : Vents faibles à modérés de secteur Sud-Ouest à Ouest, soufflant entre 10 et 19 km/h, avec des rafales maximales de 23 km/h à MahajangaI.
+**Températures minimales** : entre 22 et 24 °C
+**Températures maximales** : entre 33 et 38 °C`
 ];
 
 
