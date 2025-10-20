@@ -261,6 +261,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Un temps majoritairement ensoleillé à assez clair est attendu sur la région Boeny, avec des passages partiellement nuageux prévus à Soalala toute la journée et à MahajangaII l'après-midi.
 **Vents** : Vents modérés à forts de secteur Sud-Ouest (12 à 26 km/h), avec des rafales atteignant 30 km/h à MahajangaI.
