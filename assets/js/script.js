@@ -264,6 +264,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Un temps ensoleillé à peu nuageux dominera sur la région Boeny, notamment à Soalala, Mitsinjo et AmbatoBoeny, avec toutefois des passages plus nuageux à Marovoay et des averses possibles l'après-midi à MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Ouest à Sud-Ouest, avec des vitesses moyennes de 11 à 20 km/h et des rafales atteignant 27 km/h à MahajangaI.
