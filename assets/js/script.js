@@ -265,6 +265,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps globalement partiellement nuageux sur l'ensemble de la région Boeny, avec de légères averses possibles l'après-midi, notamment à AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Ouest-Sud-Ouest (WSW), avec des vitesses moyennes entre 10 et 21 km/h et des rafales pouvant atteindre 30 km/h à MahajangaI.
