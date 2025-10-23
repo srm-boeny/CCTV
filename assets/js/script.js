@@ -266,6 +266,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Ciel partiellement nuageux prédominant le matin sur la région Boeny, évoluant vers des éclaircies l'après-midi, plus franches à Soalala et Marovoay.
 **Vents** : Vents modérés, avec des vitesses moyennes entre 13 et 24 km/h, majoritairement de secteur Sud-Est à Sud. Des rafales de 27 km/h sont possibles à Soalala.
