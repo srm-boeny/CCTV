@@ -269,6 +269,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La matinée sera largement ensoleillée sur l'ensemble de la région Boeny. L'après-midi, le ciel restera dégagé sur Soalala (Ouest) et peu nuageux sur Mitsinjo (Ouest) et AmbatoBoeny (intérieur), tandis que des nuages partiels sont attendus sur MahajangaI, Marovoay (intérieur) et MahajangaII (Est).
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est, soufflant entre 13 et 19 km/h, avec des rafales atteignant 22 km/h à Soalala et 18 km/h à Mitsinjo.
