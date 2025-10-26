@@ -273,6 +273,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps ensoleillé à partiellement nuageux dominant la journée sur la région Boeny, avec un ciel majoritairement dégagé à AmbatoBoeny et des passages nuageux plus fréquents à MahajangaII.
 **Vents** : Vents modérés de secteur Est à Sud, avec des vitesses moyennes entre 13 et 21 km/h, et des rafales atteignant 26 km/h à MahajangaI.
