@@ -276,6 +276,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La journée sera généralement ensoleillée sur la région Boeny, avec un ciel dégagé le matin sur AmbatoBoeny et MahajangaII, où quelques passages nuageux sont attendus l'après-midi.
 **Vents** : Vents modérés, variant de secteur Sud-Est à Est-Nord-Est, avec des vitesses moyennes entre 13 et 21 km/h et des rafales atteignant 27 km/h à Soalala.
