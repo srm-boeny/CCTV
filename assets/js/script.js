@@ -278,6 +278,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le matin sera ensoleillé à peu nuageux sur l'ensemble de la région Boeny, évoluant vers un temps partiellement nuageux l'après-midi.
 **Vents** : Vents faibles à modérés de secteur ESE à SSE, avec des vitesses moyennes entre 10 et 22 km/h. Des rafales pourront atteindre 28 km/h à MahajangaI.
