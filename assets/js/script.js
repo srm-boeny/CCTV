@@ -282,6 +282,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La journée sera largement ensoleillée sur l'ensemble de la région Boeny, notamment à Soalala, AmbatoBoeny et MahajangaII, malgré un ciel partiellement nuageux en matinée à MahajangaI et Marovoay.
 **Vents** : Vents modérés, principalement de secteur Sud à Ouest-Sud-Ouest, avec des vitesses moyennes comprises entre 13 et 20 km/h. Les rafales pourront atteindre 23 km/h à Marovoay et 22 km/h à Soalala.
