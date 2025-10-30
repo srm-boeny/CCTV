@@ -282,6 +282,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Des averses de pluie sont attendues sur Soalala et Mitsinjo, tandis que le temps sera ensoleillé à peu nuageux ailleurs dans la région, notamment sur Marovoay, AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud-Ouest (13 à 24 km/h), avec des rafales pouvant atteindre 31 km/h à MahajangaI.
