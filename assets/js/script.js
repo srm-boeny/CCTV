@@ -282,6 +282,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La matinée sera majoritairement ensoleillée à partiellement nuageuse sur la région Boeny, à l'exception de légères averses sur Mahajanga I, avant que des averses de pluie ne se généralisent sur toutes les localités l'après-midi.
 **Vents** : Vents faibles à modérés (10 à 18 km/h), majoritairement de secteur Sud-Est à Sud-Sud-Est, et de secteur Ouest-Nord-Ouest sur Mahajanga I. Des rafales pourront atteindre 27 km/h à Mahajanga I.
