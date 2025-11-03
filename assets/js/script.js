@@ -288,6 +288,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Après une matinée globalement ensoleillée à partiellement nuageuse, l'après-midi verra l'arrivée d'averses, parfois fortes, sur la majorité de la région, notamment à MahajangaI, Mitsinjo, Marovoay et MahajangaII, tandis que Soalala et AmbatoBoeny connaîtront un temps plus nuageux.
 **Vents** : Vents modérés, majoritairement de secteur Sud-Ouest à Sud-Est, avec des vitesses moyennes de 12 à 21 km/h. Des rafales atteindront 31 km/h à MahajangaI et 23 km/h à AmbatoBoeny.
