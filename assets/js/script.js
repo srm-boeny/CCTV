@@ -290,6 +290,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La journée débutera avec un temps ensoleillé à peu nuageux sur l'Est (MahajangaII) et les parties intérieures (Marovoay, AmbatoBoeny) de la région, tandis que l'Ouest (Soalala, Mitsinjo) et MahajangaI connaîtront un ciel plus nuageux avec des averses légères, puis l'après-midi sera marqué par des averses sur l'ensemble de la région, devenant localement fortes à MahajangaI et AmbatoBoeny.
 **Vents** : Vents modérés de secteur Sud-Est à Sud-Sud-Est sur la majeure partie de la région (11 à 24 km/h), mais tournant au Sud-Ouest à MahajangaI. Des rafales pouvant atteindre 21 km/h sont prévues, notamment à Soalala.
