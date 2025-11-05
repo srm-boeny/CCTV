@@ -292,6 +292,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera nuageux à partiellement nuageux sur l'ensemble de la région Boeny ce matin, avec des averses prenant le relais l'après-midi sur la plupart des localités comme Mahajanga, Marovoay, AmbatoBoeny et Soalala, à l'exception de Mitsinjo où le ciel sera plus dégagé.
 **Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Ouest à Ouest-Sud-Ouest, avec des vitesses moyennes allant de 11 à 23 km/h. Des rafales jusqu'à 27 km/h sont possibles, notamment à MahajangaI.
