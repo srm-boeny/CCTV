@@ -294,6 +294,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Des matinées généralement ensoleillées ou partiellement nuageuses précèdent des après-midis pluvieux sur l'ensemble de la région Boeny, avec des averses plus intenses à AmbatoBoeny et des pluies persistantes à Mitsinjo.
 **Vents** : Vents faibles à modérés, principalement de secteur Ouest-Sud-Ouest (WSW) sauf à Mitsinjo (Sud-Est). Rafales atteignant 22 km/h à Soalala.
