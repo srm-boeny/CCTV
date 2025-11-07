@@ -297,6 +297,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera majoritairement partiellement nuageux le matin sur la région Boeny, excepté MahajangaI où il fera beau, avant l'arrivée d'averses sur l'ensemble de la région l'après-midi, parfois fortes sur Marovoay et AmbatoBoeny.
 **Vents** : Vents faibles à modérés, de secteur Sud-Ouest dominant (9 à 18 km/h), avec une exception ESE à Soalala et des rafales atteignant 15 km/h sur Marovoay, AmbatoBoeny et MahajangaII.
