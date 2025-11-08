@@ -298,6 +298,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Après une matinée globalement ensoleillée ou claire, notamment sur Soalala (Ouest) et MahajangaII (Est), l'après-midi apportera un ciel plus nuageux avec des averses, parfois fortes sur AmbatoBoeny et Marovoay (parties intérieures), et des averses également sur MahajangaII (Est).
 **Vents** : Vents faibles à modérés, principalement de secteur Sud-Ouest (7 à 17 km/h), avec une rafale maximale de 19 km/h à Soalala.
