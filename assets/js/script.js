@@ -300,6 +300,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Après une matinée généralement ensoleillée à partiellement nuageuse, l'après-midi sera marquée par des averses sur la côte ouest (Soalala, Mitsinjo) et des pluies parfois fortes sur les parties intérieures et l'est de la région (Marovoay, AmbatoBoeny, MahajangaII).
 **Vents** : Vents faibles à modérés, soufflant principalement de secteur Sud-Est à Sud avec des vitesses variant de 8 à 16 km/h. Des rafales jusqu'à 19 km/h sont attendues à Soalala et 14 km/h à Marovoay.
