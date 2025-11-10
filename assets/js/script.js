@@ -307,6 +307,7 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 
 
 
+
     const templates = [
     `La journée débutera avec un temps ensoleillé ou un ciel dégagé sur l'ensemble du Boeny, notamment à AmbatoBoeny, avant l'arrivée d'averses l'après-midi, qui pourront être fortes à MahajangaI et Mitsinjo.
 **Vents** : Vents faibles à modérés (6 à 14 km/h), majoritairement de secteur Sud-Est à Sud. Rafales atteignant 19 km/h à Soalala.
