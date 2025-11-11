@@ -304,6 +304,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps majoritairement partiellement nuageux le matin dans la région Boeny, avec un temps ensoleillé à AmbatoBoeny, avant l'arrivée d'averses et de pluies parfois intenses l'après-midi sur l'ensemble de la région.
 **Vents** : Vents faibles à modérés (8 à 18 km/h) de directions variées, avec des rafales atteignant 23 km/h à MahajangaI et 21 km/h à Soalala.
