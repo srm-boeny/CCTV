@@ -306,6 +306,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Temps partiellement nuageux le matin, devenant pluvieux l'après-midi avec des averses généralisées et des pluies fortes notamment à Marovoay.
 **Vents** : Vents faibles à modérés, principalement de secteur Sud (5 à 15 km/h), avec des rafales pouvant atteindre 19 km/h à Soalala.
