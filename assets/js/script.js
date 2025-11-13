@@ -313,6 +313,7 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 
 
 
+
     const templates = [
     `Temps partiellement nuageux le matin sur l'ensemble de la région, évoluant vers des averses l'après-midi, localement fortes notamment à Mitsinjo, Marovoay et AmbatoBoeny.
 **Vents** : Vents légers à modérés soufflant entre 8 et 19 km/h, de secteur Est à Sud-Est dans les terres et Ouest à Sud-Ouest sur le littoral.
