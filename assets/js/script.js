@@ -310,6 +310,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La journée débutera avec un temps partiellement nuageux sur l'ensemble de la région, évoluant vers un ciel généralement couvert l'après-midi, avec des averses isolées attendues à Soalala.
 **Vents** : Vents faibles à modérés, principalement de secteur Ouest à Sud-Ouest, rafales atteignant 27 km/h à MahajangaI.
