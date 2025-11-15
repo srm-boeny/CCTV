@@ -312,6 +312,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Des averses sont attendues sur l'ensemble de la région Boeny, devenant des pluies intenses l'après-midi, particulièrement à MahajangaI, Mitsinjo et MahajangaII.
 **Vents** : Vents faibles à modérés (10 à 17 km/h) de directions variables, avec une rafale atteignant 24 km/h à MahajangaI.
