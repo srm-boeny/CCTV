@@ -314,6 +314,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La matinée sera majoritairement ensoleillée ou peu nuageuse, laissant place l'après-midi à un temps plus instable avec des averses et pluies locales, particulièrement à Mitsinjo (Ouest), Marovoay et AmbatoBoeny (Intérieur).
 **Vents** : Vents faibles à modérés de secteur Sud-Est dominant (9 à 20 km/h), avec une pointe à 24 km/h à MahajangaI. Des rafales de 25 km/h sont possibles à Soalala.
