@@ -318,6 +318,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Un temps dominé par les averses et les pluies est attendu sur la région Boeny, notamment à Marovoay où les précipitations seront continues, tandis que MahajangaI et Mitsinjo connaîtront des périodes plus nuageuses.
 **Vents** : Vents faibles à modérés de secteur Ouest à Sud-Ouest, entre 8 et 15 km/h. Rafales jusqu'à 20 km/h à Soalala et 16 km/h à Marovoay.
