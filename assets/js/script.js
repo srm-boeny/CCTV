@@ -320,6 +320,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La journée débutera sous des averses sur la majeure partie de la région Boeny, notamment à l'Ouest (Soalala, Mitsinjo) et à l'Est (MahajangaII), avant de devenir plus mitigée l'après-midi avec des averses localisées et des périodes de ciel partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur Nord-Ouest à Sud-Ouest, avec des vitesses moyennes allant de 10 à 13 km/h. Les rafales pourront atteindre 18 km/h à MahajangaI.
