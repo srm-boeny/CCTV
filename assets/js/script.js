@@ -327,6 +327,7 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 
 
 
+
     const templates = [
     `Le temps sera nuageux ou faiblement pluvieux sur l'ouest (Soalala, Mitsinjo) et à MahajangaI en matinée, tandis que l'intérieur (Marovoay, AmbatoBoeny) et l'est (MahajangaII) connaîtront des éclaircies avant que des averses ou pluies ne se généralisent l'après-midi sur l'ensemble de la région.
 **Vents** : Vents faibles à modérés de secteur Ouest à Sud-Ouest, entre 9 et 17 km/h. Des rafales jusqu'à 22 km/h sont attendues à MahajangaI.
