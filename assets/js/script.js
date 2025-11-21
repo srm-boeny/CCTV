@@ -324,6 +324,7 @@ NEANT.
 
 
 
+
     const templates = [
     `De fortes pluies sont attendues le matin, particulièrement sur Soalala à l'Ouest ainsi que Marovoay et AmbatoBoeny à l'intérieur de la région. Des averses de pluie persisteront l'après-midi sur l'ensemble du Boeny.
 **Vents** : Vents faibles à modérés, soufflant entre 11 et 19 km/h. Des rafales pourront atteindre 23 km/h à MahajangaI et Soalala.
