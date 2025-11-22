@@ -326,6 +326,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Partiellement nuageux le matin sur la majorité de la région, des averses sont attendues l'après-midi à Soalala, Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés, majoritairement de secteur Ouest à Sud-Ouest (8 à 16 km/h), avec des rafales atteignant 24 km/h à MahajangaI et 21 km/h à Soalala.
