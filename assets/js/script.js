@@ -328,6 +328,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera majoritairement partiellement nuageux sur l'ensemble de la région, avec des périodes ensoleillées l'après-midi à MahajangaI et Marovoay, et de légères averses prévues à l'Est, vers MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Ouest dominant, soufflant entre 8 et 18 km/h, avec des rafales pouvant atteindre 24 km/h à MahajangaI.
