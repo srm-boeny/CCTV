@@ -330,6 +330,7 @@ NEANT.
 
 
 
+
     const templates = [
     `La journée sera principalement marquée par un ciel partiellement nuageux sur l'Ouest (Soalala, Mitsinjo) et le Nord (MahajangaI), ainsi qu'à Marovoay. Des averses sont prévues l'après-midi à AmbatoBoeny et de la pluie à MahajangaII (Est).
 **Vents** : Vents faibles à modérés de 7 à 14 km/h de secteurs variables (principalement Ouest à Nord-Ouest et Sud à Sud-Ouest), avec des rafales maximales de 19 km/h à MahajangaI.
