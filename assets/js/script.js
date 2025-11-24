@@ -331,18 +331,18 @@ NEANT.
 
 
     const templates = [
-    `Le temps sera majoritairement partiellement nuageux sur l'ensemble de la région, avec des périodes ensoleillées l'après-midi à MahajangaI et Marovoay, et de légères averses prévues à l'Est, vers MahajangaII.
-**Vents** : Vents faibles à modérés de secteur Ouest dominant, soufflant entre 8 et 18 km/h, avec des rafales pouvant atteindre 24 km/h à MahajangaI.
+    `La journée sera principalement marquée par un ciel partiellement nuageux sur l'Ouest (Soalala, Mitsinjo) et le Nord (MahajangaI), ainsi qu'à Marovoay. Des averses sont prévues l'après-midi à AmbatoBoeny et de la pluie à MahajangaII (Est).
+**Vents** : Vents faibles à modérés de 7 à 14 km/h de secteurs variables (principalement Ouest à Nord-Ouest et Sud à Sud-Ouest), avec des rafales maximales de 19 km/h à MahajangaI.
 **Températures minimales** : entre 25 et 26 °C
-**Températures maximales** : entre 34 et 37 °C`,
-    `La journée sera marquée par un ciel partiellement nuageux dominant, avec des périodes ensoleillées le matin sur les zones côtières (Mahajanga I, Mahajanga II), et des éclaircies plus franches l'après-midi dans l'Ouest (Soalala, Mitsinjo).
-**Vents** : Vents faibles à modérés de secteur Sud à Nord-Ouest, avec des vitesses moyennes entre 8 et 15 km/h. Les rafales pourront atteindre 19 km/h notamment à Mahajanga I et Soalala.
-**Températures minimales** : entre 23 et 25 °C
 **Températures maximales** : entre 33 et 37 °C`,
-    `Temps généralement ensoleillé ou peu nuageux le matin sur l'ouest (Soalala, Mitsinjo) et l'intérieur (Marovoay), devenant plus nuageux l'après-midi avec des averses possibles sur AmbatoBoeny et MahajangaII.
-**Vents** : Vents faibles à modérés de secteur Ouest à Ouest-Nord-Ouest, avec des rafales atteignant 24 km/h à MahajangaI.
+    `Le matin sera généralement ensoleillé à partiellement nuageux, avant que des pluies et averses ne dominent l'après-midi sur la plupart de la région, touchant particulièrement MahajangaI, Marovoay et AmbatoBoeny.
+**Vents** : Vents faibles à modérés de secteur Sud à Sud-Ouest, avec des vitesses moyennes entre 7 et 16 km/h. Les rafales pourront atteindre 21 km/h, notamment à MahajangaI.
+**Températures minimales** : entre 23 et 25 °C
+**Températures maximales** : entre 32 et 37 °C`,
+    `Le temps sera majoritairement nuageux avec des averses, notamment sur l'Ouest à Soalala et Mitsinjo où la pluie est attendue, tandis que des pluies légères sont possibles l'après-midi sur Marovoay et MahajangaII.
+**Vents** : Vents faibles à modérés (entre 8 et 13 km/h), principalement de secteur Sud-Est à Est-Sud-Est. Des rafales atteignant 17 km/h sont à prévoir à MahajangaI et Soalala.
 **Températures minimales** : entre 24 et 25 °C
-**Températures maximales** : entre 33 et 37 °C`
+**Températures maximales** : entre 33 et 36 °C`
 ];
 
 
