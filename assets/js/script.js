@@ -332,6 +332,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le matin sera généralement partiellement nuageux sur la région, avec un temps plus dégagé à MahajangaII, avant que l'après-midi n'apporte des pluies et averses sur la plupart des localités, notamment de fortes pluies à AmbatoBoeny, tandis que Soalala restera partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur Sud-Ouest dominant, entre 8 et 16 km/h, avec des rafales atteignant 14 km/h à Mitsinjo.
