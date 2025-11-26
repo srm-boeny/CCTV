@@ -339,6 +339,7 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 
 
 
+
     const templates = [
     `Temps nuageux à averses le matin sur l'ouest (Soalala, Mitsinjo), puis de fortes pluies et averses orageuses généralisées l'après-midi sur toute la région Boeny.
 **Vents** : Vents faibles à modérés de secteur variable (Sud-Est à Sud-Ouest), avec des vitesses entre 8 et 17 km/h, et des rafales jusqu'à 15 km/h à Marovoay.
