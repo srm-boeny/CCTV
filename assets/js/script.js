@@ -337,6 +337,7 @@ NEANT.
 
 
 
+
     const templates = [
     `Le temps sera nuageux sur l'ensemble de la région, avec des pluies ou averses l'après-midi, notamment sur l'Ouest (Soalala, Mitsinjo), l'Est (MahajangaII) et les parties intérieures (Marovoay, AmbatoBoeny).
 **Vents** : Vents faibles à modérés de secteur Ouest-Sud-Ouest, soufflant entre 8 et 17 km/h, avec des rafales atteignant 18 km/h à Soalala.
