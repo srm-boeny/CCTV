@@ -65,19 +65,23 @@ def extract_marine_messages():
 
     moz_msg = ""
     found_canal = False
-
-    for p in h_paragraphs:
+    target_block = "10S/20S"
+    
+    for i, p in enumerate(h_paragraphs):
         text = p.get_text(strip=True).upper()
-
-        # Raiso hatreo amle hoe 'CANAL de MOZ' iahany aloh e..
+    
+        # Ty le canal de mozambiq, de ra ovaindry zala indray def ts mety ito
         if "CANAL DE MOZAMBIQUE" in text:
             found_canal = True
             continue
+    
+        # Ty le mandeh ho comore e
+        if found_canal:
+            if p.find("strong") and target_block in text:
+                if i + 1 < len(h_paragraphs):
+                    moz_msg = get_clean_text(h_paragraphs[i + 1])
+                break
 
-        # De mitazona ilay 10/20 foana
-        if found_canal and "10S/20S" in text:
-            moz_msg = get_clean_text(p)
-            break
 
     if situation_block:
         avis = f"**Situation generale**:\n{insert_line_breaks(situation_block)}"
