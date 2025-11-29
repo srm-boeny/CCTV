@@ -341,6 +341,7 @@ BASSES PRESSIONS SUR UNE BONNE PARTIE DE LA ZONE ;
 
 
 
+
     const templates = [
     `Un temps majoritairement ensoleillé à peu nuageux est prévu sur l'ensemble de la région Boeny, devenant plus nuageux avec des averses l'après-midi sur l'Est, vers MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud-Ouest à Ouest, rafale maximale de 19 km/h à AmbatoBoeny.
