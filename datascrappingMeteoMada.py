@@ -18,7 +18,7 @@ def insert_line_breaks(text):
     text = re.sub(r'(?<!\d)\.(?!\d)', '.\\n', text)
     return text.strip()
 
-" Mila ovaina fa niova ny MeteoMada
+# Mila ovaina fa niova ny MeteoMada
 def extract_marine_messages():
     res = requests.get(URL)
     soup = BeautifulSoup(res.content, "html.parser")
