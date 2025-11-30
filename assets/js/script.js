@@ -357,6 +357,7 @@ VENT : SECTEUR OUEST 05/10 PRES COTES MALAGASY, EST A NORD-EST 10/15 AILLEURS, D
 
 
 
+
     const templates = [
     `La journée sera marquée par des averses et des pluies généralisées sur la région durant l'après-midi, particulièrement fortes à AmbatoBoeny, tandis que la matinée verra un mélange d'averses (MahajangaI, Soalala) et de ciel partiellement nuageux.
 **Vents** : Vents faibles à modérés, majoritairement de secteur Sud (Sud-Est à Sud-Ouest), soufflant entre 8 et 16 km/h. Des rafales atteignant 18 km/h sont attendues à Soalala.
