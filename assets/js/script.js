@@ -364,6 +364,7 @@ VENT : BRISES CÔTIÈRES 05/10 PRES DES COTES MALAGASY.
 
 
 
+
     const templates = [
     `La journée sera principalement pluvieuse sur l'ensemble de la région Boeny, avec des averses fortes prévues notamment à Soalala, Marovoay et AmbatoBoeny l'après-midi, et dès le matin à MahajangaII.
 **Vents** : Vents faibles à modérés, de directions variées, oscillant entre 7 et 15 km/h. Une rafale de 13 km/h est prévue à Marovoay.
