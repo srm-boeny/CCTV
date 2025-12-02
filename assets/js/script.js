@@ -360,6 +360,7 @@ VENT : NORD 05/10 AU NORD DE 17S, EST 05/10 AILLEURS.
 
 
 
+
     const templates = [
     `Temps pluvieux dominant sur l'ensemble de la région Boeny, avec de fortes averses matinales sur MahajangaII, et un ciel partiellement nuageux le matin à AmbatoBoeny avant l'arrivée de la pluie.
 **Vents** : Vents faibles à modérés (9 à 14 km/h) de secteurs variables, avec des rafales atteignant 19 km/h à Marovoay et 18 km/h à MahajangaII.
