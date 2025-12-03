@@ -359,6 +359,7 @@ VENT : NORD A NORD-EST 05/10, DEVENANT NORD-OUEST 05/10 PRES DES COTES NORD-OUES
 
 
 
+
     const templates = [
     `Des averses et des pluies sont prévues sur la région Boeny, plus marquées le matin sur l'ouest (Soalala, Mitsinjo, MahajangaI) et devenant généralisées l'après-midi avec des intensités parfois fortes sur le centre et l'est (Marovoay, AmbatoBoeny, MahajangaII), tandis que Soalala connaîtra un après-midi partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur variable (Sud-Est à Sud-Ouest), avec des vitesses de 7 à 18 km/h et des rafales atteignant 22 km/h à MahajangaI et Soalala.
