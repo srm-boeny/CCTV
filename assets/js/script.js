@@ -360,6 +360,7 @@ VENT : OUEST A NORD-EST 05/10 LOCALEMENT 15/20 PRES DES COTES AFRICAINES ÉTAT D
 
 
 
+
     const templates = [
     `Partiellement nuageux dominant en matinée, avec des averses légères possibles à Mitsinjo. L'après-midi, le temps devient plus perturbé avec des pluies modérées à fortes attendues dans les parties intérieures (Marovoay, AmbatoBoeny) et Est (MahajangaII), tandis que l'Ouest (Soalala) reste ensoleillé.
 **Vents** : Vents faibles à modérés de secteur Ouest à Sud-Ouest, vitesses moyennes entre 8 et 15 km/h. Des rafales atteignant 19 km/h sont possibles à MahajangaI.
