@@ -363,6 +363,7 @@ VENT : SECTEUR NORD 05/10 AU NORD DE 15S, OUEST 15/20 AILLEURS.
 
 
 
+
     const templates = [
     `La matinée sera partiellement nuageuse sur l'ensemble de la région Boeny, laissant place à des conditions pluvieuses l'après-midi, notamment des pluies intenses sur Marovoay, AmbatoBoeny, MahajangaII et de fortes averses sur Mitsinjo.
 **Vents** : Vents faibles, principalement de secteur Sud-Ouest, avec des vitesses moyennes variant entre 6 et 15 km/h et des rafales atteignant 13 km/h à Marovoay.
