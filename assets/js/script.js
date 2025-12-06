@@ -368,6 +368,7 @@ VENT : VARIABLE 05/10 AU NORD DE 15S, SUD A SUD-EST 10/15 AILLEURS.
 
 
 
+
     const templates = [
     `La matinée sera partiellement nuageuse sur la région, devenant pluvieuse l'après-midi avec des averses, parfois fortes, notamment à Mahajanga I, Marovoay, AmbatoBoeny et Mahajanga II.
 **Vents** : Vents faibles à modérés (7 à 17 km/h), avec des rafales atteignant 18 km/h à Soalala. Ils seront majoritairement de secteur Sud-Est, sauf à Mahajanga I où ils souffleront du Sud-Ouest.
