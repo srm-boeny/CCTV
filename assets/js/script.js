@@ -365,6 +365,7 @@ VENT : SUD 05/10 SUR LA PARTIE SUD-EST, EST A SUD-EST 05/10 AILLEURS ÉTAT DE LA
 
 
 
+
     const templates = [
     `La journée débutera avec un temps majoritairement ensoleillé à peu nuageux sur l'ensemble de la région Boeny, avant l'arrivée de pluies ou averses intenses l'après-midi, notamment à MahajangaI, Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés, variant du secteur Ouest-Sud-Ouest à Est, avec des vitesses de 6 à 15 km/h.
