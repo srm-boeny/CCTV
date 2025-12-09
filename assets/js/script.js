@@ -377,6 +377,7 @@ VENT : OUEST 05/10 LE LONG DES CÔTES NORD-OUEST DE MADAGASCAR, EST A NORD-EST 1
 
 
 
+
     const templates = [
     `Le matin sera ensoleillé à peu nuageux sur la région, avec un ciel dégagé à MahajangaI, devenant pluvieux l'après-midi avec des averses généralisées, qui seront fortes à Mitsinjo (Ouest) et persistantes à AmbatoBoeny (intérieur).
 **Vents** : Vents faibles à modérés, oscillant entre 5 et 13 km/h, avec des directions variées (Ouest, Sud-Est, Sud).
