@@ -373,6 +373,7 @@ VENT : VARIABLE 05, MAIS EST A NORD-EST 05/10 PRES DES COTES AFRICAINES VERS MI 
 
 
 
+
     const templates = [
     `La journée sera marquée par des averses sur l'ensemble de la région Boeny, avec de légères averses le matin à Soalala et MahajangaI. Un ciel partiellement nuageux est attendu en matinée sur Mitsinjo, AmbatoBoeny et MahajangaII avant l'arrivée des averses.
 **Vents** : Vents faibles à modérés, variant entre 6 et 14 km/h, principalement de secteur Ouest-Sud-Ouest à Sud, avec des rafales de 15 km/h à AmbatoBoeny.
