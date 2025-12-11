@@ -375,6 +375,7 @@ VENT : VARIABLE 05/10, DEVENANT SUD-EST 10/15 SUR LA PARTIE SUD EN FIN DE PERIOD
 
 
 
+
     const templates = [
     `Après une matinée majoritairement partiellement nuageuse, excepté à MahajangaI où le temps sera beau, l'après-midi verra l'arrivée d'averses ou de pluies fortes sur la plupart des localités, tandis que Soalala restera partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur Sud-Ouest, soufflant entre 5 et 15 km/h, avec des rafales pouvant atteindre 21 km/h à MahajangaI.
