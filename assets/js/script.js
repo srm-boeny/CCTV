@@ -383,6 +383,7 @@ VENT : SUD A SUD-EST 05/10 ATTEIGNANT 15/20 AU SUD DE 15S, DEVENANT OUEST 05/10 
 
 
 
+
     const templates = [
     `La journée sera caractérisée par des pluies fréquentes sur la région, devenant fortes l'après-midi notamment à MahajangaI et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est, entre 7 et 10 km/h, avec des rafales atteignant 17 km/h à MahajangaII et 18 km/h à AmbatoBoeny. À MahajangaI, les vents seront de secteur Ouest-Nord-Ouest à 9 km/h.
