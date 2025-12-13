@@ -384,6 +384,7 @@ VENT : SUD A SUD-EST 05/10 KT EN DÉBUT DE PERIODE, DEVENANT VARIABLE 05/10 KT V
 
 
 
+
     const templates = [
     `La journée débutera avec un temps partiellement nuageux sur l'ensemble de la région Boeny, avant l'arrivée de pluies et averses parfois fortes l'après-midi, notamment à Soalala, Marovoay, AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est (7 à 15 km/h), avec des rafales atteignant 23 km/h à Mitsinjo.
