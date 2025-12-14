@@ -386,6 +386,7 @@ VENT : SECTEUR EST 05/15 KT.
 
 
 
+
     const templates = [
     `Temps partiellement nuageux le matin sur l'ensemble de la région, puis fortes averses l'après-midi sur la plupart des localités, y compris Mahajanga, Mitsinjo, Marovoay et AmbatoBoeny, tandis que Soalala connaîtra des averses plus modérées.
 **Vents** : Vents faibles à modérés de secteur Est à Sud dominant, avec des vitesses moyennes entre 9 et 14 km/h et des rafales atteignant 15 km/h à Mitsinjo.
