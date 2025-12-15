@@ -390,6 +390,7 @@ VENT : SECTEUR EST 05/10 KT, LOCALEMENT 15 KT.
 
 
 
+
     const templates = [
     `Le matin sera partiellement nuageux sur l'ensemble de la région Boeny, laissant place à de fortes pluies généralisées l'après-midi, excepté à Soalala où des pluies moins intenses sont prévues.
 **Vents** : Vents faibles à modérés de secteur ESE, avec des vitesses moyennes allant de 9 à 21 km/h et des rafales pouvant atteindre 27 km/h à MahajangaI.
