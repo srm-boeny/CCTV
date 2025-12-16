@@ -390,6 +390,7 @@ VENT : SECTEUR EST 05/10 KT, LOCALEMENT 15 KT ÉTAT DE LA MER : PEU AGITÉE A AG
 
 
 
+
     const templates = [
     `Temps partiellement nuageux le matin sur l'ensemble de la région, évoluant vers des averses l'après-midi, fortes notamment sur MahajangaI, Marovoay, AmbatoBoeny et MahajangaII, et plus légères à Soalala et Mitsinjo.
 **Vents** : Vents modérés, de secteur Est à Sud, soufflant entre 10 et 16 km/h, avec une rafale atteignant 21 km/h à MahajangaII.
