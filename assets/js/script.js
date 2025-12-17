@@ -394,6 +394,7 @@ VENT : EST A NORD-EST 05/10 KT, LOCALEMENT 15 KT.
 
 
 
+
     const templates = [
     `La matinée sera partiellement nuageuse sur la majeure partie de la région (légères averses à AmbatoBoeny), avant l'arrivée de pluies généralisées l'après-midi, qui seront fortes à Mitsinjo (Ouest), Marovoay, AmbatoBoeny (Intérieur) et MahajangaII (Est).
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est, avec des vitesses moyennes de 8 à 17 km/h et des rafales atteignant 20 km/h à Marovoay.
