@@ -396,6 +396,7 @@ VENT : EST A NORD-EST 05/15 KT, LOCALEMENT 20 KT PRES DES COTES MOZAMBICAINES EN
 
 
 
+
     const templates = [
     `Des averses et un temps nuageux marqueront la matinée à l'Ouest de la région (Soalala, Mitsinjo), tandis que l'après-midi verra des pluies généralisées, parfois intenses sur l'intérieur et l'Est (Marovoay, AmbatoBoeny, MahajangaII).
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est, soufflant entre 9 et 16 km/h, avec des rafales atteignant 21 km/h à MahajangaI.
