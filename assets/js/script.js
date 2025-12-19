@@ -395,6 +395,7 @@ VENT : SECTEUR EST 05/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
 
 
 
+
     const templates = [
     `Matinées généralement nuageuses à partiellement nuageuses sur toute la région. L'après-midi sera marqué par des pluies ou averses, localement fortes à MahajangaI, tandis que Soalala et MahajangaII garderont un ciel partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est sur l'ouest et le centre de la région, et de secteur Est à MahajangaII, avec des vitesses moyennes entre 8 et 18 km/h. Des rafales sont possibles, atteignant 15 km/h à Marovoay et 18 km/h à MahajangaII.
