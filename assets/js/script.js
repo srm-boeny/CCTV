@@ -397,6 +397,7 @@ VENT : SECTEUR EST 05/10 KT, LOCALEMENT 15 KT.
 
 
 
+
     const templates = [
     `La matinée sera globalement ensoleillée, mais l'après-midi sera marquée par de fortes averses ou pluies généralisées sur l'ensemble de la région Boeny, plus intenses à Mitsinjo et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est, soufflant entre 6 et 16 km/h.
