@@ -399,6 +399,7 @@ VENT : EST A NORD-EST 05/10 KT, LOCALEMENT 15 KT.
 
 
 
+
     const templates = [
     `De fortes pluies sont prévues sur l'ensemble de la région Boeny, notamment dans les parties intérieures (Marovoay, AmbatoBoeny) et à l'Est (MahajangaII), tandis que les précipitations seront plus modérées à l'Ouest (Soalala).
 **Vents** : Vents faibles à modérés variant de 6 à 15 km/h. Des rafales pouvant atteindre 20 km/h sont possibles à MahajangaI et 19 km/h à Soalala.
