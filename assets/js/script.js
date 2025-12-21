@@ -400,18 +400,18 @@ VENT : EST A NORD-EST 05/10 KT, LOCALEMENT 15 KT.
 
 
     const templates = [
-    `La matinée sera globalement ensoleillée, mais l'après-midi sera marquée par de fortes averses ou pluies généralisées sur l'ensemble de la région Boeny, plus intenses à Mitsinjo et MahajangaII.
-**Vents** : Vents faibles à modérés de secteur Est à Sud-Est, soufflant entre 6 et 16 km/h.
+    `De fortes pluies sont prévues sur l'ensemble de la région Boeny, notamment dans les parties intérieures (Marovoay, AmbatoBoeny) et à l'Est (MahajangaII), tandis que les précipitations seront plus modérées à l'Ouest (Soalala).
+**Vents** : Vents faibles à modérés variant de 6 à 15 km/h. Des rafales pouvant atteindre 20 km/h sont possibles à MahajangaI et 19 km/h à Soalala.
 **Températures minimales** : entre 23 et 24 °C
-**Températures maximales** : entre 35 et 36 °C`,
-    `Des pluies intenses marqueront la journée à Soalala et l'après-midi à AmbatoBoeny. Ailleurs, des averses sont attendues l'après-midi sur MahajangaI, Mitsinjo, Marovoay et MahajangaII, après une matinée nuageuse ou partiellement ensoleillée.
-**Vents** : Vents faibles à modérés, dominant des secteurs Sud-Est à Sud-Ouest, entre 5 et 19 km/h, avec des rafales atteignant 23 km/h.
-**Températures minimales** : entre 22 et 24 °C
-**Températures maximales** : entre 31 et 35 °C`,
-    `Des averses sont prévues l'après-midi sur toute la région Boeny, avec des pluies dès le matin sur l'Ouest (Soalala, Mitsinjo) et un ciel partiellement nuageux sur les zones intérieures et l'Est (Marovoay, AmbatoBoeny, MahajangaII).
-**Vents** : Vents faibles à modérés, de secteur Sud-Est à Sud-Ouest, avec des vitesses allant de 6 à 15 km/h.
+**Températures maximales** : entre 31 et 33 °C`,
+    `La journée sera caractérisée par un ciel partiellement nuageux à nuageux le matin, évoluant vers des averses de pluie généralisées l'après-midi, qui seront localement fortes notamment dans l'Ouest (Mitsinjo), l'intérieur (Marovoay) et l'Est (MahajangaII) de la région.
+**Vents** : Vents faibles à modérés, principalement de secteur Sud-Est à Sud-Sud-Est, avec des vitesses variant entre 6 et 15 km/h. Des rafales pourront atteindre 19 km/h à Soalala.
 **Températures minimales** : entre 22 et 23 °C
-**Températures maximales** : entre 32 et 35 °C`
+**Températures maximales** : entre 32 et 35 °C`,
+    `Le temps sera nuageux sur l'ensemble de la région, avec des averses se généralisant et s'intensifiant l'après-midi, notamment à Mitsinjo et AmbatoBoeny.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest, vitesses moyennes entre 8 et 17 km/h, avec des rafales atteignant 18 km/h à Soalala.
+**Températures minimales** : entre 22 et 24 °C
+**Températures maximales** : entre 33 et 35 °C`
 ];
 
 
