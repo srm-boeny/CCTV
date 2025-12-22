@@ -399,6 +399,7 @@ VENT : EST A NORD-EST 05/10 KT ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMPS : A
 
 
 
+
     const templates = [
     `Temps pluvieux, avec des averses fortes attendues l'après-midi sur la plupart des localités, notamment Mahajanga I et II, Soalala, Marovoay et Mitsinjo.
 **Vents** : Vents faibles à modérés, de 4 à 14 km/h, soufflant majoritairement de secteur Sud-Est à Sud.
