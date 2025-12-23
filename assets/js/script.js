@@ -413,6 +413,7 @@ VENT : NORD 05/15, DEVENANT CIRCULATION DÉPRESSIONNAIRE 05/10 SUR LA PARTIE SUD
 
 
 
+
     const templates = [
     `Des averses sont attendues sur l'ensemble de la région Boeny, devenant parfois fortes notamment sur Mitsinjo le matin et Marovoay et MahajangaII l'après-midi.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Ouest, soufflant entre 6 et 14 km/h, avec des rafales atteignant 12 km/h sur AmbatoBoeny et 11 km/h sur Marovoay.
