@@ -1,36 +1,42 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
-const typeCatastrophe = "wind"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
+const niveauAlerte = "green";       // Options: "none", "blue", "green", "yellow", "red"
+const typeCatastrophe = "rainflood"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
     {
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide.jpg'
+        image: 'vigilance-vide1.jpg'
     },
     {
-        message: `**fampitandremana momba ny hamafin'ny rivotra** 
+        message: `**fampitandremana noho ny FAHABETSAHAN’NY ROTSAKORANA ** 
 
-        **Novokarina ny Alarobia 10 Septambra 2025 Tamin’ny 11 ora 21 min** 
+        **Novokarina ny talata 23 desambra 2025 Tamin’ny 12 ora 14 min** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Ho mafy ny fitsokan’ny rivotra eo anelanelan’i Itampolo sy Taolagnaro, Mahajanga sy Analalava ary Vohemar sy ny Tanjona Bobaomby. Tombanana hahatratra 55Km/ora ny hamafin’ny rivotraRahampitso 10 Septambra 2025
+Foana ny fampitandremana noho ny fahabetsahan’ny rotsak’orana ho an’ny afovoan-tany. Na izany aza dia
+tombanana mbola hitohy ny rotsak’orana ka entanina ny tsirairay mba ho mailo hatrany. Etsy ankilan’izay,
+noho ny fisian’ilay fikorontanana ao amin’ny lakandranon’i Mozambika dia vinavinaina hanatombo kokoa ny
+rotsak’orana any amin’ny morontsiraka Avaratra Andrefana sy Afovoany Andrefan’ny Nosy. Vinavinaina
+hahatratra 40 hatramin’ny 80 mm ny tahan’ny rotsak’orana ao anatin’ny 24 Ora.
 
 ** Fotoana hisehoany**
-Anio 10 Septambra hatramin’ny rahampitso 11 Septambra 2025
+Manomboka ny 25 Desambra 2025 hariva
 **Ireo toerana voakasika:**
-**Fanairana miloko MENA :** 
-– Mahajanga hatrany Analalava;
+**Fanairana miloko MAITSO :** 
+– Ny morontsirak’i BOENY, MELAKY ary MENABE.
 
 
 **Ny mety ho fiantraikany:**
-✓ Fahasarotan’ny fifamoivoizana sy faharendrehana an-dranomasina;
-✓ Fikorontanan’ny asa aman-draharaha andavan’andro.
+➢ Fikorontanan’ny asa aman-draharaha andavanandro;
+➢ Fiandronan’ny rano amin’ireo toerana mora tondraka;
+➢ Fiakaran’ny renirano, fihotsahan’ny tany sy ny lalana
+amin’ireo toerana marefo.
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance_vent1.png'
+        image: 'vigilance-rain.png'
     },
     {
         message: `**Vigilance vent fort**  
