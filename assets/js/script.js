@@ -414,6 +414,7 @@ VENT : NORD 05/15, DEVENANT CIRCULATION DÉPRESSIONNAIRE 05/10 SUR LA PARTIE SUD
 
 
 
+
     const templates = [
     `La journée sera dominée par des pluies sur l'ensemble de la région Boeny, souvent intenses, notamment à MahajangaI et dans l'après-midi sur les parties intérieures (Marovoay, AmbatoBoeny) et l'Est (MahajangaII).
 **Vents** : Vents faibles à modérés, de directions variables, avec des vitesses moyennes comprises entre 5 et 11 km/h. Une rafale atteignant 15 km/h est attendue à MahajangaI.
