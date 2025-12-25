@@ -411,6 +411,7 @@ VENT : NORD A NORD-EST 05/15 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMPS : AVE
 
 
 
+
     const templates = [
     `La région Boeny connaîtra une journée pluvieuse, avec des averses généralisées l'après-midi, et de fortes pluies attendues à MahajangaII. La pluie persistera toute la journée à Soalala.
 **Vents** : Vents faibles à modérés, généralement de secteur Sud à Est-Sud-Est, avec des vitesses entre 5 et 13 km/h.
