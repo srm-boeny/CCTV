@@ -417,6 +417,7 @@ VENT : NORD 10/15, DEVENANT CIRCULATION CYCLONIQUE 15/20 AU SUD DE 15S ET FRANCH
 
 
 
+
     const templates = [
     `Le temps sera pluvieux sur la majeure partie de la région Boeny, avec des averses fortes attendues sur AmbatoBoeny et des conditions nuageuses accompagnées de pluie à MahajangaII.
 **Vents** : Vents faibles à modérés, de secteur variable mais majoritairement Sud-Ouest (8 à 15 km/h). Des rafales pouvant atteindre 17 km/h sont possibles à Soalala.
