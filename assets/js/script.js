@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "green";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "rainflood"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -7,7 +7,7 @@ const vigilanceMessages = [
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide1.jpg'
+        image: 'vigilance-vide.jpg'
     },
     {
         message: `**fampitandremana noho ny FAHABETSAHAN’NY ROTSAKORANA ** 
@@ -36,7 +36,7 @@ amin’ireo toerana marefo.
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance-rain.png'
+        image: 'vigilance-rain1.png'
     },
     {
         message: `**Vigilance vent fort**  
