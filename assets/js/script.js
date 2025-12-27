@@ -418,6 +418,7 @@ VENT : NORD 10/15, DEVENANT CIRCULATION CYCLONIQUE 15/20 AU SUD DE 15S ET FRANCH
 
 
 
+
     const templates = [
     `De fortes pluies généralisées sont prévues sur la région Boeny, s'intensifiant l'après-midi après des pluies matinales sur Marovoay et AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Ouest à Sud-Ouest, soufflant entre 9 et 16 km/h. Des rafales sont attendues, atteignant 21 km/h à MahajangaI.
