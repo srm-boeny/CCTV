@@ -419,18 +419,18 @@ VENT : NORD 10/15, DEVENANT CIRCULATION CYCLONIQUE 15/20 AU SUD DE 15S ET FRANCH
 
 
     const templates = [
-    `Le temps sera pluvieux sur la majeure partie de la région Boeny, avec des averses fortes attendues sur AmbatoBoeny et des conditions nuageuses accompagnées de pluie à MahajangaII.
-**Vents** : Vents faibles à modérés, de secteur variable mais majoritairement Sud-Ouest (8 à 15 km/h). Des rafales pouvant atteindre 17 km/h sont possibles à Soalala.
-**Températures minimales** : entre 24 et 25 °C
-**Températures maximales** : entre 31 et 33 °C`,
-    `Pluies sur l'ensemble de la région, avec des précipitations intenses à Soalala toute la journée et à AmbatoBoeny l'après-midi.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Ouest, avec des vitesses entre 7 et 19 km/h. Des rafales atteignant 27 km/h sont possibles à MahajangaI.
+    `De fortes pluies généralisées sont prévues sur la région Boeny, s'intensifiant l'après-midi après des pluies matinales sur Marovoay et AmbatoBoeny.
+**Vents** : Vents faibles à modérés de secteur Ouest à Sud-Ouest, soufflant entre 9 et 16 km/h. Des rafales sont attendues, atteignant 21 km/h à MahajangaI.
+**Températures minimales** : entre 24 et 24 °C
+**Températures maximales** : entre 29 et 32 °C`,
+    `Le temps sera nuageux avec des pluies généralisées sur la région Boeny, devenant parfois intenses l'après-midi, notamment sur l'intérieur (Marovoay, AmbatoBoeny) et l'ouest (Soalala).
+**Vents** : Vents faibles à modérés de secteur Sud à Sud-Ouest, avec des vitesses moyennes comprises entre 6 et 11 km/h. Des rafales jusqu'à 15 km/h sont possibles à MahajangaI.
 **Températures minimales** : entre 23 et 24 °C
-**Températures maximales** : entre 31 et 33 °C`,
-    `Pluies généralisées sur la région Boeny, parfois fortes notamment sur l'Ouest à Soalala et Mitsinjo, tandis que MahajangaI connaîtra de légères pluies le matin suivies d'un temps nuageux.
-**Vents** : Vents faibles à modérés, généralement de secteur Sud à Sud-Est, soufflant entre 6 et 9 km/h, avec une rafale atteignant 15 km/h à Soalala.
-**Températures minimales** : entre 24 et 25 °C
-**Températures maximales** : entre 30 et 34 °C`
+**Températures maximales** : entre 32 et 35 °C`,
+    `La région BOENY connaîtra un temps nuageux à pluvieux, avec des averses plus intenses sur les parties ouest et intérieures, notamment à Soalala et Marovoay.
+**Vents** : Vents faibles à modérés de secteur variable, majoritairement Sud à Sud-Ouest, avec des rafales atteignant 23 km/h à MahajangaI.
+**Températures minimales** : entre 24 et 24 °C
+**Températures maximales** : entre 32 et 35 °C`
 ];
 
 
