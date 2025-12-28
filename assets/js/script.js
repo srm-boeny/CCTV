@@ -418,6 +418,7 @@ VENT : SUD 10/20 SUR LA PARTIE SUD, NORD A NORD-OUEST 10/20 AILLEURS ÉTAT DE LA
 
 
 
+
     const templates = [
     `La journée sera marquée par des pluies fréquentes l'après-midi sur l'ensemble de la région Boeny, avec de fortes pluies dès le matin à Soalala et des averses matinales à Mitsinjo.
 **Vents** : Vents faibles à modérés de secteur Sud-Ouest, avec une vitesse moyenne entre 7 et 15 km/h, et des rafales atteignant 14 km/h à MahajangaII.
