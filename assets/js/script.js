@@ -418,6 +418,7 @@ VENT : NORD A NORD-OUEST 05/10 SUR LA FAÇADE NORD DE LA ZCIT, SUD 10/15 AILLEUR
 
 
 
+
     const templates = [
     `La matinée sera généralement parsemée de nuages sur la majeure partie de la région. L'après-midi, le temps restera partiellement nuageux sur l'Ouest (Soalala, MahajangaI) mais se dégradera avec des averses et de fortes pluies, notamment dans l'intérieur (Marovoay, AmbatoBoeny) et à l'Est (MahajangaII).
 **Vents** : Vents faibles à modérés, soufflant principalement de secteur Sud-Ouest à Sud-Est, avec des vitesses moyennes allant de 5 à 12 km/h. Des rafales atteindront 15 km/h à MahajangaI.
