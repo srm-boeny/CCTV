@@ -423,6 +423,7 @@ VENT : SUD A SUD-OUEST 05/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
 
 
 
+
     const templates = [
     `Alternance de ciel partiellement nuageux et couvert sur la région, avec des averses l'après-midi, plus marquées sur Soalala à l'Ouest, AmbatoBoeny à l'intérieur et des pluies intenses à MahajangaII à l'Est.
 **Vents** : Vents faibles à modérés de secteur Ouest dominant (entre 7 et 17 km/h), avec une rafale maximale de 26 km/h à MahajangaI.
