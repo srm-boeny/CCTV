@@ -422,6 +422,7 @@ VENT : SUD A SUD-OUEST 05/15 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMPS : PLU
 
 
 
+
     const templates = [
     `Après un matin généralement dégagé à peu nuageux sur MahajangaI et Marovoay, un temps partiellement nuageux s'installera sur l'ensemble de la région Boeny en après-midi, notamment à Soalala, Mitsinjo et AmbatoBoeny.
 **Vents** : Vents faibles à modérés (9 à 17 km/h), principalement de secteur Ouest à Nord-Ouest, avec des rafales atteignant 14 km/h à AmbatoBoeny.
