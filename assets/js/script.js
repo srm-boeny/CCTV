@@ -425,6 +425,7 @@ VENT : NORD-OUEST 05/10 AU VOISINAGE DE 10S, SUD 05/10 AILLEURS.
 
 
 
+
     const templates = [
     `Après une matinée généralement belle, le temps deviendra pluvieux ou sujet aux averses l'après-midi sur la majorité du Boeny (y compris Mahajanga, Mitsinjo, Marovoay et AmbatoBoeny), excepté à Soalala où il sera partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur Sud-Ouest à Ouest, avec des vitesses allant de 7 à 15 km/h.
