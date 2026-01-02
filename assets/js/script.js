@@ -430,6 +430,7 @@ VENT : SUD 05 EN DÉBUT D’ÉCHÉANCE, DEVENANT NORD 05/10 VERS MI-PÉRIODE.
 
 
 
+
     const templates = [
     `Averses de pluie le matin, devenant fortes l'après-midi sur l'ensemble de la région Boeny, notamment à Marovoay, AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés, principalement de secteur Sud-Ouest, avec des vitesses moyennes entre 6 et 15 km/h. Des rafales atteignant 17 km/h sont possibles sur la côte Ouest à Soalala.
