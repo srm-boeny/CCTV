@@ -431,6 +431,7 @@ VENT : EST A NORD-EST 05/15 AU SUD DE 15S, NORD A NORD-OUEST 05/15 AILLEURS.
 
 
 
+
     const templates = [
     `Temps pluvieux sur l'ensemble de la région Boeny, avec des pluies intenses attendues l'après-midi, notamment à Soalala (ouest) et dans les parties intérieures comme Marovoay et AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Ouest, avec des vitesses moyennes entre 9 et 14 km/h et des rafales atteignant 19 km/h à MahajangaI.
