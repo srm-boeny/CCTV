@@ -438,6 +438,7 @@ VENT : NORD-OUEST 15/20 AU SUD DE 15S, SUD 05/10 AILLEURS.
 
 
 
+
     const templates = [
     `Le temps sera généralement pluvieux sur l'ensemble de la région, avec des averses le matin et des pluies plus intenses l'après-midi, notamment sur Mitsinjo, Marovoay, AmbatoBoeny et MahajangaII.
 **Vents** : Vents modérés, de directions variées, soufflant entre 9 et 15 km/h, avec des rafales pouvant atteindre 20 km/h à Soalala.
