@@ -442,6 +442,7 @@ VENT : NORD-OUEST 10/20 AU NORD DE 15S, SUD A SUD-EST 05/10 AILLEURS.
 
 
 
+
     const templates = [
     `La journée sera dominée par des pluies, souvent fortes, sur l'ensemble de la région Boeny, avec une persistance des fortes pluies à Mitsinjo tout au long de la journée.
 **Vents** : Vents faibles à modérés (6 à 13 km/h), majoritairement de secteur Ouest-Sud-Ouest à Ouest, sauf à Mitsinjo (NNE). Des rafales pourront atteindre 19 km/h à Soalala et 11 km/h à AmbatoBoeny.
