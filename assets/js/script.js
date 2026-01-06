@@ -437,6 +437,7 @@ VENT : NORD-OUEST 15/20 AU NORD DE 15S, EST A NORD-EST 05/10 AILLEURS.
 
 
 
+
     const templates = [
     `La journée sera généralement pluvieuse à très pluvieuse sur l'ensemble du Boeny, avec des averses intenses prévues à Soalala et Mitsinjo dès le matin, s'étendant l'après-midi vers Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés, de 9 à 22 km/h, de secteur Ouest à Sud-Ouest sur la plupart des localités, mais de Sud-Est à l'Ouest (Soalala, Mitsinjo). Rafales pouvant atteindre 28 km/h à MahajangaI et 23 km/h à Soalala.
