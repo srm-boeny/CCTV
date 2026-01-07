@@ -440,6 +440,7 @@ VENT : NORD-OUEST 15/20 AU NORD DE 15S, EST A NORD-EST 05/10 AILLEURS.
 
 
 
+
     const templates = [
     `Pluies ou fortes pluies domineront la journée sur la région, avec des averses intenses dès le matin sur Soalala et Mitsinjo à l'Ouest, et des fortes pluies l'après-midi sur Marovoay, AmbatoBoeny et MahajangaII à l'intérieur et à l'Est.
 **Vents** : Vents faibles à modérés, principalement de secteur Sud-Est à Sud-Sud-Est, avec des vitesses moyennes entre 9 et 16 km/h. Une rafale de 21 km/h est attendue à MahajangaI.
