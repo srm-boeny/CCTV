@@ -434,6 +434,7 @@ VENT : NORD-OUEST 15/20 AU NORD DE 15S, EST A NORD-EST 05/10 AILLEURS ÉTAT DE L
 
 
 
+
     const templates = [
     `La région connaîtra un temps majoritairement pluvieux, avec des averses dès le matin, s'intensifiant l'après-midi, notamment des pluies fortes à MahajangaI.
 **Vents** : Vents faibles à modérés, de directions variées, soufflant entre 8 et 18 km/h.
