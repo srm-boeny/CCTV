@@ -445,6 +445,7 @@ VENT : NORD-OUEST 15/20 AU NORD DE 15S, EST A NORD-EST 05/10 AILLEURS.
 
 
 
+
     const templates = [
     `Temps généralement partiellement nuageux le matin, avec un ciel plus couvert sur l'Ouest (Soalala), évoluant vers des pluies l'après-midi sur l'ensemble de la région, avec des averses fortes sur les parties intérieures et Est (Marovoay, AmbatoBoeny, MahajangaII).
 **Vents** : Vents faibles à modérés, de 5 à 15 km/h. Des rafales atteignant 23 km/h sont attendues à MahajangaI.
