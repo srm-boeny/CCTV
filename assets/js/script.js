@@ -446,6 +446,7 @@ VENT : NORD-OUEST 15/20 AU NORD DE 15S, EST A NORD-EST 05/10 AILLEURS.
 
 
 
+
     const templates = [
     `Matinées généralement nuageuses à partiellement nuageuses sur l'ensemble de la région, devenant pluvieuses l'après-midi, avec de fortes averses possibles à Mitsinjo et Marovoay.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest. Vitesses moyennes entre 7 et 16 km/h, avec une rafale maximale de 21 km/h à MahajangaI.
