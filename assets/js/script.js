@@ -448,6 +448,7 @@ VENT : NORD-OUEST 15/20 AU NORD DE 15S, EST A NORD-EST 05/10 AILLEURS.
 
 
 
+
     const templates = [
     `Le temps sera partiellement nuageux à nuageux le matin sur l'ensemble du Boeny, évoluant vers un après-midi pluvieux. Des pluies localement fortes sont attendues sur l'Ouest, particulièrement à Mitsinjo.
 **Vents** : Vents faibles à modérés (9 à 18 km/h) de secteur Est à Sud-Est, avec des rafales pouvant atteindre 22 km/h à MahajangaI et Marovoay.
