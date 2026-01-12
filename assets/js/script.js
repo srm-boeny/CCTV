@@ -445,6 +445,7 @@ VENT : NORD-OUEST 15/20 AU NORD DE 15S, EST A NORD-EST 05/10 AILLEURS ÉTAT DE L
 
 
 
+
     const templates = [
     `Les matinées seront nuageuses à partiellement nuageuses sur la région Boeny, évoluant vers des averses l'après-midi, localement fortes sur MahajangaI et AmbatoBoeny.
 **Vents** : Vents faibles à modérés (de 6 à 13 km/h), principalement de secteur Est à Sud-Est. Rafales atteignant 19 km/h à MahajangaI et 13 km/h à Marovoay.
