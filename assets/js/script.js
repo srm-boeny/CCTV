@@ -455,6 +455,7 @@ VENT : NORD-OUEST 15/20 AU NORD DE 15S, EST A NORD-EST 05/10 AILLEURS.
 
 
 
+
     const templates = [
     `Le temps sera généralement ensoleillé ou partiellement nuageux le matin, avec des averses à Soalala, avant l'arrivée de pluies et de fortes averses généralisées l'après-midi sur l'ensemble de la région, particulièrement intenses à Soalala, Marovoay et AmbatoBoeny.
 **Vents** : Vents légers à modérés, généralement de secteur Est à Sud-Est, soufflant entre 6 et 15 km/h. Des rafales de 11 km/h sont possibles à AmbatoBoeny et de 12 km/h à Marovoay.
