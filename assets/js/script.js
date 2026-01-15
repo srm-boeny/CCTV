@@ -455,6 +455,7 @@ VENT : NORD-OUEST 15/20 AU NORD DE 15S, EST A NORD-EST 05/10 AILLEURS ÉTAT DE L
 
 
 
+
     const templates = [
     `Temps ensoleillé ou peu nuageux le matin, notamment à Soalala et Mitsinjo (ouest), avant le développement d'averses généralisées l'après-midi, souvent fortes dans les parties intérieures et à l'est de la région (Marovoay, MahajangaII).
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes allant de 7 à 16 km/h et une rafale maximale de 16 km/h à Soalala.
