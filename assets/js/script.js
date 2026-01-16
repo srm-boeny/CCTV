@@ -459,6 +459,7 @@ VENT : VARIABLE 05/10 LE LONG DES COTES MALAGASY.
 
 
 
+
     const templates = [
     `Matins ensoleillés à partiellement nuageux, devenant nuageux l'après-midi avec des averses sur la plupart de la région, notamment à Mahajanga, Mitsinjo, Marovoay et AmbatoBoeny.
 **Vents** : Vents faibles à modérés (entre 5 et 12 km/h), de secteur Ouest sur l'ouest et Est sur l'est de la région. Une rafale de 15 km/h est attendue à Soalala.
