@@ -453,6 +453,7 @@ VENT : VARIABLE 05/10 LE LONG DES COTES MALAGASY.
 
 
 
+
     const templates = [
     `Matinée nuageuse sur l'ensemble de la région Boeny, suivie d'averses l'après-midi, localement fortes sur les parties intérieures (Marovoay, AmbatoBoeny) et l'Est (MahajangaII).
 **Vents** : Vents faibles, majoritairement de secteur Ouest à Sud-Ouest, entre 5 et 11 km/h.
