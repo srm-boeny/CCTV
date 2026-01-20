@@ -467,6 +467,7 @@ VENT : VARIABLE 05/10 LE LONG DES CÔTES MALAGASY.
 
 
 
+
     const templates = [
     `La journée sera marquée par un temps pluvieux sur l'ensemble de la région Boeny, avec des pluies s'intensifiant l'après-midi, notamment à Soalala, Marovoay et AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Ouest à Sud-Ouest, variant de 6 à 15 km/h. Des rafales jusqu'à 24 km/h sont possibles à MahajangaI.
