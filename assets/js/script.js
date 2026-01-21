@@ -54,13 +54,13 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY TALATA 20 JANOARY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAROBIA 21 JANOARY 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO ANY AN-DRANOMASINA NY ALAROBIA 21 JANOARY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAKAMISY 22 JANOARY 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-Hanorana tandrifindrahona ny maraina.
- Ho avy Andrefana na Avaratra-Andrefana ny rivotra ka ho 10/20 km/ora.
+Hanorana tandrifindrahona.
+ Ho avy Andrefana ny rivotra amin’ny ankapobeny ka ho 20/30 km/ora.
  Hadini-panonja ny ranomasina.
- Haavon’ny onja 0.5/1m.`,
+ Haavon’ny onja hanodidina ny 1m`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
@@ -89,6 +89,7 @@ VENT : VARIABLE 05/10 LE LONG DES COTES MALAGASY.
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
+
 
 
 
