@@ -1,42 +1,34 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
-const typeCatastrophe = "rainflood"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
+const niveauAlerte = "green";       // Options: "none", "blue", "green", "yellow", "red"
+const typeCatastrophe = "flood"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
     {
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide.jpg'
+        image: 'vigilance-vide1.jpg'
     },
     {
-        message: `**fampitandremana noho ny FAHABETSAHAN’NY ROTSAKORANA ** 
+        message: `**FAHAMAILOANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO ** 
 
-        **Novokarina ny talata 23 desambra 2025 Tamin’ny 12 ora 14 min** 
+        **Novokarina ny: Alarobia faha 21 Janoary 2026 tamin’ny 12 ora atoandro** 
 
        ** Tranga ahiana sy toerana hisehoany:**
-Foana ny fampitandremana noho ny fahabetsahan’ny rotsak’orana ho an’ny afovoan-tany. Na izany aza dia
-tombanana mbola hitohy ny rotsak’orana ka entanina ny tsirairay mba ho mailo hatrany. Etsy ankilan’izay,
-noho ny fisian’ilay fikorontanana ao amin’ny lakandranon’i Mozambika dia vinavinaina hanatombo kokoa ny
-rotsak’orana any amin’ny morontsiraka Avaratra Andrefana sy Afovoany Andrefan’ny Nosy. Vinavinaina
-hahatratra 40 hatramin’ny 80 mm ny tahan’ny rotsak’orana ao anatin’ny 24 Ora.
 
-** Fotoana hisehoany**
-Manomboka ny 25 Desambra 2025 hariva
-**Ireo toerana voakasika:**
-**Fanairana miloko MAITSO :** 
-– Ny morontsirak’i BOENY, MELAKY ary MENABE.
-
+Manan-kery hatrany ny fampitandremana miloko maintso amin'ny fiakaran'ny rano na dia tsy misy fiovana aza ny vinavinan'ny tahan'ny fahabetsahan'ny rano ato anatin'ny 24 ora ho an'ireo Renirano ato amin'ny faritra BOENY. Ireto avy izany renirano misy izany fampitandremana izany: 
+* Renirano Betsiboka ao amin'ny Distrika Ambato Boeny sy Marovoay, 
+* Renirano Mahajamba ao amin'ny Distrika Mahajanga II, 
+* Renirano Mahavavy Sud ao amin'ny Distrika Mitsinjo. 
 
 **Ny mety ho fiantraikany:**
-➢ Fikorontanan’ny asa aman-draharaha andavanandro;
-➢ Fiandronan’ny rano amin’ireo toerana mora tondraka;
-➢ Fiakaran’ny renirano, fihotsahan’ny tany sy ny lalana
-amin’ireo toerana marefo.
+
+➢ Fiakaran’ny renirano
+
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance-rain1.png'
+        image: 'vigilance-flood.png'
     },
     {
         message: `**Vigilance vent fort**  
