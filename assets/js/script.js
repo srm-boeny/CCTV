@@ -470,6 +470,7 @@ VENT : OUEST 15/20 AU NORD DE 15S, SUD-OUEST A SUD 10 AILLEURS.
 
 
 
+
     const templates = [
     `La journée sera marquée par un temps pluvieux généralisé sur la région Boeny, avec des averses matinales devenant fortes l'après-midi, notamment sur Mitsinjo, Marovoay et AmbatoBoeny.
 **Vents** : Vents faibles à modérés (6 à 19 km/h), principalement de secteur Ouest à Sud-Ouest, avec des rafales atteignant 24 km/h à MahajangaI et 12 km/h à Marovoay.
