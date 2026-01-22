@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "green";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "yellow";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "flood"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -10,16 +10,17 @@ Restez informé en cas d’évolution de la situation.`,
         image: 'vigilance-vide1.jpg'
     },
     {
-        message: `**FAHAMAILOANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO ** 
+        message: `**FAHAMAILOANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO (Mikasika ny eto amin'ny faritra BOENY manokana)** 
 
-        **Novokarina ny: Alarobia faha 21 Janoary 2026 tamin’ny 12 ora atoandro** 
+        **Novokarina ny: Alakamisy faha 22 Janoary 2026 tamin’ny 01 ora tolak’andro** 
 
        ** Tranga ahiana sy toerana hisehoany:**
 
-Manan-kery hatrany ny fampitandremana miloko maintso amin'ny fiakaran'ny rano na dia tsy misy fiovana aza ny vinavinan'ny tahan'ny fahabetsahan'ny rano ato anatin'ny 24 ora ho an'ireo Renirano ato amin'ny faritra BOENY. Ireto avy izany renirano misy izany fampitandremana izany: 
-* Renirano Betsiboka ao amin'ny Distrika Ambato Boeny sy Marovoay, 
-* Renirano Mahajamba ao amin'ny Distrika Mahajanga II, 
-* Renirano Mahavavy Sud ao amin'ny Distrika Mitsinjo. 
+Hitohy hatrany amin’ny ankapobeny ny orana ato anatin’ny 24 ora ho avy, ary mbola mety hisy fiakarany ny haavon’ny rano amin’ny renirano sasantsasany noho ny fiantraikan’ny rotsak’orana ao anaty sahandriaka. 
+Ireo renirano misy fampitandremana ato anatin'ny faritra BOENY: 
+- Fampitandremana miloko MAVO: Renirano Betsiboka ao amin'ny Distrika Ambato Boeny sy Marovoay
+- Fampitandremana miloko MAINTSO: Renirano Mahavavy Sud ao main'ny Distrika Mitsinjo sy renirano Mahajamba ao amin'ny Distrika Mahajanga II.
+
 
 **Ny mety ho fiantraikany:**
 
