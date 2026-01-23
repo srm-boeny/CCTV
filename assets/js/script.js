@@ -471,6 +471,7 @@ VENT : OUEST 15/20 AU NORD DE 15S, SUD-OUEST A SUD 10 AILLEURS.
 
 
 
+
     const templates = [
     `La journée sera dominée par un temps pluvieux sur la région Boeny. Des pluies parfois fortes sont attendues l'après-midi, notamment à MahajangaI, Marovoay et AmbatoBoeny, tandis que Soalala verra des averses plus légères.
 **Vents** : Vents faibles à modérés, variant de 6 à 15 km/h. Des rafales pourront atteindre 22 km/h à MahajangaI et 19 km/h à Soalala.
