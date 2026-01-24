@@ -470,6 +470,7 @@ VENT : SECTEUR OUEST 05/10, LOCALEMENT 15/20 AU NORD DE 15S, DEVENANT SUD 05/10 
 
 
 
+
     const templates = [
     `Le temps sera caractérisé par des averses et des passages nuageux le matin, évoluant vers des pluies généralisées et parfois intenses l'après-midi sur toute la région Boeny, de Soalala (Ouest) à MahajangaII (Est).
 **Vents** : Vents faibles à modérés de directions variées, avec des vitesses moyennes entre 7 et 16 km/h. Des rafales pourront atteindre 19 km/h à Soalala.
