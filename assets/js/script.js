@@ -474,6 +474,7 @@ VENT : OUEST A NORD-OUEST 10/15 LOCALEMENT 20 AU NORD DE 15S ET PRES DES COTES D
 
 
 
+
     const templates = [
     `La journée sera caractérisée par un temps nuageux à pluvieux sur l'ensemble de la région Boeny, avec des pluies parfois fortes sur AmbatoBoeny et des averses plus légères ou un ciel couvert à l'ouest (Soalala, Mitsinjo).
 **Vents** : Vents légers à modérés de secteur Ouest à Sud-Ouest, variant de 7 à 12 km/h.
