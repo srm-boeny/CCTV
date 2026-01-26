@@ -476,6 +476,7 @@ VENT : OUEST 10/15 AU NORD DE 15S, CIRCULATION CYCLONIQUE 05/15 AILLEURS.
 
 
 
+
     const templates = [
     `Des pluies, parfois fortes, sont attendues sur l'ensemble de la région Boeny, avec des averses intenses le matin à MahajangaI et dans l'ouest à Mitsinjo, puis s'intensifiant l'après-midi sur Mitsinjo, les parties intérieures (Marovoay, AmbatoBoeny) et l'Est (MahajangaII).
 **Vents** : Vents faibles à modérés de secteur Sud-Est, avec des vitesses allant de 8 à 18 km/h.
