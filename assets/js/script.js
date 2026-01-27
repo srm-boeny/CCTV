@@ -1,6 +1,6 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "yellow";       // Options: "none", "blue", "green", "yellow", "red"
-const typeCatastrophe = "flood"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
+const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
+const typeCatastrophe = "rainflood"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
     {
@@ -10,21 +10,47 @@ Restez informé en cas d’évolution de la situation.`,
         image: 'vigilance-vide1.jpg'
     },
     {
-        message: `**FAHAMAILOANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO (Mikasika ny eto amin'ny faritra BOENY manokana)** 
+        message: `**Famitandremana mahakasika ny fahabetsahan'ny rotsakorana** 
 
-        **Novokarina ny: Alakamisy faha 22 Janoary 2026 tamin’ny 01 ora tolak’andro** 
+        **Novokarina ny Talata 27 Janoary 2026 Tamin’ny 11 ora 23 min** 
 
-       ** Tranga ahiana sy toerana hisehoany:**
+       ** Tranga ahiana**
 
-Hitohy hatrany amin’ny ankapobeny ny orana ato anatin’ny 24 ora ho avy, ary mbola mety hisy fiakarany ny haavon’ny rano amin’ny renirano sasantsasany noho ny fiantraikan’ny rotsak’orana ao anaty sahandriaka. 
-Ireo renirano misy fampitandremana ato anatin'ny faritra BOENY: 
-- Fampitandremana miloko MAVO: Renirano Betsiboka ao amin'ny Distrika Ambato Boeny sy Marovoay
-- Fampitandremana miloko MAINTSO: Renirano Mahavavy Sud ao main'ny Distrika Mitsinjo sy renirano Mahajamba ao amin'ny Distrika Mahajanga II.
+Noho ny fisian’ilay fikorontanana ao amin’ny lakandranon’i Mozambika dia tombanana hahazo vahana
+kokoa ny oram-baratra any amin’ny faritra Avaratra Andrefan’ny Nosy. Mety hahatratra 50 hatramin’ny
+100 mm ny tahan’ny rotsak’orana ao anatin’ny 24 Ora.
 
+**FOTOANA HISEHOANY:**
+- Anio Talata 27 Janoary 2026 ho an’ny
+distrikan’i Nosy Be, Ambanja, Analalava,
+Mahajanga I-II ary Mitsinjo.
+- Rahampitso Alarobia 28 Janoary 2026 ho
+an’ny distrikan’i Besalampy, Soalala,
+Marovoay, Ambato Boeny, Mampikony,
+Boriziny, Antsohihy ary Bealanana.
+- Ny Alakamisy 29 Janoary 2026 kosa ho an’i
+Maintirano, Morafenobe, Ambatomainty,
+Mandritsara, Befandriana Avaratra ary ny
+faritra BETSIBOKA.
+
+**TOERANA VOAKASIKA**
+**Miloko mena**
+Ny distrikan’i Nosy Be, Ambanja, Analalava,
+Mahajanga I-II ary Mitsinjo
+**miloko mavo**
+Ny distrikan’i Besalampy, Soalala, Marovoay,
+Ambato Boeny, Mampikony, Boriziny,
+Antsohihy ary Bealanana
+**miloko maintso**
+
+Ny distrikan’i Maintirano, Morafenobe,
+Ambatomainty, Mandritsara, Befandriana
+Avaratra ary ny faritra BETSIBOKA.
 
 **Ny mety ho fiantraikany:**
-
-➢ Fiakaran’ny renirano
+➢ Fikorontanan’ny asa aman-draharaha andavanandro;
+➢ Fiandronan’ny rano amin’ireo toerana mora tondraka;
+➢ Fiakaran’ny renirano, fihotsahan’ny tany sy ny lalana amin’ireo toerana marefo.
 
 
 
