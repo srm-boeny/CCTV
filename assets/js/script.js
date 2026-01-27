@@ -505,6 +505,7 @@ VENT : LARGE CIRCULATION DÉPRESSIONNAIRE 05/15 LOCALEMENT 20. ÉTAT DE LA MER :
 
 
 
+
     const templates = [
     `La région Boeny sera sous de fortes pluies toute la journée, avec des précipitations particulièrement intenses sur les localités de Soalala, Mitsinjo, Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés, variant entre 7 et 18 km/h, de directions diverses, principalement de l'Est au Sud.
