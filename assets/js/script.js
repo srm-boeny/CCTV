@@ -12,40 +12,24 @@ Restez informé en cas d’évolution de la situation.`,
     {
         message: `**Famitandremana mahakasika ny fahabetsahan'ny rotsakorana** 
 
-        **Novokarina ny Talata 27 Janoary 2026 Tamin’ny 11 ora 23 min** 
+        **Novokarina ny Alarobia 28 Janoary 2026 tamin’ny 13 ora 43 min** 
 
        ** Tranga ahiana**
 
-Noho ny fisian’ilay fikorontanana ao amin’ny lakandranon’i Mozambika dia tombanana hahazo vahana
-kokoa ny oram-baratra any amin’ny faritra Avaratra Andrefan’ny Nosy. Mety hahatratra 50 hatramin’ny
-100 mm ny tahan’ny rotsak’orana ao anatin’ny 24 Ora.
+Noho ny fisian’ilay fikorontanana ao amin’ny lakandranon’i Mozambika dia tombanana hahazo vahana kokoa ny oram-baratra any amin’ny faritra Avaratra Andrefan’ny Nosy. Hiitatra miandalana any amin’ny Afovoan-tany sy ny atitany Afovoany Atsinanan’ny Nosy izany amin’ny faran’ny herinandro. Mety hahatratra 50 hatramin’ny 100 mm ny tahan’ny rotsak’orana ao anatin’ny 24 Ora.
 
 **FOTOANA HISEHOANY:**
-- Anio Talata 27 Janoary 2026 ho an’ny
-distrikan’i Nosy Be, Ambanja, Analalava,
-Mahajanga I-II ary Mitsinjo.
-- Rahampitso Alarobia 28 Janoary 2026 ho
-an’ny distrikan’i Besalampy, Soalala,
-Marovoay, Ambato Boeny, Mampikony,
-Boriziny, Antsohihy ary Bealanana.
-- Ny Alakamisy 29 Janoary 2026 kosa ho an’i
-Maintirano, Morafenobe, Ambatomainty,
-Mandritsara, Befandriana Avaratra ary ny
-faritra BETSIBOKA.
+– Manomboka anio Alaoribia 28 Janoary 2026 ho an’ny distrikan’i Nosy Be, Ambanja, Analalava, Mahajanga I-II, Mitsinjo, Marovoay ary Ambato Boeny.
+– Manomboka rahampitso Alakamisy 29 Janoary 2026 ho an’ny distrikan’i Mitsinjo, Mampikony, Boriziny, Antsohihy ary Bealanana.
+– Manomboka ny Sabotsy 31 Janoary 2026 kosa ho an’i Besalampy, Mandritsara, Befandriana Avaratra ary ny faritr’i BETSIBOKA, ANALAMANGA sy ALAOTRA
+MANGORO.
 
 **TOERANA VOAKASIKA**
-**Miloko mena**
-Ny distrikan’i Nosy Be, Ambanja, Analalava,
-Mahajanga I-II ary Mitsinjo
-**miloko mavo**
-Ny distrikan’i Besalampy, Soalala, Marovoay,
-Ambato Boeny, Mampikony, Boriziny,
-Antsohihy ary Bealanana
-**miloko maintso**
+**Miloko mena:** Ny distrikan’i Nosy Be, Ambanja, Analalava, Mahajanga I-II, Mitsinjo, Marovoay ary Ambato Boeny.
 
-Ny distrikan’i Maintirano, Morafenobe,
-Ambatomainty, Mandritsara, Befandriana
-Avaratra ary ny faritra BETSIBOKA.
+**Miloko mavo:** Ny distrikan’i Mitsinjo, Mampikony, Boriziny, Antsohihy ary Bealanana.
+
+**Miloko maintso :** Ny distrikan’i Besalampy, Mandritsara, Befandriana Avaratra ary ny faritr’i BETSIBOKA, ANALAMANGA sy ALAOTRA MANGORO
 
 **Ny mety ho fiantraikany:**
 ➢ Fikorontanan’ny asa aman-draharaha andavanandro;
@@ -55,7 +39,7 @@ Avaratra ary ny faritra BETSIBOKA.
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance-flood.png'
+        image: 'vigilance-rainflood.png'
     },
     {
         message: `**Vigilance vent fort**  
