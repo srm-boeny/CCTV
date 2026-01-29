@@ -492,6 +492,7 @@ VENT : CIRCULATION DÉPRESSIONNAIRE 15/20, LOCALEMENT 25 ÉTAT DE LA MER : FORTE
 
 
 
+
     const templates = [
     `Journée très pluvieuse sur l'ensemble de la région Boeny, avec des pluies intenses notamment à Soalala et Mitsinjo, ainsi que l'après-midi sur Marovoay et AmbatoBoeny.
 **Vents** : Vents faibles à modérés (5 à 20 km/h), majoritairement de secteur Nord-Est, mais Sud-Est à MahajangaII. Aucune rafale n'est signalée.
