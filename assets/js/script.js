@@ -1,6 +1,6 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
-const typeCatastrophe = "rainflood"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
+const niveauAlerte = "yellow";       // Options: "none", "blue", "green", "yellow", "red"
+const typeCatastrophe = "cyclone"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
     {
@@ -10,46 +10,46 @@ Restez informé en cas d’évolution de la situation.`,
         image: 'vigilance-vide1.jpg'
     },
     {
-        message: `**Famitandremana mahakasika ny fahabetsahan'ny rotsakorana** 
+        message: `**FILAZANA MANOKANA MOMBA NY RIVODOZA NY 30 JANOARY 2026 TAMIN'NY 04 ORA MARAINA** 
 
-        **Novokarina ny Alarobia 28 Janoary 2026 tamin’ny 13 ora 43 min** 
-
-       ** Tranga ahiana**
-
-Noho ny fisian’ilay fikorontanana ao amin’ny lakandranon’i Mozambika dia tombanana hahazo vahana kokoa ny oram-baratra any amin’ny faritra Avaratra Andrefan’ny Nosy. Hiitatra miandalana any amin’ny Afovoan-tany sy ny atitany Afovoany Atsinanan’ny Nosy izany amin’ny faran’ny herinandro. Mety hahatratra 50 hatramin’ny 100 mm ny tahan’ny rotsak’orana ao anatin’ny 24 Ora.
-
-**FOTOANA HISEHOANY:**
-– Manomboka anio Alaoribia 28 Janoary 2026 ho an’ny distrikan’i Nosy Be, Ambanja, Analalava, Mahajanga I-II, Mitsinjo, Marovoay ary Ambato Boeny.
-– Manomboka rahampitso Alakamisy 29 Janoary 2026 ho an’ny distrikan’i Mitsinjo, Mampikony, Boriziny, Antsohihy ary Bealanana.
-– Manomboka ny Sabotsy 31 Janoary 2026 kosa ho an’i Besalampy, Mandritsara, Befandriana Avaratra ary ny faritr’i BETSIBOKA, ANALAMANGA sy ALAOTRA
-MANGORO.
-
-**TOERANA VOAKASIKA**
-**Miloko mena:** Ny distrikan’i Nosy Be, Ambanja, Analalava, Mahajanga I-II, Mitsinjo, Marovoay ary Ambato Boeny.
-
-**Miloko mavo:** Ny distrikan’i Mitsinjo, Mampikony, Boriziny, Antsohihy ary Bealanana.
-
-**Miloko maintso :** Ny distrikan’i Besalampy, Mandritsara, Befandriana Avaratra ary ny faritr’i BETSIBOKA, ANALAMANGA sy ALAOTRA MANGORO
-
-**Ny mety ho fiantraikany:**
-➢ Fikorontanan’ny asa aman-draharaha andavanandro;
-➢ Fiandronan’ny rano amin’ireo toerana mora tondraka;
-➢ Fiakaran’ny renirano, fihotsahan’ny tany sy ny lalana amin’ireo toerana marefo.
+Nitombo hery ka lasa rivodoza ary nomena ny anarana hoe « FYTIA » ilay andro ratsy niforona
+tao amin’ny lakandranon’i Mozambika. Tamin’ny 03 ora maraina teo dia tany amin’ny manodidina ny
+262 Km Avaratra Andrefan’i Besalampy no nisy ny foibeny. Niakatra ho 70 Km/ora ny rivotra miaraka
+aminy izay arahina tafiotra 100 Km/ora manakaiky ny foibeny. Nikisaka niatsinanana somary Atsimo
+Atsinanana izy ka nahafaka 6 Km/ora.
+Vinavinaina hiditra an-tanety eo anelanelan’i Maintirano sy Mahajanga i FYTIA ny marainan’ny
+Sabotsy 31 Janoary 2026, ka mety hahatratra ny tanjaka rivodoza mahery na Cyclone Tropical.
+Manoloana izany dia toy izao ny filazana loza :
+- Loza manambana miloko mavo : BOENY sy MELAKY;
+- Fanairana miloko maintso : BETSIBOKA, ny Distrikan’i Fenoarivobe, Ankazobe ary
+Anjozorobe.
+Entanina ny rehetra ho mailo mandrakariva satria efa nisesy ny rotsak’orana ary mbola hitoetra
+hatramin’ny faran’ny herinandro izany.
+Entanina ny mpampiasa ranomasina eo anelanelan’i Analalava sy maintirano mba tsy
+hiandriaka intsony satria miharatsy ny toetry ny andro. Araho mandrakariva ny toro-marika omen’ny
+manam-pahefana isan-tokony. 
 
 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance-rainflood.png'
+        image: 'vigilance-cyclone.png'
     },
     {
-        message: `**Vigilance vent fort**  
-Rafales de vent pouvant atteindre 70 km/h dans le nord de la région.`,
-        image: 'vigilance_houle.png'
+        message: `**Vigilance vent fort - Forte  Vague/Houle**  
+Rivotra: Tombanana hahatratra 55/65 Km/ora ny hamafin’ny rivotra izay mety harahina tafiotra indraindray.
+
+Alondrano: Hahery na hahery be ny ranomasina any amin’ny morontsiraka Afovoany Andrefana sy AvaratraAndrefana noho ny fisian’ilay fikorontanana ao amin’ny Lakandranon’i Mozambika. Tombanana ho 3/5m ny haavon’ny onja, hahatratra 6m indraindray eo anelanelan’i Maintirano sy Soalala. 
+
+`,
+        image: 'vigilance_vent.png'
     },
     {
-        message: `**Vigilance vent fort**  
-Rafales de vent pouvant atteindre 70 km/h dans le nord de la région.`,
-        image: 'vigilance_rain.png'
+        message: `**FAHAMAILONA AMIN’ NY METY HO FIAKARAN’NY RENIRANO | FARITRA BOENY, BETSIBOKA, SOFIA, MELAKY– Alakamisy 29 Janoary 2026 _ 01 ora tolakandro**  
+Araka ny vinavina dia mbola mety hisy fiakarany ny haavon’ny rano amin’ireo renirano sasantsasany, noho ny fiantraikan’ny rotsakorana ao anaty sahandriaka ho an’ireto faritra ireto: Boeny, Betsiboka, Sofia ary Melaky.
+📕📕 Noho izany, mbola manan-kery ny fampitandremana miloko mena amin’ny mety ho fiakaran’ny rano ho an’ireo mponina manamorona ny reniranon’i Betsiboka sy Mahajamba.
+📒📒 Fampitandremana miloko mavo: ho an’ireo mponina manamorona ny reniranon’i Sofia sy Mahavavy Sud. Vinavinaina hahatratra ny fetra ny reniranon’i Mahavavy Sud ny 31 Janoary 2026.
+📗📗 Fampitandremana miloko maintso : ho an’ireo mponina manamorona ny reniranon’i Sambao ary vinavinaina hahatratra ny fetra ny 31 Janoary 2026.`,
+        image: 'vigilance-flood.png'
     },
 ];
 
