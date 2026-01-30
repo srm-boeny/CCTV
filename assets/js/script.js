@@ -10,26 +10,9 @@ Restez informé en cas d’évolution de la situation.`,
         image: 'vigilance-vide1.jpg'
     },
     {
-        message: `**FILAZANA MANOKANA MOMBA NY RIVODOZA NY 30 JANOARY 2026 TAMIN'NY 04 ORA MARAINA** 
+        message: `**FILAZANA MANOKANA MOMBA NY RIVODOZA NY 30 JANOARY 2026 TAMIN'NY 10 ORA MARAINA** 
 
-Nitombo hery ka lasa rivodoza ary nomena ny anarana hoe « FYTIA » ilay andro ratsy niforona
-tao amin’ny lakandranon’i Mozambika. Tamin’ny 03 ora maraina teo dia tany amin’ny manodidina ny
-262 Km Avaratra Andrefan’i Besalampy no nisy ny foibeny. Niakatra ho 70 Km/ora ny rivotra miaraka
-aminy izay arahina tafiotra 100 Km/ora manakaiky ny foibeny. Nikisaka niatsinanana somary Atsimo
-Atsinanana izy ka nahafaka 6 Km/ora.
-Vinavinaina hiditra an-tanety eo anelanelan’i Maintirano sy Mahajanga i FYTIA ny marainan’ny
-Sabotsy 31 Janoary 2026, ka mety hahatratra ny tanjaka rivodoza mahery na Cyclone Tropical.
-Manoloana izany dia toy izao ny filazana loza :
-- Loza manambana miloko mavo : BOENY sy MELAKY;
-- Fanairana miloko maintso : BETSIBOKA, ny Distrikan’i Fenoarivobe, Ankazobe ary
-Anjozorobe.
-Entanina ny rehetra ho mailo mandrakariva satria efa nisesy ny rotsak’orana ary mbola hitoetra
-hatramin’ny faran’ny herinandro izany.
-Entanina ny mpampiasa ranomasina eo anelanelan’i Analalava sy maintirano mba tsy
-hiandriaka intsony satria miharatsy ny toetry ny andro. Araho mandrakariva ny toro-marika omen’ny
-manam-pahefana isan-tokony. 
-
-
+Tamin’ny 09 ora maraina teo dia tany amin’ny manodidina ny 226 Km Avaratra Andrefan’i Besalampy no nisy ny foiben’i FYTIA. Lasa Forte Tempête Tropicale izy. Niakatra ho 100 Km/ora ny rivotra miaraka aminy izay arahina tafiotra 140 Km/ora manakaiky ny foibeny. Nikisaka niatsinanana somary Atsimo Atsinanana izy ka nahafaka 7 Km/ora.   Vinavinaina hiditra an-tanety eo anelanelan’i Tambohorano sy Soalala i FYTIA anio alina na rahampitso Sabotsy 31 Janoary 2026 vao maraina be. Mety hahatratra ny tanjaka rivodoza mahery na Cyclone Tropical izy amin’izay  fotoana izay (rivotra manodidina ny 150 Km/ora sy  tafiotra  210  Km/ora). Tombanana hivoaka any an-ndranomasina kosa izy ny Alahady maraina, any amin’ny faritra ATSINANANA. Manoloana izany dia miova toy izao ny filazana loza :   -  Loza manambana miloko mavo : BOENY, MELAKY ary BETSIBOKA ; -  Fanairana miloko maintso : BONGOLVA, ITASY, ANALAMANGA, ALAOTRA MANGORO ary ny Distrikan’Ambatolampy.  Aorian’ny fidirany an-tanety dia hamakivaky ny faritry ny afovoan-tany ity rivodoza ity ka ahiana hitondra rotsak’orana betsaka (50 hatramin’ny 150 mm/24 ora) amina faritra maro. Ahiana mafy ny tondra-drano,  ny  fiakaran’ny  renirano,  ny  fihotsahan’ny  tany  sy  ny  lalana.  Misy  fampitandremana mikasika izany.    Entanina  ny  mpampiasa  ranomasina  eo  anelanelan’i  Analalava  sy  maintirano  mba  tsy hiandriaka  intsony  mikorontana  ny  toetry  ny  andro.  Araho  mandrakariva  ny  toro-marika  omen’ny manam-pahefana isan-tokony.  
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
         image: 'vigilance-cyclone.png'
@@ -38,7 +21,8 @@ manam-pahefana isan-tokony.
         message: `**Vigilance vent fort - Forte  Vague/Houle**  
 Rivotra: Tombanana hahatratra 55/65 Km/ora ny hamafin’ny rivotra izay mety harahina tafiotra indraindray.
 
-Alondrano: Hahery na hahery be ny ranomasina any amin’ny morontsiraka Afovoany Andrefana sy AvaratraAndrefana noho ny fisian’ilay fikorontanana ao amin’ny Lakandranon’i Mozambika. Tombanana ho 3/5m ny haavon’ny onja, hahatratra 6m indraindray eo anelanelan’i Maintirano sy Soalala. 
+Alondrano: Tombanana ho 3/5m ny haavon’ny
+onja, hisamonta ny ranomasina indraindray ka hahatratra 6m eo anelanelan’i Maintirano sy Soalala.
 
 `,
         image: 'vigilance_vent.png'
