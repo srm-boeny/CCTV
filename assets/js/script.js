@@ -54,9 +54,10 @@ NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ZOMA 30 JANOARY 2026 AMIN’NY 06 O
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
 Hanoram-baratra.
- Ho avy Avaratra-Atsinanana ny rivotra ka ho 30/40 km/ora, hahatratra 55 Km/ora indraindray.
+ Ho avy Avaratra na Avaratra- Andrefana ny rivotra ka ho 30/40 km/ora, hahatratra 55 Km/ora indraindray.
  Hahery na hahery be ny ranomasina.
- Haavon’ny onja 2.5/3m, hahatratra 5/6m indraindray noho ny alondrano haterik’ilay faritra andro ratsy`,
+ Haavon’ny onja 2.5/3m, hahatratra 4/5m indraindray noho ny alondrano haterik’ilay rivodoza FYTIA.
+ Hihena miandalana makany amin’ny faran’ny fe- potoana.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
@@ -88,6 +89,7 @@ VENT : CIRCULATION CYCLONIQUE 15/25 ATTEIGNANT 30/40 AUTOUR DE LA FTT FYTIA.
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
+
 
 
 
