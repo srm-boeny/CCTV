@@ -497,6 +497,7 @@ VENT : CF BMS METEO-FRANCE/CENTRE DES CYCLONES TROPICAUX DE LA RÉUNION CONCERNA
 
 
 
+
     const templates = [
     `Des fortes pluies généralisées sont prévues pour toute la journée sur l'ensemble de la région Boeny, touchant particulièrement les localités de Soalala, Mitsinjo, MahajangaI, AmbatoBoeny et MahajangaII.
 **Vents** : Vents modérés de secteur Nord-Est à Est-Nord-Est (entre 10 et 34 km/h), avec des rafales atteignant 42 km/h à Soalala.
