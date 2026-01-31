@@ -10,18 +10,22 @@ Restez informé en cas d’évolution de la situation.`,
         image: 'vigilance-vide1.jpg'
     },
     {
-        message: `**FILAZANA MANOKANA MOMBA NY RIVODOZA NY 30 JANOARY 2026 TAMIN'NY 04 ORA HARIVA** 
+        message: `**FILAZANA MANOKANA MOMBA NY RIVODOZA NY 31 JANOARY 2026 TAMIN'NY 05 ORA MARAINA** 
 
-Tamin’ny 03 ora tolak’andro teo dia tany amin’ny manodidina ny 238 Km Avaratra Andrefan’i
-Besalampy no nisy ny foiben’ilay rivodoza FYTIA. Nitombo hery ka lasa rivodoza mahery izy. Niakatra ho
-120 Km/ora ny rivotra miaraka aminy izay arahina tafiotra 170 Km/ora manakaiky ny foibeny. Nikisaka
-nianavaratra somary Avaratra Atsinanana izy ka nahafaka 7 Km/ora. Efa mipaka amin’ny faritra Avaratra
-Andrefana iny rahona miaraka aminy.
-Vinavinaina hiditra an-tanety eo anelanelan’i Tambohorano sy Soalala i FYTIA anio alina na
-rahampitso Sabotsy 31 Janoary 2026 vao maraina be. Mety hahatratra 155 Km/ora ny rivotra hiaraka
-aminy, arahina tafiotra manodidina ny 215 Km/ora amin’ny fotoana hidirany an-tanety. Manoloana izany
-dia miova toy izao ny filazana loza :
-- Loza mitatao miloko mena : BOENY sy MELAKY ;
+Niditra an-tanety tao amin’ny distrikan’i Soalala ilay rivodoza FYTIA tamin’ny 04 ora sy sasany teo. 
+Manodidina ny 150 Km/ora ny rivotra miaraka aminy izay arahina tafiotra 210 Km/ora manakaiky ny foibeny. 
+Nikisaka nianatsimo somary Atsimo Atsinanana  izy  ka nahafaka  18  Km/ora.  
+Efa  ao  anaty  orana mikija tanteraka ny faritra BOENY, ny tapany Avaratr’i MELAKY ary ny ilany Andrefan’i BETSIBOKA. 
+Noho izany dia miova ho toy izao ny filazana loza :   
+-  Loza mitatao miloko mena : BOENY, MELAKY, ny Distrikan’i Kandreho sy Maevantanana ; 
+-  Loza  manambana  miloko  mavo  :  BONGOLAVA,  ny  Distrikan’Ankazobe,  Anjozorobe  ary Tsaratanana ; 
+-  Fanairana  miloko  maintso  :  ITASY,  ALAOTRA  MANGORO,  ny  Distrikan’Ambatolampy, Ambohidratrimo,  Andramasina,  Manjakandriana,  Antananarivo  Renivohitra, Antananarivo Atsimondrano ary Antananarivo Avaradrano.   
+Hamakivaky  ny  faritry  ny  afovoan-tany  ity  rivodoza  ity  ka  hitondra  rotsak’orana  betsaka  (50 hatramin’ny 150 mm/24 ora) amina faritra maro. 
+Ahiana mafy ny tondra-drano, ny fiakaran’ny renirano, ny fihotsahan’ny tany sy ny lalana. Misy ny fampitandremana mikasika izany. 
+Tombanana hivoaka any an-ndranomasina kosa izy ny Alahady maraina, any amin’ny faritra ATSINANANA.  
+Entanina ny mpampiasa ranomasina eo anelanelan’i Analalava sy maintirano mba tsy hiandriaka mandrapahalasa  ny  loza  tanteraka.  
+Toy  izany  ihany  koa  ny  eo  anelanelan’i  Fenoarivo  Atsinanana  sy Mananjary manomboka anio tolak’andro. 
+Araho mandrakariva ny toro-marika omen’ny manam-pahefana isan-tokony. 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
         image: 'vigilance-cyclone.png'
