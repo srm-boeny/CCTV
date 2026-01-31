@@ -504,6 +504,7 @@ VENT : CIRCULATION CYCLONIQUE 15/25 ATTEIGNANT 30/40 AUTOUR DE LA FTT FYTIA.
 
 
 
+
     const templates = [
     `Des pluies intenses sont généralisées sur la région Boeny, persistantes toute la journée à MahajangaI, Marovoay, AmbatoBoeny et MahajangaII, et s'atténuant l'après-midi à Soalala et Mitsinjo.
 **Vents** : Vents modérés à forts de secteur Sud-Ouest, soufflant entre 33 et 64 km/h, avec des rafales pouvant atteindre 83 km/h à MahajangaI.
