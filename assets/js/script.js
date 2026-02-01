@@ -503,6 +503,7 @@ VENT : OUEST 15/20 ATTEIGNANT 30/35 SUR LA PARTIE NORD-OUEST DE LA ZONE.
 
 
 
+
     const templates = [
     `L'après-midi sera pluvieux sur une grande partie de la région Boeny, notamment sur l'Ouest (Soalala, Mitsinjo) et l'Est (MahajangaII), tandis qu'AmbatoBoeny aura un temps nuageux.
 **Vents** : Vents modérés de secteur Nord-Ouest, soufflant entre 15 et 26 km/h, avec des rafales atteignant 30 km/h à Soalala.
