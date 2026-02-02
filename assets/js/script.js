@@ -503,6 +503,7 @@ VENT : OUEST A SUD-OUEST 10/15 AU SUD DE 15S, NORD-OUEST 15/20 AILLEURS ÉTAT DE
 
 
 
+
     const templates = [
     `Matinée généralement dégagée, puis des averses et pluies éparses sont attendues l'après-midi sur l'ensemble de la région, notamment à Soalala et Mitsinjo à l'Ouest, ainsi qu'à Marovoay et AmbatoBoeny dans les terres.
 **Vents** : Vents modérés de secteur Ouest-Nord-Ouest à Ouest, avec des vitesses variant de 11 à 19 km/h.
