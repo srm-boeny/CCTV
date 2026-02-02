@@ -1,6 +1,6 @@
 // --- CONFIGURABLE PARAMETERS ---
 const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
-const typeCatastrophe = "cyclone"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
+const typeCatastrophe = "flood"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
     {
@@ -10,25 +10,20 @@ Restez informé en cas d’évolution de la situation.`,
         image: 'vigilance-vide1.jpg'
     },
     {
-        message: `**FILAZANA MANOKANA MOMBA NY RIVODOZA NY 31 JANOARY 2026 TAMIN'NY 05 ORA MARAINA** 
+        message: `**FAHAMAILOANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO:   FARITRA BOENY, BETSIBOKA, MELAKY, ** 
 
-Niditra an-tanety tao amin’ny distrikan’i Soalala ilay rivodoza FYTIA tamin’ny 04 ora sy sasany teo. 
-Manodidina ny 150 Km/ora ny rivotra miaraka aminy izay arahina tafiotra 210 Km/ora manakaiky ny foibeny. 
-Nikisaka nianatsimo somary Atsimo Atsinanana  izy  ka nahafaka  18  Km/ora.  
-Efa  ao  anaty  orana mikija tanteraka ny faritra BOENY, ny tapany Avaratr’i MELAKY ary ny ilany Andrefan’i BETSIBOKA. 
-Noho izany dia miova ho toy izao ny filazana loza :   
--  Loza mitatao miloko mena : BOENY, MELAKY, ny Distrikan’i Kandreho sy Maevantanana ; 
--  Loza  manambana  miloko  mavo  :  BONGOLAVA,  ny  Distrikan’Ankazobe,  Anjozorobe  ary Tsaratanana ; 
--  Fanairana  miloko  maintso  :  ITASY,  ALAOTRA  MANGORO,  ny  Distrikan’Ambatolampy, Ambohidratrimo,  Andramasina,  Manjakandriana,  Antananarivo  Renivohitra, Antananarivo Atsimondrano ary Antananarivo Avaradrano.   
-Hamakivaky  ny  faritry  ny  afovoan-tany  ity  rivodoza  ity  ka  hitondra  rotsak’orana  betsaka  (50 hatramin’ny 150 mm/24 ora) amina faritra maro. 
-Ahiana mafy ny tondra-drano, ny fiakaran’ny renirano, ny fihotsahan’ny tany sy ny lalana. Misy ny fampitandremana mikasika izany. 
-Tombanana hivoaka any an-ndranomasina kosa izy ny Alahady maraina, any amin’ny faritra ATSINANANA.  
-Entanina ny mpampiasa ranomasina eo anelanelan’i Analalava sy maintirano mba tsy hiandriaka mandrapahalasa  ny  loza  tanteraka.  
-Toy  izany  ihany  koa  ny  eo  anelanelan’i  Fenoarivo  Atsinanana  sy Mananjary manomboka anio tolak’andro. 
-Araho mandrakariva ny toro-marika omen’ny manam-pahefana isan-tokony. 
+A. Novokarina ny: Alahady faha 01 Febroary 2026 tamin’ny 10 ora maraina 
+B. Manankery hatramin’ny : Alatsinainy 02 Febroary 2026 
+Na dia efa nivoaka an-dranomasina aza ny foiben’ ilay rivodoza FYTIA io maraina io dia tombanana mbola hitoetra ny fiakaran’ ny 
+haavon’ny rano amin’ireo renirano sasantsasany ao anaty sahandriaka ho an’ireto faritra ireto : BOENY, BETSIBOKA, MELAKY. 
+Noho izany, 
+ manan-kery ny fampitandremana miloko mena amin’ny mety ho fiakaran’ny rano ho an’ireo mponina manamorona ny 
+reniranon’i Betsiboka, Sambao, Mahavavy Sud ary Ranobe. 
+ Foana ny fampitandremana amin’ny mety ho fiakaran’ny rano ho an’ireo mponina manamorona ny reniranon’I Mahajamba, Manambaho, 
+Mangoro, Maningory, Rianila, Onibe ary Ivondro. 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance-cyclone.png'
+        image: 'vigilance-flood.png'
     },
     {
         message: `**Vigilance vent fort - Forte  Vague/Houle**  
@@ -38,7 +33,7 @@ Alondrano: Tombanana ho 3/5m ny haavon’ny
 onja, hisamonta ny ranomasina indraindray ka hahatratra 6m eo anelanelan’i Maintirano sy Soalala.
 
 `,
-        image: 'vigilance_vent.png'
+        image: 'vigilance_vent1.png'
     },
     {
         message: `**FAHAMAILONA AMIN’ NY METY HO FIAKARAN’NY RENIRANO | FARITRA BOENY, BETSIBOKA, SOFIA, MELAKY– Alakamisy 29 Janoary 2026 _ 01 ora tolakandro**  
@@ -46,7 +41,7 @@ Araka ny vinavina dia mbola mety hisy fiakarany ny haavon’ny rano amin’ireo 
 📕📕 Noho izany, mbola manan-kery ny fampitandremana miloko mena amin’ny mety ho fiakaran’ny rano ho an’ireo mponina manamorona ny reniranon’i Betsiboka sy Mahajamba.
 📒📒 Fampitandremana miloko mavo: ho an’ireo mponina manamorona ny reniranon’i Sofia sy Mahavavy Sud. Vinavinaina hahatratra ny fetra ny reniranon’i Mahavavy Sud ny 31 Janoary 2026.
 📗📗 Fampitandremana miloko maintso : ho an’ireo mponina manamorona ny reniranon’i Sambao ary vinavinaina hahatratra ny fetra ny 31 Janoary 2026.`,
-        image: 'vigilance-flood.png'
+        image: 'vigilance-flood1.png'
     },
 ];
 
