@@ -500,6 +500,7 @@ VENT : OUEST A NORD-OUEST 10/15 AU NORD DE 15S ET PRES COTES DE MADAGASCAR, SECT
 
 
 
+
     const templates = [
     `Temps pluvieux dans l'après-midi sur l'ensemble de la région, avec des averses plus intenses à Mahajanga I et Mitsinjo.
 **Vents** : Vents faibles à modérés de secteur Nord-Ouest, de 10 à 21 km/h.
