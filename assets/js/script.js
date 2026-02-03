@@ -10,17 +10,15 @@ Restez informé en cas d’évolution de la situation.`,
         image: 'vigilance-vide1.jpg'
     },
     {
-        message: `**FAHAMAILOANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO:   FARITRA BOENY, BETSIBOKA, MELAKY, ** 
+        message: `**FAHAMAILOANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO:  FARITRA BOENY SY BETSIBOKA ** 
 
-A. Novokarina ny: Alahady faha 01 Febroary 2026 tamin’ny 10 ora maraina 
-B. Manankery hatramin’ny : Alatsinainy 02 Febroary 2026 
-Na dia efa nivoaka an-dranomasina aza ny foiben’ ilay rivodoza FYTIA io maraina io dia tombanana mbola hitoetra ny fiakaran’ ny 
-haavon’ny rano amin’ireo renirano sasantsasany ao anaty sahandriaka ho an’ireto faritra ireto : BOENY, BETSIBOKA, MELAKY. 
-Noho izany, 
- manan-kery ny fampitandremana miloko mena amin’ny mety ho fiakaran’ny rano ho an’ireo mponina manamorona ny 
-reniranon’i Betsiboka, Sambao, Mahavavy Sud ary Ranobe. 
- Foana ny fampitandremana amin’ny mety ho fiakaran’ny rano ho an’ireo mponina manamorona ny reniranon’I Mahajamba, Manambaho, 
-Mangoro, Maningory, Rianila, Onibe ary Ivondro. 
+A.Novokarina ny: Talata faha 03 Febroary 2026 tamin’ny 12 ora atoandro 
+B. Manankery hatramin’ny: Alarobia 04 Febroary 2026 
+Hitoetra ny oram-baratra any amin’ny faritra Diana, Sofia, Boeny, ny faritry ny afoavoan-tany 
+Atsinanana, ary Atsimo Andrefana.  
+Araka ny fanaraha-maso natao dia vinavinaina hitombo miandalana ny fahabetsahan’ny rano 
+amin’ireo sahandriaka izay naharay fampitandremana momba ny mety ho fiakaran’ny renirano 
+ato anatin’ny 24 ora hoavy. 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
         image: 'vigilance-flood.png'
