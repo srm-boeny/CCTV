@@ -504,6 +504,7 @@ VENT : OUEST 10/15 AU NORD DE 15S, SUD-OUEST A SUD 05/10 AILLEURS.
 
 
 
+
     const templates = [
     `Le temps sera généralement pluvieux sur la région, avec des averses parfois fortes notamment à Mitsinjo et AmbatoBoeny, tandis que MahajangaI connaîtra un début de journée partiellement nuageux avant l'arrivée de la pluie.
 **Vents** : Vents faibles à modérés, généralement de secteur Sud-Ouest à Sud-Est, avec des vitesses moyennes entre 4 et 12 km/h.
