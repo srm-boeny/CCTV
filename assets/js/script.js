@@ -504,6 +504,7 @@ VENT : OUEST 05/10 AU NORD DE 15S, OUEST A SUD-OUEST A SUD 05/15 AILLEURS ÉTAT 
 
 
 
+
     const templates = [
     `La journée sera dominée par des conditions pluvieuses sur l'ensemble de la région Boeny, avec des averses parfois intenses notamment à Mitsinjo (ouest) et MahajangaII (est).
 **Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Est à Sud, avec une rafale atteignant 19 km/h à MahajangaI.
