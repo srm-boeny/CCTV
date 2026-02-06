@@ -508,6 +508,7 @@ VENT : SUD-OUEST A OUEST 05/10 AU NORD DE 15S, SECTEUR SUD 10/15 LOCALEMENT 20 A
 
 
 
+
     const templates = [
     `La journée sera globalement **partiellement nuageuse** sur la région Boeny, avec des matinées **nuageuses** à l'ouest (Soalala, Mitsinjo) et à MahajangaI, et des **averses légères** possibles l'après-midi sur Mitsinjo.
 **Vents** : Vents faibles à modérés de secteur Nord-Est à Sud-Est, avec des vitesses moyennes entre 6 et 17 km/h. Les rafales pourront atteindre 18 km/h à Soalala.
