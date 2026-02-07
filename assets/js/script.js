@@ -510,6 +510,7 @@ VENT : OUEST 10/15 AU NORD DE 15S, SUD A SUD-EST 05/15 AILLEURS.
 
 
 
+
     const templates = [
     `Le temps sera généralement pluvieux ou marqué par des averses sur l'ensemble de la région Boeny, avec des pluies plus continues attendues à Soalala et MahajangaII.
 **Vents** : Vents faibles à modérés, de secteur Est à Sud-Est et Nord-Est, avec des vitesses moyennes de 9 à 21 km/h et des rafales atteignant 25 km/h à MahajangaI.
