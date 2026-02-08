@@ -508,6 +508,7 @@ VENT : OUEST 05/15 AU NORD DE 15S.
 
 
 
+
     const templates = [
     `Des pluies et averses domineront la journée dans la région Boeny, avec des pluies continues sur Soalala et Mitsinjo à l'ouest, et des averses se développant l'après-midi sur Marovoay, AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est, avec des vitesses moyennes allant de 6 à 14 km/h et une rafale de 16 km/h à Soalala.
