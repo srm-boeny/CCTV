@@ -512,6 +512,7 @@ VENT : NORD-OUEST 05/10 AU NORD DE 15S.
 
 
 
+
     const templates = [
     `La journée sera partagée entre éclaircies et passages nuageux sur la plupart de la région. Des averses sont prévues le matin à l'ouest (Soalala, Mitsinjo) et l'après-midi dans l'intérieur (Marovoay) et à l'est (MahajangaII).
 **Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Ouest à Ouest, avec des vitesses moyennes entre 5 et 13 km/h. Les rafales pourront atteindre 16 km/h à Soalala.
