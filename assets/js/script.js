@@ -513,6 +513,7 @@ VENT : OUEST 05/10 AU NORD DE 15S, SUD 10/15 AILLEURS ÉTAT DE LA MER : PEU AGIT
 
 
 
+
     const templates = [
     `Des pluies et averses sont prévues sur l'ouest de la région, notamment à Soalala et Mitsinjo, tandis que le reste du Boeny sera sous un ciel nuageux à partiellement nuageux.
 **Vents** : Vents faibles à modérés (entre 6 et 15 km/h) de directions variées, avec des rafales atteignant 14 km/h à AmbatoBoeny.
