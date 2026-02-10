@@ -10,15 +10,15 @@ Restez informé en cas d’évolution de la situation.`,
         image: 'vigilance-vide1.jpg'
     },
     {
-        message: `**FAHAMAILOANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO:  FARITRA BOENY SY BETSIBOKA ** 
+        message: `**FAMPITANDREMANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO ** 
 
-A.Novokarina ny: Talata faha 03 Febroary 2026 tamin’ny 12 ora atoandro 
-B. Manankery hatramin’ny: Alarobia 04 Febroary 2026 
-Hitoetra ny oram-baratra any amin’ny faritra Diana, Sofia, Boeny, ny faritry ny afoavoan-tany 
-Atsinanana, ary Atsimo Andrefana.  
-Araka ny fanaraha-maso natao dia vinavinaina hitombo miandalana ny fahabetsahan’ny rano 
-amin’ireo sahandriaka izay naharay fampitandremana momba ny mety ho fiakaran’ny renirano 
-ato anatin’ny 24 ora hoavy. 
+Nohon'ny fandalovan'ny Rivodoza GEZANI izay hiditra antanety anio alina ka hamakivaky ny faritra Atsinanana, Alaotra mangoro, Analamanga, Bongolava ary hivoaka any Andrefan'ny Madagasikara dia misy ny FAMPITANDREMANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO ho antsika eto BOENY : 
+Novokarina ny: Talata faha 10 Febroary 2026 tamin’ny 01 ora tolak’andro
+Manankery hatramin’ny: Alarobia 11 Febroary 2026
+Hiakatra miandalana ny renirano nohon'ny fahabetsahan'ny rotsakorana ao anatin'ny sahandriaka ka ireto renirano ireto no mahazo fampitandremana MILOKO MENA ho antsika eto BOENY: 
+- Renirano Betsiboka : Ao amin'ny Distrika Ambato Boeny, Marovoay
+- Renirano Mahavavy Sud : Ao amin'ny Distrika Mitsinjo, Ambato Boeny. 
+Ka noho izany dia entanina ho mailo hatrany no handray ny fanampahan-kevitra mifanaraka amin'izany ireo manamorona ny renirano voantonona ireo. 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
         image: 'vigilance-flood.png'
