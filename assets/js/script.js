@@ -514,6 +514,7 @@ VENT : OUEST 05/10 AU NORD DE 15S, SUD 10/15 AILLEURS ÉTAT DE LA MER : PEU AGIT
 
 
 
+
     const templates = [
     `La journée sera marquée par des pluies intenses sur la majeure partie de la région, notamment le matin. Ces averses persisteront ou s'intensifieront l'après-midi, en particulier sur AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés soufflant entre 8 et 13 km/h, avec des rafales atteignant localement 21 km/h à Soalala.
