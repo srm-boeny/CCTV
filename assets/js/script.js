@@ -47,13 +47,13 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAROBIA 11 FEBROARY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAKAMISY 12 FEBROARY 2026 AMIN’NY 06 ORA MARAINA
+NY ALAKAMISY 12 FEBROARY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ZOMA 13 FEBROARY 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-Hanorana tandrifindrahona mitsitokotoko ny atoandro.
- Ho avy Andrefana ny rivotra ka ho 10/20 km/ora, hiodina avy Atsinanana izany any amin’ny faran’ny fe-potoana ka ho 20 Km/ora.
+Hanorana tandrifindrahona vitsy ny alina.
+ Ho avy Andrefana na Avaratra-Andrefana ny rivotra ka ho 10/20 km/ora, ho avy Atsinanana kosa ny maraina ka ho 10/20 Km/ora.
  Hadini-panonja ny ranomasina.
- Haavon’ny onja 0.5/1m`,
+ Haavon’ny onja hanodidina ny 0.5m.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
@@ -80,6 +80,7 @@ AU SUD DE 15S: CF BMS ÉMIS PAR LA METEO-FRANCE/CENTRE DES CYCLONES TROPICAUX DE
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
+
 
 
 
