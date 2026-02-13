@@ -519,6 +519,7 @@ VENT : SECTEUR NORD 05/10, ATTEIGNANT 20/25 SUR LA PARTIE SUD ÉTAT DE LA MER : 
 
 
 
+
     const templates = [
     `Après des matinées nuageuses avec des averses éparses sur l'Ouest (Soalala, Mitsinjo) et l'Est (MahajangaII), de fortes pluies sont prévues sur l'ensemble de la région Boeny l'après-midi, y compris dans les parties intérieures (Marovoay, AmbatoBoeny).
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est (entre 7 et 16 km/h), avec des rafales atteignant 21 km/h à MahajangaI.
