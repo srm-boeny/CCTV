@@ -526,6 +526,7 @@ VENT : SECTEUR NORD 05/10, ATTEIGNANT 20/25 SUR LA PARTIE SUD.
 
 
 
+
     const templates = [
     `Des averses sont attendues l'après-midi sur l'ensemble de la région Boeny, fortes à Mitsinjo, après un matin nuageux ou partiellement couvert, et pluvieux à Soalala.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses variant de 6 à 12 km/h.
