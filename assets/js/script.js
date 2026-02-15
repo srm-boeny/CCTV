@@ -527,6 +527,7 @@ VENT : SECTEUR NORD 05/10, ATTEIGNANT 15/20 SUR LA PARTIE SUD.
 
 
 
+
     const templates = [
     `Le temps sera principalement partiellement nuageux sur l'ensemble de la région, avec des averses attendues l'après-midi et en soirée sur Mitsinjo (à l'ouest), les parties intérieures (Marovoay, AmbatoBoeny) et l'est (MahajangaII), tandis que Soalala (à l'ouest) et MahajangaI resteront partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud (5 à 14 km/h), avec une rafale atteignant 17 km/h à Soalala.
