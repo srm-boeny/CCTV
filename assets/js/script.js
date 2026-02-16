@@ -527,6 +527,7 @@ VENT : NORD A NORD-EST 05/10, DEVENANT SUD 15/20 SUR LA PARTIE SUD-OUEST DE LA Z
 
 
 
+
     const templates = [
     `Temps pluvieux sur l'Ouest (Soalala, Mitsinjo), tandis que l'intérieur et l'Est (Marovoay, AmbatoBoeny, MahajangaI, MahajangaII) connaîtront un matin partiellement nuageux suivi d'averses éparses l'après-midi.
 **Vents** : Faibles à modérés, de 6 à 13 km/h, de secteur Sud-Est dominant avec des pointes Sud-Ouest localisées. Rafales atteignant localement 19 km/h à MahajangaI.
