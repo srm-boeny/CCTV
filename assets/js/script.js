@@ -528,6 +528,7 @@ VENT : NORD A NORD-OUEST 05/10, TOURNANT SUD 15/20 SUR LA PARTIE SUD-OUEST DE LA
 
 
 
+
     const templates = [
     `La journée sera partagée entre éclaircies et passages nuageux, avec des averses prévues principalement l'après-midi à l'Ouest (Soalala, Mitsinjo) et localement à l'intérieur (AmbatoBoeny), et des averses matinales à MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Ouest, entre 6 et 11 km/h, avec des rafales pouvant atteindre 17 km/h à MahajangaI.
