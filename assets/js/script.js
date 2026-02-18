@@ -530,6 +530,7 @@ VENT : NORD A NORD-OUEST 05/10, TOURNANT SUD 15/20 SUR LA PARTIE SUD-OUEST DE LA
 
 
 
+
     const templates = [
     `Temps nuageux à pluvieux sur l'ensemble de la région Boeny, avec des averses notamment sur les zones côtières (Mahajanga I, Soalala) et l'Est (Mahajanga II), et des pluies intenses à Marovoay.
 **Vents** : Vents faibles à modérés, de secteur majoritairement Sud-Est à Sud (6 à 12 km/h), avec une rafale de 10 km/h à Mahajanga II.
