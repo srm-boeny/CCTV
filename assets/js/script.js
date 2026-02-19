@@ -532,6 +532,7 @@ VENT : SECTEUR EST 05 AU NORD DE 15S, SUD-EST 05/10 SUR LA PARTIE SUD-OUEST.
 
 
 
+
     const templates = [
     `La journée débutera avec un temps majoritairement ensoleillé à partiellement nuageux, devenant plus nuageux l'après-midi sur l'Ouest (Soalala, Mitsinjo) et MahajangaI, avec de légères pluies possibles à l'Est (MahajangaII).
 **Vents** : Vents faibles à modérés, de secteurs variables (Sud-Est, Ouest-Sud-Ouest), avec des vitesses moyennes de 5 à 12 km/h et des rafales atteignant 16 km/h à Soalala.
