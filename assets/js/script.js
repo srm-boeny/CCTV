@@ -534,6 +534,7 @@ VENT : SUD A SUD-EST 05/10, TOURNANT OUEST 05 PRES DES COTES NORD-OUEST DE MADAG
 
 
 
+
     const templates = [
     `Temps généralement ensoleillé le matin, excepté sur Soalala et Mitsinjo où le ciel sera partiellement nuageux. L'après-midi, des averses sont prévues sur l'ensemble de la région, avec des pluies fortes sur AmbatoBoeny.
 **Vents** : Vents faibles à modérés (7 à 13 km/h), majoritairement de secteur Sud-Est. Une rafale atteignant 17 km/h est prévue à MahajangaI.
