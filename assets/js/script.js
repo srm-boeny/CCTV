@@ -536,6 +536,7 @@ VENT : SECTEUR SUD 05/10 ATTEIGNANT 15 AU SUD DE 15S, DEVENANT OUEST A NORD-OUES
 
 
 
+
     const templates = [
     `Après une matinée nuageuse avec des pluies dans l'Ouest (Soalala, Mitsinjo), l'après-midi sera marquée par de fortes averses généralisées sur l'ensemble de la région.
 **Vents** : Vents faibles à modérés, principalement de secteur Sud-Ouest à Sud (localement Est à Mitsinjo), avec des vitesses moyennes de 6 à 14 km/h et des rafales maximales de 18 km/h à MahajangaI.
