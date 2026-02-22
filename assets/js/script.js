@@ -539,6 +539,7 @@ VENT : SECTEUR OUEST 05/10 AU NORD DE 15S, SUD 10/15 AILLEURS ÉTAT DE LA MER : 
 
 
 
+
     const templates = [
     `Matins ensoleillés sur MahajangaI, AmbatoBoeny et MahajangaII, ailleurs le temps sera partiellement nuageux. Des averses sont attendues l'après-midi sur l'ensemble de la région, devenant fortes sur AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud-Sud-Est à Ouest-Sud-Ouest, atteignant 13 km/h à MahajangaI et avec une rafale isolée de 13 km/h à AmbatoBoeny.
