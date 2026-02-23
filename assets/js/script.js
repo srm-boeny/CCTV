@@ -543,6 +543,7 @@ VENT : SUD 10/15, TOURNANT SECTEUR OUEST 05/10 PRES DES CÔTES NORD-OUEST DE MAD
 
 
 
+
     const templates = [
     `Des averses sont attendues sur l'ensemble de la région cet après-midi, devenant fortes à MahajangaI, après une matinée plus clémente dans les parties intérieures et Est (AmbatoBoeny et MahajangaII).
 **Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Ouest (entre 6 et 13 km/h), avec des rafales pouvant atteindre 17 km/h à MahajangaI.
