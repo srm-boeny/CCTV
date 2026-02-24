@@ -541,6 +541,7 @@ VENT : OUEST A SUD-OUEST 05/10. ÉTAT DE LA MER : BELLE PRES DES COTES NORD-OUES
 
 
 
+
     const templates = [
     `Le matin sera généralement ensoleillé à peu nuageux, tandis que l'après-midi verra des averses de pluie sur la plupart des localités, notamment à Soalala et Mitsinjo à l'ouest, ainsi qu'à Marovoay, AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés de secteurs Sud-Est à Ouest, avec des vitesses moyennes de 5 à 13 km/h. Une rafale atteignant 11 km/h est possible à AmbatoBoeny.
