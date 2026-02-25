@@ -542,6 +542,7 @@ VENT : SUD A SUD-OUEST 05, TOURNANT SECTEUR NORD 05 VERS MI-PÉRIODE ÉTAT DE LA
 
 
 
+
     const templates = [
     `La région BOENY sera sous un temps pluvieux ce jour, avec des averses dès le matin à MahajangaI et s'intensifiant l'après-midi, notamment sur Mitsinjo à l'Ouest et MahajangaII à l'Est.
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est, avec des vitesses moyennes allant de 6 à 14 km/h. Des rafales de 14 km/h sont attendues à Soalala.
