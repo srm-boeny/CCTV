@@ -546,6 +546,7 @@ VENT : EST 05/10, MAIS SECTEUR NORD 05/10 AU SUD DE 15S EN PREMIÈRE PARTIE DE P
 
 
 
+
     const templates = [
     `Après un matin partagé entre averses à l'Ouest et ciel clair à l'Est et à l'intérieur, l'après-midi sera pluvieux sur l'ensemble de la région, avec de fortes averses attendues à Soalala et AmbatoBoeny.
 **Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Est à Est. Les vitesses moyennes varieront de 6 à 12 km/h, avec des rafales pouvant atteindre 16 km/h à Soalala et 15 km/h à AmbatoBoeny.
