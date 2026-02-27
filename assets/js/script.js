@@ -545,6 +545,7 @@ VENT : SUD A SUD-EST 05/10, DEVENANT NORD-OUEST 05 PRES DES COTES NORD-OUEST DE 
 
 
 
+
     const templates = [
     `La matinée sera généralement ensoleillée à partiellement nuageuse, mais l'après-midi verra l'arrivée de pluies et d'averses sur l'ensemble de la région Boeny, avec de fortes pluies attendues sur les localités intérieures comme Marovoay et à l'Est comme MahajangaII.
 **Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Est à Sud-Sud-Est, avec des vitesses comprises entre 6 et 15 km/h.
