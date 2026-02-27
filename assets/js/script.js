@@ -1,5 +1,5 @@
 // --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "red";       // Options: "none", "blue", "green", "yellow", "red"
+const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
 const typeCatastrophe = "flood"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
 
 const vigilanceMessages = [
@@ -7,7 +7,7 @@ const vigilanceMessages = [
         message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
 Les conditions météorologiques sont calmes pour les prochains jours.  
 Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide1.jpg'
+        image: 'vigilance-vide.jpg'
     },
     {
         message: `**FAMPITANDREMANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO ** 
@@ -21,7 +21,7 @@ Hiakatra miandalana ny renirano nohon'ny fahabetsahan'ny rotsakorana ao anatin'n
 Ka noho izany dia entanina ho mailo hatrany no handray ny fanampahan-kevitra mifanaraka amin'izany ireo manamorona ny renirano voantonona ireo. 
 
 ⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance-flood.png'
+        image: 'vigilance-flood1.png'
     },
     {
         message: `**Vigilance vent fort - Forte  Vague/Houle**  
