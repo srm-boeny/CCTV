@@ -547,6 +547,7 @@ VENT : EST A NORD-EST 05/10 AU NORD DE 15S.
 
 
 
+
     const templates = [
     `Un temps nuageux à partiellement nuageux le matin laissera place à des averses l'après-midi sur la plupart des localités de la région Boeny, notamment sur Marovoay et AmbatoBoeny (intérieur) ainsi que MahajangaI et MahajangaII (Est), avec des pluies plus légères à Soalala (Ouest) et un après-midi partiellement nuageux à Mitsinjo (Ouest).
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, soufflant entre 5 et 14 km/h, avec des rafales pouvant atteindre 13 km/h à MahajangaII et 9 km/h à AmbatoBoeny.
