@@ -549,6 +549,7 @@ VENT : NORD-EST A NORD 05/10 LOCALEMENT 15. ÉTAT DE LA MER : BELLE PRES DES CÔ
 
 
 
+
     const templates = [
     `Le matin sera globalement ensoleillé sur les parties intérieures (Marovoay, AmbatoBoeny) et Est (MahajangaII), et peu nuageux à l'Ouest (Soalala, Mitsinjo) et MahajangaI. L'après-midi, le ciel sera partiellement nuageux sur l'ensemble de la région, avec des averses prévues à MahajangaI.
 **Vents** : Vents faibles à modérés de secteur Est à Sud, avec des vitesses moyennes entre 6 et 13 km/h. Une rafale maximale de 18 km/h est attendue à MahajangaI.
