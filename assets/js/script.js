@@ -551,6 +551,7 @@ VENT : EST A NORD-EST 05/10 LOCALEMENT 15. ÉTAT DE LA MER : BELLE PRES DES COTE
 
 
 
+
     const templates = [
     `Le temps sera généralement ensoleillé à peu nuageux dans les parties intérieures de la région (Marovoay, AmbatoBoeny), tandis que des averses sont attendues l'après-midi sur Soalala (Ouest) et MahajangaII (Est).
 **Vents** : Vents faibles à modérés, généralement de secteur Sud-Est à Est-Sud-Est, atteignant 15 km/h à MahajangaI avec des rafales jusqu'à 20 km/h. Des vents de secteur Ouest-Sud-Ouest sont possibles à Soalala.
