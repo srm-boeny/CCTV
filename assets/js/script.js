@@ -555,6 +555,7 @@ VENT : EST A NORD-EST 05/15. ÉTAT DE LA MER : BELLE PRES DES COTES NORD-OUEST D
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin sur l'ensemble de la région Boeny. L'après-midi, le ciel sera majoritairement peu nuageux, avec un temps dégagé sur Mitsinjo et des averses légères attendues à AmbatoBoeny.
 **Vents** : Vents faibles à modérés, de secteur dominant Sud-Est à Sud, avec des vitesses moyennes entre 8 et 16 km/h. Des rafales atteignant 15 km/h sont attendues à Marovoay.
