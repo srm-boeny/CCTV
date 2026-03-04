@@ -559,6 +559,7 @@ VENT : SUD-EST 05/10, LOCALEMENT 15. ÉTAT DE LA MER : BELLE A PEU AGITÉE.
 
 
 
+
     const templates = [
     `Après un matin généralement ensoleillé sur la plupart des localités, l'après-midi verra l'arrivée d'averses, qui pourront être fortes par endroits, notamment sur Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est (7 à 16 km/h), avec des rafales pouvant atteindre 28 km/h à Mitsinjo.
