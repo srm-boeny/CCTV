@@ -561,6 +561,7 @@ VENT : SUD A SUD-EST 05/10, LOCALEMENT 15/20 PRES DES COTES NORD-OUEST DE MADAGA
 
 
 
+
     const templates = [
     `La matinée s'annonce généralement ensoleillée sur la région Boeny, avant des averses de pluie parfois fortes et généralisées l'après-midi, notamment sur les parties Ouest (Soalala, Mitsinjo) et intérieures (Marovoay, AmbatoBoeny) ainsi qu'à l'Est (MahajangaII).
 **Vents** : Vents faibles à modérés, principalement de secteur Sud-Sud-Est à Est, avec des vitesses moyennes de 5 à 13 km/h, et une rafale atteignant 21 km/h à MahajangaI.
