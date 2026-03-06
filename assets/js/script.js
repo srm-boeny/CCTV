@@ -564,6 +564,7 @@ VENT : EST A NORD-EST 05/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMPS : AVE
 
 
 
+
     const templates = [
     `Le matin sera ensoleillé sur l'ensemble de la région Boeny, tandis que l'après-midi connaîtra des averses, parfois intenses, notamment sur MahajangaI, AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Est-Sud-Est (7 à 15 km/h), avec des rafales pouvant atteindre 29 km/h à Marovoay.
