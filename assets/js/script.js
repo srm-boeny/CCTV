@@ -567,6 +567,7 @@ VENT : SECTEUR EST 05/10, LOCALEMENT 15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE
 
 
 
+
     const templates = [
     `Le temps sera partiellement nuageux le matin, laissant place à des averses et des pluies l'après-midi sur l'ensemble de la région, fortes notamment sur Soalala, MahajangaI et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Ouest, de 6 à 13 km/h, avec des rafales atteignant 18 km/h à MahajangaII.
