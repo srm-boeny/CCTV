@@ -573,6 +573,7 @@ VENT : EST A SUD-EST 05/10, LOCALEMENT 15/20 SUR LA PARTIE SUD-OUEST DE LA ZONE.
 
 
 
+
     const templates = [
     `Le matin sera globalement partiellement nuageux sur la région Boeny, avec des averses parfois fortes l'après-midi, surtout sur Soalala, Marovoay, AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est, soufflant entre 7 et 19 km/h, avec des rafales possibles jusqu'à 18 km/h notamment à Soalala.
