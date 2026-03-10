@@ -569,6 +569,7 @@ VENT : CIRCULATION CYCLONIQUE 05/10, ATTEIGNANT 15/20 PRES DES COTES NORD OUEST 
 
 
 
+
     const templates = [
     `Matinées généralement nuageuses à partiellement ensoleillées, laissant place à de fortes pluies l'après-midi sur la plupart des localités, notamment à Soalala et Mitsinjo à l'ouest, Marovoay à l'intérieur, et MahajangaII à l'est, avec des averses plus modérées vers AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Est à Est-Sud-Est, avec des vitesses comprises entre 9 et 17 km/h et des rafales pouvant atteindre 17 km/h à MahajangaII.
