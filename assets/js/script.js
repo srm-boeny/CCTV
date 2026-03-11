@@ -574,6 +574,7 @@ VENT : CIRCULATION CYCLONIQUE 05/10, ATTEIGNANT 15/20 SUR LA PARTIE SUD.
 
 
 
+
     const templates = [
     `La matinée sera majoritairement nuageuse, avec des éclaircies à l'Est (MahajangaII), avant l'arrivée de fortes pluies l'après-midi sur la plupart des localités, le temps restant simplement nuageux à MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des vitesses moyennes allant de 9 à 14 km/h. Des rafales atteignant 18 km/h sont attendues à MahajangaI.
