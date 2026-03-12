@@ -578,6 +578,7 @@ VENT : NORD A NORD-EST 05/15 AU NORD DE 15S, DEVENANT CIRCULATION CYCLONIQUE ALL
 
 
 
+
     const templates = [
     `Après un matin partiellement nuageux sur l'ensemble de la région, l'après-midi verra des averses, parfois intenses, notamment sur les zones côtières ouest (Mitsinjo, Soalala) et est (MahajangaI, MahajangaII), tandis que Marovoay connaîtra de faibles pluies et AmbatoBoeny restera partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud (8 à 13 km/h), avec des rafales atteignant 17 km/h à MahajangaI et MahajangaII.
