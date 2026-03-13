@@ -581,6 +581,7 @@ VENT : SECTEUR EST 05/10, ATTEIGNANT 15/20 SUR LA PARTIE SUD-OUEST DE LA ZONE ET
 
 
 
+
     const templates = [
     `Temps globalement ensoleillé avec des passages nuageux sur la région Boeny, notamment sur Soalala et Mitsinjo à l'ouest, tandis que la matinée sera plus nuageuse à MahajangaII, à l'est.
 **Vents** : Vents faibles à modérés (9 à 12 km/h) de secteur variable, majoritairement Sud-Est à Est-Sud-Est, avec des rafales atteignant 18 km/h à MahajangaII.
