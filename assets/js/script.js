@@ -586,6 +586,7 @@ VENT : SECTEUR EST 05/10, ATTEIGNANT 15/20 PRES DES COTES NORD-OUEST DE MADAGASC
 
 
 
+
     const templates = [
     `Le ciel sera globalement partiellement nuageux sur l'ensemble de la région Boeny, avec des éclaircies plus franches l'après-midi à AmbatoBoeny.
 **Vents** : Vents faibles à modérés (7 à 13 km/h) de secteur Sud dominant, avec des rafales pouvant atteindre 14 km/h à MahajangaII.
