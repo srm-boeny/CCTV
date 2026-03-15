@@ -583,6 +583,7 @@ VENT : SECTEUR EST 05/10, ATTEIGNANT LOCALEMENT 15 ÉTAT DE LA MER : PEU AGITÉE
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin sur l'ensemble de la région Boeny, devenant partiellement nuageux l'après-midi sur toutes les localités, notamment Soalala et Marovoay à l'Ouest.
 **Vents** : Vents faibles à modérés, de secteur Sud-Est à Sud-Sud-Ouest, avec des vitesses moyennes de 4 à 14 km/h. Une rafale maximale de 21 km/h est prévue à MahajangaI.
