@@ -587,6 +587,7 @@ VENT : VARIABLE 05/10 PRES DES CÔTES NORD-OUEST DE MADAGASCAR, SECTEUR EST 05/1
 
 
 
+
     const templates = [
     `Journée globalement ensoleillée sur l'ensemble de la région Boeny, quelques nuages matinaux sont attendus à Soalala et AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des vitesses moyennes entre 5 et 11 km/h. Une rafale pourra atteindre 15 km/h à MahajangaI.
