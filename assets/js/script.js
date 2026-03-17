@@ -591,6 +591,7 @@ VENT : VARIABLE 05 AU NORD DE 15S, EST A NORD-EST 05/15 SUR LA PARTIE SUD-OUEST.
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin sur l'ensemble de la région, évoluant l'après-midi vers des averses de pluie sur MahajangaI, Mitsinjo, Marovoay et MahajangaII, tandis que Soalala et AmbatoBoeny connaîtront un ciel partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur E à SSE, avec des vitesses moyennes comprises entre 4 et 11 km/h. Rafales atteignant 17 km/h à MahajangaII.
