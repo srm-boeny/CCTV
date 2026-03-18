@@ -592,6 +592,7 @@ VENT : VARIABLE 05/10 EN DÉBUT D’ÉCHÉANCE, DEVENANT SECTEUR EST 05/10 EN FI
 
 
 
+
     const templates = [
     `La journée débutera sous un ciel partiellement nuageux sur l'ensemble de la région, évoluant vers des averses l'après-midi sur l'Ouest (Soalala, Mitsinjo) et les zones intérieures (Marovoay, AmbatoBoeny), tandis que MahajangaII (Est) bénéficiera d'un temps ensoleillé.
 **Vents** : Vents faibles à modérés (6 à 12 km/h) de secteur Sud à Sud-Est, avec des rafales pouvant atteindre 17 km/h à MahajangaI.
