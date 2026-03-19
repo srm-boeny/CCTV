@@ -590,6 +590,7 @@ VENT : SECTEUR EST 05/10, MAIS NORD 05/10 LE MATIN.
 
 
 
+
     const templates = [
     `La journée débutera avec un ciel dégagé sur l'Est (MahajangaII) et un temps partiellement nuageux à peu nuageux sur le reste de la région. L'après-midi, des averses de pluie, fortes sur l'Ouest (Soalala, Mitsinjo) et la côte (MahajangaI), seront présentes également à l'intérieur (Marovoay, AmbatoBoeny), tandis que l'Est (MahajangaII) gardera un ciel partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest, avec des vitesses moyennes comprises entre 4 et 14 km/h. Une rafale de 9 km/h est attendue à Marovoay.
