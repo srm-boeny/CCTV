@@ -589,6 +589,7 @@ VENT : SECTEUR EST 05/10, LOCALEMENT 15 AU VOISINAGE DE 10S ET SUR LA PARTIE SUD
 
 
 
+
     const templates = [
     `Le matin sera ensoleillé à dégagé sur une grande partie de la région, avant l'arrivée d'averses, parfois fortes, l'après-midi, particulièrement sur l'ouest (Soalala, Mitsinjo) et les zones intérieures (MahajangaI, Marovoay), et un ciel partiellement nuageux à l'est (AmbatoBoeny, MahajangaII).
 **Vents** : Vents faibles à modérés de secteur Sud-Est dominant, avec des vitesses entre 7 et 11 km/h.
