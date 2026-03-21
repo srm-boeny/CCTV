@@ -591,6 +591,7 @@ VENT : SUD A SUD-EST 05/10, LOCALEMENT 15 PRES DES COTES NORD-OUEST DE MADAGASCA
 
 
 
+
     const templates = [
     `Temps partiellement nuageux le matin sur toute la région, laissant place à des averses l'après-midi, qui seront localement fortes sur Mitsinjo (Ouest), Marovoay (parties intérieures) et MahajangaII (Est).
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Est-Sud-Est, soufflant entre 8 et 16 km/h, avec des rafales pouvant atteindre 18 km/h à MahajangaII.
