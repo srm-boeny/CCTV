@@ -594,6 +594,7 @@ VENT : SECTEUR EST 05/10, LOCALEMENT 15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE
 
 
 
+
     const templates = [
     `La journée débutera sous un ciel majoritairement partiellement nuageux sur la région Boeny, nuageux à AmbatoBoeny, avant l'arrivée d'averses l'après-midi sur la plupart des localités, localement fortes à MahajangaI et Marovoay, à l'exception de MahajangaII qui restera partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur E à SSE, avec des vitesses moyennes de 9 à 17 km/h, et des rafales atteignant 24 km/h à MahajangaI.
