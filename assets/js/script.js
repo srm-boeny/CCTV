@@ -599,6 +599,7 @@ VENT : SECTEUR EST 05/10, LOCALEMENT 15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE
 
 
 
+
     const templates = [
     `Après une matinée globalement ensoleillée, mais avec de légères averses possibles à MahajangaI, l'après-midi verra l'arrivée d'averses généralisées sur la région, s'intensifiant et devenant fortes notamment à Mitsinjo (Ouest) et MahajangaII (Est).
 **Vents** : Vents faibles à modérés de secteur ESE, avec des vitesses moyennes comprises entre 8 et 16 km/h. Une rafale pourra atteindre 16 km/h à MahajangaII.
