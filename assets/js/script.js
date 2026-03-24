@@ -604,6 +604,7 @@ VENT : SUD A SUD-EST 05/10, LOCALEMENT 15 AU VOISINAGE DE 20S ÉTAT DE LA MER : 
 
 
 
+
     const templates = [
     `La matinée sera généralement ensoleillée à partiellement nuageuse, notamment à l'Ouest (Soalala), avant l'arrivée d'averses ou de pluies éparses l'après-midi sur les parties intérieures (Marovoay, AmbatoBoeny) et l'Est (MahajangaII).
 **Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Est, avec des vitesses moyennes entre 8 et 12 km/h. Des rafales pouvant atteindre 17 km/h sont attendues, notamment à MahajangaI.
