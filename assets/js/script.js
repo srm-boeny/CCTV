@@ -602,6 +602,7 @@ VENT : SUD-EST A EST 05/10, ATTEIGNANT 15/20 AU VOISINAGE DE 15S.
 
 
 
+
     const templates = [
     `Après une matinée globalement ensoleillée sur les parties intérieures et est de la région (Marovoay, AmbatoBoeny, MahajangaII) et partiellement nuageuse à l'ouest (Soalala, MahajangaI), l'après-midi sera marquée par des averses généralisées, notamment fortes à AmbatoBoeny, tandis que Soalala conservera un ciel partiellement nuageux.
 **Vents** : Vents faibles à modérés de 6 à 13 km/h, de secteur Sud à Est-Nord-Est, avec des rafales atteignant 17 km/h à MahajangaI.
