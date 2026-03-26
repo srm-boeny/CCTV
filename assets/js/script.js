@@ -603,6 +603,7 @@ VENT : SECTEUR EST 05/10 LOCALEMENT 15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
 
 
 
+
     const templates = [
     `La matinée sera ensoleillée à partiellement nuageuse, particulièrement claire sur Marovoay et AmbatoBoeny, mais des averses, parfois fortes, sont attendues l'après-midi sur l'ensemble de la région, y compris MahajangaI et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud à Est-Sud-Est (7 à 12 km/h), avec des rafales atteignant 24 km/h à AmbatoBoeny.
