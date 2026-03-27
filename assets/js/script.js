@@ -607,6 +607,7 @@ VENT : EST A SECTEUR SUD 05/10 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMPS : A
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin sur l'ensemble de la région, virant aux fortes pluies et averses l'après-midi, plus intenses sur les parties intérieures et Est (Marovoay, AmbatoBoeny, MahajangaII) ainsi qu'à Mitsinjo.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Ouest. Vitesses moyennes variant de 5 à 16 km/h, avec une rafale atteignant 21 km/h à MahajangaI.
