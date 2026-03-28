@@ -604,6 +604,7 @@ VENT : SECTEUR SUD 05/10. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
 
 
 
+
     const templates = [
     `Le matin, le temps sera ensoleillé à peu nuageux sur l'intérieur (Marovoay, AmbatoBoeny) et l'Est (MahajangaII), devenant plus nuageux sur l'Ouest (Soalala, Mitsinjo). L'après-midi sera marqué par des pluies et averses, parfois fortes sur l'intérieur et l'Est.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, soufflant entre 6 et 11 km/h, avec des rafales atteignant 14 km/h à Soalala.
