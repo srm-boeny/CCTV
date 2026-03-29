@@ -607,6 +607,7 @@ VENT : SUD A SUD-OUEST 05/10. DEVENANT OUEST 05 AU NORD DE 15S EN FIN DE PÉRIOD
 
 
 
+
     const templates = [
     `Après un matin alternant entre ensoleillé (Soalala, AmbatoBoeny) et partiellement nuageux (Mitsinjo, Marovoay, MahajangaII), avec des averses à MahajangaI, l'après-midi sera pluvieux sur l'ensemble de la région, avec de fortes averses à Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés (entre 6 et 16 km/h) de secteur variable (du Nord-Est au Sud-Est), avec des rafales atteignant 20 km/h à MahajangaI et 17 km/h à Soalala.
