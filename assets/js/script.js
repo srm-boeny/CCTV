@@ -609,6 +609,7 @@ VENT : NORD A NORD-OUEST 05 AU NORD DE 15S, SECTEUR SUD 05/10 AILLEURS ÉTAT DE 
 
 
 
+
     const templates = [
     `Matins ensoleillés sur l'intérieur et l'Est (Marovoay, AmbatoBoeny, MahajangaII), devenant pluvieux avec de fortes averses l'après-midi sur l'ensemble de la région.
 **Vents** : Vents faibles à modérés de secteur ESE à SE (5 à 12 km/h), avec des rafales atteignant 17 km/h à Soalala et 12 km/h à Mitsinjo.
