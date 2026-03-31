@@ -611,6 +611,7 @@ VENT : SECTEUR NORD 05 AU NORD DE 15S, SECTEUR SUD 05/10 AILLEURS.
 
 
 
+
     const templates = [
     `Des averses sont attendues sur l'ensemble de la région BOENY, parfois fortes sur l'ouest (Soalala, Mitsinjo), alternant avec des périodes plus nuageuses ou partiellement ensoleillées ailleurs.
 **Vents** : Vents faibles à modérés, principalement de secteur Sud-Ouest, avec des vitesses moyennes de 7 à 13 km/h et des rafales atteignant 17 km/h sur Mahajanga I.
