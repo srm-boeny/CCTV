@@ -616,6 +616,7 @@ VENT : NORD A NORD-OUEST 05 AU NORD DE 15S, SECTEUR SUD 05/15 LOCALEMENT 20 AILL
 
 
 
+
     const templates = [
     `Des averses sont prévues sur l'ouest de la région (Soalala) et l'intérieur (Marovoay, AmbatoBoeny), avec de fortes pluies possibles l'après-midi à Mitsinjo, tandis que le temps sera plus clément et partiellement nuageux sur MahajangaI et MahajangaII.
 **Vents** : Vents faibles à modérés, généralement de secteur Sud-Est à Ouest-Sud-Ouest, soufflant entre 5 et 11 km/h. Des rafales de 18 km/h sont possibles à MahajangaI.
