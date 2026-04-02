@@ -613,6 +613,7 @@ VENT : NORD A NORD-OUEST 05 AU NORD DE 15S, SECTEUR SUD 05/10 AILLEURS ÉTAT DE 
 
 
 
+
     const templates = [
     `Après un matin généralement ensoleillé à beau sur les côtes (Soalala, Mitsinjo, MahajangaII) et plus nuageux à l'intérieur (Marovoay, AmbatoBoeny), l'après-midi sera marqué par des averses sur l'ensemble de la région, pouvant être fortes à MahajangaI.
 **Vents** : Vents faibles à modérés de secteur Sud-Ouest à Ouest-Sud-Ouest, avec des vitesses moyennes entre 4 et 12 km/h. Des rafales jusqu'à 16 km/h sont attendues à MahajangaI.
