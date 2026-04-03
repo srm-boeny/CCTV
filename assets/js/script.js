@@ -623,6 +623,7 @@ VENT : SECTEUR SUD 05/10, ATTEIGNANT 15/20 AU SUD DE 15S.
 
 
 
+
     const templates = [
     `La journée débutera entre beau temps et ciel partiellement nuageux sur la région Boeny, avant l'arrivée d'averses de pluie l'après-midi, plus marquées sur l'Ouest (Soalala, Mitsinjo) et l'Est (MahajangaII).
 **Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Est à Sud-Sud-Est, soufflant entre 5 et 10 km/h. Des rafales de 10 km/h sont possibles à Mitsinjo.
