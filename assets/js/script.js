@@ -622,6 +622,7 @@ VENT : SECTEUR SUD 05/10, ATTEIGNANT 15 AU SUD DE 15S.
 
 
 
+
     const templates = [
     `Ensoleillé le matin sur l'ensemble de la région Boeny, le temps se gâtera l'après-midi avec des averses sur MahajangaI, Mitsinjo, Marovoay, AmbatoBoeny et MahajangaII, seul Soalala conservant un temps sec.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, soufflant entre 6 et 12 km/h, avec une rafale de 11 km/h prévue à AmbatoBoeny.
