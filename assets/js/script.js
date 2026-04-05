@@ -625,6 +625,7 @@ VENT : SECTEUR SUD 05/10, LOCALEMENT 15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE
 
 
 
+
     const templates = [
     `Temps généralement ensoleillé ou ciel dégagé le matin sur l'ensemble de la région, évoluant vers des averses l'après-midi, plus marquées à Mitsinjo.
 **Vents** : Vents faibles à modérés, de 6 à 15 km/h, avec des rafales pouvant atteindre 11 km/h à MahajangaII.
