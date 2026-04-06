@@ -631,6 +631,7 @@ VENT : SECTEUR SUD 05/10, LOCALEMENT 15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE
 
 
 
+
     const templates = [
     `Des averses sont attendues l'après-midi sur une grande partie de la région Boeny, notamment à Mitsinjo, Marovoay et AmbatoBoeny, après un matin généralement nuageux ou partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur Sud-Sud-Est, avec des vitesses entre 5 et 16 km/h. Une rafale de 12 km/h est prévue à Marovoay.
