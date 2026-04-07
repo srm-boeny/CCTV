@@ -625,6 +625,7 @@ VENT : SECTEUR SUD 05/10, LOCALEMENT 15 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE 
 
 
 
+
     const templates = [
     `Le temps sera majoritairement partiellement nuageux le matin sur l'ensemble de la région, évoluant vers un après-midi ensoleillé à peu nuageux, à l'exception d'averses légères sur Soalala (Ouest de la région) et un ciel partiellement nuageux à Mitsinjo.
 **Vents** : Vents faibles à modérés de secteur Sud, avec des vitesses moyennes entre 7 et 16 km/h. Des rafales sont attendues jusqu'à 20 km/h à MahajangaI et 13 km/h à Soalala.
