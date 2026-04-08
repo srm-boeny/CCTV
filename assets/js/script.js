@@ -628,6 +628,7 @@ VENT : SUD-EST 10/15, LOCALEMENT 20 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMP
 
 
 
+
     const templates = [
     `Temps partiellement nuageux le matin sur la majorité de la région, s'éclaircissant pour devenir ensoleillé ou dégagé l'après-midi, notamment à MahajangaII, tandis que Soalala et AmbatoBoeny conserveront des passages nuageux.
 **Vents** : Vents faibles à modérés de secteur ESE, rafales atteignant 24 km/h à MahajangaI.
