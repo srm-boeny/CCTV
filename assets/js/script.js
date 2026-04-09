@@ -632,6 +632,7 @@ VENT : SUD-EST 10/15, LOCALEMENT 20. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE, LO
 
 
 
+
     const templates = [
     `Temps partiellement nuageux le matin sur l'ensemble de la région, évoluant vers un ciel plus dégagé l'après-midi, notamment sur les parties intérieures (Marovoay, AmbatoBoeny).
 **Vents** : Vents faibles à modérés de secteur ESE, avec des vitesses moyennes entre 9 et 16 km/h et des rafales pouvant atteindre 13 km/h à Mitsinjo et Marovoay.
