@@ -636,6 +636,7 @@ VENT : SUD-EST 05/15, ATTEIGNANT LOCALEMENT 20 AU NORD DE 15S NOTAMMENT LE MATIN
 
 
 
+
     const templates = [
     `Le temps sera largement ensoleillé et dégagé sur l'ensemble de la région Boeny, de Soalala à MahajangaII.
 **Vents** : Vents faibles à modérés de secteur ESE à SE (8 à 18 km/h), avec des rafales atteignant 19 km/h à MahajangaII et 15 km/h à Soalala.
