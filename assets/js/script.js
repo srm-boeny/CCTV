@@ -633,6 +633,7 @@ VENT : SUD-EST 05/10, ATTEIGNANT 15/20 AU NORD DE 15S NOTAMMENT LE MATIN ÉTAT D
 
 
 
+
     const templates = [
     `Le temps sera partiellement nuageux sur l'ensemble de la région, avec des périodes ensoleillées le matin à Soalala (Ouest) et AmbatoBoeny (intérieur).
 **Vents** : Vents faibles à modérés de secteur SE à SSE, rafales atteignant 19 km/h à MahajangaI.
