@@ -640,6 +640,7 @@ VENT : SUD A SUD-EST 05/10, LOCALEMENT 15. ÉTAT DE LA MER : PEU AGITÉE A AGIT�
 
 
 
+
     const templates = [
     `Temps partiellement nuageux sur l'ensemble de la région Boeny.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, rafale atteignant 19 km/h à Mahajanga I.
