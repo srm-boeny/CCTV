@@ -643,6 +643,7 @@ VENT : SUD A SUD-EST 05/10, LOCALEMENT 15. DEVENANT OUEST A NORD-OUEST 05/10 PRE
 
 
 
+
     const templates = [
     `L'après-midi sera partiellement nuageux à Mahajanga I ainsi qu'à l'Ouest (Soalala, Mitsinjo), tandis que des averses sont attendues dans les parties intérieures (Marovoay, AmbatoBoeny) et à l'Est (Mahajanga II).
 **Vents** : Vents faibles à modérés, soufflant entre 6 et 12 km/h, principalement de secteur Est à Sud-Est.
