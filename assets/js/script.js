@@ -643,6 +643,7 @@ VENT : SUD A SUD-EST 05/10, LOCALEMENT 15. ÉTAT DE LA MER : PEU AGITÉE, LOCALE
 
 
 
+
     const templates = [
     `Ensoleillé le matin sur l'ensemble de la région, l'après-midi sera marqué par des averses éparses, notamment à Marovoay, AmbatoBoeny, Soalala et MahajangaI, tandis que Mitsinjo et MahajangaII resteront peu nuageux.
 **Vents** : Vents faibles à modérés, majoritairement de secteur ESE, avec des vitesses entre 5 et 12 km/h.
