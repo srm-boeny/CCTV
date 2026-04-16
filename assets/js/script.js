@@ -645,6 +645,7 @@ VENT : SUD A SUD-EST 05/10, DEVENANT NORD-OUEST A OUEST 05/10 PRES DES COTES NOR
 
 
 
+
     const templates = [
     `L'après-midi sera majoritairement partiellement nuageuse sur la région Boeny, notamment à Mahajanga I, Soalala, Mitsinjo, AmbatoBoeny et Mahajanga II, tandis qu'un temps dégagé et ensoleillé est attendu à Marovoay.
 **Vents** : Vents faibles à modérés de secteur S à SSE, avec des vitesses entre 5 et 14 km/h.
