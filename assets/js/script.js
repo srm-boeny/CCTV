@@ -645,6 +645,7 @@ VENT : EST 15/20 AU VOISINAGE DE 10S, SUD A SUD-EST 05/10 AILLEURS ÉTAT DE LA M
 
 
 
+
     const templates = [
     `La région Boeny connaîtra un temps partagé entre périodes ensoleillées, notamment à MahajangaI, Soalala (Ouest) et AmbatoBoeny (Intérieur), et des passages nuageux sur Mitsinjo (Ouest), Marovoay (Intérieur) et MahajangaII (Est).
 **Vents** : Vents faibles à modérés de secteur ESE à SSE, avec des vitesses moyennes allant de 5 à 12 km/h. Des rafales de 16 km/h sont possibles à Soalala.
