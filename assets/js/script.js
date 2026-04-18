@@ -649,6 +649,7 @@ VENT : EST 05/10 AU NORD DE 15S, VARIABLE 05 AILLEURS.
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région, devenant légèrement voilé l'après-midi à Soalala.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes allant de 5 à 14 km/h.
