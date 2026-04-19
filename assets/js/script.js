@@ -647,6 +647,7 @@ VENT : SECTEUR EST 05/10, TOURNANT NORD-EST 10/15 LE LONG DU LITTORAL DE MOZAMBI
 
 
 
+
     const templates = [
     `Le temps sera majoritairement ensoleillé, notamment à MahajangaI et MahajangaII (Est), Soalala (Ouest) et AmbatoBoeny (intérieur), tandis que des averses sont attendues sur Mitsinjo (Ouest) et Marovoay (intérieur).
 **Vents** : Vents faibles à modérés, de directions variables (Est à Sud-Ouest), avec des vitesses allant de 7 à 14 km/h.
