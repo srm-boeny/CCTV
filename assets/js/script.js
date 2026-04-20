@@ -645,6 +645,7 @@ VENT : SUD A SUD-EST 05/10, TOURNANT EST A NORD-EST 10/15 SUR LA PARTIE SUD OUES
 
 
 
+
     const templates = [
     `Temps généralement ensoleillé sur la région, à l'exception de Soalala où des averses de pluie légères sont attendues.
 **Vents** : Vents faibles à modérés, majoritairement de secteur ESE (7 à 14 km/h), avec des rafales atteignant 17 km/h à MahajangaII.
