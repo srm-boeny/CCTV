@@ -654,6 +654,7 @@ VENT : SECTEUR EST 05/15, LOCALEMENT 20 PRES DES COTES NORD-OUEST DE MADAGASCAR.
 
 
 
+
     const templates = [
     `Le temps sera généralement ensoleillé sur la région Boeny, avec un ciel dégagé à l'ouest (Soalala, Mitsinjo) et à l'est (MahajangaII), et des passages partiellement nuageux à AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest, les vitesses variant entre 8 et 17 km/h.
