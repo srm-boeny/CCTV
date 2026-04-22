@@ -657,6 +657,7 @@ VENT : SUD A SUD-EST 05/15, DEVENANT SECTEUR EST 10 LE LONG DES COTES MOZAMBICAI
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin sur l'ensemble de la région, évoluant vers des averses isolées l'après-midi, notamment à MahajangaI et Mitsinjo, alors que Soalala connaîtra un après-midi dégagé.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud (9 à 17 km/h), avec des rafales atteignant 21 km/h à MahajangaI.
