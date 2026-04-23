@@ -660,6 +660,7 @@ VENT : CIRCULATION ANTICYCLONIQUE 05/10 SUR LA PARTIE SUD-OUEST DE LA ZONE EN D�
 
 
 
+
     const templates = [
     `Un temps majoritairement ensoleillé et dégagé est attendu sur l'ensemble de la région Boeny, notamment à Soalala, Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés (8 à 14 km/h) de secteur Sud-Est à Sud-Ouest, avec des rafales atteignant 16 km/h à MahajangaII.
