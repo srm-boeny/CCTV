@@ -665,6 +665,7 @@ VENT : SUD A SUD-EST 15/20, TEMPORAIREMENT VARIABLE PRÈS DES CÔTES MALAGASY.
 
 
 
+
     const templates = [
     `Temps ensoleillé toute la journée sur l'ensemble de la région Boeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Sud-Est (8 à 15 km/h), avec des rafales atteignant 20 km/h à MahajangaI.
