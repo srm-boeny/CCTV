@@ -666,6 +666,7 @@ VENT : SUD A SUD-EST 05/15, TEMPORAIREMENT VARIABLE PRES DES COTES MALAGASY LA N
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé et le ciel dégagé sur l'ensemble de la région Boeny, de l'ouest (Soalala, Mitsinjo) aux parties intérieures (Marovoay, AmbatoBoeny) et à l'est (MahajangaII).
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des vitesses moyennes comprises entre 8 et 17 km/h. Des rafales atteignant 22 km/h sont attendues à MahajangaI.
