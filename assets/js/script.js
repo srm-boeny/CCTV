@@ -667,6 +667,7 @@ VENT : SUD A SUD-EST 05/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE, LOCALEMENT 
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région Boeny, notamment à Soalala, Marovoay et Mahajanga.
 **Vents** : Vents légers à modérés de secteurs Sud-Est à Ouest-Sud-Ouest, avec des vitesses moyennes entre 6 et 13 km/h et des rafales jusqu'à 17 km/h à MahajangaI.
