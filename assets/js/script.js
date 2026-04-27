@@ -50,31 +50,33 @@ const MarineMessages = [
 NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALATSINAINY 27 APRILY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY TALATA 28 APRILY 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-Handrahona mitsitokotoko.
- Ho avy Atsimo na Atsimo-Atsinanana ny rivotra amin’ny maraina ka ho 20/30 Km/ora, hahatratra 40 Km/ora indraindray; ho avy Andrefana kosa ny atoandro ka ho 10/20 Km/ora.
- Hadini-panonja ny ranomasina.
- Haavon’ny onja 0.5/1m`,
+Handrahona mitsitokotoko, mety harahina orana tandrifindrahona ny alina na ny vao maraina.
+ Ho avy Andrefana ny rivotra amin’ny ankapobeny ka ho 10/20 Km/ora; ho avy Atsimo na Atsimo-Andrefana kosa ny alina ka ho 20/30 Km/ora.
+ Ho tony na hadini-panonja ny ranomasina.
+ Haavon’ny onja 0.2/0.8m.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 26/04/2026 A 10 TU, VALABLE LE 26/04/2026 A 10 TU JUSQU’AU 27/04/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 27/04/2026 A 10 TU, VALABLE LE 27/04/2026 A 10 TU JUSQU’AU 28/04/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
 .
 
-BASSE PRESSION SUR UNE BONNE PARTIE DE LA ZONE
+BASSE PRESSION SUR UNE BONNE PARTIE DE LA ZONE ;
 .
 
-FRONT STATIONNAIRE AXE PAR 30S/43E, 30S/49E, 30S/54E ET 30S/61E
+FRONT FROID AXE PAR 26S/45E, 29S/47E, 32S/49E ET 35S/47E.
 
 10S/20S :
-VENT : SUD 10/15 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMPS : AVERSES ISOLÉES`,
+VENT : SECTEUR SUD 05/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
+ TEMPS : AVERSES ISOLÉES AU NORD DE 15S ET PRES DES COTES MOZAMBICAINES, PARTIELLEMENT NUAGEUX AILLEURS.`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
+
 
 
 
