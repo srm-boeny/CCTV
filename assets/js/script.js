@@ -662,6 +662,7 @@ VENT : SUD 10/15 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMPS : AVERSES ISOLÉE
 
 
 
+
     const templates = [
     `Temps majoritairement ensoleillé sur la région Boeny, avec un ciel partiellement nuageux dans l'Ouest, notamment à Soalala et Mitsinjo.
 **Vents** : Vents faibles à modérés (6 à 16 km/h) de directions variables, avec une rafale atteignant 13 km/h à Marovoay.
