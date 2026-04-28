@@ -665,6 +665,7 @@ VENT : SECTEUR SUD 05/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
 
 
 
+
     const templates = [
     `La journée sera généralement ensoleillée sur l'intérieur et l'est de la région Boeny (Marovoay, AmbatoBoeny, MahajangaII), tandis que l'ouest (Soalala, Mitsinjo) connaîtra des averses de pluie légères.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest dominant, avec des vitesses moyennes entre 7 et 15 km/h. Des rafales atteignant 16 km/h à Soalala et 14 km/h à AmbatoBoeny.
