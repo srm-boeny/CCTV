@@ -670,6 +670,7 @@ VENT : SECTEUR SUD 10/15, ATTEIGNANT 20 AU VOISINAGE DE 20S.
 
 
 
+
     const templates = [
     `Le temps sera majoritairement ensoleillé et dégagé sur la région Boeny, notamment dans les zones intérieures comme Marovoay et AmbatoBoeny, ainsi qu'à l'Est comme MahajangaII. Des averses sont cependant prévues sur l'Ouest à Soalala, et à MahajangaI.
 **Vents** : Vents faibles à modérés, de 7 à 19 km/h, avec des rafales pouvant atteindre 13 km/h à Mitsinjo. Les directions seront variables.
