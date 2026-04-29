@@ -47,13 +47,13 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAROBIA 29 APRILY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAKAMISY 30 APRILY 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAKAMISY 30 APRILY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ZOMA 1 MEY 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-Handrahona mitsitokotoko, mety harahina orana tandrifindrahona ny vao maraina.
- Ho avy Atsimo Atsinanana ny rivotra ny maraina ka ho 10/20 Km/ora, hahatratra 30 Km/ora indraindray; ho avy Andrefana kosa ny tolakandro ka ho 10/20 Km/ora.
+Handrahona mitsitokotoko.
+ Ho avy Andrefana na Atsimo-Andrefana ny rivotra ka ho 10/20 Km/ora, hihelina ho avy Atsinanana na Atsimo-Atsinanana kosa ny maraina ka ho 20/30 Km/ora.
  Hadini-panonja ny ranomasina.
- Haavon’ny onja 0.5/1m`,
+ Haavon’ny onja 0.5/1m.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
@@ -65,20 +65,19 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 **Situation generale**:
 .
 
-BASSE PRESSION SUR UNE BONNE PARTIE DE LA ZONE
+BASSE PRESSION SUR UNE BONNE PARTIE DE LA ZONE ;
 .
 
-FRONT FROID AXE PAR 25S/36E, 29S/41E, 30S/42E ET 34S/44E
-.
-
-LIGNE DE CONVERGENCE AXÉE 21S/57E, 23S/55E ET 27S/54E
+FRONT FROID AXE PAR 21S/39E, 25S/46E, 28S/51E ET 33S/56E.
 
 10S/20S :
-VENT : SECTEUR SUD 10/15, ATTEIGNANT 20 AU VOISINAGE DE 20S.
- ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMPS : AVERSES ISOLÉES`,
+VENT : SECTEUR SUD 10/20, ATTEIGNANT 25 AU VOISINAGE DE 20S.
+ ÉTAT DE LA MER : PEU AGITÉE A AGITÉE, LOCALEMENT FORTE AU SUD DE 15S PAR HOULE DE SECTEUR SUD.
+ TEMPS : AVERSES ISOLÉES PRÈS DES CÔTES NORD-OUEST DE MADAGASCAR ET PRÈS DES CÔTES MOZAMBICAINES.`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
+
 
 
 
