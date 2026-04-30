@@ -670,6 +670,7 @@ VENT : SECTEUR SUD 10/20, ATTEIGNANT 25 AU VOISINAGE DE 20S.
 
 
 
+
     const templates = [
     `Temps partiellement nuageux sur l'ensemble de la région, avec des averses prévues notamment à Soalala (Ouest).
 **Vents** : Vents faibles à modérés (11 à 12 km/h), majoritairement de secteur Sud à Sud-Ouest.
