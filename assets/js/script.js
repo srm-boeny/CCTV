@@ -675,6 +675,7 @@ VENT : SECTEUR SUD 15/20, S’AFFAIBLISSANT 05/10 EN FIN DE PÉRIODE.
 
 
 
+
     const templates = [
     `Le ciel sera dégagé à peu nuageux sur la plupart de la région de Boeny, y compris à Soalala, Mitsinjo, Marovoay et AmbatoBoeny. Des averses légères sont toutefois prévues à l'Est, notamment à MahajangaII.
 **Vents** : Vents faibles à modérés (9 à 15 km/h), majoritairement de secteur Sud-Ouest. Des rafales sont attendues jusqu'à 20 km/h à MahajangaI et 17 km/h à MahajangaII (où les vents seront d'Est).
