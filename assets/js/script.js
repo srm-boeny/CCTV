@@ -675,6 +675,7 @@ VENT : SUD A SUD-EST 05/10 LOCALEMENT 15 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE
 
 
 
+
     const templates = [
     `Le temps sera largement ensoleillé avec un ciel clair sur l'ensemble de la région Boeny, notamment sur l'ouest avec Mitsinjo et sur l'est avec MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, soufflant entre 8 et 13 km/h.
