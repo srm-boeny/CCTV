@@ -678,6 +678,7 @@ VENT : SUD A SUD-EST 05/15. ÉTAT DE LA MER : PEU AGITEE A AGITEE, LOCALEMENT FO
 
 
 
+
     const templates = [
     `La journée sera ensoleillée et dégagée sur l'ensemble de la région Boeny.
 **Vents** : Vents faibles à modérés, de secteur Sud-Est à Sud, avec des vitesses variant de 8 à 16 km/h.
