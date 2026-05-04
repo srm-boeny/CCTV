@@ -680,6 +680,7 @@ VENT : SECTEUR SUD 15/20. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région.
 **Vents** : Vents faibles à modérés, de 8 à 14 km/h, avec une dominante de secteur Sud à Sud-Est.
