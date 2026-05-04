@@ -681,18 +681,18 @@ VENT : SECTEUR SUD 15/20. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
 
 
     const templates = [
-    `La journée sera ensoleillée et dégagée sur l'ensemble de la région Boeny.
-**Vents** : Vents faibles à modérés, de secteur Sud-Est à Sud, avec des vitesses variant de 8 à 16 km/h.
+    `Temps ensoleillé sur l'ensemble de la région.
+**Vents** : Vents faibles à modérés, de 8 à 14 km/h, avec une dominante de secteur Sud à Sud-Est.
 **Températures minimales** : entre 25 et 26 °C
+**Températures maximales** : environ 36 °C`,
+    `Temps ensoleillé sur l'ensemble de la région Boeny tout au long de la journée.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud (8-18 km/h), avec des rafales atteignant 23 km/h à MahajangaI.
+**Températures minimales** : entre 21 et 23 °C
 **Températures maximales** : entre 35 et 36 °C`,
-    `Ciel dégagé sur l'ensemble de la région, avec un temps peu nuageux l'après-midi à MahajangaII (Est).
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des vitesses entre 8 et 16 km/h. Des rafales sont possibles, atteignant 22 km/h à MahajangaI.
-**Températures minimales** : entre 21 et 25 °C
-**Températures maximales** : entre 35 et 36 °C`,
-    `Temps ensoleillé et ciel dégagé sur l'ensemble de la région Boeny.
-**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, les vitesses moyennes varient entre 8 et 19 km/h. Des rafales atteignant 23 km/h sont prévues à MahajangaI.
-**Températures minimales** : entre 20 et 23 °C
-**Températures maximales** : entre 35 et 36 °C`
+    `Temps ensoleillé le matin sur l'ensemble de la région, devenant peu nuageux à partiellement nuageux l'après-midi, avec un ciel clair persistant à Mitsinjo et AmbatoBoeny.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes allant de 8 à 14 km/h. Des rafales atteignant 21 km/h sont prévues à MahajangaI.
+**Températures minimales** : entre 22 et 23 °C
+**Températures maximales** : entre 34 et 36 °C`
 ];
 
 
