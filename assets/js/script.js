@@ -684,6 +684,7 @@ VENT : SECTEUR SUD 10/15, DEVENANT CIRCULATION ANTICYCLONIQUE 05/10 AU SUD DE 15
 
 
 
+
     const templates = [
     `Temps ensoleillé toute la journée sur l'ensemble de la région Boeny, notamment à Soalala, Mitsinjo, Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés, principalement de secteur ESE. Des rafales atteindront 18 km/h à MahajangaI et 14 km/h à MahajangaII.
