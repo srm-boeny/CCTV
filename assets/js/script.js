@@ -687,6 +687,7 @@ VENT : CIRCULATION ANTICYCLONIQUE 05/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE
 
 
 
+
     const templates = [
     `Temps généralement ensoleillé à Mahajanga I, Mitsinjo et AmbatoBoeny, avec un ciel peu nuageux sur Soalala, Marovoay et Mahajanga II.
 **Vents** : Vents faibles à modérés, de 7 à 13 km/h, soufflant principalement du secteur Sud à Sud-Sud-Ouest (localement Nord-Nord-Ouest à Soalala).
