@@ -687,6 +687,7 @@ VENT : EST 05/15, TOURNANT NORD 15/20 SUR LA PARTIE SUD-OUEST DE LA ZONE.
 
 
 
+
     const templates = [
     `Le temps sera généralement ensoleillé ou peu nuageux sur l'ensemble de la région, avec un ciel particulièrement dégagé à Soalala (Ouest) et AmbatoBoeny (intérieur).
 **Vents** : Vents légers à modérés (7 à 16 km/h), majoritairement de secteur Est à Nord-Est sur la plupart des localités, sauf à MahajangaI où ils seront de secteur Sud-Ouest.
