@@ -689,6 +689,7 @@ VENT : EST 05/15, TOURNANT SECTEUR NORD 10/15 SUR LA PARTIE SUD-OUEST DE LA ZONE
 
 
 
+
     const templates = [
     `Le temps sera majoritairement ensoleillé le matin sur l'ensemble de la région. L'après-midi, des nuages feront leur apparition, apportant des averses notamment à MahajangaI et MahajangaII, tandis que Soalala restera ensoleillé.
 **Vents** : Vents faibles à modérés de secteur Est à Sud-Est, soufflant entre 7 et 15 km/h, avec une pointe à 15 km/h à MahajangaII.
