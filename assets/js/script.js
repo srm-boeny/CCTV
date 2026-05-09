@@ -689,6 +689,7 @@ VENT : EST A SUD-EST 05/15, TOURNANT NORD-EST 10/15 SUR LA PARTIE SUD-OUEST DE L
 
 
 
+
     const templates = [
     `Temps ensoleillé sur la majeure partie de la région, avec un ciel dégagé à Soalala, Mitsinjo, Marovoay et MahajangaI, et quelques passages nuageux inoffensifs à AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés, principalement de secteur Est à Sud, avec des vitesses moyennes entre 9 et 16 km/h, et une rafale de 16 km/h enregistrée à AmbatoBoeny.
