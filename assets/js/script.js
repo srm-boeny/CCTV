@@ -688,6 +688,7 @@ VENT : SECTEUR EST 05/10 LOCALEMENT 15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
 
 
 
+
     const templates = [
     `Temps ensoleillé et ciel dégagé sur l'ensemble de la région Boeny, de l'Ouest (Soalala, Mitsinjo) aux parties intérieures (Marovoay, AmbatoBoeny) et à l'Est (MahajangaII, MahajangaI).
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des vitesses moyennes comprises entre 8 et 14 km/h.
