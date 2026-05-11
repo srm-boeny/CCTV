@@ -691,6 +691,7 @@ VENT : SUD-EST 10/15 AU NORD DE 15S; CIRCULATION ANTICYCLONIQUE 05/10 AILLEURS, 
 
 
 
+
     const templates = [
     `Temps ensoleillé et ciel clair sur l'ensemble de la région Boeny, de Soalala à Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Est à Sud. Vitesses moyennes comprises entre 6 et 16 km/h, avec des rafales atteignant 14 km/h à Soalala.
