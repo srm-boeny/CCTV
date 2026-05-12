@@ -697,6 +697,7 @@ VENT : EST A SUD-EST 05/10 LOCALEMENT 15, TOURNANT NORD-EST 10/15 SUR LA PARTIE 
 
 
 
+
     const templates = [
     `Journée très ensoleillée et ciel dégagé sur la majeure partie de la région Boeny, avec quelques passages nuageux l'après-midi à Soalala.
 **Vents** : Vents faibles à modérés de secteur Est-Sud-Est (7 à 15 km/h), avec des rafales jusqu'à 19 km/h à MahajangaI.
