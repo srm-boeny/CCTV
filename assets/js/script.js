@@ -699,6 +699,7 @@ VENT : EST A SUD-EST 05/10 AU NORD DE 15S, ATTEIGNANT 15/20 EN FIN DE PÉRIODE; 
 
 
 
+
     const templates = [
     `Ciel dégagé et ensoleillé sur l'ensemble de la région Boeny, de Soalala à l'ouest jusqu'à MahajangaII à l'est, tout au long de la journée.
 **Vents** : Vents faibles à modérés de secteur ESE à SE, avec des vitesses moyennes allant de 10 à 18 km/h. Des rafales jusqu'à 23 km/h sont possibles notamment à MahajangaI.
