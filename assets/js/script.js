@@ -699,6 +699,7 @@ VENT : EST A SUD-EST 05/15 AU NORD DE 15S; CIRCULATION ANTICYCLONIQUE 05/10 AILL
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé sur l'ensemble de la région Boeny, de l'Ouest (Soalala, Mitsinjo) aux parties intérieures (Marovoay, AmbatoBoeny) et à l'Est (MahajangaII).
 **Vents** : Vents faibles à modérés de secteur Sud-Est, soufflant entre 9 et 18 km/h, avec des rafales atteignant 25 km/h à MahajangaI.
