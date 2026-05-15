@@ -705,6 +705,7 @@ VENT : SUD A SUD-EST 10/15, ATTEIGNANT LOCALEMENT 20 PRES DES COTES NORD-OUEST D
 
 
 
+
     const templates = [
     `Ensoleillé sur l'ensemble de la région, avec quelques passages nuageux l'après-midi sur Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur ESE à SSE, avec des rafales atteignant 22 km/h à MahajangaI.
