@@ -705,6 +705,7 @@ VENT : SUD A SUD-EST 10/15, ATTEIGNANT LOCALEMENT 20 AU NORD DE 15S.
 
 
 
+
     const templates = [
     `La journée sera ensoleillée et le ciel dégagé sur l'ensemble de la région Boeny.
 **Vents** : Vents légers à modérés, principalement de secteur Sud à Sud-Est (de 6 à 16 km/h). Des rafales de 17 km/h sont prévues à Soalala.
