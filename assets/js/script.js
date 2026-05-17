@@ -705,6 +705,7 @@ VENT : SUD A SUD-EST 10/20 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE, LOCALEMENT F
 
 
 
+
     const templates = [
     `Temps majoritairement ensoleillé sur l'ensemble de la région, avec des averses légères attendues l'après-midi à Soalala.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Sud-Est (6 à 15 km/h), avec des rafales atteignant 23 km/h à MahajangaI.
