@@ -713,16 +713,16 @@ VENT : SUD 10/15, ATTEIGNANT 20 SUR LA PARTIE SUD-OUEST DE LA ZONE.
 
 
     const templates = [
-    `Temps majoritairement ensoleillé sur l'ensemble de la région, avec des averses légères attendues l'après-midi à Soalala.
-**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Sud-Est (6 à 15 km/h), avec des rafales atteignant 23 km/h à MahajangaI.
-**Températures minimales** : entre 22 et 24 °C
+    `Le temps sera ensoleillé toute la journée sur l'ensemble de la région Boeny.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes entre 7 et 17 km/h. Des rafales atteignant 22 km/h sont possibles à MahajangaI.
+**Températures minimales** : entre 23 et 24 °C
 **Températures maximales** : entre 32 et 35 °C`,
-    `La journée sera principalement ensoleillée sur la région Boeny, devenant peu nuageuse l'après-midi à Marovoay et avec de légères averses à Soalala (Ouest).
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Sud-Ouest, soufflant entre 6 et 16 km/h, avec des rafales pouvant atteindre 21 km/h à MahajangaI.
+    `Temps principalement ensoleillé sur l'ensemble de la région BOENY, avec quelques passages nuageux l'après-midi à Soalala.
+**Vents** : Vents faibles à modérés de secteur Sud-Est (8 à 17 km/h), avec des rafales pouvant atteindre 28 km/h localement à MahajangaI.
 **Températures minimales** : entre 22 et 23 °C
-**Températures maximales** : entre 32 et 35 °C`,
-    `Temps majoritairement ensoleillé et ciel dégagé sur l'ensemble de la région Boeny, y compris à Soalala et Mitsinjo à l'ouest, ainsi qu'à Marovoay et AmbatoBoeny à l'intérieur, et MahajangaII à l'est.
-**Vents** : Vents faibles à modérés (7 à 16 km/h) de directions variées. Les rafales pourront atteindre 27 km/h à MahajangaI.
+**Températures maximales** : entre 33 et 35 °C`,
+    `Le temps sera majoritairement partiellement nuageux sur la région Boeny, avec des averses légères attendues l'après-midi dans l'Ouest à Soalala et un temps ensoleillé à Mitsinjo, également dans l'Ouest de la région.
+**Vents** : Vents faibles à modérés de secteur Sud à Sud-Ouest, avec des vitesses moyennes allant de 8 à 18 km/h et des rafales pouvant atteindre 25 km/h à MahajangaI.
 **Températures minimales** : entre 22 et 23 °C
 **Températures maximales** : entre 33 et 35 °C`
 ];
