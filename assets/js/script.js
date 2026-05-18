@@ -712,6 +712,7 @@ VENT : SUD 10/15, ATTEIGNANT 20 SUR LA PARTIE SUD-OUEST DE LA ZONE.
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé toute la journée sur l'ensemble de la région Boeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes entre 7 et 17 km/h. Des rafales atteignant 22 km/h sont possibles à MahajangaI.
