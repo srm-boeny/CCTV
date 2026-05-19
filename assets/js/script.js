@@ -714,6 +714,7 @@ VENT : SUD 05/10, ATTEIGNANT 15/20 SUR LA PARTIE SUD DE LA ZONE.
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin sur l'ensemble de la région Boeny, devenant partiellement nuageux l'après-midi sur Soalala, Mitsinjo, Marovoay, AmbatoBoeny et MahajangaII, tandis que MahajangaI conservera un ciel dégagé.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes allant de 8 à 18 km/h. Des rafales pourront atteindre 26 km/h à MahajangaI.
