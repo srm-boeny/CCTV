@@ -713,6 +713,7 @@ VENT : SECTEUR SUD 05/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
 
 
 
+
     const templates = [
     `Temps partiellement nuageux sur l'ensemble de la région, avec des passages plus nuageux le matin à Soalala.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Sud-Ouest (8 à 14 km/h), avec des rafales atteignant 20 km/h à MahajangaI et 19 km/h à Soalala.
