@@ -712,6 +712,7 @@ VENT : SECTEUR SUD 05/15 LOCALEMENT 20. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE,
 
 
 
+
     const templates = [
     `Temps partiellement nuageux sur l'ensemble de la région Boeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, rafales atteignant 22 km/h à MahajangaI.
