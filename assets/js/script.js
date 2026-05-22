@@ -723,6 +723,7 @@ VENT : SECTEUR SUD 10/15, LOCALEMENT 20 SUR LA PARTIE SUD.
 
 
 
+
     const templates = [
     `Le ciel sera généralement ensoleillé sur l'ensemble de la région, avec quelques passages nuageux le matin notamment à Marovoay et AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes entre 8 et 16 km/h. Des rafales atteindront 21 km/h à MahajangaI.
