@@ -721,6 +721,7 @@ VENT : SECTEUR SUD 05/10, LOCALEMENT 15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE
 
 
 
+
     const templates = [
     `Le temps sera généralement ensoleillé sur la région Boeny, avec des passages nuageux l'après-midi sur l'Ouest (Soalala et Mitsinjo) ainsi qu'à AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud (8 à 13 km/h), avec des rafales allant jusqu'à 17 km/h localement (MahajangaI, Soalala).
