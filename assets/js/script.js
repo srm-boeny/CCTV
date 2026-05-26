@@ -725,16 +725,16 @@ VENT : SECTEUR SUD 05/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
 
 
     const templates = [
-    `Le temps sera largement ensoleillé sur l'ensemble de la région, avec un ciel peu nuageux l'après-midi sur les localités de Soalala et Mitsinjo à l'ouest.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Sud-Est, de 7 à 16 km/h.
+    `Le temps sera peu nuageux le matin, devenant dégagé l'après-midi sur la plupart des localités de la région Boeny, à l'exception de Soalala (Ouest) qui restera peu nuageuse toute la journée.
+**Vents** : Vents faibles à modérés de secteur dominant Sud-Est à Sud-Sud-Est, soufflant entre 6 et 15 km/h, avec des rafales atteignant 13 km/h à Mitsinjo.
 **Températures minimales** : entre 23 et 24 °C
-**Températures maximales** : entre 33 et 35 °C`,
-    `Temps généralement ensoleillé sur l'ensemble de la région, avec des averses légères possibles l'après-midi sur Soalala.
-**Vents** : Vents faibles à modérés (6 à 17 km/h), généralement de secteur Sud à Sud-Ouest. Des rafales atteignant 14 km/h sont prévues à Mitsinjo.
-**Températures minimales** : entre 22 et 23 °C
 **Températures maximales** : entre 32 et 35 °C`,
-    `La journée sera principalement ensoleillée et dégagée sur l'ensemble de la région Boeny, avec quelques passages nuageux l'après-midi à Soalala.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est (de 6 à 15 km/h), avec des rafales possibles atteignant 19 km/h à MahajangaI.
+    `Temps ensoleillé dominant sur l'ensemble de la région, avec des légères averses possibles l'après-midi à Soalala.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes allant de 6 à 14 km/h.
+**Températures minimales** : entre 22 et 23 °C
+**Températures maximales** : entre 33 et 35 °C`,
+    `Le temps sera ensoleillé et dégagé sur l'ensemble de la région Boeny, de Soalala à l'ouest jusqu'à MahajangaII à l'est.
+**Vents** : Vents faibles à modérés de secteur SSE à S, avec des rafales atteignant 22 km/h à MahajangaI.
 **Températures minimales** : entre 22 et 23 °C
 **Températures maximales** : entre 33 et 35 °C`
 ];
