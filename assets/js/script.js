@@ -724,6 +724,7 @@ VENT : SECTEUR SUD 05/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
 
 
 
+
     const templates = [
     `Le temps sera peu nuageux le matin, devenant dégagé l'après-midi sur la plupart des localités de la région Boeny, à l'exception de Soalala (Ouest) qui restera peu nuageuse toute la journée.
 **Vents** : Vents faibles à modérés de secteur dominant Sud-Est à Sud-Sud-Est, soufflant entre 6 et 15 km/h, avec des rafales atteignant 13 km/h à Mitsinjo.
