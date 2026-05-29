@@ -729,6 +729,7 @@ PSEUDO FRONT FROID AXE PAR 25S/63E, 23S/68E ET 22S/74E.
 
 
 
+
     const templates = [
     `Temps ensoleillé toute la journée sur l'ensemble de la région de Boeny, notamment à Soalala, Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Sud-Est, avec des vitesses moyennes allant de 7 à 17 km/h. Des rafales atteindront jusqu'à 22 km/h à MahajangaI.
