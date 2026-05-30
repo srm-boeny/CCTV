@@ -731,18 +731,18 @@ VENT : SECTEUR SUD 10/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
 
 
     const templates = [
-    `Temps ensoleillé toute la journée sur l'ensemble de la région de Boeny, notamment à Soalala, Marovoay et MahajangaII.
-**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Sud-Est, avec des vitesses moyennes allant de 7 à 17 km/h. Des rafales atteindront jusqu'à 22 km/h à MahajangaI.
+    `Le temps sera majoritairement ensoleillé sur la région, devenant peu nuageux à Soalala et présentant de légères averses à MahajangaII.
+**Vents** : Vents faibles à modérés (de 6 à 18 km/h) de secteur Sud-Est à Sud sur la plupart des localités, avec des rafales pouvant atteindre 23 km/h à MahajangaI et 17 km/h à Soalala.
 **Températures minimales** : entre 23 et 24 °C
 **Températures maximales** : entre 33 et 35 °C`,
-    `Temps ensoleillé dominant sur la région, avec quelques passages nuageux l'après-midi notamment à Soalala (Ouest) et MahajangaII (Est).
-**Vents** : Vents faibles à modérés de secteur Sud-Est, soufflant entre 6 et 17 km/h. Les rafales pourront atteindre 24 km/h à MahajangaI.
+    `Temps dégagé et ensoleillé sur l'ensemble de la région Boeny, de Soalala et Mitsinjo à l'Ouest jusqu'à MahajangaII à l'Est, en passant par Marovoay et AmbatoBoeny.
+**Vents** : Vents faibles à modérés de secteur SE à SSE, avec des vitesses moyennes allant de 8 à 17 km/h et des rafales pouvant atteindre 17 km/h à Soalala.
 **Températures minimales** : entre 22 et 23 °C
 **Températures maximales** : entre 33 et 35 °C`,
-    `Ciel dégagé et temps ensoleillé toute la journée sur l'ensemble de la région Boeny, notamment à l'Ouest (Soalala, Mitsinjo), dans les parties intérieures (Marovoay, AmbatoBoeny) et à l'Est (MahajangaII).
-**Vents** : Vents faibles à modérés, globalement de secteur Sud à Sud-Est, avec des vitesses comprises entre 6 et 18 km/h. Des rafales pourront atteindre 23 km/h à MahajangaI.
+    `Temps ensoleillé sur l'ensemble de la région Boeny, notamment à Soalala, Marovoay et MahajangaII.
+**Vents** : Vents faibles à modérés, de 8 à 17 km/h, majoritairement de secteur Sud à Sud-Ouest. Rafales atteignant 16 km/h à Soalala.
 **Températures minimales** : entre 22 et 23 °C
-**Températures maximales** : entre 33 et 36 °C`
+**Températures maximales** : entre 34 et 35 °C`
 ];
 
 
