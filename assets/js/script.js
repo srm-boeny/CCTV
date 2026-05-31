@@ -728,6 +728,7 @@ VENT : SECTEUR SUD 10/15, MAIS VARIABLE 05/10 PRES DES COTES MALAGASY ÉTAT DE L
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé sur l'ensemble de la région Boeny, notamment à Soalala et Mitsinjo à l'ouest, ainsi qu'à Marovoay, AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés, généralement de secteur Sud-Sud-Est (SSE) entre 7 et 15 km/h. Des rafales atteignant 17 km/h sont prévues à Soalala (vent de secteur Ouest).
