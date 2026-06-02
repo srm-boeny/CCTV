@@ -738,6 +738,7 @@ VENT : SECTEUR SUD 05/10, LOCALEMENT 15 SUR LA PARTIE NORD.
 
 
 
+
     const templates = [
     `Temps largement ensoleillé et ciel clair sur l'ensemble de la région Boeny tout au long de la journée.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des vitesses moyennes entre 8 et 16 km/h. Des rafales de 13 km/h sont possibles à MahajangaII.
