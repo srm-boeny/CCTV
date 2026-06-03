@@ -734,6 +734,7 @@ VENT : SECTEUR SUD 05/10, LOCALEMENT 15 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE 
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé sur l'ensemble de la région Boeny, notamment sur les localités de l'Ouest comme Soalala et à l'Est comme MahajangaII.
 **Vents** : Vents légers à modérés, principalement de secteur Sud à Sud-Est, avec des rafales atteignant 17 km/h à MahajangaI.
