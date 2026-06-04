@@ -741,6 +741,7 @@ LIGNE DE CONVERGENCE AXÉE PAR 22S/59E, 27S/59E ET 33S/55E.
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région Boeny, avec quelques passages nuageux possibles à Marovoay l'après-midi.
 **Vents** : Vents faibles à modérés (5 à 11 km/h) de secteur Est à Sud-Est, rafales atteignant 12 km/h à MahajangaII.
