@@ -743,6 +743,7 @@ LIGNE DE CONVERGENCE AXÉE PAR 22S/59E, 27S/59E ET 33S/55E.
 
 
 
+
     const templates = [
     `Temps généralement ensoleillé sur la région Boeny, avec toutefois de légères averses possibles l'après-midi à Mitsinjo.
 **Vents** : Vents faibles à modérés, de 6 à 15 km/h, majoritairement de secteur Sud-Est à Sud.
