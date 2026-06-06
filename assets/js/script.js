@@ -746,17 +746,17 @@ UN AUTRE FRONT FROID AXE PAR 27S/33E, 33S/33E ET 38S/32E
 
 
     const templates = [
-    `Temps généralement ensoleillé sur la région Boeny, avec toutefois de légères averses possibles l'après-midi à Mitsinjo.
-**Vents** : Vents faibles à modérés, de 6 à 15 km/h, majoritairement de secteur Sud-Est à Sud.
-**Températures minimales** : entre 22 et 24 °C
-**Températures maximales** : entre 33 et 35 °C`,
-    `Temps ensoleillé toute la journée sur l'ensemble de la région Boeny.
-**Vents** : Vents faibles à modérés (7 à 15 km/h) généralement de secteur Sud-Est à Sud, avec des rafales atteignant 21 km/h à MahajangaI.
-**Températures minimales** : entre 20 et 23 °C
+    `Temps ensoleillé et dégagé sur l'ensemble de la région Boeny, avec un ciel passagèrement nuageux l'après-midi à Mitsinjo.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Sud-Est (sauf Ouest à Soalala), soufflant entre 7 et 15 km/h, avec une rafale maximale de 20 km/h à MahajangaI.
+**Températures minimales** : entre 21 et 23 °C
 **Températures maximales** : entre 32 et 35 °C`,
-    `Temps largement ensoleillé sur la région Boeny, avec des passages légèrement nuageux à Soalala tout au long de la journée et à Mitsinjo l'après-midi.
-**Vents** : Vents faibles à modérés, de secteur Sud-Est à Sud-Sud-Ouest, soufflant entre 8 et 14 km/h.
+    `Le temps sera ensoleillé le matin sur l'ensemble de la région, puis majoritairement ensoleillé l'après-midi, mais des averses sont attendues à Mitsinjo (Ouest) et AmbatoBoeny (partie intérieure).
+**Vents** : Vents faibles à modérés (7 à 14 km/h), majoritairement de secteur S-SE à E. Une rafale de 12 km/h est possible à Marovoay et des vents de secteur Ouest sont prévus à Soalala.
 **Températures minimales** : entre 20 et 23 °C
+**Températures maximales** : entre 32 et 34 °C`,
+    `Temps majoritairement clair à ensoleillé sur la région Boeny, avec un ciel particulièrement dégagé à Soalala.
+**Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des vitesses moyennes entre 4 et 13 km/h et des rafales pouvant atteindre 17 km/h.
+**Températures minimales** : entre 19 et 21 °C
 **Températures maximales** : entre 32 et 34 °C`
 ];
 
