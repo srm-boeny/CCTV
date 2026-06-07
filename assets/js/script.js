@@ -745,6 +745,7 @@ UN AUTRE FRONT FROID AXE PAR 22S/37E, 26S/39E ET 34S/38E.
 
 
 
+
     const templates = [
     `Temps ensoleillé et dégagé sur l'ensemble de la région Boeny, avec un ciel passagèrement nuageux l'après-midi à Mitsinjo.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Sud-Est (sauf Ouest à Soalala), soufflant entre 7 et 15 km/h, avec une rafale maximale de 20 km/h à MahajangaI.
