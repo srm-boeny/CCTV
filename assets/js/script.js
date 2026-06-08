@@ -749,6 +749,7 @@ LIGNE DE CONVERGENCE AXÉE PAR 24S/40E, 28S/42E ET 31S/43E.
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région Boeny, avec quelques averses légères possibles l'après-midi à Mitsinjo (Ouest).
 **Vents** : Vents faibles à modérés de secteur Sud-Ouest à Ouest-Sud-Ouest, avec des vitesses entre 8 et 16 km/h, et des rafales pouvant atteindre 25 km/h à MahajangaI.
