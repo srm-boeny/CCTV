@@ -749,6 +749,7 @@ LIGNE DE CONVERGENCE AXÉE PAR 22S/48E, 27S/47E, 30S/47E ET 35S/44E
 
 
 
+
     const templates = [
     `Temps très ensoleillé et ciel dégagé toute la journée sur l'ensemble de la région Boeny, de Soalala à MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Ouest à Sud-Ouest, rafales atteignant 23 km/h à MahajangaI et Soalala.
