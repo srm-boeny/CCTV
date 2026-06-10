@@ -750,17 +750,17 @@ LIGNE DE CONVERGENCE AXÉE PAR 21S/51E, 24S/51E, 26S/48E ET 25S/46E.
 
 
     const templates = [
-    `Temps très ensoleillé et ciel dégagé toute la journée sur l'ensemble de la région Boeny, de Soalala à MahajangaII.
-**Vents** : Vents faibles à modérés de secteur Ouest à Sud-Ouest, rafales atteignant 23 km/h à MahajangaI et Soalala.
-**Températures minimales** : entre 19 et 21 °C
-**Températures maximales** : entre 32 et 33 °C`,
-    `Ciel clair et ensoleillé sur l'ensemble de la région Boeny, de Soalala à l'ouest jusqu'à MahajangaII à l'est.
-**Vents** : Vents faibles à modérés de secteur Sud-Ouest à Ouest-Sud-Ouest, avec des vitesses moyennes variant entre 6 et 18 km/h et des rafales atteignant 23 km/h à MahajangaI.
-**Températures minimales** : entre 18 et 20 °C
+    `Le ciel sera dégagé et ensoleillé tout au long de la journée sur l'ensemble de la région Boeny, de Soalala à l'ouest jusqu'à MahajangaII à l'est.
+**Vents** : Vents faibles à modérés de secteur Sud-Ouest à Ouest-Sud-Ouest, soufflant entre 4 et 15 km/h. Des rafales atteignant 21 km/h sont possibles à MahajangaI.
+**Températures minimales** : entre 19 et 20 °C
 **Températures maximales** : entre 32 et 34 °C`,
-    `Temps ensoleillé sur l'ensemble de la région Boeny, devenant légèrement nuageux l'après-midi sur Soalala et Mitsinjo.
-**Vents** : Vents faibles à modérés (8 à 17 km/h), de secteur Sud dominant, avec des rafales atteignant 23 km/h à MahajangaI.
+    `Temps ensoleillé sur l'ensemble de la région Boeny.
+**Vents** : Vents faibles à modérés (de 6 à 18 km/h) de directions variées, avec des rafales atteignant localement 23 km/h à MahajangaI.
 **Températures minimales** : entre 18 et 21 °C
+**Températures maximales** : entre 32 et 34 °C`,
+    `Temps généralement ensoleillé sur l'ensemble de la région, avec des averses légères possibles l'après-midi du côté de Mitsinjo.
+**Vents** : Vents faibles à modérés (vitesses entre 7 et 17 km/h), de secteur Sud à Sud-Ouest dominant. Des rafales pourront atteindre 22 km/h à MahajangaI.
+**Températures minimales** : entre 19 et 21 °C
 **Températures maximales** : entre 32 et 34 °C`
 ];
 
