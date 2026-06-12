@@ -757,6 +757,7 @@ ANTICYCLONE 1025 HPA CENTRE PAR 30S/37E
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région Boeny, avec un ciel peu nuageux l'après-midi à Mitsinjo.
 **Vents** : Vents faibles à modérés, principalement de secteur Sud-Est, soufflant entre 7 et 15 km/h. Des rafales atteignant 14 km/h sont possibles localement.
