@@ -764,6 +764,7 @@ FRONT FROID AU SUD-OUEST DE LA ZONE.
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région Boeny pour toute la journée.
 **Vents** : Vents faibles à modérés (6 à 12 km/h) de secteur Sud à Sud-Sud-Ouest, avec des rafales pouvant atteindre 21 km/h à MahajangaI.
