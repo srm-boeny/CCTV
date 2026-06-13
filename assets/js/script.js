@@ -765,17 +765,17 @@ FRONT FROID AU SUD-OUEST DE LA ZONE.
 
 
     const templates = [
-    `Temps ensoleillé sur l'ensemble de la région Boeny, avec un ciel peu nuageux l'après-midi à Mitsinjo.
-**Vents** : Vents faibles à modérés, principalement de secteur Sud-Est, soufflant entre 7 et 15 km/h. Des rafales atteignant 14 km/h sont possibles localement.
+    `Temps ensoleillé sur l'ensemble de la région Boeny pour toute la journée.
+**Vents** : Vents faibles à modérés (6 à 12 km/h) de secteur Sud à Sud-Sud-Ouest, avec des rafales pouvant atteindre 21 km/h à MahajangaI.
 **Températures minimales** : entre 20 et 21 °C
-**Températures maximales** : entre 32 et 34 °C`,
-    `Le ciel sera dégagé toute la journée sur l'ensemble de la région BOENY, de Soalala et Mitsinjo à l'Ouest jusqu'à MahajangaII à l'Est, en passant par Marovoay et AmbatoBoeny.
-**Vents** : Vents faibles à modérés, principalement de secteur Sud-Ouest, avec des vitesses moyennes entre 6 et 14 km/h. Des rafales jusqu'à 22 km/h sont possibles à MahajangaI.
-**Températures minimales** : entre 19 et 20 °C
 **Températures maximales** : entre 33 et 35 °C`,
-    `Temps ensoleillé et ciel clair sur l'ensemble de la région Boeny, notamment à Soalala et Mitsinjo à l'Ouest, ainsi qu'à Marovoay et AmbatoBoeny dans les terres.
-**Vents** : Vents faibles à modérés (8 à 16 km/h) de secteur Sud-Est à Sud-Sud-Ouest, avec des rafales atteignant 20 km/h à MahajangaI.
-**Températures minimales** : entre 19 et 22 °C
+    `Temps ensoleillé et dégagé sur l'ensemble de la région Boeny.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, rafale atteignant 17 km/h à Soalala.
+**Températures minimales** : entre 19 et 21 °C
+**Températures maximales** : entre 34 et 35 °C`,
+    `Temps ensoleillé sur l'ensemble de la région, notamment à Soalala et Mitsinjo à l'ouest, Marovoay et AmbatoBoeny à l'intérieur, et MahajangaII à l'est.
+**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des vitesses moyennes entre 9 et 14 km/h. Des rafales atteignant 20 km/h sont attendues à MahajangaI et AmbatoBoeny.
+**Températures minimales** : entre 20 et 21 °C
 **Températures maximales** : entre 34 et 35 °C`
 ];
 
