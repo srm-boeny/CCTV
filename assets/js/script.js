@@ -764,6 +764,7 @@ UN AUTRE FRONT FROID AXE PAR 21S/60E, 24S/62E ET 28S/64E.
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région tout au long de la journée.
 **Vents** : Vents faibles à modérés de secteur Sud-Est dominant, virant au Sud localement, avec des vitesses comprises entre 9 et 16 km/h.
