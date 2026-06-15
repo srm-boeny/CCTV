@@ -766,6 +766,7 @@ ANTICYCLONE 1031 HPA CENTRE PAR 34S/38E
 
 
 
+
     const templates = [
     `Temps généralement ensoleillé sur l'ensemble de la région Boeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, variant entre 7 et 16 km/h.
