@@ -767,18 +767,18 @@ ANTICYCLONE 1031 HPA CENTRE PAR 34S/38E
 
 
     const templates = [
-    `Temps ensoleillé sur l'ensemble de la région tout au long de la journée.
-**Vents** : Vents faibles à modérés de secteur Sud-Est dominant, virant au Sud localement, avec des vitesses comprises entre 9 et 16 km/h.
+    `Temps généralement ensoleillé sur l'ensemble de la région Boeny.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, variant entre 7 et 16 km/h.
 **Températures minimales** : entre 20 et 22 °C
 **Températures maximales** : entre 34 et 35 °C`,
-    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi sur Marovoay et AmbatoBoeny.
-**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, soufflant entre 9 et 15 km/h, avec des rafales possibles jusqu'à 19 km/h à MahajangaI.
+    `Temps ensoleillé toute la journée sur l'ensemble de la région Boeny, de Soalala à MahajangaII.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud (10 à 13 km/h), avec des rafales atteignant 18 km/h à MahajangaI.
 **Températures minimales** : entre 20 et 21 °C
 **Températures maximales** : entre 34 et 35 °C`,
-    `Le temps sera généralement ensoleillé et dégagé sur l'ensemble de la région BOENY, avec quelques passages nuageux possibles l'après-midi, notamment à Marovoay (intérieure) et MahajangaII (Est).
-**Vents** : Vents faibles à modérés de secteur Est-Sud-Est à Sud-Sud-Ouest, avec des vitesses moyennes de 9 à 14 km/h. Les rafales pourront atteindre 20 km/h à AmbatoBoeny.
-**Températures minimales** : entre 20 et 21 °C
-**Températures maximales** : entre 34 et 36 °C`
+    `Le temps sera ensoleillé sur la plupart de la région Boeny, notamment à Soalala, Mitsinjo, Marovoay et AmbatoBoeny, avec un ciel partiellement nuageux l'après-midi à MahajangaII.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Est-Sud-Est, avec des vitesses entre 10 et 17 km/h. Des rafales allant jusqu'à 21 km/h sont attendues à MahajangaI.
+**Températures minimales** : entre 18 et 22 °C
+**Températures maximales** : entre 33 et 34 °C`
 ];
 
 
