@@ -767,6 +767,7 @@ ANTICYCLONE 1031 HPA CENTRE PAR 33S/51E
 
 
 
+
     const templates = [
     `Journée ensoleillée et ciel dégagé prévue sur toute la région de Boeny, notamment à Soalala et Mitsinjo à l'ouest, ainsi qu'à Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Est-Sud-Est, avec des vitesses moyennes entre 10 et 15 km/h. Des rafales jusqu'à 20 km/h sont possibles à MahajangaI.
