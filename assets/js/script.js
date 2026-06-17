@@ -767,6 +767,7 @@ ANTICYCLONE 1030 HPA CENTRE PAR 32S/58E.
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé et dégagé sur l'ensemble de la région Boeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est, avec des vitesses moyennes entre 7 et 15 km/h, et une rafale atteignant 20 km/h à MahajangaI.
