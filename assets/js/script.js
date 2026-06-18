@@ -768,18 +768,18 @@ ANTICYCLONE 1029 HPA CENTRE PAR 30S/64E
 
 
     const templates = [
-    `Le temps sera ensoleillé et dégagé sur l'ensemble de la région Boeny.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des vitesses moyennes entre 7 et 15 km/h, et une rafale atteignant 20 km/h à MahajangaI.
-**Températures minimales** : entre 18 et 22 °C
+    `Le temps sera largement ensoleillé et dégagé sur l'ensemble de la région Boeny, notamment à Soalala et Mitsinjo à l'ouest, ainsi qu'à Marovoay et AmbatoBoeny dans l'intérieur.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes entre 7 et 18 km/h. Une rafale de 13 km/h est attendue à MahajangaII.
+**Températures minimales** : entre 19 et 22 °C
 **Températures maximales** : entre 33 et 34 °C`,
-    `Le temps sera ensoleillé toute la journée sur l'ensemble de la région Boeny, notamment à Soalala, Marovoay et MahajangaII.
-**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Sud-Est (7 à 18 km/h), avec des rafales maximales de 23 km/h à MahajangaI.
-**Températures minimales** : entre 18 et 20 °C
-**Températures maximales** : entre 33 et 34 °C`,
-    `La journée sera principalement ensoleillée avec un ciel dégagé sur la majeure partie de la région, devenant peu nuageux par moments à MahajangaI et MahajangaII.
-**Vents** : Vents faibles à modérés (6 à 14 km/h), majoritairement de secteur Sud-Est. Des rafales atteindront localement 24 km/h à MahajangaI.
+    `La journée sera largement ensoleillée sur la région Boeny, le ciel restant clair le matin et peu nuageux l'après-midi, notamment à MahajangaII.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes entre 7 et 14 km/h. Des rafales pourront atteindre 22 km/h à MahajangaI.
+**Températures minimales** : entre 17 et 19 °C
+**Températures maximales** : entre 32 et 34 °C`,
+    `Temps très ensoleillé sur l'ensemble de la région Boeny, notamment sur Soalala et Mitsinjo à l'ouest, et Marovoay à l'intérieur.
+**Vents** : Vents faibles à modérés de secteur Sud-Sud-Est à Sud-Ouest (6 à 18 km/h). Rafales atteignant 26 km/h à Soalala.
 **Températures minimales** : entre 17 et 20 °C
-**Températures maximales** : entre 32 et 34 °C`
+**Températures maximales** : entre 33 et 35 °C`
 ];
 
 
