@@ -767,6 +767,7 @@ ANTICYCLONE 1029 HPA CENTRE PAR 30S/64E
 
 
 
+
     const templates = [
     `Le temps sera largement ensoleillé et dégagé sur l'ensemble de la région Boeny, notamment à Soalala et Mitsinjo à l'ouest, ainsi qu'à Marovoay et AmbatoBoeny dans l'intérieur.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes entre 7 et 18 km/h. Une rafale de 13 km/h est attendue à MahajangaII.
