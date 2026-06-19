@@ -773,6 +773,7 @@ ANTICYCLONE 1025 HPA CENTRE PAR 29S/36E
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé sur l'ensemble de la région Boeny, avec quelques passages nuageux l'après-midi sur MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud-Est (7 à 15 km/h), avec des rafales atteignant 24 km/h à MahajangaI et 19 km/h à Soalala.
