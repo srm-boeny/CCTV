@@ -774,6 +774,7 @@ ANTICYCLONE 1033 HPA CENTRE PAR 34S/34E
 
 
 
+
     const templates = [
     `Ciel dégagé et ensoleillé sur l'ensemble de la région Boeny, de l'Ouest (Soalala, Mitsinjo) à l'Est (MahajangaII).
 **Vents** : Vents modérés de secteur Est à Sud-Est, avec des vitesses moyennes entre 12 et 19 km/h, et des rafales atteignant 23 km/h à MahajangaI.
