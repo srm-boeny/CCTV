@@ -775,6 +775,7 @@ ANTICYCLONE 1033 HPA CENTRE PAR 33S/42E.
 
 
 
+
     const templates = [
     `La journée débutera sous un ciel dégagé sur l'ensemble de la région, puis le temps deviendra partiellement nuageux l'après-midi sur les parties Ouest (Soalala, Mitsinjo) et intérieures (Marovoay), tandis qu'il restera ensoleillé ailleurs.
 **Vents** : Vents modérés de secteur ESE à SE, avec des vitesses moyennes comprises entre 13 et 22 km/h. Des rafales pourront atteindre 27 km/h, notamment à MahajangaI.
