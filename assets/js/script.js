@@ -780,6 +780,7 @@ HOULE DU SUD-EST.
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin, devenant partiellement nuageux l'après-midi sur l'ensemble de la région.
 **Vents** : Vents faibles à modérés de secteur Est-Sud-Est à Sud (8 à 17 km/h), avec des rafales atteignant 21 km/h à MahajangaI.
