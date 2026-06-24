@@ -781,6 +781,7 @@ ANTICYCLONE 1033 HPA CENTRE PAR 33S/53E.
 
 
 
+
     const templates = [
     `Le temps sera majoritairement peu nuageux à partiellement nuageux sur l'ensemble de la région Boeny, avec des périodes plus ensoleillées en matinée notamment à Soalala et AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses entre 9 et 15 km/h, et des rafales atteignant 19 km/h à Soalala.
