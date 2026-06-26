@@ -782,6 +782,7 @@ ANTICYCLONE 1040 HPA CENTRE PAR 39S/74E.
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé le matin sur l'ensemble de la région Boeny, évoluant vers un ciel peu nuageux l'après-midi, devenant partiellement nuageux à MahajangaII et restant dégagé à Mitsinjo.
 **Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Est (entre 8 et 14 km/h), sauf à AmbatoBoeny (9 km/h) où ils seront de secteur Ouest-Sud-Ouest. Des rafales atteignant 17 km/h sont prévues à Soalala et 16 km/h à MahajangaII.
