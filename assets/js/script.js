@@ -788,6 +788,7 @@ ANTICYCLONE 1041 HPA CENTRE PAR 41S/68E.
 
 
 
+
     const templates = [
     `Temps globalement ensoleillé sur l'ensemble de la région, avec quelques éclaircies l'après-midi à Soalala (Ouest).
 **Vents** : Vents faibles à modérés, principalement de secteur Sud-Est, soufflant entre 10 et 18 km/h. Des rafales de 22 km/h sont attendues à MahajangaI.
