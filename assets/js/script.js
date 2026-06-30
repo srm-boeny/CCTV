@@ -792,17 +792,17 @@ ANTICYCLONE 1043 HPA CENTRE PAR 40S/70E
 
 
     const templates = [
-    `Temps globalement ensoleillé sur l'ensemble de la région, avec quelques éclaircies l'après-midi à Soalala (Ouest).
-**Vents** : Vents faibles à modérés, principalement de secteur Sud-Est, soufflant entre 10 et 18 km/h. Des rafales de 22 km/h sont attendues à MahajangaI.
-**Températures minimales** : entre 16 et 21 °C
+    `Temps ensoleillé le matin sur l'ensemble de la région, persistant dégagé sur Soalala et Mitsinjo (Ouest), et devenant passagèrement nuageux sur Marovoay, AmbatoBoeny, MahajangaII (intérieur et Est) ainsi qu'à MahajangaI l'après-midi.
+**Vents** : Vents faibles à modérés, principalement de secteur Sud à Sud-Est, avec des vitesses comprises entre 8 et 13 km/h. Une rafale de 13 km/h est attendue à Marovoay.
+**Températures minimales** : entre 17 et 20 °C
 **Températures maximales** : entre 32 et 33 °C`,
-    `Le temps sera largement ensoleillé sur la région Boeny, avec un ciel dégagé à peu nuageux, notamment sur les localités de Soalala, Mitsinjo et AmbatoBoeny.
-**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, rafale atteignant 12 km/h à AmbatoBoeny.
-**Températures minimales** : entre 15 et 20 °C
-**Températures maximales** : entre 32 et 34 °C`,
-    `Matin ensoleillé sur l'ensemble de la région Boeny, devenant partiellement nuageux sur MahajangaI, Marovoay et MahajangaII l'après-midi, et assez ensoleillé sur Soalala, Mitsinjo et AmbatoBoeny.
-**Vents** : Vents faibles à modérés de secteur ESE à S, avec des vitesses moyennes entre 8 et 15 km/h.
-**Températures minimales** : entre 16 et 19 °C
+    `Ciel majoritairement dégagé sur l'ensemble de la région Boeny, avec un ciel peu nuageux l'après-midi à Soalala.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Est-Sud-Est, rafales atteignant 22 km/h à MahajangaI.
+**Températures minimales** : entre 18 et 21 °C
+**Températures maximales** : entre 33 et 34 °C`,
+    `Temps ensoleillé sur l'ensemble de la région, devenant partiellement nuageux l'après-midi à MahajangaII.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes allant de 8 à 19 km/h. Une rafale de 17 km/h est attendue à Soalala.
+**Températures minimales** : entre 16 et 21 °C
 **Températures maximales** : entre 33 et 34 °C`
 ];
 
