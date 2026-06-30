@@ -791,6 +791,7 @@ ANTICYCLONE 1043 HPA CENTRE PAR 40S/70E
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin sur l'ensemble de la région, persistant dégagé sur Soalala et Mitsinjo (Ouest), et devenant passagèrement nuageux sur Marovoay, AmbatoBoeny, MahajangaII (intérieur et Est) ainsi qu'à MahajangaI l'après-midi.
 **Vents** : Vents faibles à modérés, principalement de secteur Sud à Sud-Est, avec des vitesses comprises entre 8 et 13 km/h. Une rafale de 13 km/h est attendue à Marovoay.
