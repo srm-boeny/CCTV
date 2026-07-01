@@ -47,41 +47,40 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAROBIA 1 JOLAY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAKAMISY 2 JOLAY 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAKAMISY 2 JOLAY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ZOMA 3 JOLAY 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Handrahona mitsitokotoko.
- Ho avy atsimo atsinanana ny rivotra ny maraina ka ho 10/20 Km/ora, hahatratra 30 Km/ora manakaiky ny tanjona Bobaomby.
- Ho avy andrefana kosa amin’ny ankapobeny ny atoandro sy ny alina ka ho 10/30 km/ora.
- Ho tony na hadini-panonja ny ranomasina, hanonja be indraindray.
- Haavon’ny onja 1.5/2m any amin’ny tendrony avaratra, ho latsaky ny 0.5m kosa any an-kafa.`,
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Mety hisy orana tandrifindrahona manakaiky an’i Nosy Be sy Analalava amin’ny fiandohan’ny fe-potoana.
+ Ho avy atsimo atsinanana ny rivotra manakaiky ny tanjona ka ho 40/45 km/ora.
+ Ho avy atsinanana na atsimo atsinanana any an-kafa ka ho 10/20 km/ora, hahatratra 30/40 km/ora any avaratr’i Nosy Be; ho avy atsimo na atsimo andrefana kosa ny atoandro ka ho 20/30 km/ora.
+ Hadini-panonja na hanonja be ny ranomasina.
+ Haavon’ny onja hanodidina ny 1.5m any amin’ny tendrony avaratra, 0.5 hatramin’ny 1m kosa any an-kafa.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 30/06/2026 A 10 TU, VALABLE LE 30/06/2026 A 10 TU JUSQU’AU 01/07/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 01/07/2026 A 10 TU, VALABLE LE 01/07/2026 A 10 TU JUSQU’AU 02/07/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
 .
 
-BASSE PRESSION SUR LA PARTIE NORD-EST DU BASSIN ;
+BASSE PRESSION SUR LA PARTIE NORD-EST DU BASSIN, PARTICULIÈREMENT AU NORD DE 05S ;
 .
 
-FRONT FROID AXE PAR 28S/35E, 30S/38E ET 37S/45E ;
+ANTICYCLONE 1027 HPA CENTRE PAR 39S/44E PROLONGEANT UNE DORSALE AU SUD DE MADAGASCAR ;
 .
 
-ANTICYCLONE 1040 HPA CENTRE PAR 37S/76E PROLONGEANT PAR UNE DORSALE AU SUD DES ILES MASCAREIGNES.
+FRONT FROID AXE PAR 29S/47E, 31S/50E ET 33S/55E.
 
 10S/20S :
-20S/30S : VENT : FAIBLE CIRCULATION ANTICYCLONIQUE 05/10 EN DÉBUT D’ÉCHÉANCE.
- DEVENANT EST A SUD-EST 10/15 VERS MI-PÉRIODE, TOURNANT NORD-EST 15/25 SUR LA PARTIE SUD-OUEST DE LA ZONE.
- ÉTAT DE LA MER : AGITÉE, LOCALEMENT FORTE AU SUD DE 25S PAR HOULE DU SUD.
- TEMPS : PLUIES FRONTALES AU VOISINAGE DE 30S, PARTIELLEMENT A PEU NUAGEUX AILLEURS.`,
+20S/30S : VENT : SUD-EST A EST 05/10 SUR LA PARTIE EST, TOURNANT NORD 10/15 EN FIN DE PÉRIODE; AILLEURS, NORD 20/25. ÉTAT DE LA MER : AGITÉE, LOCALEMENT FORTE AU SUD DE 25S.
+ TEMPS : PLUIES FRONTALES AU VOISINAGE DE 30S.`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
+
 
 
 
