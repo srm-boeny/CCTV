@@ -797,6 +797,7 @@ ANTICYCLONE 1040 HPA CENTRE PAR 37S/76E PROLONGEANT PAR UNE DORSALE AU SUD DES I
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région Boeny, avec quelques passages nuageux l'après-midi à Soalala (Ouest).
 **Vents** : Vents faibles à modérés de secteur ESE à SE (9 à 14 km/h), avec des rafales atteignant 18 km/h à MahajangaI.
