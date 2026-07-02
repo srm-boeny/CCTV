@@ -797,6 +797,7 @@ FRONT FROID AXE PAR 29S/47E, 31S/50E ET 33S/55E.
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé et dégagé sur l'ensemble de la région Boeny.
 **Vents** : Vents faibles à modérés (7 à 16 km/h) de secteur Sud-Est, avec une rafale atteignant 20 km/h à MahajangaI.
