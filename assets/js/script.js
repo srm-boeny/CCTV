@@ -804,6 +804,7 @@ UN AUTRE FRONT FROID AU SUD-OUEST DU BASSIN
 
 
 
+
     const templates = [
     `Le temps sera majoritairement ensoleillé sur la région Boeny, avec un ciel clair prédominant toute la journée sur Soalala, Mitsinjo et Mahajanga I, et quelques passages nuageux l'après-midi sur Marovoay, AmbatoBoeny et Mahajanga II.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest, avec des vitesses moyennes entre 7 et 15 km/h. Des rafales allant jusqu'à 14 km/h sont attendues localement.
