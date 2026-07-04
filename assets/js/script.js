@@ -804,6 +804,7 @@ FRONT FROID AXÉ PAR 25S/36E, 27S/40E ET 32S/46E.
 
 
 
+
     const templates = [
     `Le temps sera globalement ensoleillé le matin sur l'ouest (Soalala, Mitsinjo) et au centre de la région, devenant partiellement nuageux l'après-midi sur l'ensemble du Boeny.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Sud-Ouest, avec des vitesses moyennes allant de 5 à 14 km/h.
