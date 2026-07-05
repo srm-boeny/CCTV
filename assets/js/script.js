@@ -801,6 +801,7 @@ FRONT FROID AXE PAR 25S/46E, 28S/50E ET 31S/55E
 
 
 
+
     const templates = [
     `Le temps sera majoritairement partiellement nuageux à nuageux en matinée sur la région Boeny, évoluant vers des averses et de fortes pluies l'après-midi sur MahajangaI, Marovoay et MahajangaII, tandis que l'Ouest (Soalala, Mitsinjo) et AmbatoBoeny observeront un ciel plus nuageux à partiellement nuageux.
 **Vents** : Vents faibles à modérés de secteur Sud-Est dominant, soufflant entre 7 et 12 km/h, avec des rafales pouvant atteindre 15 km/h à Soalala.
