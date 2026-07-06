@@ -806,6 +806,7 @@ PSEUDO-FRONT FROID AXE PAR 23S/49E, 26S/57E ET 30S/66E.
 
 
 
+
     const templates = [
     `Temps couvert sur l'ensemble de la région, avec de légères pluies possibles l'après-midi à MahajangaI.
 **Vents** : Vents faibles à modérés de secteur Sud-Est, avec des rafales atteignant 19 km/h à MahajangaI.
