@@ -805,6 +805,7 @@ ANTICYCLONE 1033 HPA CENTRE PAR 38S/53E.
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région, avec quelques passages nuageux l'après-midi à Soalala.
 **Vents** : Vents modérés de secteur SE à ESE, soufflant entre 14 et 22 km/h, avec des rafales atteignant 22 km/h à Soalala et AmbatoBoeny.
