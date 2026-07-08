@@ -808,6 +808,7 @@ ANTICYCLONE 1039 HPA CENTRE PAR 35S/58E.
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé et dégagé le matin sur l'ensemble de la région, évoluant l'après-midi vers un ciel dégagé sur l'ouest (Soalala, Mitsinjo) et peu nuageux à partiellement nuageux sur les autres localités.
 **Vents** : Vents modérés de secteur Est-Sud-Est à Sud-Est, entre 10 et 20 km/h. Des rafales jusqu'à 28 km/h sont attendues à MahajangaI.
