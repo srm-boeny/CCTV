@@ -806,6 +806,7 @@ ANTICYCLONE 1036 HPA CENTRE PAR 32S/63E
 
 
 
+
     const templates = [
     `La journée sera ensoleillée sur l'ensemble de la région Boeny.
 **Vents** : Vents de secteur Sud-Est à Sud-Ouest, faibles à modérés (7 à 14 km/h), avec des rafales atteignant 18 km/h à MahajangaI et Soalala.
