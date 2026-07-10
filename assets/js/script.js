@@ -812,6 +812,7 @@ FRONT FROID AU SUD DE 30S
 
 
 
+
     const templates = [
     `Temps ensoleillé et ciel majoritairement dégagé sur l'ensemble de la région Boeny, notamment à Soalala, Marovoay et MahajangaII, avec un ciel parfois peu nuageux l'après-midi à Mitsinjo.
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Sud-Est, de 7 à 15 km/h.
