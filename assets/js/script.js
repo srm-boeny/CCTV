@@ -816,6 +816,7 @@ FRONT FROID AXE PAR 28S/37E, 28S/42E ET 33S/53E.
 
 
 
+
     const templates = [
     `Temps globalement ensoleillé sur la région, avec des passages partiellement nuageux l'après-midi sur MahajangaI et Marovoay.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, avec des vitesses moyennes allant de 7 à 16 km/h.
