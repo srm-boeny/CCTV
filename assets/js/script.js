@@ -819,6 +819,7 @@ FRONT FROID AXE AU SUD DE 30S
 
 
 
+
     const templates = [
     `Temps généralement ensoleillé sur l'ensemble de la région, avec quelques passages nuageux l'après-midi sur les localités de l'Ouest comme Soalala et Mitsinjo.
 **Vents** : Vents faibles à modérés (7 à 16 km/h), principalement de secteur Sud-Ouest. Des rafales jusqu'à 22 km/h sont possibles, notamment à MahajangaI.
