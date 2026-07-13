@@ -818,6 +818,7 @@ PAR 17S/50E.
 
 
 
+
     const templates = [
     `Le temps sera majoritairement ensoleillé sur la région Boeny, avec un ciel dégagé prédominant à Soalala et AmbatoBoeny, et plutôt ensoleillé ailleurs.
 **Vents** : Vents faibles à modérés, principalement de secteur Sud à Sud-Est (7 à 17 km/h), avec des rafales atteignant 16 km/h à Marovoay et MahajangaII.
