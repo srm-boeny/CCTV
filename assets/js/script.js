@@ -822,6 +822,7 @@ FRONT FROID AXE PAR 28S/37E, 28S/43E ET 29S/54E.
 
 
 
+
     const templates = [
     `Un temps ensoleillé dominera la journée sur l'ensemble de la région Boeny, notamment à Soalala à l'ouest, Marovoay au centre et MahajangaII à l'est.
 **Vents** : Vents faibles à modérés, allant de 8 à 15 km/h, avec des rafales atteignant 19 km/h à MahajangaI.
