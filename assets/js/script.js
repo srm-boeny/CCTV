@@ -823,18 +823,18 @@ FRONT FROID AXE PAR 28S/37E, 28S/43E ET 29S/54E.
 
 
     const templates = [
-    `Le temps sera majoritairement ensoleillé sur la région Boeny, avec un ciel dégagé prédominant à Soalala et AmbatoBoeny, et plutôt ensoleillé ailleurs.
-**Vents** : Vents faibles à modérés, principalement de secteur Sud à Sud-Est (7 à 17 km/h), avec des rafales atteignant 16 km/h à Marovoay et MahajangaII.
+    `Un temps ensoleillé dominera la journée sur l'ensemble de la région Boeny, notamment à Soalala à l'ouest, Marovoay au centre et MahajangaII à l'est.
+**Vents** : Vents faibles à modérés, allant de 8 à 15 km/h, avec des rafales atteignant 19 km/h à MahajangaI.
+**Températures minimales** : entre 20 et 22 °C
+**Températures maximales** : entre 31 et 35 °C`,
+    `Temps ensoleillé toute la journée sur Soalala et MahajangaI (Ouest), avec des passages légèrement nuageux l'après-midi sur les parties intérieures (Marovoay, AmbatoBoeny) et à l'Est (MahajangaII).
+**Vents** : Vents faibles à modérés de secteur Sud à Sud-Ouest, avec des vitesses moyennes entre 5 et 15 km/h. Des rafales jusqu'à 21 km/h sont attendues à MahajangaI.
 **Températures minimales** : entre 18 et 21 °C
-**Températures maximales** : entre 32 et 35 °C`,
-    `Le temps sera majoritairement ensoleillé sur la région Boeny, avec un ciel clair prédominant, et quelques passages nuageux à Soalala le matin et à Mitsinjo l'après-midi.
-**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud (7 à 15 km/h), avec des rafales jusqu'à 21 km/h à Mahajanga I et Soalala.
-**Températures minimales** : entre 20 et 21 °C
-**Températures maximales** : entre 31 et 34 °C`,
-    `Temps majoritairement ensoleillé sur la région Boeny, devenant partiellement nuageux l'après-midi sur Soalala, Mitsinjo, Marovoay et MahajangaII.
-**Vents** : Vents faibles à modérés de secteur Sud à Sud-Ouest, avec des rafales atteignant 21 km/h à MahajangaI.
+**Températures maximales** : entre 31 et 35 °C`,
+    `Temps largement ensoleillé sur l'ensemble de la région Boeny, avec quelques passages nuageux en matinée sur Marovoay et MahajangaII.
+**Vents** : Vents faibles à modérés de secteur Sud-Ouest, rafale maximale atteignant 22 km/h à MahajangaI.
 **Températures minimales** : entre 19 et 21 °C
-**Températures maximales** : entre 32 et 35 °C`
+**Températures maximales** : entre 32 et 34 °C`
 ];
 
 
