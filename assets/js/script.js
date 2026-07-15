@@ -818,6 +818,7 @@ UNE AUTRE LIGNE DE CONVERGENCE AXÉE PAR 29S/37E, 29S/42E ET 28S/49E
 
 
 
+
     const templates = [
     `Le temps sera principalement peu nuageux sur l'ensemble de la région Boeny, avec un ciel dégagé en matinée sur Mahajanga I et Mahajanga II.
 **Vents** : Vents faibles à modérés de secteur Ouest-Sud-Ouest, avec des vitesses moyennes entre 5 et 15 km/h et des rafales atteignant 19 km/h à Soalala.
