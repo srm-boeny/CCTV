@@ -817,6 +817,7 @@ UNE AUTRE LIGNE DE CONVERGENCE AXÉE PAR 29S/37E, 29S/42E ET 28S/49E
 
 
 
+
     const templates = [
     `Temps largement ensoleillé sur la région Boeny, bien que des passages nuageux soient attendus en matinée sur MahajangaI et MahajangaII, et l'après-midi à AmbatoBoeny.
 **Vents** : Vents faibles à modérés de secteur Ouest à Sud-Ouest (7 à 18 km/h), avec des rafales pouvant atteindre 24 km/h à MahajangaI.
