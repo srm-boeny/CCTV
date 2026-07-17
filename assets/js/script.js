@@ -826,6 +826,7 @@ ANTICYCLONE 1031 HPA CENTRE PAR 33S/66E.
 
 
 
+
     const templates = [
     `Le temps sera principalement ensoleillé à peu nuageux sur l'ensemble de la région, avec un ciel dégagé à Soalala et des passages nuageux l'après-midi à AmbatoBoeny et MahajangaII.
 **Vents** : Vents faibles à modérés de secteurs variés (8 à 18 km/h), avec des rafales atteignant 17 km/h à Marovoay et MahajangaII.
