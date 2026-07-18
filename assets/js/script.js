@@ -47,19 +47,20 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY SABOTSY 18 JOLAY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAHADY 19 JOLAY 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAHADY 19 JOLAY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALATSINAINY 20 JOLAY 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona vitsy eo anelanelan’i Nosy-Be sy ny tanjona Bobaomby indrindra ny alina sy ny vao maraina, ho maina any an-kafa.
- Ho avy andrefana ny rivotra ka ho 10/20 Km/ora.
- Hadini-panonja ny ranomasina.
- Haavon’ny onja 0.5/1m`,
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona vitsy any amin’ny tapany avaratra, handrahona mitsitokotoko any an-kafa.
+ Ho avy avaratra andrefana ny rivotra ka ho 10/20 Km/ora.
+ Ho avy atsimo atsinanana kosa ny maraina ka ho 10/20 Km/ora, hahatratra 30 Km/ora any avaratr’i Nosy Be.
+ Hadini-panonja na hanonja be ny ranomasina.
+ Haavon’ny onja 0.3/1m, hahatratra 1.5m manakaiky ny tendrony avaratra.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 17/07/2026 A 10 TU, VALABLE LE 17/07/2026 A 10 TU JUSQU’AU 18/07/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 18/07/2026 A 10 TU, VALABLE LE 18/07/2026 A 10 TU JUSQU’AU 19/07/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
@@ -72,6 +73,7 @@ FRONT FROID AXE PAR 20S/57E, 23S/60E, 27S/62E ET 28S/59E
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
+
 
 
 
