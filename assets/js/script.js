@@ -821,6 +821,7 @@ FRONT FROID AXE PAR 20S/57E, 23S/60E, 27S/62E ET 28S/59E
 
 
 
+
     const templates = [
     `Le temps sera majoritairement partiellement nuageux en matinée sur toute la région Boeny, évoluant vers un ciel ensoleillé l'après-midi sur la plupart des localités, excepté à Mitsinjo et MahajangaII où les conditions resteront partiellement nuageuses.
 **Vents** : Vents faibles à modérés, principalement de secteur Sud à Sud-Est, avec des vitesses moyennes allant de 7 à 18 km/h. Des rafales pouvant atteindre 18 km/h sont prévues à Marovoay et 16 km/h à MahajangaII.
