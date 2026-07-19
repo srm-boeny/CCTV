@@ -47,32 +47,39 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAHADY 19 JOLAY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALATSINAINY 20 JOLAY 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALATSINAINY 20 JOLAY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY TALATA 21 JOLAY 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona vitsy any amin’ny tapany avaratra, handrahona mitsitokotoko any an-kafa.
- Ho avy avaratra andrefana ny rivotra ka ho 10/20 Km/ora.
- Ho avy atsimo atsinanana kosa ny maraina ka ho 10/20 Km/ora, hahatratra 30 Km/ora any avaratr’i Nosy Be.
- Hadini-panonja na hanonja be ny ranomasina.
- Haavon’ny onja 0.3/1m, hahatratra 1.5m manakaiky ny tendrony avaratra.`,
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona vitsy manakaiky an’i Nosy-Be, handrahona mahalana any an- kafa.
+ Ho avy andrefana ny rivotra ka ho 10/20 Km/ora.
+ Hihelina ho avy atsimo atsinanana kosa ny maraina ka ho 10/20 Km/ora.
+ Ho tony na hadini-panonja ny ranomasina.
+ Haavon’ny onja 0.2/1m.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 18/07/2026 A 10 TU, VALABLE LE 18/07/2026 A 10 TU JUSQU’AU 19/07/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 19/07/2026 A 10 TU, VALABLE LE 19/07/2026 A 10 TU JUSQU’AU 20/07/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
-BASSES PRESSIONS SUR LA PARTIE NORD-EST DU BASSIN
-MINIMUM 1014 HPA CENTRE PAR 27S/57E
-FRONT FROID AXE PAR 20S/57E, 23S/60E, 27S/62E ET 28S/59E
+.
+
+BASSES PRESSIONS SUR LA PARTIE NORD-EST DU BASSIN;
+.
+
+PSEUDO-FRONT FROID AXE PAR 17S/57E, 20S/62E ET 24S/67E ;
+.
+
+THALWEG FRONTAL AU SUD DE 30S.
 
 10S/20S :
 `,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
+
 
 
 
