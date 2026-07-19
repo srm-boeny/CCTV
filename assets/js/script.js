@@ -824,6 +824,7 @@ FRONT FROID AXE PAR 20S/57E, 23S/60E, 27S/62E ET 28S/59E
 
 
 
+
     const templates = [
     `Le temps sera généralement ensoleillé à peu nuageux sur la région de Boeny, avec un ciel dégagé persistant à Soalala et AmbatoBoeny, tandis que MahajangaI et MahajangaII connaîtront un après-midi partiellement nuageux.
 **Vents** : Vents faibles à modérés, généralement de secteur Sud à Sud-Ouest, avec des vitesses moyennes de 5 à 15 km/h et des rafales atteignant 19 km/h à Soalala.
