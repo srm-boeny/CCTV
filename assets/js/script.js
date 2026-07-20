@@ -832,6 +832,7 @@ THALWEG FRONTAL AU SUD DE 30S.
 
 
 
+
     const templates = [
     `Temps ensoleillé et ciel dégagé sont attendus toute la journée sur l'ensemble de la région Boeny, de Soalala à MahajangaII.
 **Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Ouest à Ouest-Nord-Ouest, avec des vitesses moyennes comprises entre 6 et 16 km/h. Des rafales jusqu'à 23 km/h sont prévues à MahajangaI.
