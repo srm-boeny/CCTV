@@ -832,18 +832,18 @@ PSEUDO-FRONT FROID AXE PAR 26S/46E, 27S/55E ET 31S/62E
 
 
     const templates = [
-    `Temps ensoleillé et ciel dégagé sont attendus toute la journée sur l'ensemble de la région Boeny, de Soalala à MahajangaII.
-**Vents** : Vents faibles à modérés, majoritairement de secteur Sud-Ouest à Ouest-Nord-Ouest, avec des vitesses moyennes comprises entre 6 et 16 km/h. Des rafales jusqu'à 23 km/h sont prévues à MahajangaI.
-**Températures minimales** : entre 18 et 20 °C
+    `Temps ensoleillé toute la journée sur l'ensemble de la région.
+**Vents** : Vents faibles à modérés de secteur Sud-Ouest à Ouest, avec des rafales atteignant 23 km/h à MahajangaI.
+**Températures minimales** : entre 19 et 20 °C
 **Températures maximales** : entre 32 et 34 °C`,
-    `La journée sera largement ensoleillée sur l'ensemble de la région Boeny, notamment à Soalala et Mitsinjo à l'ouest, Marovoay et AmbatoBoeny à l'intérieur, et MahajangaII à l'est.
-**Vents** : Vents faibles à modérés de secteur Sud-Ouest, avec des vitesses moyennes comprises entre 6 et 16 km/h. Des rafales pourront atteindre 23 km/h à MahajangaI.
-**Températures minimales** : entre 18 et 19 °C
-**Températures maximales** : entre 31 et 34 °C`,
-    `Temps ensoleillé et ciel dégagé sur l'ensemble de la région Boeny.
-**Vents** : Vents faibles à modérés de secteur S à SW (entre 8 et 16 km/h), avec des rafales atteignant 23 km/h à MahajangaI.
+    `Le temps sera ensoleillé sur l'ensemble de la région Boeny tout au long de la journée.
+**Vents** : Vents faibles à modérés de secteur Sud, avec des rafales atteignant 23 km/h à MahajangaI.
 **Températures minimales** : entre 18 et 20 °C
-**Températures maximales** : entre 32 et 35 °C`
+**Températures maximales** : entre 32 et 35 °C`,
+    `Temps ensoleillé toute la journée sur l'ensemble de la région, notamment à Soalala et MahajangaII.
+**Vents** : Vents faibles à modérés de secteur ESE, rafale atteignant 24 km/h à MahajangaI.
+**Températures minimales** : entre 19 et 21 °C
+**Températures maximales** : entre 33 et 34 °C`
 ];
 
 
