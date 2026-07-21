@@ -831,6 +831,7 @@ PSEUDO-FRONT FROID AXE PAR 26S/46E, 27S/55E ET 31S/62E
 
 
 
+
     const templates = [
     `Temps ensoleillé toute la journée sur l'ensemble de la région.
 **Vents** : Vents faibles à modérés de secteur Sud-Ouest à Ouest, avec des rafales atteignant 23 km/h à MahajangaI.
