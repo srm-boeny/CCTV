@@ -836,6 +836,7 @@ ANTICYCLONE 1024 HPA CENTRÉ PAR 33S/52E.
 
 
 
+
     const templates = [
     `Le ciel sera dégagé à ensoleillé sur l'ensemble de la région Boeny. Le temps sera majoritairement clair sur l'Ouest (Soalala, Mitsinjo) et l'intérieur (Marovoay, AmbatoBoeny), avec un temps beau à dégagé à Mahajanga I et Mahajanga II (Est).
 **Vents** : Vents faibles à modérés de secteur Sud-Est à Sud (6 à 14 km/h), avec des rafales pouvant atteindre 20 km/h à Mahajanga I.
