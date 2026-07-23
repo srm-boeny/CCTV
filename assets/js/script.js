@@ -841,6 +841,7 @@ ANTICYCLONE 1029 HPA CENTRE PAR 33S/54E.
 
 
 
+
     const templates = [
     `Temps ensoleillé le matin sur toute la région Boeny, persistant dégagé à peu nuageux l'après-midi, bien que des nuages passagers soient attendus sur Marovoay et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud-Est dominant, avec des vitesses moyennes entre 10 et 16 km/h. Des rafales jusqu'à 21 km/h sont possibles à MahajangaI.
