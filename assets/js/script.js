@@ -844,6 +844,7 @@ ANTICYCLONE 1032 HPA CENTRE PAR 33S/55E
 
 
 
+
     const templates = [
     `Temps ensoleillé sur l'ensemble de la région Boeny, devenant peu nuageux l'après-midi sur Soalala et MahajangaII.
 **Vents** : Vents faibles à modérés de secteur Sud à Sud-Est, rafale atteignant 24 km/h à MahajangaI.
