@@ -846,6 +846,7 @@ LIGNE DE CONVERGENCE AXÉE PAR 22S/55E, 23S/59E ET 23S/65E
 
 
 
+
     const templates = [
     `Le temps sera ensoleillé à peu nuageux sur l'ensemble de la région Boeny, avec des passages partiellement nuageux l'après-midi, notamment à Soalala.
 **Vents** : Vents faibles à modérés (7 à 20 km/h) de directions variées. Des rafales maximales de 28 km/h sont prévues à Soalala et 27 km/h à MahajangaI.
