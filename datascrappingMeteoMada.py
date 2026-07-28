@@ -79,7 +79,7 @@ def extract_marine_messages():
         if found_canal:
             if p.find("strong") and target_block in text:
                 if i + 1 < len(h_paragraphs):
-                    moz_msg = get_clean_text(h_paragraphs[i + 1])
+                    moz_msg = get_clean_text(h_paragraphs[i])
                 break
 
 
@@ -108,7 +108,7 @@ def format_as_js(marine_messages):
         js += f"        message: `{item['message']}`,\n"
         js += f"        image: '{item['image']}'\n"
         js += "    },\n"
-    js = js.rstrip(",\n") + "\n];\n"
+    js = js.rstrip(",\n") + "\n];"
     return js
 
 def replace_js_array(js_path, new_array_code):
