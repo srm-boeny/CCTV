@@ -845,6 +845,7 @@ ANTICYCLONE 1027 HPA CENTRE PAR 37S/54E.
 
 
 
+
     const templates = [
     `Temps largement ensoleillé sur l'ensemble de la région Boeny, avec quelques passages nuageux l'après-midi, notamment sur l'Ouest à Mitsinjo.
 **Vents** : Vents faibles à modérés (7 à 16 km/h) de secteur Sud-Est à Sud-Ouest. Une rafale atteignant 14 km/h est possible à MahajangaII.
