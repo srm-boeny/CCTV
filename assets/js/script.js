@@ -47,32 +47,33 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAKAMISY 30 JOLAY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ZOMA 31 JOLAY 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ZOMA 31 JOLAY 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ASABOTSY 1 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona vitsy manakaiky an’i Nosy Be indrindra ny alina, ho maina any an-kafa.
- Ho avy andrefana ny rivotra ka ho 10/20 Km/ora.
- Ho avy atsinanana na atsimo atsinanana kosa ny maraina ka ho 10/20 Km/ora.
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona indraindray ny alina sy ny vao maraina.
+ Ho avy andrefana na atsimo andrefana ny rivotra ka ho 10/20 Km/ora.
+ Hiovaova kosa ny fitsokan’ny rivotra ny maraina ka ho 10 Km/ora.
  Hadini-panonja na hanonja be ny ranomasina.
- Haavon’ny onja 0.3/1m, hahatratra 1.5m rehefa manakaiky an’ny tanjona Bobaomby`,
+ Haavon’ny onja 0.3/1m, hahatratra 1.5m rehefa manakaiky an’ny tanjona Bobaomby.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 29/07/2026 A 10 TU, VALABLE LE 29/07/2026 A 10 TU JUSQU’AU 30/07/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 30/07/2026 A 10 TU, VALABLE LE 30/07/2026 A 10 TU JUSQU’AU 31/07/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
 .
 
-BASSES PRESSIONS AU NORD DE 10S
+BASSES PRESSIONS SUR LA PARTIE NORD-EST DU BASSIN ;
 .
 
-ANTICYCLONE 1031 HPA CENTRE PAR 34S/69E
+FRONT FROID AXE PAR 26S/33E, 28S/35E ET 31S/34E.
 
 10S/20S :
-10S/20S : VENT : SECTEUR SUD 05/10 LOCALEMENT 15 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMPS : PARTIELLEMENT A PEU NUAGEUX`,
+10S/20S : VENT : SECTEUR SUD 10/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
+ TEMPS : PARTIELLEMENT A PEU NUAGEUX.`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
