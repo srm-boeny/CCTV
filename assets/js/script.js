@@ -47,13 +47,13 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALATSINAINY 3 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY TALATA 4 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY TALATA 04 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAROBIA 05 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Handrahona mahalana.
- Ho avy andrefana na atsimo andrefana ny rivotra ka ho 10/20 Km/ora, hihelina ho avy atsimo atsinanana kosa ny maraina ka ho 10/20 km/ora.
- Hadini-panonja ny ranomasina.
- Haavon’ny onja 0.5/1m, hanonja be manakaiky ny tanjona Bobaomby ka ho 1.5m ny haavon’ny onja.`,
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Handrahona amin’ny ankapobeny.
+ Ho avy atsimo atsinanana ny rivotra any amin’ny tapany avaratra ka ho 30/40 km/ora, hiovaova kosa any an-kafa ka ho 10/20 km/ora.
+ Hadini-panonja na hanonja be ny ranomasina.
+ Haavon’ny onja 0.5/1m, hahatratra 1.5m manakaiky ny tanjona Bobaomby.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
@@ -65,13 +65,16 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 **Situation generale**:
 .
 
-BASSES PRESSIONS AU NORD DE 08S ;
+BASSES PRESSIONS AU NORD DE 05S ;
 .
 
-LIGNE DE CONVERGENCE AXÉE PAR 23S/49E, 27S/50E, 30S/49E ET 33S/42E.
+FRONT FROID AXE PAR 27S/43E, 30S/44E, 32S/44E ET 33S/43E ;
+.
+
+ANTICYCLONE 1038 HPA CENTRE PAR 34S/66E.
 
 10S/20S :
-10S/20S : VENT : SECTEUR SUD 10/15, LOCALEMENT 20. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE, MAIS FORTE A L’OUEST DE 43E PAR HOULE DU SUD.
+10S/20S : VENT : SECTEUR SUD 10/15, LOCALEMENT 20. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
  TEMPS : PARTIELLEMENT NUAGEUX.`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
