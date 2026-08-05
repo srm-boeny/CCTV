@@ -47,19 +47,19 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAROBIA 05 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAKAMISY 06 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAKAMISY 06 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ZOMA 07 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana mahalana manakaiky an’i Nosy Be ny maraina, handrahona vitsy any an-kafa.
- Ho avy atsimo atsinanana ny rivotra any amin’ny tapany avaratra ka ho 30/40 km/ora, hiovaova kosa any an-kafa ka ho 10/20 km/ora.
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana mahalana manakaiky an’i Nosy Be ny maraina.
+ Ho avy atsimo atsinanana ny rivotra rehefa manakaiky ny tanjona Bobaomby ka ho 30/40 km/ora, hiovaova kosa any an-kafa ka ho 10/20 km/ora.
  Hadini-panonja na hanonja be ny ranomasina.
- Haavon’ny onja 0.3/1m, hahatratra 1.5/2m manakaiky ny tanjona Bobaomby`,
+ Haavon’ny onja 0.3/1m, hahatratra 1.5/2m any amin’ny tendrony avaratra.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 04/08/2026 A 10 TU, VALABLE LE 04/08/2026 A 10 TU JUSQU’AU 05/08/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 05/08/2026 A 10 TU, VALABLE LE 05/08/2026 A 10 TU JUSQU’AU 06/08/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
@@ -77,7 +77,8 @@ LIGNE DE CONVERGENCE AXÉE PAR 26S/47E, 28S/48E ET 30S/50E
 ANTICYCLONE 1035 HPA CENTRE PAR 32S/69E
 
 10S/20S :
-10S/20S : VENT : SECTEUR SUD 05/15 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMPS : PARTIELLEMENT NUAGEUX`,
+10S/20S : VENT : SUD A SUD-EST 10/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
+ TEMPS : RARES AVERSES ISOLÉES.`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
