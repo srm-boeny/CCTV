@@ -47,37 +47,35 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY TALATA 11 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAROBIA 12 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAROBIA 12 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAKAMISY 13 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Handrahona mahalana.
- Ho avy atsimo na atsimo atsinanana ny rivotra eo anelanelan’i Nosy Be sy ny tanjona Bobaomby ka ho 20/30 km/ora, hahatratra 45 km/ora indraindray rehefa manakaiky ny tanjona.
- Ho avy andrefana kosa amin’ny ankapobeny any an-kafa ka ho 10/30 km/ora.
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona vitsy amin’ny maraina.
+ Ho avy atsimo atsinanana ny rivotra eo anelanelan’i Nosy Be sy ny tanjona Bobaomby ka ho 30/40 km/ora, hahatratra 45 km/ora indraindray rehefa manakaiky ny tanjona.
+ Ho avy andrefana kosa amin’ny ankapobeny any an-kafa ka ho 10/20 km/ora.
  Hadini-panonja na hanonja be ny ranomasina.
- Haavon’ny onja 0.5/1m, hahatratra 1.5/2m any amin’ny tendrony avaratra.`,
+ Haavon’ny onja 0.5/1m, hahatratra 1.5/2m any amin’ny tendrony avaratra`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 10/08/2026 A 10 TU, VALABLE LE 10/08/2026 A 10 TU JUSQU’AU 11/08/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 11/08/2026 A 10 TU, VALABLE LE 11/08/2026 A 10 TU JUSQU’AU 12/08/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
 .
 
-BASSES PRESSIONS SUR LA PARTIE NORD-EST DU BASSIN ;
+BASSES PRESSIONS AU NORD DE 10S
 .
 
-FRONT FROID AXE AU SUD-OUEST DE LA ZONE ;
+MINIMUM 1011 HPA CENTRE AUTOUR DU POINT 08S/66E
 .
 
-ANTICYCLONE 1046 HPA CENTRE PAR 38S/79E.
+FRONT FROID AXE PAR 28S/46E, 31S/50E ET 34S/55E
 
 10S/20S :
-10S/20S : VENT : SUD A SUD-EST 10/15, DEVENANT EST A NORD-EST 10/15 PRES DES COTES AFRICAINES.
- ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
- TEMPS : PARTIELLEMENT NUAGEUX.`,
+10S/20S : VENT : SUD A SUD-EST 10/15, LOCALEMENT 20 ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMPS : PARTIELLEMENT NUAGEUX`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
