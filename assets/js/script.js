@@ -83,18 +83,18 @@ FRONT FROID AXE PAR 25S/47E, 28S/54E ET 32S/62E
 
 
     const templates = [
-    `Temps globalement ensoleillé sur la majeure partie de la région Boeny, avec des averses possibles l'après-midi à Soalala (Ouest).
-**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, avec des vitesses moyennes allant de 6 à 19 km/h. Des rafales jusqu'à 26 km/h sont attendues à MahajangaI.
+    `La région Boeny connaîtra un temps généralement ensoleillé à peu nuageux, malgré quelques averses légères le matin à Soalala et des passages partiellement nuageux l'après-midi sur l'Ouest (Mitsinjo) et à MahajangaI.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest, avec des vitesses moyennes entre 9 et 17 km/h. Des rafales pourront atteindre 29 km/h à MahajangaI.
+**Températures minimales** : entre 22 et 24 °C
+**Températures maximales** : entre 32 et 36 °C`,
+    `Temps ensoleillé le matin sur toute la région. L'après-midi, il restera dégagé à l'Ouest et à l'intérieur (Soalala, Marovoay, AmbatoBoeny), mais deviendra partiellement nuageux vers l'Est (MahajangaI, MahajangaII).
+**Vents** : Vents de secteurs variables, faibles à modérés (10 à 19 km/h), avec des rafales maximales de 26 km/h à MahajangaI.
 **Températures minimales** : entre 21 et 23 °C
 **Températures maximales** : entre 32 et 36 °C`,
-    `Le ciel sera généralement clair à ensoleillé sur l'ensemble de la région Boeny, avec quelques éclaircies à Soalala et AmbatoBoeny, et des averses légères l'après-midi à Mitsinjo.
-**Vents** : Vents faibles à modérés de secteur Sud-Ouest à Sud-Est, avec des rafales atteignant 26 km/h à MahajangaI.
-**Températures minimales** : entre 22 et 23 °C
-**Températures maximales** : entre 32 et 36 °C`,
-    `Temps ensoleillé et ciel dégagé le matin sur l'ensemble de la région Boeny, évoluant vers un ciel dégagé à peu nuageux l'après-midi, notamment à Mitsinjo (Ouest) et MahajangaII (Est).
-**Vents** : Vents faibles à modérés (6 à 19 km/h) de directions variées, avec des rafales atteignant 27 km/h à MahajangaI et 23 km/h à Soalala.
-**Températures minimales** : entre 21 et 22 °C
-**Températures maximales** : entre 32 et 36 °C`
+    `Temps généralement ensoleillé sur la région, avec un ciel dégagé à l'ouest (Soalala, Mitsinjo) et des passages nuageux l'après-midi à MahajangaI.
+**Vents** : Vents faibles à modérés de directions variables, allant de 8 à 18 km/h, avec des rafales atteignant 23 km/h à MahajangaI.
+**Températures minimales** : entre 20 et 23 °C
+**Températures maximales** : entre 32 et 35 °C`
 ];
 
 
