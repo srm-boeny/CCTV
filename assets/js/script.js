@@ -47,20 +47,20 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY TALATA 18 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAROBIA 19 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAROBIA 19 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAKAMISY 20 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona indraindray.
- Ho avy atsimo na atsimo atsinanana ny rivotra any avaratr’i Nosy Be ka ho 20/30 km/ora.
- Hiovaova kosa any an-kafa ka ho 10/20 Km/ora, ho avy andrefana izany ny atoandro ka hanodidina ny 20 km/ora.
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Handrahona mitsitokotoko.
+ Ho avy andrefana ny rivotra amin’ny ankapobeny ka ho 10/20 km/ora.
+ Ho avy atsimo atsinanana ny rivotra ny maraina any avaratr’i Nosy Be ka ho 10/30 Km/ora, hiovaova kosa ny fitsokan’ny rivotra any amin’ny tapany atsimo ka ho 10 Km/ora.
  Hadini-panonja na hanonja be ny ranomasina.
- Haavon’ny onja 0.5/1m, hahatratra 1.5m any amin’ny tendrony avaratra.`,
+ Haavon’ny onja hanodidina ny 0.5m, hahatratra 1.5m any amin’ny tendrony avaratra.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 17/08/2026 A 10 TU, VALABLE LE 17/08/2026 A 10 TU JUSQU’AU 18/08/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 18/08/2026 A 10 TU, VALABLE LE 18/08/2026 A 10 TU JUSQU’AU 19/08/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
@@ -69,18 +69,14 @@ BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°
 BASSES PRESSIONS AU NORD DE 05S ;
 .
 
-LIGNE DE CONVERGENCE AXÉE PAR 19S/49E, 23S/48E ET 26S/47E;
+LIGNE DE CONVERGENCE AXÉE PAR 23S/48E, 26S/48E ET 27S/51E;
 .
 
-MINIMUM 1019 HPA CENTRE PAR 23S/40E;
-.
-
-ANTICYCLONE 1034 CENTRE PAR 33S/57E.
+ANTICYCLONE 1033 CENTRE PAR 30S/63E.
 
 10S/20S :
-10S/20S : VENT : SECTEUR SUD 05/15, LOCALEMENT 20 AU NORD DE 15S.
- ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
- TEMPS : AVERSES LOCALES.`,
+10S/20S : VENT : SECTEUR SUD 05/10, LOCALEMENT 15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
+ TEMPS : RARES AVERSES LOCALES.`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
