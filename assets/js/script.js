@@ -83,18 +83,18 @@ FRONT FROID AXE PAR 30S/50E, 31S/54E, 31S/59E ET 33S/64E.
 
 
     const templates = [
-    `Le temps sera généralement ensoleillé sur la région Boeny, à l'exception de Soalala (Ouest) où de légères averses sont attendues l'après-midi.
-**Vents** : Vents faibles à modérés de secteur variable, vitesses moyennes entre 8 et 18 km/h, rafales atteignant 22 km/h à MahajangaI.
+    `Temps ensoleillé et ciel clair sur l'ensemble de la région Boeny.
+**Vents** : Vents faibles à modérés de secteur Est à Sud-Est, rafale atteignant 27 km/h à MahajangaI.
 **Températures minimales** : entre 22 et 24 °C
-**Températures maximales** : entre 34 et 36 °C`,
-    `Temps clair et ensoleillé sur l'ensemble de la région Boeny, de Soalala et Mitsinjo à l'ouest, jusqu'à MahajangaII à l'est.
-**Vents** : Vents faibles à modérés de secteur Sud-Est, avec des vitesses moyennes entre 10 et 18 km/h et des rafales atteignant 30 km/h à MahajangaI.
-**Températures minimales** : entre 21 et 22 °C
 **Températures maximales** : entre 33 et 37 °C`,
-    `Ciel dégagé et ensoleillé sur l'ensemble de la région Boeny, de Soalala et Mitsinjo à l'ouest jusqu'à MahajangaII à l'est.
-**Vents** : Vents faibles à modérés de secteur Est à Sud-Est, avec des vitesses moyennes entre 8 et 15 km/h. Des rafales atteignant 27 km/h sont attendues à MahajangaI et 17 km/h à Soalala.
-**Températures minimales** : entre 20 et 22 °C
-**Températures maximales** : entre 33 et 35 °C`
+    `Temps ensoleillé et ciel dégagé sur l'ensemble de la région Boeny.
+**Vents** : Vents faibles à modérés (9 à 15 km/h) principalement de secteur Sud-Est à Sud, avec des rafales atteignant 27 km/h à MahajangaI.
+**Températures minimales** : entre 21 et 22 °C
+**Températures maximales** : entre 33 et 36 °C`,
+    `Temps ensoleillé sur l'ensemble de la région, avec quelques passages nuageux l'après-midi à Soalala.
+**Vents** : Vents légers à modérés de secteur Sud-Est, rafales atteignant 20 km/h à MahajangaI et Soalala.
+**Températures minimales** : entre 21 et 22 °C
+**Températures maximales** : entre 32 et 35 °C`
 ];
 
 
