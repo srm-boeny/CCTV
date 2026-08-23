@@ -47,34 +47,35 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAHADY 23 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALATSINAINY 24 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALATSINAINY 24 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY TALATA 25 AOGOSITRA 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-Handrahona mety harahin’orana tandrifindrahona vitsy eo anelanelan’i Mahajanga sy Analalava amin’ny fiandohan’ny fe-potoana.
- Ho avy atsinanana ny rivotra ka ho 20/30 km/ora, hahatratra 40 km/ora indraindray manakaiky an’i Mahajanga; ho avy andrefana kosa ny tolak’andro ka ho 10/20 km/ora.
- Ho tony na hadini-panonja ny ranomasina.
- Haavon’ny onja 0.2/0.5m, hahatratra 1m`,
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Handrahona mitsitokotoko.
+ Ho avy atsimo atsinanana ny rivotra any avaratr’i Nosy Be ka ho 20/40 Km/ora, hiovaova kosa any an-kafa ka ho 10/20 km/ora.
+ Ho tony na hadini-panonja ny ranomasina, hanonja be indraindray.
+ Haavon’ny onja 0.3/1m, hahatratra 1.5m any amin’ny tendrony avaratra.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 22/08/2026 A 10 TU, VALABLE LE 22/08/2026 A 10 TU JUSQU’AU 23/08/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 23/08/2026 A 10 TU, VALABLE LE 23/08/2026 A 10 TU JUSQU’AU 24/08/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
 .
 
-BASSES PRESSIONS AU NORD DE 05S
+ANTICYCLONE 1025 CENTRE PAR 23S/75E ;
 .
 
-ANTICYCLONE 1023 CENTRE PAR 30S/44E
+PSEUDO-FRONT AXE PAR 25S/50E, 24S/56E ET 26S/66E;
 .
 
-FRONT FROID AXE PAR 25S/54E, 27S/58E, 27S/61E ET 30S/64E
+FRONT FROID AXE PAR 26S/37E, 29S/40E ET 34S/44E.
 
 10S/20S :
-10S/20S : VENT : VARIABLE 05/10 SUR LA PARTIE NORD-EST DE LA ZONE, SUD 10/15 AILLEURS ÉTAT DE LA MER : PEU AGITÉE A AGITÉE TEMPS : RARES AVERSES LOCALES SUR LA PARTIE NORD`,
+10S/20S : VENT : SECTEUR SUD 10/15. ÉTAT DE LA MER : PEU AGITÉE A AGITÉE.
+ TEMPS : PARTIELLEMENT NUAGEUX.`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
