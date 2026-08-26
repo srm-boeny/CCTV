@@ -80,18 +80,18 @@ ANTICYCLONE 1027 HPA CENTRE PAR 27S/75E.
 
 
     const templates = [
-    `Temps très ensoleillé sur l'ensemble de la région Boeny, de l'ouest (Soalala, Mitsinjo) à l'est (MahajangaII), en passant par l'intérieur (Marovoay, AmbatoBoeny).
-**Vents** : Vents faibles à modérés de secteur Est à Sud-Est, les rafales atteignant 24 km/h à MahajangaI.
-**Températures minimales** : entre 21 et 22 °C
+    `Le temps sera largement ensoleillé sur l'ensemble de la région Boeny, notamment à Soalala, Marovoay et Mahajanga.
+**Vents** : Vents faibles à modérés (8 à 20 km/h) de directions variables, avec des rafales atteignant 24 km/h à MahajangaI.
+**Températures minimales** : entre 20 et 23 °C
 **Températures maximales** : entre 32 et 36 °C`,
-    `Temps très ensoleillé sur l'ensemble de la région Boeny.
-**Vents** : Vents faibles à modérés, de 6 à 16 km/h, de secteur Sud à Sud-Ouest. Des rafales atteignant 24 km/h sont prévues à MahajangaI.
-**Températures minimales** : entre 19 et 21 °C
-**Températures maximales** : entre 32 et 36 °C`,
-    `Le temps sera partagé entre ciel clair sur MahajangaI, Marovoay et MahajangaII, et des passages nuageux sur Soalala, Mitsinjo et AmbatoBoeny.
-**Vents** : Vents faibles à modérés (8 à 18 km/h) de secteur Est à Sud-Est dominant, avec des rafales atteignant 23 km/h à MahajangaI et Soalala.
+    `Temps généralement ensoleillé sur la région Boeny, avec des passages nuageux localisés sur Marovoay, AmbatoBoeny et Mahajanga II.
+**Vents** : Vents faibles à modérés (8 à 19 km/h) de secteur Sud-Est à Sud, avec des rafales atteignant localement 22 km/h à Soalala.
 **Températures minimales** : entre 20 et 22 °C
-**Températures maximales** : entre 33 et 35 °C`
+**Températures maximales** : entre 33 et 37 °C`,
+    `Temps majoritairement ensoleillé sur la région Boeny, avec quelques passages nuageux isolés notamment dans les parties intérieures comme à Marovoay et AmbatoBoeny.
+**Vents** : Vents modérés de secteur Est à Sud-Est, entre 13 et 19 km/h, avec des rafales atteignant 28 km/h à AmbatoBoeny.
+**Températures minimales** : entre 20 et 22 °C
+**Températures maximales** : entre 34 et 36 °C`
 ];
 
 
