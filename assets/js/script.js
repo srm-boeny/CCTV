@@ -81,16 +81,16 @@ PSEUDO-FRONT FROID AXE PAR 10S/53E, 12S/60E, 14S/67E ET 16S/71E.
 
 
     const templates = [
-    `Temps ensoleillé sur l'ensemble de la région Boeny, de l'Ouest (Soalala, Mitsinjo) à l'Est (MahajangaII) et dans les parties intérieures (Marovoay, AmbatoBoeny).
-**Vents** : Vents modérés (15 à 21 km/h) de secteur Sud-Est à Sud, avec des rafales atteignant 25 km/h à MahajangaII.
-**Températures minimales** : entre 19 et 23 °C
+    `Temps ensoleillé le matin, devenant partiellement nuageux l'après-midi sur la plupart de la région, excepté à Soalala (Ouest) où le ciel restera dégagé.
+**Vents** : Vents faibles à modérés (12 à 21 km/h) de secteur Est à Sud-Est, avec des rafales atteignant 28 km/h à MahajangaI et 27 km/h à AmbatoBoeny.
+**Températures minimales** : entre 20 et 23 °C
 **Températures maximales** : entre 34 et 36 °C`,
-    `Temps majoritairement ensoleillé le matin sur la région Boeny, devenant partiellement nuageux l'après-midi, notamment sur les parties intérieures et Est.
-**Vents** : Vents modérés de secteur Est à Sud-Est, généralement entre 14 et 23 km/h. Des rafales jusqu'à 30 km/h sont attendues à MahajangaI et 23 km/h à MahajangaII.
-**Températures minimales** : entre 19 et 22 °C
+    `Le matin sera ensoleillé sur l'ensemble de la région Boeny. L'après-midi, le ciel deviendra partiellement nuageux sur les parties intérieures (Marovoay, AmbatoBoeny) et l'Est (MahajangaII, MahajangaI), tandis que l'Ouest (Soalala, Mitsinjo) conservera un temps plus dégagé.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud, soufflant entre 10 et 17 km/h, avec des rafales pouvant atteindre 22 km/h notamment à MahajangaI et AmbatoBoeny.
+**Températures minimales** : entre 20 et 21 °C
 **Températures maximales** : entre 34 et 36 °C`,
-    `Temps ensoleillé le matin sur l'ensemble de la région, devenant partiellement nuageux l'après-midi sur la plupart des localités, à l'exception de Mitsinjo où le ciel restera dégagé.
-**Vents** : Vents faibles à modérés de secteur SSE à ESE, avec des vitesses moyennes entre 10 et 20 km/h, et une rafale atteignant 23 km/h à Marovoay.
+    `Le temps sera ensoleillé le matin sur l'ensemble de la région Boeny, devenant partiellement nuageux l'après-midi, sauf à Soalala où le ciel restera dégagé.
+**Vents** : Vents faibles à modérés (10 à 17 km/h), majoritairement de secteur ESE à SE. Des rafales pourront atteindre 22 km/h à MahajangaI.
 **Températures minimales** : entre 20 et 22 °C
 **Températures maximales** : entre 34 et 36 °C`
 ];
