@@ -1,7 +1,7 @@
 {
   "alert": {
-    "level": "green",
-    "type": "cyclone"
+    "level": "yellow",
+    "type": "wind"
   },
   "slides": [
     {
@@ -9,7 +9,7 @@
       "title": "Aucune vigilance ou alerte en cours pour la Région BOENY",
       "description": "Les conditions météorologiques sont calmes pour les prochains jours.\nRestez informé en cas d’évolution de la situation.",
       "image": "vigilance-vide.jpg",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "river-warning-gezani",
@@ -23,13 +23,13 @@
       "title": "Vigilance vent fort - Forte Vague/Houle",
       "description": "Rivotra: Tombanana hahatratra 55/65 Km/ora ny hamafin’ny rivotra izay mety harahina tafiotra indraindray.\n\nAlondrano: Tombanana ho 3/5m ny haavon’ny onja, hisamonta ny ranomasina indraindray ka hahatratra 6m eo anelanelan’i Maintirano sy Soalala.",
       "image": "vigilance_vent1.png",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "regional-river-warning",
-      "title": "FAHAMAILONA AMIN’ NY METY HO FIAKARAN’NY RENIRANO | FARITRA BOENY, BETSIBOKA, SOFIA, MELAKY",
-      "description": "Alakamisy 29 Janoary 2026 - 01 ora tolakandro\n\nAraka ny vinavina dia mbola mety hisy fiakarany ny haavon’ny rano amin’ireo renirano sasantsasany, noho ny fiantraikan’ny rotsakorana ao anaty sahandriaka ho an’ireto faritra ireto: Boeny, Betsiboka, Sofia ary Melaky.\n\nNoho izany, mbola manan-kery ny fampitandremana miloko mena amin’ny mety ho fiakaran’ny rano ho an’ireo mponina manamorona ny reniranon’i Betsiboka sy Mahajamba.\n\nFampitandremana miloko mavo: ho an’ireo mponina manamorona ny reniranon’i Sofia sy Mahavavy Sud. Vinavinaina hahatratra ny fetra ny reniranon’i Mahavavy Sud ny 31 Janoary 2026.\n\nFampitandremana miloko maintso: ho an’ireo mponina manamorona ny reniranon’i Sambao ary vinavinaina hahatratra ny fetra ny 31 Janoary 2026.",
-      "image": "vigilance-flood1.png",
+      "title": "TEST --- FAHAMAILONA AMIN’ NY METY HO FIAKARAN’NY RENIRANO | FARITRA BOENY, BETSIBOKA, SOFIA, MELAKY",
+      "description": "Alakamisy 29 Janoary 2026 - 01 ora tolakandro\n\nAraka ny vinavina dia mbola mety hisy fiakarany ny haavon’ny rano amin’ireo renirano sasantsasany, noho ny fiantraikan’ny rotsakorana ao anaty sahandriaka ho an’ireto faritra ireto: Boeny, Betsiboka, Sofia ary Melaky.\n\nTEST -- Noho izany, mbola manan-kery ny fampitandremana miloko mena amin’ny mety ho fiakaran’ny rano ho an’ireo mponina manamorona ny reniranon’i Betsiboka sy Mahajamba.\n\nFampitandremana miloko mavo: ho an’ireo mponina manamorona ny reniranon’i Sofia sy Mahavavy Sud. Vinavinaina hahatratra ny fetra ny reniranon’i Mahavavy Sud ny 31 Janoary 2026.\n\nFampitandremana miloko maintso: ho an’ireo mponina manamorona ny reniranon’i Sambao ary vinavinaina hahatratra ny fetra ny 31 Janoary 2026.\n--- TEST ",
+      "image": "assets/uploads/1788378228968-vigilance-rainflood.png",
       "enabled": true
     }
   ]
