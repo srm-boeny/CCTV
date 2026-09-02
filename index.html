@@ -4,121 +4,47 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Prévision journalière BOENY</title>
-  <style>
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
+  <link rel="stylesheet" href="./assets/css/style.css" />
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1DB8F23ZD3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-    html, body {
-      height: 100%;
-      overflow: hidden;
-      font-family: Arial, sans-serif;
-      background-color: blue;
-      color: white;
-      text-align: center;
-    }
-
-    #header {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 60px;
-      background-color: rgba(0, 38, 71, 1);
-      padding: 10px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      z-index: 1000;
-    }
-
-    #date-time {
-      font-size: 1.2rem;
-    }
-
-    #logo-container {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      max-width: 40%;
-    }
-
-    #logo {
-      width: 100px;
-      height: auto;
-    }
-
-    .alert-icon {
-      width: 30px;
-      height: auto;
-    }
-
-    #message {
-      position: absolute;
-      bottom: 0;
-      width: 100%;
-      font-size: 2rem;
-      white-space: pre-wrap;
-      padding: 10px;
-    }
-
-    #image-container {
-      position: absolute;
-      top: 60px;
-      left: 0;
-      width: 100vw;
-      height: calc(100vh - 60px); /* Below header */
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
-    .alert-image {
-      max-width: 100%;
-      max-height: 100%;
-      object-fit: contain;
-    }
-    @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
-    }
-    
-    #footer {
-      position: fixed;
-      bottom: 10px;
-      right: 15px;
-      font-size: 0.9rem;
-      color: white;
-      opacity: 0.7;
-      z-index: 1000;
-    }
-  </style>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1DB8F23ZD3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-1DB8F23ZD3');
-</script>
+    gtag('config', 'G-1DB8F23ZD3');
+  </script>
 </head>
 <body>
-  <div id="header">
+  <header id="header">
     <div id="date-time"></div>
+    <div id="alert-status">Situation normale</div>
     <div id="logo-container">
+      <a class="admin-access" href="./admin/" aria-label="Administration" title="Administration">⚙</a>
       <img id="alert-icon" class="alert-icon" src="icon-warning-generic-yellow.png" alt="Alerte" />
       <img id="logo" src="logo-meteo.png" alt="Logo" />
     </div>
-  </div>
+  </header>
 
-  <div id="message"></div>
-
-  <div id="image-container">
-    <img src="your-image.png" class="alert-image" alt="Image CCTV" />
-  </div>
+  <main id="app-shell">
+    <section id="slide" aria-live="polite">
+      <div id="image-container">
+        <img src="Fond_rq.png" class="alert-image" alt="Bulletin météo" />
+      </div>
+      <aside id="message-panel">
+        <div id="slide-title">Prévisions journalières BOENY</div>
+        <div id="message"></div>
+        <div id="slide-meta">
+          <div id="slide-counter">0 / 0</div>
+          <div id="slide-dots" aria-hidden="true"></div>
+          <div id="slide-controls">
+            <button id="prev-slide" class="control-button" type="button" aria-label="Slide précédente">‹</button>
+            <button id="next-slide" class="control-button" type="button" aria-label="Slide suivante">›</button>
+          </div>
+        </div>
+      </aside>
+    </section>
+  </main>
 
   <script src="./assets/js/script.js"></script>
 

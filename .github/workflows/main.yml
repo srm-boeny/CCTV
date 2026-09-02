@@ -32,7 +32,7 @@ jobs:
           
       - name: execute py script # run dataScrapping
         run:
-          python datascrappingMeteoMada.py
+          python process/datascrappingMeteoMada.py
           
       - name: commit files
         run: |

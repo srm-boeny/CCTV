@@ -1,47 +1,28 @@
-// --- CONFIGURABLE PARAMETERS ---
-const niveauAlerte = "none";       // Options: "none", "blue", "green", "yellow", "red"
-const typeCatastrophe = "flood"; // Options: "cyclone", "flood", "rainflood", "forestfire", "lightning", "stormsurge", "drivingconditions"
+const defaultWebmasterContent = {
+    alert: { level: "none", type: "generic" },
+    slides: []
+};
 
-const vigilanceMessages = [
-    {
-        message: `✅ **Aucune vigilance ou alerte en cours pour la Région BOENY**  
-Les conditions météorologiques sont calmes pour les prochains jours.  
-Restez informé en cas d’évolution de la situation.`,
-        image: 'vigilance-vide.jpg'
-    },
-    {
-        message: `**FAMPITANDREMANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO ** 
+let webmasterContent = defaultWebmasterContent;
 
-Nohon'ny fandalovan'ny Rivodoza GEZANI izay hiditra antanety anio alina ka hamakivaky ny faritra Atsinanana, Alaotra mangoro, Analamanga, Bongolava ary hivoaka any Andrefan'ny Madagasikara dia misy ny FAMPITANDREMANA AMIN’ NY METY HO FIAKARAN’NY RENIRANO ho antsika eto BOENY : 
-Novokarina ny: Talata faha 10 Febroary 2026 tamin’ny 01 ora tolak’andro
-Manankery hatramin’ny: Alarobia 11 Febroary 2026
-Hiakatra miandalana ny renirano nohon'ny fahabetsahan'ny rotsakorana ao anatin'ny sahandriaka ka ireto renirano ireto no mahazo fampitandremana MILOKO MENA ho antsika eto BOENY: 
-- Renirano Betsiboka : Ao amin'ny Distrika Ambato Boeny, Marovoay
-- Renirano Mahavavy Sud : Ao amin'ny Distrika Mitsinjo, Ambato Boeny. 
-Ka noho izany dia entanina ho mailo hatrany no handray ny fanampahan-kevitra mifanaraka amin'izany ireo manamorona ny renirano voantonona ireo. 
+async function loadWebmasterContent() {
+    try {
+        const response = await fetch('content/webmaster-content.json', { cache: 'no-store' });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
-⚠️Entanina ny rehetra mba hanaraka hatrany ny toromarika omen’ny manam-pahefana isan-tokony.⚠️`,
-        image: 'vigilance-flood1.png'
-    },
-    {
-        message: `**Vigilance vent fort - Forte  Vague/Houle**  
-Rivotra: Tombanana hahatratra 55/65 Km/ora ny hamafin’ny rivotra izay mety harahina tafiotra indraindray.
-
-Alondrano: Tombanana ho 3/5m ny haavon’ny
-onja, hisamonta ny ranomasina indraindray ka hahatratra 6m eo anelanelan’i Maintirano sy Soalala.
-
-`,
-        image: 'vigilance_vent1.png'
-    },
-    {
-        message: `**FAHAMAILONA AMIN’ NY METY HO FIAKARAN’NY RENIRANO | FARITRA BOENY, BETSIBOKA, SOFIA, MELAKY– Alakamisy 29 Janoary 2026 _ 01 ora tolakandro**  
-Araka ny vinavina dia mbola mety hisy fiakarany ny haavon’ny rano amin’ireo renirano sasantsasany, noho ny fiantraikan’ny rotsakorana ao anaty sahandriaka ho an’ireto faritra ireto: Boeny, Betsiboka, Sofia ary Melaky.
-📕📕 Noho izany, mbola manan-kery ny fampitandremana miloko mena amin’ny mety ho fiakaran’ny rano ho an’ireo mponina manamorona ny reniranon’i Betsiboka sy Mahajamba.
-📒📒 Fampitandremana miloko mavo: ho an’ireo mponina manamorona ny reniranon’i Sofia sy Mahavavy Sud. Vinavinaina hahatratra ny fetra ny reniranon’i Mahavavy Sud ny 31 Janoary 2026.
-📗📗 Fampitandremana miloko maintso : ho an’ireo mponina manamorona ny reniranon’i Sambao ary vinavinaina hahatratra ny fetra ny 31 Janoary 2026.`,
-        image: 'vigilance-flood1.png'
-    },
-];
+        const content = await response.json();
+        webmasterContent = {
+            alert: {
+                level: content.alert?.level || defaultWebmasterContent.alert.level,
+                type: content.alert?.type || defaultWebmasterContent.alert.type
+            },
+            slides: Array.isArray(content.slides) ? content.slides : []
+        };
+    } catch (error) {
+        console.error('Unable to load webmaster content:', error);
+        webmasterContent = defaultWebmasterContent;
+    }
+}
 
 const MarineMessages = [
     {
@@ -142,13 +123,16 @@ async function prepareValidEntries() {
         });
     }
 
-    // 2. --- MULTIPLE VIGILANCE MESSAGES ---
-    for (const vig of vigilanceMessages) {
-        const exists = await checkImageExists(vig.image);
+    // 2. --- WEBMASTER-MANAGED MESSAGES ---
+    for (const slide of webmasterContent.slides) {
+        if (slide.enabled === false || !slide.image) continue;
+
+        const exists = await checkImageExists(slide.image);
         if (exists) {
+            const message = `**${slide.title || 'Bulletin météorologique'}**\n${slide.description || ''}`;
             entries.push({
-                message: formatBoldAndUpper(vig.message),
-                image: vig.image
+                message: formatBoldAndUpper(message),
+                image: slide.image
             });
         }
     }
@@ -220,165 +204,172 @@ async function prepareValidEntries() {
 const messageElement = document.getElementById('message');
 const imageContainer = document.getElementById('image-container');
 const logoContainer = document.getElementById("logo-container");
+const slideElement = document.getElementById('slide');
+const slideTitleElement = document.getElementById('slide-title');
+const slideCounterElement = document.getElementById('slide-counter');
+const slideDotsElement = document.getElementById('slide-dots');
+const alertStatusElement = document.getElementById('alert-status');
+const previousButton = document.getElementById('prev-slide');
+const nextButton = document.getElementById('next-slide');
 
-//const delayVigilance = 5000; 
-const scrollDuration = 15000;
-const afterScrollPause = 100;
-const scrollSpeed = 30;
-const delayVigilance = 5000;
+const slideDelay = 12000;
+const transitionDelay = 420;
+const alertLevels = ["none", "blue", "green", "yellow", "orange", "red"];
+let validEntries = [];
+let currentSlideIndex = 0;
+let slideTimer = null;
+let globalAlertLevel = "none";
 
-// --- HIDE IMAGES ---
-function hideImages() {
-    imageContainer.style.opacity = 0;
+function delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-//function scrollMessage(message, { delay = 0, speed = scrollSpeed } = {}) {
-//    return new Promise(resolve => {
-//        const el = messageElement;
-//
-//        el.innerHTML = message;
-//        el.style.position = 'absolute';
-//        el.style.left = '0';
-//        el.style.right = '0';
-
-//        el.style.transition = 'none';
-//        el.style.transform = 'translateY(100%)';
-//        el.style.visibility = 'hidden';
-
-//        void el.offsetHeight;
-
-//        const containerHeight = el.parentElement.offsetHeight;
-//        const textHeight = el.scrollHeight;
-//        const distance = textHeight + containerHeight; // px à parcourir
-//        const duration = (distance / speed) * 1000; // ms
-
-//        setTimeout(() => {
-//            el.style.visibility = 'visible';
-//            el.style.transition = `transform ${duration}ms linear`;
-//            el.style.transform = `translateY(-${textHeight}px)`;
-
-//            const done = () => {
-//                el.removeEventListener('transitionend', done);
-//                resolve();
-//            };
-//            el.addEventListener('transitionend', done, { once: true });
-//            setTimeout(done, duration + 200); // fallback
-//        }, delay);
-//    });
-//}
-
-function scrollMessage(message, { delay = 0, speed = scrollSpeed } = {}) {
-    return new Promise(resolve => {
-        const el = messageElement;
-
-        // Put the message inside the container
-        el.innerHTML = message;
-        el.style.position = 'absolute';
-        el.style.left = '0';
-        el.style.right = '0';
-
-        // Reset transform before measuring
-        el.style.transition = 'none';
-        el.style.transform = 'translateY(100%)';
-        el.style.visibility = 'hidden';
-
-        void el.offsetHeight; // force reflow
-
-        const containerHeight = el.parentElement.offsetHeight;
-        const textHeight = el.scrollHeight;
-        const distance = textHeight + containerHeight; // total distance to scroll
-        const duration = (distance / speed) * 1000;    // ms based on speed
-
-        setTimeout(() => {
-            el.style.visibility = 'visible';
-            el.style.transition = `transform ${duration}ms linear`;
-            // Move text fully outside the top of container
-            el.style.transform = `translateY(-${distance}px)`;
-
-            const done = () => {
-                el.removeEventListener('transitionend', done);
-                resolve();
-            };
-            el.addEventListener('transitionend', done, { once: true });
-
-            // Safety fallback
-            setTimeout(done, duration + 200);
-        }, delay);
-    });
+function configuredAlertLevel() {
+    const value = String(webmasterContent.alert.level || "none").toLowerCase();
+    return alertLevels.includes(value) ? value : "none";
 }
 
-
-
-async function displayMessages() {
-    const validEntries = await prepareValidEntries();
-
-    while (true) {
-        for (const entry of validEntries) {
-            const isVigilance =
-                /vigilance/i.test(entry.image || '') ||
-                /vigilance|fampitandremana|hamafin/i.test(entry.message || '');
-
-            if (isVigilance) {
-
-                hideImages();
-                await scrollMessage(entry.message, { delay: delayVigilance });
-
-                imageContainer.innerHTML = '';
-                const img = document.createElement('img');
-                img.src = entry.image;
-                img.classList.add('alert-image');
-                imageContainer.appendChild(img);
-
-                setTimeout(() => {
-                    imageContainer.style.opacity = 1;
-                }, 1000);
-
-                await new Promise(r => setTimeout(r, 9000));
-            } else {
-
-                hideImages();
-                await scrollMessage(entry.message);
-
-                imageContainer.innerHTML = '';
-                const img = document.createElement('img');
-                img.src = entry.image;
-                img.classList.add('alert-image');
-                imageContainer.appendChild(img);
-
-                setTimeout(() => {
-                    imageContainer.style.opacity = 1;
-                }, 1000);
-
-                await new Promise(r => setTimeout(r, 9000));
-            }
-        }
-    }
+function configuredAlertType() {
+    return String(webmasterContent.alert.type || "generic").toLowerCase();
 }
 
+function alertLabel(level) {
+    const labels = {
+        none: "Situation normale",
+        blue: "Information vigilance",
+        green: "Vigilance verte",
+        yellow: "Vigilance jaune",
+        orange: "Vigilance orange",
+        red: "Vigilance rouge"
+    };
 
+    return labels[level] || labels.none;
+}
 
-// --- ALERT ICON LOGIC ---
-const ancienneIcone = document.getElementById("alert-icon");
-if (ancienneIcone) ancienneIcone.remove();
+function updateAlertFrame(level) {
+    const nextLevel = alertLevels.includes(level) ? level : "none";
+    document.body.classList.remove(
+        "alert-none",
+        "alert-blue",
+        "alert-green",
+        "alert-yellow",
+        "alert-orange",
+        "alert-red"
+    );
+    document.body.classList.add(`alert-${nextLevel}`);
+    alertStatusElement.textContent = alertLabel(nextLevel);
+}
 
-if (niveauAlerte !== "none") {
+function updateAlertIcon(level) {
+    const ancienneIcone = document.getElementById("alert-icon");
+    if (ancienneIcone) ancienneIcone.remove();
+
+    if (level === "none") return;
+
     const icone = document.createElement("img");
     icone.id = "alert-icon";
     icone.classList.add("alert-icon");
+    icone.alt = alertLabel(level);
+    icone.src = `img/icon-warning-${configuredAlertType()}-${level}.png`;
+    icone.onerror = () => {
+        const genericLevel = level === "blue" ? "green" : level;
+        icone.onerror = null;
+        icone.src = `img/icon-warning-generic-${genericLevel}.png`;
+    };
 
-    const niveauCouleur = niveauAlerte.toLowerCase();
-    const type = typeCatastrophe.toLowerCase();
-
-    icone.src = `img/icon-warning-${type}-${niveauCouleur}.png`;
-
-    if (niveauCouleur === "red") {
+    if (level === "red") {
         icone.style.animation = "blink 1s infinite";
-    } else if (niveauCouleur === "yellow") {
+    } else if (level === "orange" || level === "yellow") {
         icone.style.animation = "blink 1.5s infinite";
     }
 
     logoContainer.prepend(icone);
 }
+
+function splitTitleAndBody(htmlMessage) {
+    const container = document.createElement('div');
+    container.innerHTML = htmlMessage;
+    const firstStrong = container.querySelector('strong');
+
+    if (!firstStrong) {
+        return {
+            title: "Bulletin météorologique",
+            body: htmlMessage
+        };
+    }
+
+    const title = firstStrong.textContent.trim();
+    firstStrong.remove();
+
+    return {
+        title,
+        body: container.innerHTML.trim()
+    };
+}
+
+function renderDots() {
+    slideDotsElement.innerHTML = '';
+
+    validEntries.forEach((_, index) => {
+        const dot = document.createElement('button');
+        dot.type = 'button';
+        dot.className = `slide-dot${index === currentSlideIndex ? ' is-active' : ''}`;
+        dot.setAttribute('aria-label', `Afficher la slide ${index + 1}`);
+        dot.addEventListener('click', () => showSlide(index, true));
+        slideDotsElement.appendChild(dot);
+    });
+}
+
+function renderSlide(entry) {
+    const { title, body } = splitTitleAndBody(entry.message);
+    const img = document.createElement('img');
+    img.src = entry.image;
+    img.classList.add('alert-image');
+    img.alt = title || "Bulletin météo";
+
+    imageContainer.innerHTML = '';
+    imageContainer.appendChild(img);
+    slideTitleElement.textContent = title;
+    messageElement.innerHTML = body;
+    messageElement.scrollTop = 0;
+    slideCounterElement.textContent = `${currentSlideIndex + 1} / ${validEntries.length}`;
+    renderDots();
+}
+
+async function showSlide(index, manual = false) {
+    if (!validEntries.length) return;
+
+    currentSlideIndex = (index + validEntries.length) % validEntries.length;
+    if (manual && slideTimer) clearTimeout(slideTimer);
+
+    slideElement.classList.add('is-changing');
+    await delay(transitionDelay);
+    renderSlide(validEntries[currentSlideIndex]);
+    slideElement.classList.remove('is-changing');
+
+    if (slideTimer) clearTimeout(slideTimer);
+    slideTimer = setTimeout(() => showSlide(currentSlideIndex + 1), slideDelay);
+}
+
+async function displayMessages() {
+    await loadWebmasterContent();
+    validEntries = await prepareValidEntries();
+
+    if (!validEntries.length) {
+        slideTitleElement.textContent = "Aucun bulletin disponible";
+        messageElement.textContent = "Aucune image météo disponible pour l'instant.";
+        slideCounterElement.textContent = "0 / 0";
+        return;
+    }
+
+    globalAlertLevel = configuredAlertLevel();
+    updateAlertFrame(globalAlertLevel);
+    updateAlertIcon(globalAlertLevel);
+    showSlide(0);
+}
+
+previousButton.addEventListener('click', () => showSlide(currentSlideIndex - 1, true));
+nextButton.addEventListener('click', () => showSlide(currentSlideIndex + 1, true));
 
 // --- DATE/TIME UPDATE ---
 function updateDateTime() {
