@@ -1,6 +1,7 @@
 const defaultWebmasterContent = {
     alert: { level: "none", type: "generic" },
-    slides: []
+    slides: [],
+    forecastOverrides: []
 };
 
 let webmasterContent = defaultWebmasterContent;
@@ -16,7 +17,8 @@ async function loadWebmasterContent() {
                 level: content.alert?.level || defaultWebmasterContent.alert.level,
                 type: content.alert?.type || defaultWebmasterContent.alert.type
             },
-            slides: Array.isArray(content.slides) ? content.slides : []
+            slides: Array.isArray(content.slides) ? content.slides : [],
+            forecastOverrides: Array.isArray(content.forecastOverrides) ? content.forecastOverrides : []
         };
     } catch (error) {
         console.error('Unable to load webmaster content:', error);
@@ -94,6 +96,29 @@ function formatFrenchDate(date) {
     });
 }
 
+function formatDateKey(date) {
+    const parts = new Intl.DateTimeFormat('en-US', {
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        timeZone: 'Indian/Antananarivo'
+    }).formatToParts(date);
+    const values = Object.fromEntries(parts.map(part => [part.type, part.value]));
+    return `${values.year}-${values.month}-${values.day}`;
+}
+
+function forecastOverrideFor(date) {
+    const dateKey = formatDateKey(date);
+    return webmasterContent.forecastOverrides.find(override => (
+        override.enabled === true && override.date === dateKey
+    ));
+}
+
+function forecastDescription(date, automaticDescription) {
+    const override = forecastOverrideFor(date);
+    return override?.description?.trim() || automaticDescription;
+}
+
 // --- CHECK IF IMAGE EXISTS ---
 function checkImageExists(src) {
     return new Promise((resolve) => {
@@ -164,9 +189,18 @@ async function prepareValidEntries() {
 
     const existing = [];
     for (let i = 0; i < 3; i++) {
-        const exists = await checkImageExists(filenames[i]);
+        const override = forecastOverrideFor(dates[i]);
+        const automaticImage = filenames[i];
+        let image = override?.image?.trim() || automaticImage;
+        let exists = await checkImageExists(image);
+
+        if (!exists && image !== automaticImage) {
+            image = automaticImage;
+            exists = await checkImageExists(image);
+        }
+
         if (exists) {
-            existing.push({ date: dates[i], image: filenames[i], index: i });
+            existing.push({ date: dates[i], image, index: i });
         }
     }
 
@@ -175,8 +209,9 @@ async function prepareValidEntries() {
         existing[1].index === 1 &&
         existing[2].index === 2) {
         for (let i = 0; i < 3; i++) {
+            const description = forecastDescription(existing[i].date, templates[i]);
             entries.push({
-                message: formatBoldAndUpper(`**Prévisions pour le ${formatFrenchDate(existing[i].date)}**\n${templates[i]}`),
+                message: formatBoldAndUpper(`**Prévisions pour le ${formatFrenchDate(existing[i].date)}**\n${description}`),
                 image: existing[i].image
             });
         }
@@ -184,14 +219,16 @@ async function prepareValidEntries() {
                existing[0].index === 0 &&
                existing[1].index === 1) {
         for (let i = 0; i < 2; i++) {
+            const description = forecastDescription(existing[i].date, templates[i + 1]);
             entries.push({
-                message: formatBoldAndUpper(`**Prévisions pour le ${formatFrenchDate(existing[i].date)}**\n${templates[i + 1]}`),
+                message: formatBoldAndUpper(`**Prévisions pour le ${formatFrenchDate(existing[i].date)}**\n${description}`),
                 image: existing[i].image
             });
         }
     } else if (existing.length === 1 && existing[0].index === 0) {
+        const description = forecastDescription(existing[0].date, templates[2]);
         entries.push({
-            message: formatBoldAndUpper(`**Prévisions pour le ${formatFrenchDate(existing[0].date)}**\n${templates[2]}`),
+            message: formatBoldAndUpper(`**Prévisions pour le ${formatFrenchDate(existing[0].date)}**\n${description}`),
             image: existing[0].image
         });
     }

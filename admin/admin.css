@@ -319,6 +319,35 @@ textarea {
   gap: 14px;
 }
 
+.forecast-date-key,
+.forecast-note {
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+.forecast-date {
+  margin: 3px 0 0;
+  font-size: 1.08rem;
+  letter-spacing: 0;
+}
+
+.forecast-note {
+  line-height: 1.4;
+}
+
+.forecast-editor.is-automatic .forecast-preview,
+.forecast-editor.is-automatic textarea,
+.forecast-editor.is-automatic .upload-button,
+.forecast-editor.is-automatic .clear-forecast-image {
+  opacity: 0.58;
+}
+
+.clear-forecast-image {
+  min-height: 34px;
+  padding: 4px 8px;
+  font-size: 0.78rem;
+}
+
 .slide-toolbar,
 .order-controls,
 .enabled-control,
