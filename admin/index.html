@@ -26,7 +26,7 @@
         <img src="../logo-meteo.png" alt="Météo Madagascar" />
         <h2 id="login-title">Connexion GitHub</h2>
         <form id="login-form">
-          <label for="github-token">Jeton d’accès GitHub</label>
+          <label for="github-token">Token GitHub</label>
           <input
             id="github-token"
             name="github-token"
@@ -35,16 +35,29 @@
             spellcheck="false"
             required
           />
-          <p class="field-help">Jeton limité au dépôt CCTV avec l’autorisation Contents en lecture et écriture.</p>
+          <p class="field-help">Token Github en relation avec ce repository.
+             Veuillez contacter Di Haja. </p>
           <button class="primary-button" type="submit">Se connecter</button>
         </form>
         <a class="token-link" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener noreferrer">
-          Créer un jeton GitHub
+          Créer un token GitHub
         </a>
       </div>
     </section>
 
     <form id="editor-view" class="editor-view" hidden>
+
+      <section class="forecast-section" aria-labelledby="forecast-title">
+        <div class="section-heading">
+          <div>
+            <h1> CONTENU SUR LES PREVISIONS JOURNALIERES </h1>
+            <p class="eyebrow">PRÉVISIONS AUTOMATIQUES</p>
+            <h2 id="forecast-title">Corrections du prévisionniste</h2>
+          </div>
+        </div>
+        <div id="forecast-list" class="slides-list"></div>
+      </section>
+
       <section class="settings-band" aria-labelledby="alert-title">
         <div>
           <p class="eyebrow">AFFICHAGE PUBLIC</p>
@@ -55,10 +68,9 @@
             Intensité
             <select id="alert-level" required>
               <option value="none">Aucune</option>
-              <option value="blue">Information bleue</option>
+              <option value="blue">Bleue</option>
               <option value="green">Verte</option>
               <option value="yellow">Jaune</option>
-              <option value="orange">Orange</option>
               <option value="red">Rouge</option>
             </select>
           </label>
@@ -82,6 +94,7 @@
       <section class="slides-section" aria-labelledby="slides-title">
         <div class="section-heading">
           <div>
+            <h1> CONTENU SUR LES ALERTES ET VIGILANCES </h1>
             <p class="eyebrow">CONTENU</p>
             <h2 id="slides-title">Images et descriptions</h2>
           </div>
@@ -128,6 +141,42 @@
           Description
           <textarea class="slide-description" rows="8" maxlength="6000"></textarea>
         </label>
+      </div>
+    </article>
+  </template>
+
+  <template id="forecast-template">
+    <article class="slide-editor forecast-editor">
+      <div class="slide-preview-wrap">
+        <img class="slide-preview forecast-preview" alt="Aperçu de la prévision" />
+        <label class="upload-button">
+          Remplacer l’image
+          <input class="forecast-file" type="file" accept="image/png,image/jpeg" />
+        </label>
+        <button class="text-button clear-forecast-image" type="button">Utiliser l’image automatique</button>
+        <p class="image-path forecast-image-path"></p>
+      </div>
+      <div class="slide-fields">
+        <div class="slide-toolbar">
+          <div>
+            <p class="forecast-date-key"></p>
+            <h3 class="forecast-date"></h3>
+          </div>
+          <label class="enabled-control">
+            <input class="forecast-enabled" type="checkbox" />
+            Correction manuelle
+          </label>
+        </div>
+        <label>
+          Description corrigée
+          <textarea
+            class="forecast-description"
+            rows="9"
+            maxlength="6000"
+            placeholder="Laisser vide pour conserver la description automatique"
+          ></textarea>
+        </label>
+        <p class="forecast-note">Les champs vides conservent la prévision produite automatiquement.</p>
       </div>
     </article>
   </template>

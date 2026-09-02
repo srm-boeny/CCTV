@@ -22,10 +22,16 @@ const alertTypeInput = document.getElementById('alert-type');
 const slidesList = document.getElementById('slides-list');
 const slideTemplate = document.getElementById('slide-template');
 const addSlideButton = document.getElementById('add-slide');
+const forecastList = document.getElementById('forecast-list');
+const forecastTemplate = document.getElementById('forecast-template');
 
 let accessToken = '';
 let contentSha = '';
-let content = { alert: { level: 'none', type: 'generic' }, slides: [] };
+let content = {
+  alert: { level: 'none', type: 'generic' },
+  slides: [],
+  forecastOverrides: []
+};
 const pendingUploads = new Map();
 
 function setStatus(message, type = '') {
@@ -97,6 +103,37 @@ function safeImageName(filename) {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-|-$/g, '') || 'image';
   return `${Date.now()}-${base}${extension}`;
+}
+
+function forecastDays() {
+  const dateParts = new Intl.DateTimeFormat('en-US', {
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    timeZone: 'Indian/Antananarivo'
+  }).formatToParts(new Date());
+  const values = Object.fromEntries(dateParts.map(part => [part.type, part.value]));
+  const firstDay = Date.UTC(Number(values.year), Number(values.month) - 1, Number(values.day));
+
+  return Array.from({ length: 3 }, (_, index) => {
+    const date = new Date(firstDay + (index * 24 * 60 * 60 * 1000));
+    const key = date.toISOString().slice(0, 10);
+    return {
+      key,
+      label: date.toLocaleDateString('fr-FR', {
+        weekday: 'long',
+        day: '2-digit',
+        month: 'long',
+        year: 'numeric',
+        timeZone: 'UTC'
+      }),
+      automaticImage: `assets/maps/weather_map_${key}.png`
+    };
+  });
+}
+
+function forecastUploadKey(date) {
+  return `forecast-${date}`;
 }
 
 function previewSource(slide) {
@@ -192,10 +229,93 @@ function renderSlides() {
   updateMoveButtons();
 }
 
+function renderForecastOverrides() {
+  forecastList.innerHTML = '';
+
+  forecastDays().forEach(day => {
+    const override = content.forecastOverrides.find(item => item.date === day.key);
+    if (!override) return;
+
+    const editor = forecastTemplate.content.firstElementChild.cloneNode(true);
+    const enabledInput = editor.querySelector('.forecast-enabled');
+    const descriptionInput = editor.querySelector('.forecast-description');
+    const fileInput = editor.querySelector('.forecast-file');
+    const clearImageButton = editor.querySelector('.clear-forecast-image');
+    const preview = editor.querySelector('.forecast-preview');
+    const imagePath = editor.querySelector('.forecast-image-path');
+    const uploadKey = forecastUploadKey(day.key);
+    const pending = pendingUploads.get(uploadKey);
+
+    editor.querySelector('.forecast-date-key').textContent = day.key;
+    editor.querySelector('.forecast-date').textContent = day.label;
+    enabledInput.checked = override.enabled === true;
+    descriptionInput.value = override.description || '';
+    preview.src = pending?.previewUrl || `../${override.image || day.automaticImage}`;
+    imagePath.textContent = override.image || `${day.automaticImage} (automatique)`;
+
+    const updateEnabledState = () => {
+      const isEnabled = enabledInput.checked;
+      override.enabled = isEnabled;
+      editor.classList.toggle('is-automatic', !isEnabled);
+      descriptionInput.disabled = !isEnabled;
+      fileInput.disabled = !isEnabled;
+      clearImageButton.disabled = !isEnabled;
+    };
+
+    enabledInput.addEventListener('change', updateEnabledState);
+    descriptionInput.addEventListener('input', event => {
+      override.description = event.target.value;
+    });
+
+    fileInput.addEventListener('change', event => {
+      const [file] = event.target.files;
+      if (!file) return;
+      if (!['image/png', 'image/jpeg'].includes(file.type)) {
+        event.target.value = '';
+        setStatus('Format refusé. Utilisez une image PNG ou JPEG.', 'error');
+        return;
+      }
+      if (file.size > maxImageSize) {
+        event.target.value = '';
+        setStatus('L’image dépasse la taille maximale de 10 Mo.', 'error');
+        return;
+      }
+
+      const previous = pendingUploads.get(uploadKey);
+      if (previous?.previewUrl) URL.revokeObjectURL(previous.previewUrl);
+
+      const path = `assets/uploads/${safeImageName(file.name)}`;
+      const previewUrl = URL.createObjectURL(file);
+      pendingUploads.set(uploadKey, { file, path, previewUrl });
+      override.image = path;
+      preview.src = previewUrl;
+      imagePath.textContent = path;
+      setStatus('Image de prévision prête à être publiée.');
+    });
+
+    clearImageButton.addEventListener('click', () => {
+      const upload = pendingUploads.get(uploadKey);
+      if (upload?.previewUrl) URL.revokeObjectURL(upload.previewUrl);
+      pendingUploads.delete(uploadKey);
+      override.image = '';
+      fileInput.value = '';
+      preview.src = `../${day.automaticImage}`;
+      imagePath.textContent = `${day.automaticImage} (automatique)`;
+    });
+
+    updateEnabledState();
+    forecastList.appendChild(editor);
+  });
+}
+
 async function loadContent() {
   const path = `/repos/${repository.owner}/${repository.name}/contents/${repository.contentPath}?ref=${repository.branch}`;
   const file = await apiRequest(path);
   const parsed = JSON.parse(decodeBase64Utf8(file.content));
+  const storedForecastOverrides = new Map(
+    (Array.isArray(parsed.forecastOverrides) ? parsed.forecastOverrides : [])
+      .map(override => [override.date, override])
+  );
 
   contentSha = file.sha;
   content = {
@@ -211,12 +331,22 @@ async function loadContent() {
           image: slide.image || '',
           enabled: slide.enabled !== false
         }))
-      : []
+      : [],
+    forecastOverrides: forecastDays().map(day => {
+      const stored = storedForecastOverrides.get(day.key);
+      return {
+        date: day.key,
+        enabled: stored?.enabled === true,
+        description: stored?.description || '',
+        image: stored?.image || ''
+      };
+    })
   };
 
   alertLevelInput.value = content.alert.level;
   alertTypeInput.value = content.alert.type;
   renderSlides();
+  renderForecastOverrides();
 }
 
 async function publishFile(path, base64Content, message, sha = '') {
@@ -297,7 +427,7 @@ editorView.addEventListener('submit', async event => {
       await publishFile(upload.path, imageContent, `Ajout de ${upload.file.name}`);
     }
 
-    setStatus('Publication des descriptions et de la vigilance…');
+    setStatus('Publication des descriptions, prévisions et vigilances…');
     const json = `${JSON.stringify(content, null, 2)}\n`;
     const result = await publishFile(
       repository.contentPath,
@@ -309,6 +439,8 @@ editorView.addEventListener('submit', async event => {
     contentSha = result.content.sha;
     pendingUploads.forEach(upload => URL.revokeObjectURL(upload.previewUrl));
     pendingUploads.clear();
+    renderSlides();
+    renderForecastOverrides();
     setStatus('Publication terminée sur la branche main.', 'success');
   } catch (error) {
     setStatus(`Échec de la publication : ${error.message}`, 'error');
