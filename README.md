@@ -12,7 +12,7 @@ Retrouvez sur le site les bulletins et icônes météo réactualisés pour suivr
 
 | Jour | Condition Météo | Icône Symbol | Description & Tendances |
 | :--- | :--- | :---: | :--- |
-| **Jour 1** | Ensoleillé / Nuageux | ☀️ / 🌤️ | Beau temps prédominant avec développements nuageux locaux l'après-midi. |
+| **Jour 1** | Ensoleillé / Nuageux | ☀️ / 🌤️ | Temps ensoleiles prédominant avec développements nuageux locaux l'après-midi. |
 | **Jour 2** | Averses / Pluie | 🌧️ / 🌦️ | Risque d'averses orageuses ou de pluies intermittentes sur le littoral et l'intérieur. |
 | **Jour 3** | Ciel Dégagé / Vent | 🌤️ / 💨 | Retour d'un temps plus sec avec brise marine modérée le long des côtes. |
 
