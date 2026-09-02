@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta
+    http-equiv="Content-Security-Policy"
+    content="default-src 'self'; connect-src https://api.github.com; img-src 'self' data: blob: https://raw.githubusercontent.com; style-src 'self'; script-src 'self'; base-uri 'self'; form-action 'none'"
+  />
+  <title>Administration météo BOENY</title>
+  <link rel="stylesheet" href="./admin.css" />
+</head>
+<body>
+  <header class="admin-header">
+    <a class="back-link" href="../index.html" aria-label="Retour au bulletin" title="Retour au bulletin">←</a>
+    <div>
+      <p class="eyebrow">SRM BOENY</p>
+      <h1>Administration du bulletin</h1>
+    </div>
+    <div id="session-status" class="session-status">Non connecté</div>
+  </header>
+
+  <main class="admin-main">
+    <section id="login-view" class="login-view" aria-labelledby="login-title">
+      <div class="login-panel">
+        <img src="../logo-meteo.png" alt="Météo Madagascar" />
+        <h2 id="login-title">Connexion GitHub</h2>
+        <form id="login-form">
+          <label for="github-token">Jeton d’accès GitHub</label>
+          <input
+            id="github-token"
+            name="github-token"
+            type="password"
+            autocomplete="off"
+            spellcheck="false"
+            required
+          />
+          <p class="field-help">Jeton limité au dépôt CCTV avec l’autorisation Contents en lecture et écriture.</p>
+          <button class="primary-button" type="submit">Se connecter</button>
+        </form>
+        <a class="token-link" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener noreferrer">
+          Créer un jeton GitHub
+        </a>
+      </div>
+    </section>
+
+    <form id="editor-view" class="editor-view" hidden>
+      <section class="settings-band" aria-labelledby="alert-title">
+        <div>
+          <p class="eyebrow">AFFICHAGE PUBLIC</p>
+          <h2 id="alert-title">Niveau de vigilance</h2>
+        </div>
+        <div class="settings-grid">
+          <label for="alert-level">
+            Intensité
+            <select id="alert-level" required>
+              <option value="none">Aucune</option>
+              <option value="blue">Information bleue</option>
+              <option value="green">Verte</option>
+              <option value="yellow">Jaune</option>
+              <option value="orange">Orange</option>
+              <option value="red">Rouge</option>
+            </select>
+          </label>
+          <label for="alert-type">
+            Type de risque
+            <select id="alert-type" required>
+              <option value="generic">Générique</option>
+              <option value="cyclone">Cyclone</option>
+              <option value="flood">Inondation</option>
+              <option value="rainflood">Pluie et inondation</option>
+              <option value="forestfire">Feu de forêt</option>
+              <option value="lightning">Orage</option>
+              <option value="stormsurge">Submersion marine</option>
+              <option value="drivingconditions">Conditions routières</option>
+              <option value="wind">Vent fort</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <section class="slides-section" aria-labelledby="slides-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">CONTENU</p>
+            <h2 id="slides-title">Images et descriptions</h2>
+          </div>
+          <button id="add-slide" class="secondary-button" type="button">+ Ajouter</button>
+        </div>
+        <div id="slides-list" class="slides-list"></div>
+      </section>
+
+      <div class="publish-bar">
+        <div id="save-status" class="save-status" role="status" aria-live="polite"></div>
+        <button id="logout-button" class="text-button" type="button">Déconnexion</button>
+        <button id="save-button" class="primary-button" type="submit">Publier sur GitHub</button>
+      </div>
+    </form>
+  </main>
+
+  <template id="slide-template">
+    <article class="slide-editor">
+      <div class="slide-preview-wrap">
+        <img class="slide-preview" alt="Aperçu" />
+        <label class="upload-button">
+          Choisir une image
+          <input class="slide-file" type="file" accept="image/png,image/jpeg" />
+        </label>
+        <p class="image-path"></p>
+      </div>
+      <div class="slide-fields">
+        <div class="slide-toolbar">
+          <label class="enabled-control">
+            <input class="slide-enabled" type="checkbox" />
+            Afficher
+          </label>
+          <div class="order-controls">
+            <button class="icon-button move-up" type="button" aria-label="Monter" title="Monter">↑</button>
+            <button class="icon-button move-down" type="button" aria-label="Descendre" title="Descendre">↓</button>
+            <button class="icon-button delete-slide" type="button" aria-label="Supprimer" title="Supprimer">×</button>
+          </div>
+        </div>
+        <label>
+          Titre
+          <input class="slide-title-input" type="text" maxlength="180" required />
+        </label>
+        <label>
+          Description
+          <textarea class="slide-description" rows="8" maxlength="6000"></textarea>
+        </label>
+      </div>
+    </article>
+  </template>
+
+  <script src="./admin.js"></script>
+</body>
+</html>
