@@ -35,6 +35,10 @@ Le portail web est directement consultable à l'adresse :
 👉 **[https://srm-boeny.github.io/CCTV](https://srm-boeny.github.io/CCTV)**
 
 ---
+## 📅 Pour l'admin du page
+
+Le tutoriel d'administration du platforme est dans la page Wiki de ce repo. 
+[https://github.com/srm-boeny/CCTV/wiki/Tutoriel-d%E2%80%99administration-de-la-page-web-des-pr%C3%A9visions-journali%C3%A8res-du-SRM-Boeny]
 
 ## 📬 Signalement de Problèmes & Contact
 
