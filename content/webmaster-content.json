@@ -1,6 +1,6 @@
 {
   "alert": {
-    "level": "none",
+    "level": "green",
     "type": "wind"
   },
   "slides": [
@@ -9,7 +9,7 @@
       "title": "Aucune vigilance ou alerte en cours pour la Région BOENY",
       "description": "Les conditions météorologiques sont calmes pour les prochains jours.\nRestez informé en cas d’évolution de la situation.",
       "image": "vigilance-vide.jpg",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "river-warning-gezani",
@@ -20,10 +20,10 @@
     },
     {
       "id": "strong-wind-warning",
-      "title": "Vigilance vent fort - Forte Vague/Houle",
-      "description": "Rivotra: Tombanana hahatratra 55/65 Km/ora ny hamafin’ny rivotra izay mety harahina tafiotra indraindray.\n\nAlondrano: Tombanana ho 3/5m ny haavon’ny onja, hisamonta ny ranomasina indraindray ka hahatratra 6m eo anelanelan’i Maintirano sy Soalala.",
-      "image": "vigilance_vent1.png",
-      "enabled": false
+      "title": "Vigilance vent fort",
+      "description": "TRANGA AHIANA:\nHo mafy ny fitsokan’ny rivotra any amin’ny morontsirak’i ATSIMO ANDREFANA, VATOVAVY,\nATSINANANA, ANALANJIROFO, AMBATOSOA sy ny morontsiraka atsinanan’i DIANA ary ny eo\nanelanelan’i Mahajanga sy Analalava. Tombanana hahatratra 45 km/ora ny hamafin’ny rivotra\nany amin’ny morontsiraka afovoany atsinanana, hahatratra 55 km/ora kosa any an-kafa.\n\nFOTOANA HISEHOANY:\nNy Alarobia 09 Septambra 2026 ho an'ny eo anelanelan’i Mahajanga sy Analalava.\n\nTOERANA VOAKASIKA:\nMiloko maitso: Ho an’ireo morontsiraka hafa voakasika.\n\nNY METY HO FIANTRAIKANY:\n➢ Fahasarotan’ny fifamoivoizana na faharendrehana an-dranomasina;\n➢ Fikorontan’ny asa fihariana andavanandro.",
+      "image": "assets/uploads/1788758522942-vigi-ventfort7sep2026.png",
+      "enabled": true
     },
     {
       "id": "regional-river-warning",
@@ -35,19 +35,19 @@
   ],
   "forecastOverrides": [
     {
-      "date": "2026-09-03",
+      "date": "2026-09-07",
       "enabled": false,
       "description": "",
       "image": ""
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-08",
       "enabled": false,
       "description": "",
       "image": ""
     },
     {
-      "date": "2026-09-05",
+      "date": "2026-09-09",
       "enabled": false,
       "description": "",
       "image": ""
