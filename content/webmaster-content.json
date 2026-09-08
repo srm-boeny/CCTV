@@ -20,9 +20,9 @@
     },
     {
       "id": "strong-wind-warning",
-      "title": "Vigilance vent fort",
-      "description": "TRANGA AHIANA:\nHo mafy ny fitsokan’ny rivotra any amin’ny morontsirak’i ATSIMO ANDREFANA, VATOVAVY,\nATSINANANA, ANALANJIROFO, AMBATOSOA sy ny morontsiraka atsinanan’i DIANA ary ny eo\nanelanelan’i Mahajanga sy Analalava. Tombanana hahatratra 45 km/ora ny hamafin’ny rivotra\nany amin’ny morontsiraka afovoany atsinanana, hahatratra 55 km/ora kosa any an-kafa.\n\nFOTOANA HISEHOANY:\nNy Alarobia 09 Septambra 2026 ho an'ny eo anelanelan’i Mahajanga sy Analalava.\n\nTOERANA VOAKASIKA:\nMiloko maitso: Ho an’ireo morontsiraka hafa voakasika.\n\nNY METY HO FIANTRAIKANY:\n➢ Fahasarotan’ny fifamoivoizana na faharendrehana an-dranomasina;\n➢ Fikorontan’ny asa fihariana andavanandro.",
-      "image": "assets/uploads/1788758522942-vigi-ventfort7sep2026.png",
+      "title": "FAMPITANDREMANA NOHO NY HAMAFIN’NY RIVOTRA | 08 Septambra 2026",
+      "description": "⚠️💨 Ho mafy ny fitsokan’ny rivotra any amin’ny morontsiraka atsimo andrefana, atsimo, afovoany atsinanana ary avaratra atsinanan’ny Nosy. Tombanana hahatratra 45 km/ora ny hamafin’ny rivotra any amin’ny morontsiraka afovoany atsinanana, hahatratra 55 km/ora kosa any an-kafa.\n\n▶️FE-POTOANA :\n\n✓ Rahampitso Alarobia 09 Septambra kosa ny eo anelanelan’i Mahajanga sy Analalava.\n\n▶️FIANTRAIKANY :\n\n➢ Fahasarotan’ny fifamoivoizana sy faharendrehana an-dranomasina;\n➢ Fikorontanan’ny asa fihariana andavanandro.\n\n▶️FARITRA VOAKASIKA :\n\n📕📕 Fampitandremana miloko mena: ny morontsirak’i Atsimo Andrefana, Androy, Anosy, Atsinanana, Vatovavy, Fitovinany ary eo anelanelan’ny tanjona Bobaomby sy Vohémar.\n\n📒📒 Fampitandremana miloko mavo: Mahajanga hatrany Analalava.",
+      "image": "assets/uploads/1788867044251-image.jpeg",
       "enabled": true
     },
     {
@@ -35,12 +35,6 @@
   ],
   "forecastOverrides": [
     {
-      "date": "2026-09-07",
-      "enabled": false,
-      "description": "",
-      "image": ""
-    },
-    {
       "date": "2026-09-08",
       "enabled": false,
       "description": "",
@@ -48,6 +42,12 @@
     },
     {
       "date": "2026-09-09",
+      "enabled": false,
+      "description": "",
+      "image": ""
+    },
+    {
+      "date": "2026-09-10",
       "enabled": false,
       "description": "",
       "image": ""
