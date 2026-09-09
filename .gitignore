@@ -1,6 +1,5 @@
 img/
 access.txt
-assets/maps
-assets/uploads
 doc/
 *.png
+!assets/maps/weather_map_*.png
