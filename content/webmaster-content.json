@@ -9,7 +9,7 @@
       "title": "Aucune vigilance ou alerte en cours pour la Région BOENY",
       "description": "Les conditions météorologiques sont calmes pour les prochains jours.\nRestez informé en cas d’évolution de la situation.",
       "image": "vigilance-vide.jpg",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "river-warning-gezani",
@@ -23,7 +23,7 @@
       "title": "FAMPITANDREMANA NOHO NY HAMAFIN’NY RIVOTRA | 09 Septambra 2026",
       "description": "⚠️💨 Ho mafy hatrany ny fitsokan’ny rivotra any amin’ny morontsiraka atsimo andrefana, atsimo, afovoany atsinanana ary avaratra atsinanana. Tombanana hitoetra miandalana ihany koa izany ho an’ny morontsiraka avaratra andrefan’ny Nosy. Manodidina ny 45 km/ora ny hamafin’ny rivotra any amin’ny morontsiraka afovoany atsinanana, mahatratra 55 km/ora kosa any an-kafa.\n\n▶️FE-POTOANA :\n\n✓Anio Alarobia 09 Septambra 2026 hatramin’ny rahampitso vao maraina ny eo anelanelan’i Beheloka/Toliara II sy ny tanjona Vohimena, ny eo anelanelan’i Nosy Varika sy Ste Marie ary ny eo anelanelan’i Mahajanga sy Analalava. Tombanana hiitatra hatramin’ny Zoma 11 Septambra 2026 kosa ny any amin’ny tanjona Vohimena hatrany Taolagnaro ary ny eo anelanelan’ny tanjona Bobaomby sy Vohémar.\n\n▶️FIANTRAIKANY :\n\n➢ Fahasarotan’ny fifamoivoizana sy faharendrehana an-dranomasina;\n➢ Fikorontanan’ny asa fihariana andavanandro.\n\n▶️FARITRA VOAKASIKA :\n\n📕📕 Fampitandremana miloko mena: ho an’ireo morontsiraka rehetra voakasika.\n\n❌❌Entanina ny rehetra mba hanaraka ny toromarika atolotry ny tompon’andraikitra eny ifotony. ❌❌\n\n🔑 Météo Madagascar",
       "image": "assets/uploads/1788980164410-vigi-red.jpeg",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "regional-river-warning",
@@ -35,19 +35,19 @@
   ],
   "forecastOverrides": [
     {
-      "date": "2026-09-09",
-      "enabled": false,
-      "description": "",
-      "image": ""
-    },
-    {
-      "date": "2026-09-10",
-      "enabled": false,
-      "description": "",
-      "image": ""
-    },
-    {
       "date": "2026-09-11",
+      "enabled": false,
+      "description": "",
+      "image": ""
+    },
+    {
+      "date": "2026-09-12",
+      "enabled": false,
+      "description": "",
+      "image": ""
+    },
+    {
+      "date": "2026-09-13",
       "enabled": false,
       "description": "",
       "image": ""
