@@ -1,6 +1,6 @@
 {
   "alert": {
-    "level": "red",
+    "level": "none",
     "type": "wind"
   },
   "slides": [
