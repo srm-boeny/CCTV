@@ -1,6 +1,6 @@
 {
   "alert": {
-    "level": "none",
+    "level": "yellow",
     "type": "wind"
   },
   "slides": [
@@ -9,7 +9,7 @@
       "title": "Aucune vigilance ou alerte en cours pour la Région BOENY",
       "description": "Les conditions météorologiques sont calmes pour les prochains jours.\nRestez informé en cas d’évolution de la situation.",
       "image": "vigilance-vide.jpg",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "river-warning-gezani",
@@ -20,10 +20,10 @@
     },
     {
       "id": "strong-wind-warning",
-      "title": "FAMPITANDREMANA NOHO NY HAMAFIN’NY RIVOTRA | 09 Septambra 2026",
-      "description": "⚠️💨 Ho mafy hatrany ny fitsokan’ny rivotra any amin’ny morontsiraka atsimo andrefana, atsimo, afovoany atsinanana ary avaratra atsinanana. Tombanana hitoetra miandalana ihany koa izany ho an’ny morontsiraka avaratra andrefan’ny Nosy. Manodidina ny 45 km/ora ny hamafin’ny rivotra any amin’ny morontsiraka afovoany atsinanana, mahatratra 55 km/ora kosa any an-kafa.\n\n▶️FE-POTOANA :\n\n✓Anio Alarobia 09 Septambra 2026 hatramin’ny rahampitso vao maraina ny eo anelanelan’i Beheloka/Toliara II sy ny tanjona Vohimena, ny eo anelanelan’i Nosy Varika sy Ste Marie ary ny eo anelanelan’i Mahajanga sy Analalava. Tombanana hiitatra hatramin’ny Zoma 11 Septambra 2026 kosa ny any amin’ny tanjona Vohimena hatrany Taolagnaro ary ny eo anelanelan’ny tanjona Bobaomby sy Vohémar.\n\n▶️FIANTRAIKANY :\n\n➢ Fahasarotan’ny fifamoivoizana sy faharendrehana an-dranomasina;\n➢ Fikorontanan’ny asa fihariana andavanandro.\n\n▶️FARITRA VOAKASIKA :\n\n📕📕 Fampitandremana miloko mena: ho an’ireo morontsiraka rehetra voakasika.\n\n❌❌Entanina ny rehetra mba hanaraka ny toromarika atolotry ny tompon’andraikitra eny ifotony. ❌❌\n\n🔑 Météo Madagascar",
-      "image": "assets/uploads/1788980164410-vigi-red.jpeg",
-      "enabled": false
+      "title": "FAMPITANDREMANA NOHO NY HAMAFIN’NY RIVOTRA | 13 Septambra 2026",
+      "description": "⚠️💨 Vinavinaina ho mafy ny fitsokan’ny rivotra eo anelanelan’i Toliara sy Taolagnaro, ny\nmorontsiraka atsimo atsinanan’ny Nosy, ny eo anelanelan’i Vohémar sy ny tanjona Bobaomby\nary eo anelanelan’i Mahajanga sy Analalava. Tombanana hahatratra ny 45/55 km/ora ny\nhamafin’ny rivotra, hahatratra 65 km/ora indraindray any amin’ny morontsiraka atsimo.\n\n▶️FE-POTOANA :\n\n✓Ny Talata 15 Septambra 2026 maraina be ho an’ny morontsirak’i SOFIA.\n\n▶️FIANTRAIKANY :\n\n➢ Fahasarotan’ny fifamoivoizana sy faharendrehana an-dranomasina;\n➢ Fikorontanan’ny asa fihariana andavanandro.\n\n▶️FARITRA VOAKASIKA :\n\nMiloko mavo: Ny morontsirak’i DIANA, ATSIMO ATSINANANA, FITOVINANY, VATOVAVY, ny eo anelanelan’i Mahajanga sy Analalava.\n\n❌❌Entanina ny rehetra mba hanaraka ny toromarika atolotry ny tompon’andraikitra eny ifotony. ❌❌\n\n🔑 Météo Madagascar",
+      "image": "assets/uploads/1789287100903-screenshot-from-2026-09-13-11-09-24.png",
+      "enabled": true
     },
     {
       "id": "regional-river-warning",
@@ -35,19 +35,19 @@
   ],
   "forecastOverrides": [
     {
-      "date": "2026-09-11",
-      "enabled": false,
-      "description": "",
-      "image": ""
-    },
-    {
-      "date": "2026-09-12",
-      "enabled": false,
-      "description": "",
-      "image": ""
-    },
-    {
       "date": "2026-09-13",
+      "enabled": false,
+      "description": "",
+      "image": ""
+    },
+    {
+      "date": "2026-09-14",
+      "enabled": false,
+      "description": "",
+      "image": ""
+    },
+    {
+      "date": "2026-09-15",
       "enabled": false,
       "description": "",
       "image": ""
