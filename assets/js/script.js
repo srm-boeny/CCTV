@@ -34,9 +34,9 @@ NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALATSINAINY 14 SEPTAMBRA 2026 AMIN�
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
 Handrahona vitsy.
- Ho avy avaratra andrefana ny rivotra ka ho 20/30 km/ora, ho avy atsinanana kosa ny maraina 20/30 km/ora.
- Hadini-panonja ny ranomasina.
- Haavon’ny onja 0.5/1m.`,
+ Ho avy andrefana ny rivotra ka ho 20/30 km/ora, ho avy atsinanana na atsimo atsinanana kosa ny vao maraina ka ho 20/30 km/ora.
+ Hadini-panonja ny ranomasina, hahery rehefa manalavitra ny morontsiraka.
+ Haavon’ny onja 0.5/1m, hahatratra 1.5/2m rehefa manalavitra ny morontsiraka.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
