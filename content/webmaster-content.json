@@ -1,6 +1,6 @@
 {
   "alert": {
-    "level": "yellow",
+    "level": "red",
     "type": "wind"
   },
   "slides": [
@@ -9,7 +9,7 @@
       "title": "Aucune vigilance ou alerte en cours pour la Région BOENY",
       "description": "Les conditions météorologiques sont calmes pour les prochains jours.\nRestez informé en cas d’évolution de la situation.",
       "image": "vigilance-vide.jpg",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "river-warning-gezani",
