@@ -20,9 +20,9 @@
     },
     {
       "id": "strong-wind-warning",
-      "title": "FAMPITANDREMANA NOHO NY HAMAFIN’NY RIVOTRA | 13 Septambra 2026",
-      "description": "⚠️💨 Vinavinaina ho mafy ny fitsokan’ny rivotra eo anelanelan’i Toliara sy Taolagnaro, ny\nmorontsiraka atsimo atsinanan’ny Nosy, ny eo anelanelan’i Vohémar sy ny tanjona Bobaomby\nary eo anelanelan’i Mahajanga sy Analalava. Tombanana hahatratra ny 45/55 km/ora ny\nhamafin’ny rivotra, hahatratra 65 km/ora indraindray any amin’ny morontsiraka atsimo.\n\n▶️FE-POTOANA :\n\n✓Ny Talata 15 Septambra 2026 maraina be ho an’ny morontsirak’i SOFIA.\n\n▶️FIANTRAIKANY :\n\n➢ Fahasarotan’ny fifamoivoizana sy faharendrehana an-dranomasina;\n➢ Fikorontanan’ny asa fihariana andavanandro.\n\n▶️FARITRA VOAKASIKA :\n\nMiloko mavo: Ny morontsirak’i DIANA, ATSIMO ATSINANANA, FITOVINANY, VATOVAVY, ny eo anelanelan’i Mahajanga sy Analalava.\n\n❌❌Entanina ny rehetra mba hanaraka ny toromarika atolotry ny tompon’andraikitra eny ifotony. ❌❌\n\n🔑 Météo Madagascar",
-      "image": "assets/uploads/1789287100903-screenshot-from-2026-09-13-11-09-24.png",
+      "title": "FAMPITANDREMANA NOHO NY HAMAFIN’NY RIVOTRA | 15 Septambra 2026",
+      "description": "⚠️💨 Vinavinaina ho mafy hatrany ny fitsokan’ny rivotra any amin’ny morontsiraka atsimo, avaratra atsinanana ary avaratra andrefan’ny Nosy. Tombanana hahatratra ny 45 hatramin’ny 55 km/ora ny hamafin’ny rivotra.\n▶️FE-POTOANA : \n✓Anio Talata 15 Septambra 2026 hatramin’ny Alakamisy 17 Septambra 2026 ny eo anelanelan’ny tanjona Vohimena sy Taolagnaro ary ny eo anelanelan’ny tanjona Angotsy hatrany Vohémar. Tombanana hiitatra hatramin’ny Zoma 18 Septambra 2026 kosa any amin’ny tendrony avaratry ny Nosy ;\n✓ Anio Talata 15 Septambra 2026 alina hatramin’ny rahampitso vao maraina kosa ho ny eo anelanelan’i Mahajanga sy Analalava ary vinavinaina hitoetra indray ny Alakamisy 17 Septambra 2026 maraina.\n▶️FIANTRAIKANY : \n➢ Fahasarotan’ny fifamoivoizana sy faharendrehana an-dranomasina;\n➢ Fikorontanan’ny asa fihariana andavanandro.\n▶️FARITRA VOAKASIKA :\n📕📕 Fampitandremana miloko mena: Ireo morontsiraka rehetra voakasika.\n❌❌Entanina ny rehetra mba hanaraka ny toromarika atolotry ny tompon’andraikitra eny ifotony. ❌❌\n🔑 Météo Madagascar",
+      "image": "assets/uploads/1789526964215-811616794-2304421273708270-6884201862481642197-n.jpeg",
       "enabled": true
     },
     {
@@ -35,12 +35,6 @@
   ],
   "forecastOverrides": [
     {
-      "date": "2026-09-15",
-      "enabled": false,
-      "description": "",
-      "image": ""
-    },
-    {
       "date": "2026-09-16",
       "enabled": false,
       "description": "",
@@ -48,6 +42,12 @@
     },
     {
       "date": "2026-09-17",
+      "enabled": false,
+      "description": "",
+      "image": ""
+    },
+    {
+      "date": "2026-09-18",
       "enabled": false,
       "description": "",
       "image": ""
