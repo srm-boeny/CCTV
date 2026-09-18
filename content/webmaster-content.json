@@ -1,6 +1,6 @@
 {
   "alert": {
-    "level": "red",
+    "level": "none",
     "type": "wind"
   },
   "slides": [
@@ -9,7 +9,7 @@
       "title": "Aucune vigilance ou alerte en cours pour la Région BOENY",
       "description": "Les conditions météorologiques sont calmes pour les prochains jours.\nRestez informé en cas d’évolution de la situation.",
       "image": "vigilance-vide.jpg",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "river-warning-gezani",
@@ -23,7 +23,7 @@
       "title": "FAMPITANDREMANA NOHO NY HAMAFIN’NY RIVOTRA | 15 Septambra 2026",
       "description": "⚠️💨 Vinavinaina ho mafy hatrany ny fitsokan’ny rivotra any amin’ny morontsiraka atsimo, avaratra atsinanana ary avaratra andrefan’ny Nosy. Tombanana hahatratra ny 45 hatramin’ny 55 km/ora ny hamafin’ny rivotra.\n▶️FE-POTOANA : \n✓Anio Talata 15 Septambra 2026 hatramin’ny Alakamisy 17 Septambra 2026 ny eo anelanelan’ny tanjona Vohimena sy Taolagnaro ary ny eo anelanelan’ny tanjona Angotsy hatrany Vohémar. Tombanana hiitatra hatramin’ny Zoma 18 Septambra 2026 kosa any amin’ny tendrony avaratry ny Nosy ;\n✓ Anio Talata 15 Septambra 2026 alina hatramin’ny rahampitso vao maraina kosa ho ny eo anelanelan’i Mahajanga sy Analalava ary vinavinaina hitoetra indray ny Alakamisy 17 Septambra 2026 maraina.\n▶️FIANTRAIKANY : \n➢ Fahasarotan’ny fifamoivoizana sy faharendrehana an-dranomasina;\n➢ Fikorontanan’ny asa fihariana andavanandro.\n▶️FARITRA VOAKASIKA :\n📕📕 Fampitandremana miloko mena: Ireo morontsiraka rehetra voakasika.\n❌❌Entanina ny rehetra mba hanaraka ny toromarika atolotry ny tompon’andraikitra eny ifotony. ❌❌\n🔑 Météo Madagascar",
       "image": "assets/uploads/1789526964215-811616794-2304421273708270-6884201862481642197-n.jpeg",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "regional-river-warning",
@@ -35,19 +35,19 @@
   ],
   "forecastOverrides": [
     {
-      "date": "2026-09-16",
-      "enabled": false,
-      "description": "",
-      "image": ""
-    },
-    {
-      "date": "2026-09-17",
-      "enabled": false,
-      "description": "",
-      "image": ""
-    },
-    {
       "date": "2026-09-18",
+      "enabled": false,
+      "description": "",
+      "image": ""
+    },
+    {
+      "date": "2026-09-19",
+      "enabled": false,
+      "description": "",
+      "image": ""
+    },
+    {
+      "date": "2026-09-20",
       "enabled": false,
       "description": "",
       "image": ""
