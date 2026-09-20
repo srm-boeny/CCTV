@@ -30,32 +30,33 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAHADY 20 SEPTAMBRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALATSINAINY 21 SEPTAMBRA 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALATSINAINY 21 SEPTAMBRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY TALATA 22 SEPTAMBRA 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Handrahona mitsitokotoko na handrahona vitsy.
- Ho avy atsimo atsinanana ny rivotra manakaiky an’i Analalava sy ny tapany avaratra ka ho 30/40 km/ora, hiovaova kosa amin’ny faritra afovoany ka ho 10/20 km/ora.
- Haavon’ny onja 0.5/1m, hahatratra 1.5/2m any amin’ny tapany avaratra`,
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona vitsy manakaiky an’i Analalava ny vao maraina, handrahona mitsitokotoko na handrahona vitsy any an-kafa.
+ Ho avy atsinanana na atsimo atsinanana ny rivotra any avaratr’i Nosy Be ka ho 20/40km/ora, ho avy andrefana izany ny tolak’andro ka ho 10/30 Km/ora.
+ Hiovaova kosa ny fitsokan’ny rivotra any an-kafa ka ho 10/30 km/ora.
+ Hadini-panonja na hanonja be ny ranomasina.
+ Haavon’ny onja 0.5/1m, hahatratra 1.5/2m manakaiky ny tendrony avaratra`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 19/09/2026 A 10 TU, VALABLE LE 19/09/2026 A 10 TU JUSQU’AU 20/09/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 20/09/2026 A 10 TU, VALABLE LE 20/09/2026 A 10 TU JUSQU’AU 21/09/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
 .
 
-FRONT FROID AXE PAR 29S/32E, 28S/39E, 29S/45E, 30S/58E ET 35S/68E ;
+PSEUDO-FRONT FROID AXE PAR 26S/55E, 28S/62E, 30S/67E ET 31S/72E ;
 .
 
-ANTICYCLONE 1036 HPA CENTRE PAR 36S/41E.
+ANTICYCLONE 1036 HPA CENTRE PAR 33S/50E
 
 10S/20S :
-10S/20S : VENT : SECTEUR SUD 05/15, LOCALEMENT 20 PRES DE CÔTES NORD-OUEST DE MADAGASCAR.
- ÉTAT DE LA MER : PEU AGITEE A AGITEE.
- TEMPS : PARTIELLEMENT NUAGEUX.`,
+10S/20S : VENT : OUEST A SECTEUR SUD 05/10 AU SUD DE 15S.
+ AILLEURS, EST A SUD-EST 05/15, LOCALEMENT 20 PRES DE COTES NORD-OUEST DE MADAGASCAR ÉTAT DE LA MER : PEU AGITEE A AGITEE, LOCALEMENT FORTE AU VOISINAGE DE 10S TEMPS : PARTIELLEMENT A PEU NUAGEUX`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
