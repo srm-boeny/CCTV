@@ -30,34 +30,33 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY SABOTSY 26 SEPTAMBRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAHADY 27 SEPTAMBRA 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAHADY 27 SEPTAMBRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALATSINAINY 28 SEPTAMBRA 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Handrahona mitsitokotoko, mety harahina orana tandrifindrahona ny maraina eo anelanelan’i Analalava sy Nosy-Be.
- Ho avy andrefana na avaratra andrefana ny rivotra ka ho 10/20 km/ora eo anelanelan’Analalava sy Nosy Be, hiodina ho avy atsinanana na atsimo atsinanana ka ho 30/40 km/ora any an-kafa.
- Hadini-panonja ny ranomasina.
- Haavon’ny onja 0.5/1m`,
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Handrahona mitsitokotoko, mety harahina orana tandrifindrahona ny alina na ny vao maraina eo anelanelan’i Analalava sy Nosy-Be.
+ Hiovaova ny fitsokan’ny rivotra ka ho 10/20 km/ora, hitoetra ho avy atsinanana na atsimo atsinanana kosa rehefa manakaiky ny tanjona Bobaomby ka ho 30/40 km/ora.
+ Hadini-panonja na hanonja be ny ranomasina.
+ Haavon’ny onja 0.5/1m, hahatratra 1.5/2m any amin’ny tapany avaratra.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 25/09/2026 A 10 TU, VALABLE LE 25/09/2026 A 10 TU JUSQU’AU 26/09/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 26/09/2026 A 10 TU, VALABLE LE 26/09/2026 A 10 TU JUSQU’AU 27/09/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
 .
 
-UNE LIGNE DE CONVERGENCE AXÉE PAR 06S/58E, 08S/54E, 08S/50E ET 06S/49E
+PSEUDO FRONT FROID AXE PAR 24S/48E, 21S/54E, 23S/58E ET 25S/67E ;
 .
 
-PSEUDO FRONT FROID AXE PAR 24S/48E, 23S/52E ET 24S/59E
-.
-
-ANTICYCLONE 1026 HPA CENTRÉE PAR 33S/43E
+ANTICYCLONE 1028 HPA CENTRÉE PAR 31S/60E.
 
 10S/20S :
-10S/20S : VENT : EST A SUD-EST 05/15, ATTEIGNANT 20/25 PRES DE CAP D’AMBRE ÉTAT DE LA MER : PEU AGITEE A AGITEE TEMPS : PARTIELLEMENT NUAGEUX A PEU NUAGEUX`,
+10S/20S : VENT : EST A SUD-EST 05/10. DEVENANT NORD A NORD-EST 10/15 PRES DES COTES AFRICAINES ET OUEST A NORD-OUEST 10/15 PRES COTES MALAGASY.
+ ÉTAT DE LA MER : PEU AGITEE A AGITEE.
+ TEMPS : PARTIELLEMENT NUAGEUX A PEU NUAGEUX.`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
