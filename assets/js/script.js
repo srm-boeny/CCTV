@@ -64,17 +64,17 @@ ANTICYCLONE 1028 HPA CENTRÉE PAR 31S/60E.
 
 
     const templates = [
-    `Ciel dégagé et temps ensoleillé toute la journée sur l'ensemble de la région Boeny, de Soalala à MahajangaII.
-**Vents** : Vents modérés (entre 10 et 22 km/h) de secteurs majoritairement Sud-Est à Est, avec des rafales atteignant 28 km/h à MahajangaI.
-**Températures minimales** : entre 24 et 25 °C
+    `Un temps pleinement ensoleillé prédominera sur l'ensemble de la région Boeny, notamment à Soalala, Mitsinjo (Ouest), Marovoay, AmbatoBoeny (intérieur) et MahajangaII (Est).
+**Vents** : Vents modérés (10 à 22 km/h), majoritairement de secteur Sud-Est. Des rafales pourront atteindre 28 km/h à MahajangaI.
+**Températures minimales** : entre 23 et 25 °C
 **Températures maximales** : entre 34 et 38 °C`,
-    `Temps ensoleillé du matin à l'après-midi sur l'ensemble de la région Boeny.
-**Vents** : Vents faibles à modérés de secteur ESE à SE, avec des rafales atteignant 28 km/h à MahajangaI.
+    `Le temps sera ensoleillé sur l'ensemble de la région Boeny tout au long de la journée.
+**Vents** : Vents faibles à modérés de secteur Sud-Est à Sud-Ouest (9 à 21 km/h), avec des rafales maximales atteignant 29 km/h à MahajangaI.
 **Températures minimales** : entre 22 et 24 °C
 **Températures maximales** : entre 34 et 38 °C`,
-    `Temps ensoleillé toute la journée sur l'ensemble de la région Boeny, de Soalala et Mitsinjo à l'ouest jusqu'à MahajangaII à l'est, en passant par Marovoay et AmbatoBoeny.
-**Vents** : Vents faibles à modérés, de secteur majoritairement Sud-Est à Sud-Ouest, avec des vitesses moyennes entre 10 et 18 km/h. Des rafales atteindront 28 km/h à MahajangaI.
-**Températures minimales** : entre 21 et 24 °C
+    `Temps majoritairement ensoleillé toute la journée sur les localités côtières (MahajangaI, Soalala, MahajangaII), avec des passages nuageux l'après-midi sur l'intérieur des terres (Mitsinjo, Marovoay, AmbatoBoeny).
+**Vents** : Vents faibles à modérés (11 à 19 km/h) de secteurs variés, avec des rafales atteignant 26 km/h à MahajangaI.
+**Températures minimales** : entre 23 et 25 °C
 **Températures maximales** : entre 34 et 38 °C`
 ];
 
