@@ -30,33 +30,31 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY SABOTSY 17 OKTOBRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAHADY 18 OKTOBRA 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAHADY 18 OKTOBRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALATSINAINY 19 OKTOBRA 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona manakaiky an’i Nosy-Be.
- Ho avy atsimo atsinanana ny rivotra ka ho 40/45 km/ora, hahatratra 55 km/ora indraindray rehefa manakaiky ny tanjona Bobaomby; tombanana ho avy andrefana kosa izany ny atoandro ka ho 20/30 km/ora.
- Hadini-panonja na hanonja be ny ranomasina, hahery manakaiky ny tanjona Bobaomby.
- Haavon’ny onja 0.5/1m, hahatratra 2/2.5m indraindray any amin’ny tapany avaratra.`,
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona eo anelanelan’i Analalava sy Nosy-Be ny maraina.
+ Ho avy atsimo atsinanana ny rivotra eo anelanelan’i Beramanja/Ambilobe sy ny tanjona Bobaomby ka ho 30/40 km/ora, hahatratra 45 km/ora indraindray rehefa manakaiky ny tanjona; hiovaova kosa any an-kafa ka ho 10/20 km/ora.
+ Hadini-panonja ny ranomasina, hanonja be na hahery manakaiky ny tanjona Bobaomby.
+ Haavon’ny onja 0.5/1m, hahatratra 2/2.5m manakaiky ny tanjona Bobaomby`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 16/10/2026 A 10 TU, VALABLE LE 16/10/2026 A 10 TU JUSQU’AU 17/10/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 17/10/2026 A 10 TU, VALABLE LE 17/10/2026 A 10 TU JUSQU’AU 18/10/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
 .
 
-BASSE PRESSION AU NORD DE 12S ;
+THALWEG PROCHE ÉQUATORIAL AU VOISINAGE DE 05S
 .
 
-ANTICYCLONE 1029 CENTRE PAR 30S/58E.
+ANTICYCLONE 1029 HPA CENTRE PAR 30S/59E
 
 10S/20S :
-10S/20S : VENT : SECTEUR EST 05/15, ATTEIGNANT 20/25 AU VOISINAGE DE 10S ET LE LONG DES COTES NORD- OUEST DE MADAGASCAR LE MATIN.
- ÉTAT DE LA MER : PEU AGITEE A AGITEE, LOCALEMENT FORTE AU VOISINAGE DE 10S SOUS L’EFFET D’UNE HOULE DU SUD-EST.
- TEMPS : RARES AVERSES SUR LA PARTIE NORD, PARTIELLEMENT NUAGEUX AILLEURS`,
+10S/20S : VENT : EST A NORD-EST 10/15, ATTEIGNANT 20/25 AU VOISINAGE DE 10S ÉTAT DE LA MER : PEU AGITEE A AGITEE TEMPS : PARTIELLEMENT NUAGEUX`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
