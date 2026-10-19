@@ -30,31 +30,31 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALATSINAINY 19 OKTOBRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY TALATA 20 OKTOBRA 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY TALATA 20 OKTOBRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALAROBIA 21 OKTOBRA 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona vitsy eo anelanelan’i Analalava sy Nosy-Be, handrahona mahalana any an-kafa.
- Ho avy andrefana na avaratra andrefana ny rivotra eo anelanelan’i Analalava sy Nosy-Be ka ho 10/20 km/ora, ho avy atsinanana na atsimo atsinanana kosa ny maraina ka ho 10/20 km/ora.
- Hadini-panonja ny ranomasina, hanonja be na hahery manakaiky ny tanjona Bobaomby.
- Haavon’ny onja 0.5/1m, hahatratra 2/2.5m manakaiky ny tanjona Bobaomby.`,
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Holalovan’orana tandrifindrahona eo anelanelan’i Analalava sy Nosy-Be, handrahona mitsitokotoko any an-kafa.
+ Ho avy andrefana ny rivotra eo anelanelan’i Analalava sy Nosy-Be ka ho 10/20 km/ora; ho avy atsinanana na atsimo atsinanana kosa ny any an-kafa, hahatratra 30/40 km/ora rehefa manakaiky ny tanjona Bobaomby.
+ Hadini- panonja na hanonja be ny ranomasina, hahery indraindray.
+ Haavon’ny onja 0.5/1m, hahatratra 2/2.5m manakaiky ny tendrony avaratra.`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 18/10/2026 A 10 TU, VALABLE LE 18/10/2026 A 10 TU JUSQU’AU 19/10/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 19/10/2026 A 10 TU, VALABLE LE 19/10/2026 A 10 TU JUSQU’AU 20/10/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
 .
 
-THALWEG PROCHE EQUATORIAL AU VOISINAGE DE 05S ;
+THALWEG PROCHE ÉQUATORIAL AU VOISINAGE DE 05S ;
 .
 
-ANTICYCLONE 1029 HPA CENTRE PAR 29S/63E.
+ANTICYCLONE 1027 HPA CENTRE PAR 28S/64E
 
 10S/20S :
-10S/20S : VENT : EST A NORD-EST 10/15, ATTEIGNANT 20/25 AU VOISINAGE DE 10S ET PRES DES CÔTES MOZAMBICAINES; TEMPORAIREMENT OUEST A NORD-OUEST 05/10 PRES DES CÔTES MALAGASY VERS LA NUIT.
+10S/20S : VENT : EST A NORD-EST 10/15, ATTEIGNANT 20/25 AU VOISINAGE DE 10S ET PRES DES COTES MOZAMBICAINES; TEMPORAIREMENT OUEST A NORD-OUEST 10 PRES DES COTES MALAGASY VERS LA NUIT.
  ÉTAT DE LA MER : PEU AGITEE A AGITEE.
  TEMPS : PARTIELLEMENT NUAGEUX A PEU NUAGEUX.`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
