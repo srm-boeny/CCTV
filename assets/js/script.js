@@ -30,35 +30,34 @@ const MarineMessages = [
     {
         message: `**Bulletin marine cotière**
 
-NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALAHADY 22 NOVAMBRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY ALATSINAINY 23 NOVAMBRA 2026 AMIN’NY 06 ORA MARAINA
+NY METY HO TOETRY NY ANDRO AN-DRANOMASINA NY ALATSINAINY 23 NOVAMBRA 2026 AMIN’NY 06 ORA MARAINA HATRAMIN’NY TALATA 24 NOVAMBRA 2026 AMIN’NY 06 ORA MARAINA
 
 **TANJONA VILANANDRO HATRANY ANALALAVA**
-Hanorana tandrifindrahona amin’ny fiandohan’ny fe-potoana.
- Ho avy atsinanana ny rivotra amin’ny maraina ka ho 20/30 km/ora, hahatratra 40 km/ora indraindray; ho avy andrefana na avaratra andrefana kosa ny atoandro ka ho 10/20 km/ora.
- Ho tony na hadini-panonja ny ranomasina.
- Haavon’ny onja 0.5/1m.`,
+ANALALAVA HATRANY AMIN’NY TANJONA BOBAOMBY Hanorana tandrifindrahona manakaiky an’i Nosy-Be, handrahona mitsitokotoko any an-kafa.
+ Ho avy atsinanana ny rivotra rehefa manakaiky ny tanjona Bobaomby ka ho 30/40 km/ora; ho avy andrefana kosa any an-kafa ka ho 10/20 km/ora.
+ Hadini-panonja na hanonja be ny ranomasina, hahery indraindray.
+ Haavon’ny onja 0.5/1m, hahatratra 1.5/2m any amin’ny tendrony avaratra, izay mety hahatratra 2.5m any amin’ny tanjona Bobaomby`,
         image: 'Image_marine_cotiere_SITEWEB-MHJ.png'
     },
     {
         message: `**BULLETIN MARINE HAUTE MER**
 
-BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 21/11/2026 A 10 TU, VALABLE LE 21/11/2026 A 10 TU JUSQU’AU 22/11/2026 A 10 TU.
+BULLETIN DE PRÉVISION POUR LA MARINE DESTINE A LA NAVIGATION HAUTE MER (DE 10°S A 30°S / COTES AFRICAINES A 60°E ET DE 05°S A 30°S / 60°E A 70°E) ÉTABLI PAR MÉTÉO MADAGASCAR LE 22/11/2026 A 10 TU, VALABLE LE 22/11/2026 A 10 TU JUSQU’AU 23/11/2026 A 10 TU.
  LE VENT DONNE DANS CE BULLETIN CORRESPOND AU VENT MOYEN EN NŒUD ET LA HAUTEUR DE VAGUE REPRÉSENTE LA HAUTEUR SIGNIFICATIVE (H1/3) EN MÈTRES
 
 **Situation generale**:
 .
 
-BASSE PRESSION AU NORD DE 12E ;
+BASSE PRESSION SUR LA PARTIE NORD EST DE LA ZONE
 .
 
-ANTICYCLONE 1023 HPA CENTRE PAR 32S/47E ;
+ANTICYCLONE 1026 HPA CENTRE PAR 34S/58E
 .
 
-FRONT FROID AXE PAR 23S/57E, 26/61E, 29S/63E ET 31S/65E.
+FRONT FROID AXE PAR 29S/32E, 34/37E, 36S/40E ET 41S/45E
 
 10S/20S :
-10S/20S : VENT : EST A NORD-EST 05/10, LOCALEMENT 15. ÉTAT DE LA MER : PEU AGITEE A AGITEE.
- TEMPS : RARES AVERSES ISOLÉES SUR LA PARTIE NORD DE LA ZONE.`,
+10S/20S : VENT : EST A NORD-EST 05/15, LOCALEMENT 20 PRES DES COTES MOZAMBICAINES ; BRISES COTERIES 05/10 PRES DES COTES MALAGASY ÉTAT DE LA MER : PEU AGITEE TEMPS : RARES AVERSES ISOLÉES AU NORD DE 15S, PARTIELLEMENT NUAGEUX A PEU NUAGEUX AILLEURS`,
         image: 'Image_marine_haute_mer_SITEWEB.png'
     }
 ];
